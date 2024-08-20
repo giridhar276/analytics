@@ -1,0 +1,1001 @@
+Transaction_ID,Account_Number,Transaction_Type,Amount,Date,Merchant,Account_Balance,Category,Fraud_Flag
+8878612,1600350,Transfer,3510.07,2023-04-30,Armstrong Inc,91071.08,Utilities,False
+2733712,6056870,Deposit,2522.09,2023-06-22,Johnson and Sons,75544.71,Groceries,False
+5836221,3737324,Transfer,9443.94,2022-09-19,Lopez-Luna,59332.32,Health,False
+9755716,1106801,Deposit,9390.66,2023-03-28,Berry LLC,90189.54,Travel,False
+9204424,5001180,Withdrawal,1608.07,2023-07-25,Smith-Fletcher,38271.1,Groceries,True
+1446735,5892157,Transfer,4089.11,2022-12-19,Martinez Ltd,70895.09,Travel,False
+8522573,2113624,Transfer,4805.16,2023-02-10,Spencer-Lam,67641.59,Groceries,True
+7209487,7921401,Withdrawal,8909.18,2022-06-25,Obrien-Phillips,71146.14,Groceries,True
+8504784,3154078,Withdrawal,2683.66,2023-03-14,"Phillips, Bishop and Collins",76460.14,Utilities,True
+8312246,3559999,Transfer,6113.05,2023-01-05,Wood-Sanders,83757.36,Travel,True
+4679540,7991693,Transfer,1022.42,2022-05-20,Dickerson-Contreras,45127.31,Health,False
+6768908,9777147,Transfer,2385.1,2022-12-20,"Young, Knapp and Middleton",77589.33,Groceries,True
+1800130,9888915,Payment,3376.75,2022-07-21,"Hall, Henderson and Wallace",84860.86,Groceries,False
+1417867,3450256,Deposit,2861.82,2023-02-27,"Dalton, Anderson and Thomas",49167.12,Utilities,True
+5617284,2735023,Payment,2838.98,2022-06-29,Byrd LLC,77802.64,Groceries,True
+8197108,9782910,Payment,1809.37,2022-03-01,Watson and Sons,62715.23,Utilities,False
+3846187,3196164,Withdrawal,6134.43,2023-03-03,"Cobb, Parker and Jenkins",97401.59,Groceries,False
+9948924,6444229,Deposit,3192.65,2023-02-09,Brock-Boyer,76903.65,Groceries,True
+3235225,7411241,Payment,6244.83,2023-12-21,Hernandez PLC,19947.69,Groceries,False
+8871623,5937606,Deposit,9606.36,2022-05-14,Blackwell Ltd,93897.54,Travel,False
+7298790,7009441,Deposit,8017.96,2023-11-16,"Beard, Schaefer and Woodard",20830.2,Health,False
+7124559,7514039,Transfer,7622.82,2023-10-29,Perry Inc,37399.12,Health,False
+4305591,2106875,Withdrawal,251.46,2023-10-27,"Arias, Williamson and Gomez",46993.26,Utilities,False
+4194666,2022829,Payment,2572.49,2022-07-15,Moore Group,18067.42,Groceries,False
+6305458,9830801,Transfer,6338.91,2023-05-01,"Morales, Fleming and Brown",38691.1,Health,True
+2120096,8536070,Withdrawal,7181.24,2023-10-25,"Pena, Phillips and Mccarty",32778.92,Groceries,False
+7339396,9538155,Transfer,231.9,2022-11-27,Graham Ltd,13347.45,Travel,True
+3905378,9852977,Transfer,8707.45,2022-07-10,Lawson PLC,900.73,Health,True
+5814334,6235987,Withdrawal,1392.93,2022-04-10,"Phillips, Matthews and Bolton",5240.58,Health,True
+2408156,9306864,Transfer,8973.58,2022-07-08,Miller-Bauer,19801.18,Utilities,True
+3718716,7126614,Deposit,1149.93,2023-09-16,"White, Velasquez and Branch",8040.96,Utilities,False
+1277558,5963565,Transfer,8997.27,2022-09-17,"Chang, Thomas and Edwards",89793.62,Groceries,True
+4142093,7151179,Deposit,7890.83,2022-03-12,Hodge LLC,97917.69,Utilities,False
+4587668,4934183,Deposit,270.52,2022-11-26,Stanley PLC,77924.44,Groceries,False
+3892058,5988139,Payment,8246.91,2023-11-04,Smith PLC,59651.55,Groceries,True
+6047111,1322813,Transfer,2295.27,2023-01-12,Davis PLC,29575.63,Travel,True
+5232115,6514647,Withdrawal,7454.24,2023-11-24,Carpenter PLC,81422.01,Travel,True
+2232217,6432107,Payment,5316.59,2023-08-12,"Mcintyre, Daniels and Barber",49814.26,Health,False
+6504630,2211215,Deposit,1506.96,2022-03-05,"Jones, Reyes and Coffey",46887.13,Groceries,True
+7238541,8703296,Withdrawal,6648.15,2022-04-19,Martinez-Wilson,61044.01,Travel,True
+8456681,7740734,Payment,477.49,2022-11-14,Lee-Adams,59275.16,Entertainment,True
+2696336,6027122,Withdrawal,5459.78,2023-01-07,"Huffman, Myers and Garrett",58911.5,Groceries,True
+3683865,9748941,Payment,7644.25,2023-02-15,Walker Group,50839.6,Travel,True
+6016290,7371622,Transfer,4696.97,2022-10-28,"Warren, Roach and Murphy",43671.92,Groceries,False
+2605394,7454204,Withdrawal,3839.11,2022-08-02,Gonzalez Group,9766.76,Health,False
+1403686,3480878,Deposit,3828.24,2023-06-05,Williams-Smith,57925.9,Utilities,True
+2962333,5361275,Deposit,3587.2,2023-08-25,Stewart Inc,74507.56,Utilities,False
+7846588,7571870,Withdrawal,6607.34,2023-05-06,"Stephens, Nelson and Baker",4010.29,Utilities,False
+9553242,7864402,Deposit,4752.15,2023-06-12,Harris-Shaffer,14103.86,Health,False
+7687263,7776907,Deposit,9938.65,2022-05-18,Finley Group,55135.62,Utilities,False
+3657658,1542467,Deposit,9998.67,2023-10-27,Hampton Ltd,97895.05,Travel,False
+9384970,3677194,Payment,3757.94,2022-03-31,"Mayo, Perez and Smith",7870.05,Utilities,True
+1283856,3324047,Transfer,6939.6,2023-03-02,"Miller, Turner and Smith",35537.15,Entertainment,True
+7802383,5233025,Transfer,9583.02,2022-03-17,Jacobs-Ramos,82936.72,Utilities,True
+5676441,5018798,Withdrawal,5257.63,2022-05-19,Cruz-Richmond,94314.93,Utilities,False
+6153754,8589794,Payment,5602.45,2022-06-04,"Lawson, Wood and Nguyen",94584.84,Health,False
+2447796,1118197,Payment,8482.45,2022-10-13,Jackson-Martin,26916.69,Groceries,False
+5923005,9754145,Transfer,8511.68,2022-08-27,Meyer-Edwards,34299.67,Travel,True
+4469593,3094291,Withdrawal,2896.35,2022-05-01,Johnson Ltd,88740.16,Entertainment,False
+4714326,9060449,Deposit,4919.29,2022-02-06,Whitehead-Combs,32358.58,Groceries,True
+3298656,6027120,Withdrawal,6931.39,2023-12-05,"Ware, Miller and Jones",42891.33,Travel,False
+7688791,6550829,Payment,9411.51,2023-03-01,"Jordan, Thompson and Perry",31461.25,Travel,False
+9045687,6552353,Withdrawal,3886.08,2023-03-24,Smith-Harrington,66568.19,Entertainment,False
+4680094,3359669,Withdrawal,8433.4,2022-04-25,"Holland, Hawkins and Greer",76865.42,Health,True
+4633342,9213885,Withdrawal,8266.74,2022-07-05,"Stewart, King and Mosley",58856.78,Utilities,True
+4170810,1294240,Payment,2810.6,2023-08-30,Lowe Ltd,94731.11,Entertainment,True
+9713485,3909881,Transfer,5952.28,2022-11-22,Oconnor-Williams,8064.42,Utilities,True
+1343515,7646956,Deposit,5561.02,2023-06-10,Garcia LLC,75500.87,Entertainment,False
+9882556,7569170,Deposit,798.16,2023-04-09,Cox Inc,1299.88,Utilities,True
+7247643,9387334,Payment,2855.86,2023-11-17,Anderson Inc,56318.85,Utilities,True
+8578604,3838487,Transfer,1575.91,2023-05-04,"May, Chan and Hughes",61004.63,Travel,True
+3159062,7373831,Deposit,870.83,2022-02-12,Gallegos-Mcpherson,25285.46,Travel,False
+4456241,8637065,Withdrawal,8965.49,2023-05-29,Bell and Sons,81622.5,Health,False
+7031251,3224309,Payment,6420.79,2022-06-22,Peterson Ltd,33795.06,Travel,True
+9435768,6234682,Payment,5121.8,2022-11-08,Flores-Cook,42781.74,Health,False
+2064028,1766555,Deposit,4864.07,2023-03-09,"Larsen, Williams and Porter",16301.0,Travel,True
+6615953,8221150,Payment,5635.8,2023-05-03,Jones-Ellis,55899.42,Health,True
+6393228,3802284,Payment,3130.89,2022-08-03,Holland PLC,2404.78,Travel,True
+8478105,7134562,Transfer,3668.47,2023-05-28,Gray-Lewis,13580.57,Entertainment,False
+1756459,3102610,Withdrawal,1121.96,2022-12-31,"Wilson, Richmond and Smith",92556.78,Entertainment,True
+9034266,2122199,Deposit,6147.47,2023-05-21,"Dorsey, Burton and Fitzpatrick",69637.34,Entertainment,True
+8793839,8242006,Deposit,6952.98,2023-12-02,"Clark, Cole and Reed",39397.58,Utilities,False
+1292818,3124905,Transfer,841.84,2022-11-03,Walker Group,14629.39,Travel,True
+1092837,4581628,Transfer,3373.79,2022-08-31,Oneal-Miller,96361.6,Utilities,False
+6433520,8343412,Withdrawal,8993.27,2023-07-09,"Rollins, Mcclain and Thompson",56617.47,Travel,False
+6918788,3116934,Withdrawal,8034.85,2023-03-24,Green-Rivera,5378.67,Health,False
+6357843,4054516,Transfer,1529.97,2022-11-22,"Jefferson, Morrison and Garcia",68036.38,Utilities,True
+3427055,2734907,Payment,7832.32,2022-10-03,Crawford-Howell,90305.15,Groceries,False
+8962960,4133332,Deposit,3001.47,2022-08-31,"Henson, Weber and Calhoun",2352.68,Travel,True
+7788680,2338783,Withdrawal,9818.16,2022-01-11,Lee Group,74512.41,Groceries,False
+3813126,3836659,Transfer,7073.73,2022-07-22,Garcia-Mckay,85600.91,Health,False
+3658580,8305488,Withdrawal,2327.45,2022-11-10,Becker Inc,35244.6,Groceries,False
+9627136,3527252,Withdrawal,9444.92,2023-02-10,"Harding, Frazier and Simpson",25004.21,Health,True
+9102562,9443155,Withdrawal,3857.42,2022-11-16,Hansen-Barnett,42218.86,Entertainment,False
+8915655,5477105,Withdrawal,9162.65,2023-04-11,Huber Inc,33058.76,Utilities,False
+4914304,2181204,Payment,2371.35,2022-05-06,Martin LLC,66282.66,Utilities,False
+7362166,4855883,Deposit,5841.12,2023-07-25,Hayes-Kemp,449.9,Utilities,False
+2225751,3722332,Payment,2969.89,2023-07-18,Smith LLC,3059.92,Entertainment,True
+3702692,9884359,Transfer,984.92,2023-06-20,Brown-Campos,43699.57,Health,False
+8349772,7941906,Payment,5623.66,2022-12-01,Thompson and Sons,88277.33,Groceries,False
+8691615,6554878,Transfer,8394.22,2022-07-27,Rodriguez Inc,564.23,Health,False
+6853543,5951819,Withdrawal,2665.1,2022-12-29,Fisher Inc,6508.8,Entertainment,True
+2231583,5405408,Payment,3700.41,2022-03-18,Smith-Velasquez,78853.05,Entertainment,False
+3924116,3044909,Transfer,2633.25,2022-08-07,Moore-Hart,68790.87,Travel,False
+4854627,6326257,Deposit,6668.26,2023-11-05,"Hill, Lawrence and Clark",43050.19,Travel,True
+7778471,1930408,Transfer,1863.07,2023-05-16,"Hamilton, Carson and Howard",56118.19,Health,False
+8281295,6128254,Transfer,2867.39,2023-01-08,Harrell-Bryant,76879.19,Travel,True
+3723646,3829322,Deposit,4572.71,2023-05-24,Logan-Sanchez,46504.09,Travel,True
+5904471,2082026,Deposit,2284.98,2023-01-24,"White, Johnson and Keller",53749.35,Utilities,False
+7140943,1953800,Payment,267.88,2022-08-23,Carrillo-Lee,37042.83,Entertainment,True
+6365997,8622399,Transfer,5305.34,2022-05-13,Ward and Sons,19206.83,Travel,False
+3462590,5118256,Deposit,8468.31,2022-10-21,Watts-Lee,6098.09,Health,False
+8405713,8715953,Transfer,3317.31,2023-02-22,Lopez-Lynn,53559.0,Health,True
+1997091,9824532,Withdrawal,2954.29,2022-08-02,"Farrell, Johnson and Thomas",10641.48,Utilities,False
+7189437,3493276,Payment,3545.94,2022-12-05,Weeks-Erickson,71512.71,Entertainment,False
+5258875,9489290,Transfer,3474.28,2022-03-08,Nelson and Sons,62373.05,Groceries,False
+9032139,6129356,Transfer,1126.6,2023-11-04,Davis PLC,30318.58,Travel,True
+7855932,9430049,Payment,1514.02,2023-09-20,"Dunn, Porter and Hansen",86055.3,Groceries,True
+3255372,5009694,Deposit,3041.55,2023-10-09,Vargas-Cook,96040.64,Travel,False
+2731796,4829613,Deposit,7962.0,2023-01-14,Sanders Group,39366.48,Travel,False
+3191743,4235360,Payment,6269.09,2023-09-03,"Rodriguez, Burton and Myers",30660.7,Health,False
+2308541,8025927,Transfer,561.63,2023-08-06,Horton PLC,92435.58,Health,False
+6573801,8694766,Payment,5994.84,2022-10-18,Lee-Taylor,45485.22,Health,False
+9792401,6353180,Payment,9149.13,2023-02-26,Lam LLC,14494.65,Travel,True
+5425085,2662329,Withdrawal,3795.2,2022-01-08,Ritter-Norman,98383.58,Groceries,False
+7060266,6984001,Withdrawal,4687.11,2023-01-10,Gonzalez-Snyder,24457.4,Utilities,False
+4649469,3457834,Transfer,5222.69,2022-10-04,"Johnson, Johnson and Lee",14080.92,Entertainment,True
+7714670,1915909,Withdrawal,9572.14,2023-07-24,Hughes-Nielsen,50248.71,Utilities,True
+9504849,7048740,Payment,2628.33,2023-02-08,Nelson Group,16660.37,Groceries,True
+8024577,8249245,Transfer,6824.27,2022-02-18,Mclaughlin-Collins,98296.62,Entertainment,False
+6695426,4868400,Deposit,11.02,2023-09-10,Walsh LLC,71059.61,Entertainment,True
+2680763,8042088,Withdrawal,7281.63,2023-12-27,"Walker, Fox and Jones",50375.23,Travel,False
+2006731,2103463,Deposit,1352.27,2023-01-16,Chan LLC,65152.31,Health,False
+8457549,8631681,Deposit,6503.98,2023-08-12,Flynn PLC,76607.35,Utilities,True
+5310188,4555397,Transfer,6045.8,2023-05-12,Simpson Ltd,81459.16,Health,True
+2884104,9187541,Withdrawal,1619.72,2023-12-09,Jones LLC,86150.69,Entertainment,True
+4717982,7006690,Payment,7774.71,2022-10-15,Ryan and Sons,9391.09,Groceries,False
+3756591,8929283,Deposit,2771.13,2022-07-20,"Burns, Smith and Banks",98380.79,Travel,True
+2948708,2993121,Deposit,4469.27,2022-09-28,Nelson-Sosa,92200.09,Entertainment,True
+7434371,4660656,Payment,152.45,2022-08-12,Nelson Inc,3478.15,Health,True
+1906714,6548217,Transfer,6895.57,2022-04-11,"Clark, Ramirez and Trevino",94806.03,Groceries,False
+8869920,1249114,Transfer,5032.92,2023-11-24,Wright-Chavez,15585.09,Entertainment,False
+5027108,9908017,Transfer,6238.73,2022-09-21,Howard-Young,4190.45,Travel,False
+1769978,7457033,Deposit,6206.16,2023-07-31,Coleman-Kim,49437.85,Groceries,True
+3908665,7053186,Payment,4126.85,2023-11-04,"Porter, Tucker and Mcdonald",92001.65,Utilities,True
+6220835,1507471,Withdrawal,1675.81,2022-01-14,Foster and Sons,72458.07,Health,True
+1186190,6013716,Deposit,3155.24,2023-04-20,Romero Ltd,91259.49,Health,True
+1040391,1248687,Transfer,9512.66,2023-07-23,Wilson-Hernandez,89728.76,Entertainment,False
+4772177,1701989,Withdrawal,9294.76,2023-04-18,"Lawson, Smith and Kelly",39207.4,Travel,True
+1274200,6595433,Deposit,8688.92,2022-02-25,Anderson Group,44817.32,Travel,True
+2769939,1063522,Payment,8194.05,2022-01-30,Willis-Valenzuela,45696.87,Travel,False
+3303006,5775065,Deposit,2608.43,2022-09-14,Kidd and Sons,8621.6,Entertainment,True
+5873094,8722560,Transfer,8134.23,2022-07-07,Ramirez Ltd,76022.43,Groceries,False
+7958167,7099498,Deposit,7544.35,2023-10-11,"Frazier, Evans and Schultz",69400.51,Groceries,False
+7322662,7602172,Withdrawal,4997.66,2022-11-16,Solomon Inc,9641.88,Utilities,False
+5634357,4409981,Withdrawal,1698.51,2022-06-25,Rogers LLC,17003.99,Entertainment,True
+5248213,2055010,Withdrawal,9757.22,2022-04-24,Gilbert-Nguyen,6204.15,Travel,False
+3986914,8546987,Deposit,6540.77,2023-07-08,Harper PLC,4882.07,Utilities,True
+4784649,8773123,Withdrawal,1661.62,2022-06-19,Williams Group,40502.23,Utilities,True
+5808293,7345404,Withdrawal,8222.62,2022-03-19,"Johnston, Hess and Kelley",91166.15,Utilities,True
+9709913,4924753,Transfer,2491.6,2022-09-10,Solis-Nelson,82459.2,Utilities,False
+5286284,2845725,Payment,5478.19,2023-07-22,Lopez-May,70975.68,Entertainment,False
+7864094,5098725,Withdrawal,6037.73,2022-02-05,"Berg, Mason and Young",69399.82,Groceries,False
+7968034,8133043,Withdrawal,2545.17,2023-08-24,Kelly and Sons,61169.03,Travel,True
+1295074,2623208,Payment,46.26,2022-01-18,Irwin-Hobbs,9816.25,Travel,False
+4787169,3868563,Withdrawal,8173.7,2023-06-05,Harmon-Allen,55500.12,Utilities,False
+2752147,6915094,Payment,4374.94,2022-02-01,Peterson-Mcguire,3471.85,Utilities,True
+4314889,9759833,Deposit,3833.31,2022-08-11,Price-Macias,83874.23,Utilities,False
+3072361,2843743,Withdrawal,4123.72,2022-10-07,Lester-Martinez,36879.71,Health,False
+4588202,5644848,Deposit,3586.63,2023-12-25,"Carlson, Mendoza and Church",69974.65,Travel,True
+3218774,4021941,Payment,3293.34,2023-12-01,Gardner Group,4184.44,Travel,False
+9386408,8408098,Payment,2349.6,2023-07-24,"Campbell, Brown and Brown",26429.4,Entertainment,True
+4633612,4868098,Payment,7624.98,2022-12-23,Watkins Inc,63553.05,Travel,False
+2911841,8262798,Transfer,7666.4,2022-04-19,"Espinoza, Ford and Shaw",94253.44,Groceries,True
+2693381,9106594,Withdrawal,1352.96,2023-11-15,"Harris, Crawford and Cortez",34295.38,Entertainment,True
+6497551,1729350,Payment,9082.85,2022-02-07,"Horne, Moore and Kelly",90058.93,Utilities,True
+3404671,1632440,Withdrawal,2240.94,2023-04-04,Sosa Group,86912.23,Utilities,False
+2178911,7608761,Transfer,4181.38,2023-04-01,Sandoval Group,88617.97,Travel,False
+7464964,7482588,Payment,8602.84,2023-05-12,Fletcher-Smith,69159.8,Health,False
+5915469,8018908,Payment,4658.17,2023-11-17,"Jensen, Myers and Russell",40249.98,Entertainment,False
+2552452,9373616,Deposit,3309.84,2023-07-10,"Powell, Hansen and Fitzgerald",57886.86,Groceries,False
+5847408,6008559,Withdrawal,5768.83,2022-07-20,"Burns, Clark and Cook",97761.72,Health,True
+8230073,5132640,Payment,2162.48,2022-02-01,Cochran-Savage,98432.63,Groceries,True
+5289224,5159525,Deposit,3457.0,2022-04-01,Donovan PLC,81495.79,Travel,False
+4913827,9507202,Payment,5316.1,2022-11-06,Moore-Young,27017.02,Entertainment,False
+5179309,1847652,Withdrawal,4542.02,2023-08-29,Brown and Sons,24125.96,Groceries,True
+9452157,3527006,Payment,3961.87,2022-10-09,"Houston, Knox and Scott",57149.3,Health,True
+9299911,2919297,Transfer,3059.84,2023-09-07,"Osborn, Clark and King",9476.11,Health,False
+4849199,1394525,Withdrawal,9298.87,2022-03-10,Elliott LLC,30383.48,Travel,True
+5276515,6070346,Payment,2910.57,2023-02-01,Lee-Black,65975.86,Travel,True
+2014004,2240206,Withdrawal,2797.78,2022-12-03,Walker-Weber,92938.82,Groceries,False
+1177705,8434929,Withdrawal,3046.83,2022-03-21,"Yates, Lee and Turner",74428.26,Utilities,True
+5082963,9953745,Deposit,3401.5,2023-12-16,Cook and Sons,5018.51,Travel,True
+8770880,2960609,Payment,543.25,2022-05-22,Smith and Sons,20522.2,Entertainment,False
+3246289,4859122,Transfer,8653.23,2022-02-17,Mckinney LLC,71991.21,Groceries,False
+7570969,2496788,Withdrawal,8352.21,2022-01-04,Johnson PLC,65342.62,Groceries,True
+5589572,8023895,Deposit,9973.44,2023-04-13,"Gardner, Nelson and Martinez",69960.88,Utilities,False
+3083677,8946691,Transfer,2878.01,2023-12-03,Garcia-Jones,6656.94,Entertainment,False
+3910324,9426903,Withdrawal,5786.54,2023-06-27,Nguyen Inc,20577.67,Utilities,False
+5392640,2064799,Withdrawal,1407.29,2023-06-13,"Massey, Adams and Bennett",82309.99,Groceries,False
+4016869,1405952,Withdrawal,3673.94,2022-03-27,Diaz and Sons,90513.32,Travel,True
+7647413,4501380,Payment,1629.36,2023-09-08,Calderon-Strickland,2944.75,Entertainment,True
+3673523,6301358,Withdrawal,2064.97,2022-09-19,Carey-King,23176.11,Groceries,False
+9871067,5258329,Deposit,58.91,2023-09-16,"Warren, Solomon and Castillo",96224.08,Groceries,True
+1192677,9615521,Payment,5414.68,2023-01-21,Winters LLC,5172.35,Health,True
+7473599,6185046,Withdrawal,214.52,2023-10-16,"Miller, Johns and Barry",24883.27,Travel,False
+3362043,4943139,Payment,4217.19,2022-02-11,Jones-Jefferson,44517.62,Health,False
+9259540,7577738,Withdrawal,3641.62,2022-07-11,Vasquez Inc,24413.15,Health,False
+5313019,1061051,Deposit,271.61,2022-01-16,Morgan-Gibson,85741.51,Groceries,True
+8339397,7459629,Transfer,7686.45,2022-07-08,"Smith, Moore and Lopez",71668.04,Travel,False
+5383337,8030539,Withdrawal,4002.09,2023-03-24,Leblanc and Sons,21904.14,Groceries,False
+1737096,3023442,Deposit,7353.75,2023-07-28,Byrd-Nelson,95453.83,Health,True
+5468165,4040381,Withdrawal,755.47,2023-10-05,"Hurst, Mcdonald and Cabrera",51355.87,Health,False
+6309421,8421258,Withdrawal,6013.22,2022-07-07,"Johnson, Mueller and Powell",70336.2,Travel,False
+4223955,7413663,Payment,333.41,2023-07-24,Jones-Velasquez,86141.03,Utilities,False
+6448476,5438120,Withdrawal,6792.31,2023-10-10,"Webster, Mcfarland and Richardson",73553.42,Entertainment,False
+9113220,3806153,Payment,4824.04,2023-10-21,Moore-Davis,40371.38,Travel,False
+8660228,7286103,Withdrawal,9789.23,2023-02-13,Jackson Ltd,25587.18,Utilities,False
+5255929,3968158,Withdrawal,4130.77,2023-02-23,"Green, Green and Murphy",78676.05,Health,False
+5582442,9244962,Payment,9842.12,2023-08-28,Cook-Clayton,38817.8,Health,True
+7433951,3062431,Withdrawal,3950.97,2023-11-08,"Williams, Rowland and Henry",28639.04,Entertainment,True
+6181053,8752790,Transfer,9777.4,2023-11-06,"Clay, Douglas and Richardson",94676.73,Health,True
+9326751,9895062,Withdrawal,1682.8,2022-10-11,Bullock-Rodriguez,72663.24,Groceries,True
+7612070,9407214,Transfer,4669.32,2023-09-12,Young-Galloway,48890.57,Travel,False
+6056254,3737316,Payment,6245.94,2023-04-05,"Sullivan, Alvarado and Lawson",20076.91,Travel,False
+2712096,1153607,Payment,1751.87,2023-10-20,"Wolfe, Stephenson and Jackson",49510.09,Utilities,False
+9215873,3670797,Payment,4775.87,2023-01-02,Dixon-Martinez,42450.54,Health,False
+7923511,3632489,Transfer,6406.7,2023-11-01,Lane-Hawkins,95149.4,Travel,True
+6147111,4606919,Payment,8747.04,2022-06-29,Taylor and Sons,34998.16,Utilities,False
+5108268,2742718,Payment,3197.88,2023-06-26,Shepard-Spencer,55324.28,Health,False
+2207972,9916490,Payment,8471.04,2022-11-12,Smith Inc,5387.4,Travel,False
+9910516,1981340,Deposit,2195.87,2023-02-25,"Moore, Long and Leonard",36029.38,Groceries,True
+4937279,5762889,Transfer,9703.19,2023-11-14,Yang-Osborn,16837.69,Groceries,True
+9180942,1931412,Deposit,2423.06,2022-02-13,Ward Ltd,41589.47,Groceries,True
+7664077,7919382,Transfer,7346.88,2023-10-06,Farrell Ltd,41395.07,Health,False
+8675323,6413337,Withdrawal,6130.58,2023-12-30,Schmitt LLC,52277.23,Travel,False
+8889447,8497955,Transfer,2336.73,2022-12-04,"Walker, Stewart and Carlson",99313.35,Utilities,True
+9068772,6116863,Deposit,9350.48,2023-04-06,"Palmer, Cardenas and Martin",45964.54,Groceries,True
+5791241,3132793,Payment,2994.64,2023-11-27,"Williams, Liu and Lewis",15910.5,Utilities,True
+5809322,5915381,Deposit,349.14,2023-06-15,Hopkins Group,2942.56,Entertainment,False
+6232139,6119566,Transfer,6262.55,2022-05-07,Burch Group,8392.98,Health,True
+1657801,8496450,Deposit,4961.93,2023-09-21,Montoya-Greene,67111.43,Groceries,False
+7694544,7118222,Payment,5321.5,2022-09-22,Bates LLC,33203.69,Groceries,True
+7487587,2967786,Deposit,1400.88,2023-10-02,Butler-Cox,18973.12,Health,False
+2631131,2363737,Transfer,7089.42,2022-11-18,Dyer Group,84387.27,Travel,False
+2579534,4715868,Withdrawal,1024.88,2022-03-25,"Fowler, Thompson and Brown",94531.05,Health,True
+5694872,5260849,Payment,1996.63,2022-12-21,Williams and Sons,45168.93,Health,True
+5290677,6156912,Deposit,1284.59,2023-07-14,Sutton-Fox,70205.13,Health,False
+8497641,3332093,Payment,159.37,2022-02-23,"Richardson, Craig and Perkins",52542.77,Groceries,True
+7954477,8405062,Withdrawal,8048.85,2022-09-20,Ibarra Inc,57496.81,Health,False
+9734757,7744008,Transfer,1018.28,2023-06-06,Mercado Ltd,94014.24,Entertainment,False
+6249853,6624062,Transfer,9139.03,2022-04-09,Martinez-Cox,66556.87,Health,True
+9467087,1653997,Transfer,4063.91,2023-11-24,Scott-Harris,51967.59,Entertainment,True
+5295418,9595137,Payment,2969.13,2023-05-13,Larson-Rice,23926.27,Entertainment,False
+5880480,8667333,Deposit,8252.74,2022-10-19,"Mccall, Young and Wells",79397.3,Entertainment,True
+6946035,5709487,Transfer,6804.12,2023-12-03,Villegas-Werner,33161.13,Travel,True
+7927147,8478628,Transfer,6683.5,2022-05-07,Soto-Singleton,5862.69,Entertainment,False
+5876837,2979578,Withdrawal,5653.07,2023-01-07,Bradley-Montgomery,44578.79,Health,False
+7826456,5022562,Deposit,9025.9,2023-10-06,Bond-Rodgers,71311.72,Utilities,False
+3317084,2290896,Deposit,7978.21,2022-04-14,"Juarez, Cooper and Parker",74136.52,Health,True
+4657598,6876805,Withdrawal,6737.52,2023-06-29,Stephens LLC,77951.34,Entertainment,False
+6437638,9111981,Payment,9216.09,2022-02-02,"Hernandez, Henry and Baxter",52625.88,Groceries,False
+2117628,1311779,Deposit,8678.93,2022-01-03,Powell Ltd,88372.49,Health,True
+5572622,7953392,Withdrawal,9247.4,2023-02-19,"Esparza, Tate and Vaughn",55000.25,Entertainment,False
+6413851,3860326,Deposit,1785.38,2022-06-20,Butler-Hinton,20187.46,Groceries,False
+2880667,1505057,Payment,6510.71,2022-03-11,Glover PLC,79532.21,Entertainment,False
+5298240,7148078,Withdrawal,9538.76,2023-05-15,White-Thomas,71594.87,Travel,True
+3523376,3412862,Withdrawal,3011.13,2023-09-25,"Jordan, Hayes and Gonzalez",90660.07,Health,False
+1410791,6118968,Transfer,7658.38,2023-09-11,"Martinez, Mason and Davis",37324.45,Groceries,True
+8505026,5695540,Payment,5041.01,2022-04-17,Cook-Brown,31636.94,Health,True
+6662332,7859139,Transfer,9363.79,2022-06-30,Escobar-Roberts,69371.75,Travel,False
+9008985,7883910,Deposit,6841.51,2022-07-21,"Bell, Berry and Pitts",55132.92,Utilities,False
+4487928,3941779,Transfer,2112.0,2022-05-20,Morrow-Johnson,44673.78,Entertainment,False
+5958683,9375513,Withdrawal,1781.07,2022-03-09,Clark-White,34624.36,Groceries,False
+9200390,2123841,Deposit,8257.73,2022-10-31,"Robinson, Grimes and Knight",48656.82,Groceries,False
+2625300,3163653,Transfer,5069.71,2023-04-09,"Fowler, Cline and Barrera",31470.99,Health,True
+9937364,4088036,Payment,2249.21,2022-09-27,"Aguirre, Carroll and Hanna",87225.5,Groceries,True
+6003722,8761378,Withdrawal,9169.78,2023-10-11,Cook Ltd,19241.02,Groceries,False
+2950278,2900710,Payment,7687.56,2023-07-18,"Kim, Johnson and Taylor",677.09,Groceries,False
+5434356,1455893,Payment,4172.46,2023-06-24,Frazier and Sons,70998.83,Travel,False
+1677043,3831690,Withdrawal,9852.44,2022-02-08,"Lopez, Oneal and Howard",54430.44,Groceries,True
+4370794,9162570,Deposit,5958.77,2023-08-14,"Briggs, Douglas and Myers",46092.31,Entertainment,True
+2394656,9281342,Withdrawal,8688.62,2022-08-21,Zuniga-Howell,98117.34,Groceries,False
+8365881,5438498,Transfer,5283.96,2023-06-19,Green-Thornton,21108.3,Utilities,False
+5533029,8338660,Deposit,8383.0,2022-11-08,Powell Ltd,6072.36,Utilities,True
+9569296,8941888,Withdrawal,6315.11,2022-10-05,Olson-Thompson,13214.02,Health,True
+4066705,2330197,Payment,9832.05,2023-05-04,"Lee, Odom and Robbins",15943.29,Utilities,False
+2653363,4670083,Deposit,7006.47,2023-12-15,Glover Inc,26426.28,Travel,False
+6136458,5483882,Withdrawal,9502.3,2023-11-25,"Hansen, Wise and Hebert",69368.47,Health,True
+7995006,7483877,Deposit,7193.49,2023-05-02,Rodriguez Ltd,63162.57,Groceries,False
+1929158,9941905,Deposit,8572.28,2022-04-09,"Garcia, Anderson and Lopez",83561.74,Groceries,True
+7542320,5413860,Payment,640.7,2022-01-13,Gay-Wade,74700.61,Utilities,False
+7910115,7908768,Payment,9847.2,2022-04-27,Dixon Inc,83419.57,Groceries,True
+4383993,1361845,Transfer,5754.71,2022-10-17,"Roberts, Parsons and Winters",62361.11,Entertainment,True
+7274774,5496520,Transfer,7453.2,2023-02-24,"Ward, Lopez and Reeves",42479.71,Travel,False
+4908554,1949952,Payment,1104.43,2023-04-26,Newman-Adams,47236.85,Health,True
+2626518,3357265,Withdrawal,2903.54,2023-03-22,"Blake, Benson and Carter",36786.82,Travel,True
+1893979,2936660,Transfer,8033.08,2023-06-23,"Adams, Obrien and Tyler",44673.58,Groceries,True
+3503963,5639259,Withdrawal,3221.37,2022-08-08,Decker and Sons,78081.8,Travel,True
+9040130,8752331,Transfer,5582.67,2023-12-30,"Barber, James and Ramos",37641.12,Health,True
+2473786,6533657,Payment,2800.8,2022-02-05,"Barrett, Evans and Jordan",39814.75,Health,False
+7344767,2073935,Transfer,5123.59,2022-08-09,Reed and Sons,21633.35,Entertainment,True
+4095423,6843144,Deposit,9328.86,2023-06-19,Calhoun and Sons,77148.85,Utilities,False
+4127811,9552589,Transfer,6498.97,2023-07-16,Hill Ltd,5013.51,Travel,False
+6617982,3902852,Withdrawal,7484.76,2022-02-13,Osborne Group,99293.08,Travel,True
+4488955,3692002,Transfer,6690.66,2023-03-25,Brown Ltd,64733.66,Groceries,False
+6695114,8712303,Transfer,750.52,2022-09-27,Campbell Group,43536.69,Entertainment,False
+5507597,5729154,Payment,5184.15,2023-04-26,Weber-Jimenez,99260.66,Entertainment,True
+5604305,6567612,Payment,3495.04,2022-10-14,"Russo, Green and Martinez",67730.61,Travel,True
+4041910,5197806,Transfer,4997.34,2023-01-18,Phillips-Vance,89844.41,Utilities,True
+1539089,7127059,Withdrawal,5253.67,2023-01-28,Jackson-Cruz,26429.44,Travel,False
+9226119,7015594,Withdrawal,6584.52,2023-03-08,"Dixon, Cochran and Merritt",11930.71,Utilities,True
+4852016,2543713,Deposit,2399.49,2023-01-12,Sampson Group,70507.99,Utilities,True
+4941926,5236968,Deposit,9498.26,2023-09-02,"Grimes, Soto and Olsen",97245.66,Entertainment,True
+3745005,5256110,Payment,2535.89,2022-01-04,Castaneda PLC,88015.11,Travel,False
+7498133,7569879,Transfer,1657.51,2022-05-18,Roberts-Ruiz,59142.42,Health,False
+6421671,6778150,Deposit,7494.69,2022-11-27,"Wells, Rodriguez and Fuller",46206.23,Utilities,True
+9213063,8428056,Withdrawal,956.83,2023-03-17,"Humphrey, Clark and Greene",81221.3,Entertainment,True
+7021973,6494914,Deposit,3027.25,2022-04-13,Davis-Howard,19987.67,Utilities,False
+4722627,9814314,Withdrawal,2621.25,2022-11-25,Brown LLC,90936.42,Groceries,True
+1725161,4685533,Payment,8743.96,2022-12-26,Bonilla-Murphy,66762.97,Entertainment,True
+2563679,4904475,Withdrawal,6845.74,2023-09-23,Hicks LLC,85787.02,Health,False
+8905492,7980999,Payment,6981.99,2023-05-28,Boyer-Ramos,52631.91,Entertainment,True
+8983996,4666357,Withdrawal,5033.7,2022-04-05,Ball-Long,74930.75,Travel,True
+6605197,3904821,Payment,1025.03,2023-12-01,Robinson-Thomas,7414.43,Health,True
+3782671,5565689,Payment,480.95,2022-08-23,Cooke Inc,97365.08,Travel,True
+9414693,5097775,Payment,1771.55,2023-12-12,Figueroa-Ramos,59340.28,Utilities,True
+6873241,1196251,Deposit,7984.55,2022-08-26,Reed-Blackwell,16074.07,Utilities,False
+5603436,1502553,Withdrawal,7094.63,2022-09-11,Singleton-Johnson,95512.32,Health,True
+9128551,8668799,Transfer,5649.62,2023-12-27,Delgado-Carey,56256.1,Entertainment,True
+9098851,8471534,Withdrawal,9934.16,2022-11-01,"Nelson, Perez and Melton",71009.52,Health,False
+3664532,8509690,Withdrawal,5426.67,2023-01-22,"Austin, Thomas and Bell",44973.78,Travel,False
+1274079,9376535,Payment,6923.77,2022-02-13,Martin-Frye,64872.75,Utilities,False
+6542505,9616601,Withdrawal,6345.19,2022-04-05,Benjamin-Diaz,8247.19,Groceries,False
+5294656,4982929,Withdrawal,1433.04,2022-09-05,"Robinson, Moore and Taylor",41426.4,Health,False
+6341960,5683239,Deposit,2987.31,2023-10-14,Norris-Bailey,90738.46,Groceries,False
+6384668,5766127,Deposit,7355.08,2022-04-11,Bradshaw-Lopez,30059.61,Utilities,True
+1368459,2303800,Transfer,6211.56,2022-06-11,Schneider-Aguilar,27074.75,Utilities,True
+4063790,9382706,Payment,4027.63,2023-05-09,Coleman-White,19223.6,Travel,True
+2044990,4875090,Deposit,8426.31,2023-11-26,Cook Ltd,8859.19,Entertainment,False
+7930004,8866530,Payment,9955.76,2023-06-20,Gilmore-Pope,40942.21,Entertainment,False
+1323404,9984631,Transfer,6465.01,2022-01-12,"Randolph, Christensen and Adams",13199.02,Utilities,False
+6123074,6674280,Deposit,7509.03,2022-02-23,Bruce Group,23024.79,Entertainment,True
+6699582,7640653,Payment,6627.33,2022-01-18,Jensen-Grant,95173.93,Health,False
+8618675,3984540,Payment,3119.0,2023-08-09,Williams-Alvarez,34126.4,Health,True
+2040681,4036183,Withdrawal,1189.71,2023-01-21,Brooks-Howe,89350.83,Travel,False
+7960372,9727381,Withdrawal,9935.78,2022-03-06,"Gilbert, Warren and Reeves",9922.46,Groceries,True
+1314778,3482012,Transfer,7042.29,2023-03-04,Cruz-Jackson,40719.75,Travel,True
+7029147,5606029,Withdrawal,9878.59,2023-12-05,Riley-Herrera,62504.67,Health,False
+3990320,9465145,Withdrawal,548.19,2022-01-03,"Hatfield, Patrick and Mcdonald",27763.66,Entertainment,False
+3707634,1016615,Withdrawal,1846.05,2022-02-03,Parker Ltd,89979.7,Entertainment,False
+6937567,7172851,Transfer,9675.85,2022-01-23,Garrison-Mckinney,97489.36,Utilities,True
+7235569,9203891,Deposit,9778.91,2023-01-21,"Aguilar, Wade and Thompson",33025.62,Utilities,True
+4431311,4151763,Transfer,3901.07,2022-09-16,Smith-Terry,38218.89,Utilities,False
+6136838,5587179,Withdrawal,4738.23,2023-09-20,"Mitchell, Carr and Cross",69279.62,Entertainment,False
+4304336,1038399,Payment,396.95,2022-07-10,"Collins, Norman and Oliver",99538.05,Travel,True
+1061222,9599918,Transfer,5684.07,2022-12-04,"Crawford, Jordan and Hutchinson",6880.36,Health,True
+1089202,8354244,Transfer,4204.7,2022-12-27,"Garcia, Barnes and Torres",25929.93,Utilities,False
+1508292,1037892,Deposit,7545.6,2022-08-15,Lewis Inc,45676.94,Health,True
+9016704,8656874,Transfer,3056.35,2023-07-30,Ward-Montgomery,20921.43,Groceries,False
+9745100,6378348,Deposit,7117.16,2023-03-22,"Ramirez, Evans and Carter",4931.83,Groceries,True
+5217357,6553633,Withdrawal,4089.2,2022-03-19,Spencer Ltd,54450.16,Travel,False
+6489787,1629340,Payment,9394.01,2023-05-29,Moreno-Beard,19647.0,Travel,False
+1190395,6395616,Transfer,7279.67,2022-12-08,"Gill, Evans and Walton",84576.16,Travel,False
+2591669,9477183,Deposit,2372.02,2022-04-27,Hartman-Turner,94639.44,Entertainment,True
+3002614,3989190,Transfer,2450.51,2022-11-02,Mason-Jones,10329.73,Travel,True
+8732428,5419775,Deposit,3434.45,2023-03-31,"Berry, Farmer and Bradley",95068.24,Groceries,False
+3539568,5254386,Withdrawal,5100.29,2023-06-26,Harrell LLC,60344.03,Travel,False
+4123802,6776205,Deposit,3276.3,2023-08-16,"Martinez, Jackson and Walker",47476.14,Travel,True
+5396056,5907710,Withdrawal,5543.59,2022-09-16,Myers Inc,31102.33,Health,False
+4536699,7662464,Payment,4902.88,2022-11-14,Compton-Price,98550.49,Health,False
+1199346,5613766,Payment,4256.37,2023-11-05,Rodgers PLC,80902.35,Utilities,False
+1320338,4028462,Withdrawal,1189.59,2022-08-20,Smith-Nguyen,84693.4,Entertainment,False
+9537205,3746684,Withdrawal,3683.84,2023-03-20,"Garcia, Garcia and Kelly",36856.7,Groceries,False
+9651949,9951833,Transfer,4710.54,2023-12-07,Cole-Cruz,95773.09,Health,False
+2614457,9743088,Deposit,4612.96,2022-12-26,Hendrix-Nicholson,31838.53,Utilities,False
+3216795,4765012,Deposit,7485.33,2022-12-09,Collins-Weber,80429.93,Travel,False
+4471793,5647198,Deposit,6598.67,2023-07-13,"Whitaker, Brown and Taylor",34715.25,Utilities,False
+1741786,3638676,Transfer,9611.47,2023-12-27,Rios Group,9690.8,Utilities,False
+4425773,4110540,Withdrawal,7247.63,2022-05-29,"Villanueva, Prince and Lee",77363.16,Groceries,True
+2245642,8550973,Payment,5643.59,2023-03-01,Bennett-Mitchell,64554.72,Entertainment,False
+3025688,9447440,Withdrawal,7403.96,2023-06-05,Harris Ltd,48613.65,Groceries,False
+8754825,2413705,Deposit,4601.98,2022-05-31,Foley-Davis,68846.24,Travel,False
+3796923,7454501,Transfer,7095.29,2022-11-02,Boyd Group,16281.65,Health,True
+4120216,5668584,Payment,5247.25,2023-03-18,"Esparza, Vaughn and Hess",99272.21,Utilities,False
+6695418,7574549,Deposit,3105.92,2023-11-18,Williams-Johnson,99377.47,Travel,False
+3442760,8042381,Withdrawal,1732.41,2023-06-24,Colon Group,63856.47,Entertainment,False
+7215375,9740838,Transfer,2132.1,2023-07-02,Golden-Weiss,97995.25,Groceries,False
+9285158,7122122,Transfer,8903.66,2023-03-22,Wilson Group,32158.25,Entertainment,True
+1487790,5018479,Deposit,5422.63,2023-11-23,Moyer Ltd,61140.67,Health,True
+5060323,4925378,Transfer,289.48,2023-11-21,Johnson-Collins,59210.11,Groceries,True
+4855943,8047686,Deposit,4335.72,2022-02-08,"Clark, Gonzalez and Yu",57790.89,Groceries,False
+6316796,2064214,Payment,6516.47,2023-05-13,Bell-Evans,22561.3,Groceries,False
+1402628,6190277,Transfer,7284.97,2022-09-05,Byrd LLC,7074.19,Entertainment,True
+6276579,9031154,Deposit,1154.44,2023-09-29,"Arnold, Shepard and Hall",35429.02,Utilities,True
+5083460,2980986,Transfer,37.65,2023-10-23,"Hall, Nunez and Henry",72207.8,Travel,False
+7852464,4149043,Deposit,795.87,2023-09-20,Freeman Ltd,13268.34,Groceries,True
+9718336,4708111,Transfer,7793.94,2023-02-14,Martinez PLC,54249.1,Travel,True
+4069545,2286886,Payment,6221.64,2022-01-18,Benton-Collins,281.56,Groceries,True
+2827634,9798522,Payment,7628.66,2022-07-25,Estes Group,64913.13,Groceries,False
+2684311,4321594,Payment,7783.85,2022-01-12,Jones-Anderson,25438.53,Groceries,True
+1115961,2538431,Withdrawal,2381.16,2022-09-19,Simpson and Sons,896.11,Utilities,True
+1342000,9100219,Deposit,585.35,2023-12-17,Collins Ltd,23034.31,Entertainment,False
+8764188,4578232,Payment,9827.21,2023-01-06,Brooks-Roberts,45352.24,Groceries,True
+1921769,4622909,Payment,6722.91,2022-03-22,"Day, Gross and Reyes",2966.33,Travel,False
+5658882,7375133,Deposit,4925.79,2022-08-10,Gallegos-Pierce,63586.2,Utilities,False
+1941170,6844458,Withdrawal,9337.31,2023-03-03,Murphy-Molina,61701.18,Entertainment,True
+6675176,2207380,Payment,2137.18,2022-02-26,Jackson-Leach,96948.13,Groceries,False
+1653574,7498723,Payment,957.55,2023-08-23,"Mcbride, Tanner and Francis",48844.42,Groceries,False
+6269589,2696200,Deposit,7516.81,2023-07-04,"Castillo, Green and Cruz",52517.15,Groceries,False
+1410264,6092132,Transfer,3671.09,2022-04-18,"Fields, Davis and Abbott",38069.95,Utilities,False
+5603843,3846763,Payment,6620.96,2022-07-03,"Weeks, Davis and James",31758.24,Entertainment,True
+9963272,8240606,Deposit,4484.04,2023-07-01,Knight-Hernandez,9439.41,Entertainment,True
+7338319,9831952,Payment,5558.04,2023-10-02,Moore-Patel,77147.51,Groceries,True
+4967557,6386789,Payment,1406.1,2023-07-31,Randolph Ltd,79761.04,Health,False
+6989396,5836485,Transfer,188.66,2022-05-08,"Patterson, Bradley and Simmons",66319.2,Health,True
+4686510,7473372,Deposit,2479.05,2023-07-08,Thomas-Valenzuela,55425.95,Travel,True
+2428290,9864862,Withdrawal,4449.98,2022-01-07,"Davies, Meyer and Olsen",67710.2,Health,True
+8667099,3585574,Payment,2063.82,2023-10-19,"Hernandez, Cox and Reilly",5509.46,Entertainment,True
+8987559,4897910,Transfer,462.2,2022-09-04,Martinez LLC,38465.03,Groceries,True
+5955256,1212571,Withdrawal,4407.01,2023-02-20,Esparza-Moody,66139.92,Utilities,False
+5827201,8078864,Payment,1151.16,2023-08-17,"Lopez, Walls and Velazquez",49255.53,Travel,False
+1886936,4472108,Deposit,3460.03,2022-05-27,Ward-Peters,46913.51,Health,True
+6128249,6473141,Withdrawal,6205.08,2023-02-03,"Williamson, Valenzuela and Hamilton",8736.56,Health,True
+9425150,5890595,Transfer,5833.16,2023-10-09,"Fitzpatrick, Gaines and Moore",19559.77,Utilities,True
+7616921,3904144,Withdrawal,7564.58,2022-11-18,Cardenas Inc,25723.28,Utilities,True
+1410843,5956847,Deposit,8785.1,2023-10-25,Clark-Buchanan,93342.95,Health,True
+6103934,6634686,Withdrawal,7259.71,2023-06-17,"Williams, Martin and Nelson",31248.99,Health,True
+1005037,2998150,Transfer,7549.15,2022-07-01,Lee-Maxwell,43275.24,Utilities,False
+3439325,5937334,Deposit,311.08,2023-06-16,Sanchez PLC,9326.79,Groceries,True
+7093861,3339784,Deposit,6685.57,2022-03-22,"Cole, Carter and Richard",49189.61,Travel,True
+7685425,3388946,Deposit,1749.08,2023-01-17,"Sims, Garcia and Lopez",12625.75,Health,False
+4677359,4865014,Payment,7361.29,2023-06-11,"Stein, Nelson and Goodwin",91205.68,Health,True
+4282287,7677598,Deposit,3681.44,2023-02-12,"Wells, Owens and Buchanan",93184.59,Utilities,True
+9298913,5829612,Payment,140.66,2023-12-16,Donovan Group,31744.39,Health,False
+7524908,7007926,Payment,1965.43,2022-03-03,Johnson-Williams,8696.33,Travel,False
+2731089,5433086,Deposit,8540.34,2023-07-06,Mcintyre and Sons,26076.77,Entertainment,True
+6005483,5855936,Transfer,26.43,2023-05-12,Gilmore LLC,36129.17,Travel,True
+4125362,4948960,Payment,9623.61,2022-07-27,Owen-Castillo,76427.25,Utilities,False
+2685650,9606579,Payment,5874.45,2022-09-19,Boone and Sons,23040.72,Travel,False
+6224818,3898006,Withdrawal,3941.32,2022-10-04,Cortez Inc,44024.13,Groceries,True
+8160305,8666400,Payment,6837.19,2023-12-27,Baker Inc,98616.29,Groceries,True
+6365106,5970451,Payment,2673.1,2023-01-01,Lozano-Schwartz,84870.64,Groceries,True
+5088980,5011155,Transfer,9608.71,2023-06-28,Wright and Sons,10918.53,Travel,False
+2973465,9011416,Payment,6061.43,2023-02-11,Vance PLC,44749.4,Groceries,True
+1676319,2534870,Deposit,5422.42,2023-09-17,"Clarke, Callahan and Ramirez",17131.2,Groceries,True
+5599325,8211323,Transfer,9916.72,2022-05-07,Jennings-Malone,91235.92,Utilities,False
+6823981,1377617,Deposit,441.58,2022-09-23,Turner Inc,8051.69,Health,False
+5268242,9699174,Deposit,657.35,2023-12-15,James Ltd,2108.5,Health,True
+2599666,9570913,Transfer,7241.35,2022-02-22,"Morales, Hill and Sharp",15389.18,Entertainment,True
+3420692,2877536,Payment,5519.39,2023-10-31,Brady PLC,46430.86,Utilities,False
+8960565,4245391,Transfer,8761.19,2023-05-20,Lester-Davidson,13922.99,Entertainment,True
+7421052,6684247,Withdrawal,7659.29,2022-07-22,Martinez-Rose,58407.95,Health,False
+1763363,8291690,Deposit,4050.37,2022-03-09,"Ross, Mendez and Reed",42154.84,Groceries,True
+2131007,8258772,Transfer,4283.82,2022-02-13,Lambert-Roman,53589.2,Travel,True
+9580076,4494963,Withdrawal,5012.67,2022-12-13,Baird-Brock,62965.93,Travel,False
+6475992,5522194,Payment,6754.46,2023-09-14,Mckinney Ltd,99455.33,Health,False
+9203611,2955982,Withdrawal,9361.57,2023-10-17,Gonzalez-Adkins,23106.12,Travel,True
+8295906,3113010,Payment,5595.46,2023-03-28,Peterson-Richard,35099.89,Utilities,False
+2308158,9201004,Withdrawal,1508.5,2024-01-01,Roberts-Berg,82762.16,Entertainment,True
+4621238,4584148,Transfer,3318.5,2022-11-12,"Crawford, Kane and Logan",89350.7,Utilities,True
+5886012,8075892,Payment,9615.99,2023-03-25,"Mendez, Ray and Frazier",5414.67,Travel,False
+3637621,6062703,Withdrawal,2696.77,2022-07-13,Schultz and Sons,41440.36,Health,False
+7289389,5599616,Deposit,9137.71,2022-03-17,Perez-Alvarado,12850.72,Groceries,False
+6772543,6151806,Transfer,6961.9,2023-06-01,Davis Ltd,28528.81,Travel,False
+1680726,8319695,Deposit,7018.16,2022-09-28,Aguilar and Sons,75360.67,Utilities,False
+2431539,1570359,Transfer,5555.37,2023-02-03,"Mcgee, Rogers and Manning",16355.42,Groceries,False
+1664650,3099634,Payment,8822.14,2023-06-24,Green Inc,71123.69,Utilities,False
+2407067,6860826,Transfer,1929.35,2023-01-17,"Sawyer, Roth and Walters",536.07,Travel,True
+4053449,5334645,Withdrawal,4468.36,2023-03-03,White LLC,76014.36,Health,False
+2259589,4904153,Transfer,4890.77,2023-11-09,"Green, Bell and Valentine",56679.76,Health,False
+3369053,7611285,Payment,6970.04,2023-06-16,Mckee PLC,69374.1,Travel,False
+2412268,3742107,Payment,6680.81,2022-09-21,Blackburn-Serrano,18481.07,Health,False
+3759911,9882153,Withdrawal,5228.59,2023-12-12,Wilson LLC,60066.87,Entertainment,False
+9451214,4898942,Withdrawal,7359.33,2022-12-06,"Juarez, Chang and Cobb",83552.83,Travel,False
+3029921,9090283,Transfer,6575.72,2022-02-27,Lewis Ltd,5012.65,Health,True
+1149692,7095264,Deposit,7021.46,2022-11-19,King PLC,7024.68,Travel,True
+4394659,7494926,Deposit,124.59,2022-01-26,Cook-Roman,9037.27,Utilities,True
+4468906,1554984,Withdrawal,3013.23,2023-08-23,Mitchell and Sons,1825.72,Entertainment,False
+9254004,2285488,Transfer,8925.04,2023-05-09,"Kent, Rivera and Nguyen",91225.55,Entertainment,True
+6619559,6561258,Withdrawal,1508.45,2022-05-30,"Osborne, Burnett and Martinez",23056.78,Utilities,False
+1969907,8828720,Deposit,4959.19,2022-03-20,Horton-Hill,17931.71,Groceries,True
+2805301,9414665,Payment,3789.5,2022-12-24,"Hawkins, Austin and Thompson",15424.05,Entertainment,True
+6856637,2366699,Deposit,986.0,2022-10-19,Green Inc,13461.17,Health,True
+5434516,3471586,Transfer,5988.1,2022-03-12,Chambers-Carpenter,76846.19,Groceries,True
+7059383,3234197,Payment,2118.48,2022-04-01,Robertson PLC,7450.65,Groceries,False
+8811156,5135087,Transfer,7468.76,2022-04-13,Johnson Group,57070.41,Travel,True
+1376286,2269258,Deposit,3854.38,2023-12-08,Allison-Garcia,8932.71,Utilities,True
+4138149,4403522,Transfer,162.97,2022-10-11,Campbell Group,37937.83,Utilities,False
+3390512,2932268,Withdrawal,5229.1,2022-08-29,Mays-Johnson,97238.53,Health,False
+2633505,1903954,Payment,3997.64,2022-08-14,"Carr, Jackson and Hurley",49939.59,Utilities,True
+3502595,9199651,Transfer,8446.06,2022-06-18,Rogers-Barber,49218.67,Entertainment,True
+3164847,3100162,Deposit,7072.65,2023-05-09,Brown-Harris,59632.31,Travel,False
+5712337,3848440,Transfer,1432.3,2023-03-24,Guzman-Rodriguez,98459.79,Health,True
+4639552,5888997,Payment,8929.64,2023-11-06,Dunn Group,61489.38,Entertainment,False
+2678080,2239967,Deposit,4126.27,2023-09-16,"Frank, Marquez and Smith",48257.86,Travel,False
+9519564,7979894,Withdrawal,681.57,2023-11-20,"Valencia, Jackson and Lam",65103.93,Entertainment,False
+2738445,6921878,Withdrawal,5952.59,2022-12-11,Dunn PLC,54504.02,Utilities,True
+8067181,6208159,Transfer,7037.66,2022-11-04,Mcintosh-Duran,99677.1,Groceries,True
+4756042,6875300,Payment,9824.14,2022-09-03,Branch-Fritz,40413.55,Utilities,True
+2507888,2216405,Deposit,8684.21,2022-07-03,Marquez-Horton,14052.6,Groceries,False
+1180141,9715556,Deposit,6075.73,2023-10-16,Wright LLC,84107.94,Health,True
+6913927,9533690,Withdrawal,5742.73,2022-03-23,Anderson-Salinas,15351.69,Groceries,True
+8619725,4955465,Payment,7128.89,2023-09-21,Bean-Fowler,8424.12,Travel,True
+1699755,9702363,Transfer,3024.89,2023-01-17,Hernandez Inc,40939.5,Entertainment,True
+5282153,6958874,Payment,3296.4,2022-03-12,Rodriguez and Sons,79059.22,Entertainment,True
+3562539,4862432,Deposit,7057.65,2023-09-15,Barnes Group,74672.49,Travel,False
+1301680,2010685,Transfer,2670.84,2022-11-19,Vasquez-Day,78828.48,Health,False
+3293663,7239294,Deposit,7897.05,2022-06-16,"Berry, Bass and Wright",420.49,Groceries,False
+2080778,4572450,Deposit,2859.96,2023-07-03,Mills Group,58995.39,Groceries,True
+6078156,3948056,Transfer,9681.87,2023-03-29,Jackson-Bowman,88602.53,Travel,True
+4485158,7863316,Transfer,4635.79,2023-02-26,Conner Inc,56562.74,Health,False
+4234006,2074656,Payment,6664.28,2022-01-02,Pennington and Sons,65587.65,Groceries,False
+7173160,1653466,Transfer,734.99,2022-12-06,Wood-Bruce,19388.45,Health,False
+8261174,8450378,Transfer,9079.7,2022-08-17,Duke and Sons,95799.91,Groceries,True
+8707047,2152038,Transfer,8274.95,2022-09-21,Johnson-Taylor,70337.56,Utilities,False
+9712438,7161034,Withdrawal,7279.2,2023-07-16,Wilkins-Clark,72832.49,Entertainment,False
+4626437,9018472,Deposit,1198.01,2023-02-26,Bridges-Cordova,2321.19,Health,False
+9406215,7123860,Deposit,6623.76,2023-10-10,Daniels-Brennan,51868.17,Travel,False
+4846403,9819617,Deposit,7884.54,2023-07-18,"Mathis, Barr and Moore",47143.64,Utilities,True
+4770183,5042391,Deposit,8356.57,2022-01-17,Duncan LLC,23074.37,Utilities,True
+3500322,9044062,Withdrawal,2111.16,2023-08-04,Hernandez-White,2560.66,Health,False
+9254083,5835820,Deposit,1387.9,2023-12-14,Choi-Mercado,27578.46,Health,True
+4381938,2464214,Deposit,1315.7,2023-10-10,Martin and Sons,30413.28,Entertainment,False
+3872011,8691088,Payment,723.87,2022-09-26,Hall Ltd,2619.69,Health,False
+4238090,2782633,Payment,2269.36,2022-12-06,"Benson, Mitchell and Dixon",94080.92,Travel,False
+7617349,7887820,Deposit,6667.06,2022-07-16,Fisher and Sons,37776.02,Travel,True
+7652368,6560255,Transfer,7413.68,2022-12-10,Pham Ltd,59541.98,Travel,False
+9561648,1437900,Deposit,3973.73,2022-11-29,Wallace-Smith,35992.52,Groceries,True
+5654399,7866352,Transfer,7833.59,2023-04-06,"Jennings, Pena and Gentry",64193.54,Utilities,False
+9553128,9993283,Transfer,8911.66,2022-07-19,Duran and Sons,40646.54,Entertainment,False
+9238604,3991065,Payment,6068.26,2023-09-22,Braun Ltd,99687.54,Utilities,False
+8657132,6976119,Withdrawal,372.52,2023-07-04,Peterson and Sons,56282.53,Entertainment,False
+5276293,8691147,Payment,7237.87,2022-01-25,Burns and Sons,94691.85,Groceries,False
+5818147,5354002,Payment,9397.79,2022-07-13,Jones Ltd,76993.13,Utilities,False
+3592723,4774084,Payment,5404.53,2023-12-07,Miller-Coleman,82530.56,Utilities,True
+1395797,2522387,Deposit,5717.18,2023-04-16,Zuniga-Jackson,83197.1,Health,False
+1033215,8265274,Payment,6245.79,2023-12-24,Mcgrath-Mccoy,41900.58,Groceries,False
+5404212,5880198,Deposit,9265.35,2022-01-23,Wells LLC,93098.1,Health,False
+2899364,4989558,Withdrawal,9724.43,2023-05-31,Davis-Williams,92760.32,Utilities,False
+2791388,2743604,Transfer,5210.66,2023-07-27,"Miller, Hernandez and Kim",89257.53,Utilities,True
+1321168,7627208,Deposit,522.87,2022-12-08,"Rodriguez, Yang and Rodriguez",21097.35,Groceries,True
+3243701,6129486,Deposit,3787.42,2022-07-30,"Davis, Alvarez and Green",6430.81,Entertainment,True
+4517168,2825257,Deposit,7434.89,2023-06-12,"Davis, Schultz and Mueller",44048.36,Entertainment,False
+8123442,6468972,Payment,2645.34,2022-12-08,Williams-Estrada,52658.64,Utilities,True
+3178274,4229898,Withdrawal,6980.15,2022-10-27,West-Tucker,82813.76,Utilities,False
+9603432,8027970,Payment,1574.63,2023-07-14,Sandoval-Martin,16087.57,Entertainment,False
+4541865,3542538,Deposit,5674.2,2022-10-25,Webb LLC,41239.26,Travel,False
+1411848,4615195,Withdrawal,4645.89,2022-07-18,"Beck, Jones and Wiley",88545.98,Entertainment,True
+5478921,2447516,Withdrawal,8667.2,2023-11-02,Chen-Monroe,86668.0,Health,False
+5770198,4977332,Payment,5537.37,2023-07-10,Hill Group,72548.43,Entertainment,True
+1607893,9099399,Payment,2566.95,2023-10-26,Mann Ltd,202.91,Entertainment,True
+5821996,5921183,Withdrawal,8795.74,2022-10-11,Snow LLC,28235.77,Health,False
+7267915,6459300,Payment,2043.33,2023-08-27,Mack-Moran,64757.01,Health,True
+3219318,2075129,Transfer,1599.64,2023-06-23,"Tucker, Jones and Walsh",51518.61,Utilities,False
+8017288,4990022,Deposit,8295.96,2022-10-18,"Cross, Brooks and Wilcox",58573.78,Utilities,False
+9444895,2452697,Deposit,129.26,2023-07-04,Campbell-Davis,13765.06,Health,False
+2807199,5655432,Withdrawal,8061.9,2023-04-18,"Medina, Walker and Simmons",16833.73,Utilities,False
+8578316,2318702,Transfer,7556.56,2022-07-23,"Jensen, Stevens and Rogers",41090.48,Utilities,True
+1578473,2568376,Deposit,32.75,2023-10-15,"Doyle, Griffith and Pacheco",63836.64,Utilities,True
+9707166,9273114,Payment,982.17,2022-01-05,"Savage, Wells and Grant",13566.9,Health,True
+3976717,3620842,Withdrawal,5366.3,2023-01-15,"Morgan, Hernandez and Roberts",98317.22,Travel,False
+6494791,3256435,Payment,6145.96,2022-05-26,Wells-Porter,26438.92,Health,False
+6740014,4554044,Deposit,3344.65,2022-12-16,Morse PLC,96270.96,Health,False
+7878212,7656425,Deposit,7651.28,2023-06-21,Mason and Sons,96731.28,Travel,False
+1557711,1334916,Withdrawal,8430.83,2023-12-28,"Parks, Palmer and Flores",41312.04,Travel,False
+5637634,8816773,Transfer,3433.75,2023-03-18,Flores Inc,80938.61,Entertainment,False
+7718125,4662720,Deposit,5110.63,2022-03-08,Alexander Group,78339.42,Utilities,True
+8729777,2247415,Payment,5084.58,2022-02-09,Williams-Gibson,69126.49,Utilities,True
+6753035,5379544,Deposit,1793.69,2023-07-04,Hall LLC,29764.58,Health,False
+5485920,6398995,Transfer,5180.42,2023-12-23,Wells Group,7747.78,Entertainment,True
+6983592,5984510,Deposit,4790.79,2023-12-13,Oliver-Guerra,27334.66,Entertainment,True
+6292886,2439674,Withdrawal,262.45,2023-11-18,Thompson and Sons,2543.89,Utilities,False
+8191086,5861780,Withdrawal,6785.2,2023-08-29,Johnson Ltd,24904.75,Utilities,False
+3137941,2362714,Withdrawal,8054.64,2023-12-05,"Krause, Decker and Hanson",93050.88,Health,True
+9955860,1433537,Withdrawal,9805.63,2022-02-16,Lee LLC,15113.72,Health,False
+8796629,7424869,Withdrawal,9253.75,2023-10-30,Morales LLC,63080.06,Entertainment,True
+6343276,7494326,Withdrawal,4145.63,2023-11-13,"Hartman, Carter and Sanders",70824.8,Entertainment,True
+5957372,8861023,Withdrawal,3092.44,2023-09-24,Medina Ltd,47886.45,Travel,True
+6355499,9362970,Payment,619.44,2023-03-05,Mcintosh and Sons,36893.07,Utilities,False
+7610570,4372832,Deposit,4928.83,2023-01-30,Richards Ltd,41374.17,Groceries,True
+6404609,1468743,Withdrawal,2854.23,2023-06-06,Jones Group,56101.9,Entertainment,True
+8580362,1772028,Withdrawal,699.44,2022-01-26,"Rice, Goodman and Williams",84731.2,Travel,True
+2886178,9243218,Deposit,2198.48,2023-12-17,Owens-Martinez,59183.52,Health,False
+3729037,1188271,Withdrawal,312.2,2023-12-01,Sanchez Group,48285.35,Entertainment,True
+2502506,9796932,Withdrawal,6756.64,2023-06-18,Delgado Group,74599.0,Utilities,True
+5964587,7066347,Withdrawal,2746.99,2022-11-03,Keith PLC,55771.02,Entertainment,True
+1220909,5813529,Transfer,8616.26,2022-02-28,"Reilly, Lawrence and Alvarado",84855.74,Travel,False
+2608641,7292577,Deposit,9998.63,2023-10-18,Harris and Sons,77881.12,Entertainment,True
+2619031,5389548,Payment,9555.27,2023-05-07,Briggs PLC,49490.29,Travel,True
+5164435,9608676,Payment,9303.49,2022-07-03,"Hale, Nguyen and Lynch",19856.95,Entertainment,False
+8064840,1333602,Payment,4610.02,2023-02-23,"Mora, Collins and Garcia",75920.51,Entertainment,True
+6448214,8846699,Withdrawal,1153.32,2023-10-30,Meyer-Riley,2559.18,Groceries,False
+2584940,2690759,Withdrawal,5541.22,2022-09-24,"Lara, Hill and Williams",53057.63,Groceries,False
+1844994,2608131,Withdrawal,1139.25,2023-06-01,"Hamilton, Chavez and Lucas",22318.65,Entertainment,False
+4140510,9818274,Deposit,1552.59,2023-12-31,"Marshall, Hammond and Park",40755.38,Health,False
+3568391,3578575,Payment,2389.94,2022-01-30,Randall PLC,11500.52,Health,True
+3509898,7991704,Deposit,1773.53,2023-06-07,Vasquez LLC,63461.5,Entertainment,False
+7641469,4496641,Deposit,6489.3,2022-09-06,Ortega and Sons,31621.57,Groceries,True
+8867154,8249830,Transfer,3536.84,2022-01-12,"Allen, Gonzales and Trujillo",67925.18,Groceries,True
+5818512,7621177,Deposit,8778.89,2022-02-28,Miller-Morgan,33810.91,Utilities,False
+2153673,4730838,Deposit,6161.52,2022-07-06,Mcmillan Group,59842.87,Groceries,True
+8473320,5733155,Withdrawal,524.2,2023-09-03,Garcia-Smith,22322.39,Utilities,True
+9742428,9759327,Payment,4601.31,2023-04-26,"Robinson, Young and Peck",25672.71,Health,False
+6977808,6976508,Deposit,3231.29,2023-10-22,Morrison-Garcia,51276.11,Health,False
+8822853,1712290,Payment,9941.83,2022-09-17,"Lindsey, Cunningham and Williams",87503.2,Utilities,False
+3298022,1076966,Deposit,7557.02,2023-12-01,Booth and Sons,36675.98,Travel,False
+9994079,1120484,Payment,9422.28,2022-03-08,Nguyen-Hansen,19730.57,Groceries,False
+1532936,2938239,Deposit,624.84,2023-06-19,Sanders-Perez,51781.55,Health,False
+8306808,5172408,Payment,3931.59,2023-11-03,"Robinson, Perry and Pena",40902.82,Groceries,True
+1466249,9607511,Deposit,963.16,2023-07-30,Curtis-Potter,15898.86,Utilities,True
+7030126,1689640,Payment,5241.07,2022-06-14,"Davis, Anderson and Vargas",12648.97,Groceries,True
+5825854,6039206,Transfer,9441.84,2022-06-17,Li LLC,96002.33,Travel,True
+7547181,3730926,Transfer,8311.06,2023-05-02,Miller Inc,50725.8,Utilities,True
+6118178,7917824,Deposit,9343.15,2023-07-19,Oliver-Brown,13806.62,Health,False
+9705860,6944054,Transfer,9412.55,2023-01-17,"Graham, Gutierrez and White",87277.98,Health,True
+2746115,4938808,Deposit,4088.81,2023-09-06,Atkins Inc,608.31,Utilities,True
+4576749,8126113,Transfer,5383.49,2023-10-02,Mack-Marshall,58396.93,Utilities,False
+3266989,6165687,Payment,686.0,2022-12-20,Williams-Brown,83970.2,Groceries,True
+6899191,2596987,Payment,7609.65,2023-02-12,Hall-Miller,88936.83,Entertainment,True
+1781474,6503268,Payment,3900.99,2022-01-29,"Pitts, Evans and Williams",37846.71,Entertainment,False
+2902309,7177456,Deposit,2169.15,2023-10-20,"Cantrell, Cruz and Harrell",83944.66,Entertainment,False
+7312984,1692725,Withdrawal,7693.56,2022-01-12,"Chung, Krause and Lopez",23234.31,Groceries,False
+4507100,1586474,Payment,5959.86,2023-10-03,Martinez-Bowen,40453.35,Groceries,True
+9522109,7364095,Deposit,9245.16,2023-10-08,Gonzalez-Wright,71963.85,Travel,True
+9517563,4343655,Deposit,5502.46,2022-02-06,Moore-Rivera,80497.39,Health,True
+2006579,5223327,Deposit,9508.88,2023-10-09,"Woods, Flores and King",81209.63,Health,False
+5074633,9158885,Payment,9340.95,2023-06-15,"Carrillo, Medina and Brown",73234.93,Health,True
+4790989,4887603,Withdrawal,2806.06,2023-08-11,Hill-Bailey,81450.95,Groceries,False
+4662978,3145938,Withdrawal,9357.14,2022-10-15,Barton LLC,37622.73,Entertainment,False
+8780925,3280854,Transfer,7554.56,2022-08-17,Martinez-Hanson,65465.11,Groceries,True
+9491258,8211366,Transfer,5940.12,2023-07-27,Collins-West,37075.5,Health,False
+3313808,8564037,Transfer,180.84,2023-05-09,Moore-Allen,35787.35,Utilities,False
+1511469,4566713,Transfer,5115.03,2023-05-26,"Torres, Harris and Davis",13932.08,Utilities,False
+6881340,4919039,Payment,2784.47,2022-04-18,Marsh Ltd,84976.61,Entertainment,True
+1093846,9568788,Deposit,8212.88,2023-06-27,"Farrell, Kelley and Salazar",40739.69,Utilities,False
+9082456,2372019,Payment,4225.89,2023-10-13,Davis-Harding,76844.76,Utilities,False
+6769365,9084434,Deposit,9601.28,2022-03-05,"Page, Meyer and Mccoy",50202.19,Health,False
+6886716,9932966,Withdrawal,8904.51,2022-06-09,"Spencer, Reyes and Browning",76571.61,Groceries,False
+2942674,4289210,Payment,3037.36,2023-04-08,Williams Ltd,63557.23,Travel,True
+3270419,9456531,Transfer,149.91,2023-11-25,Armstrong Group,32537.94,Health,True
+3683708,1263665,Transfer,7393.78,2022-10-27,"Velazquez, Carroll and Sanchez",50499.95,Entertainment,False
+7399044,3167858,Withdrawal,9861.79,2022-12-14,"Walker, Lin and Harrison",83015.57,Entertainment,False
+1531899,8693707,Payment,5676.15,2022-05-22,"Fields, Bradley and Baldwin",43651.54,Health,True
+6054460,7488468,Transfer,2746.96,2023-08-10,Stevenson PLC,6424.54,Groceries,False
+1302151,7700173,Transfer,9919.53,2023-05-07,Baker Group,87833.26,Utilities,True
+8701017,6414067,Payment,9460.56,2023-02-05,Montoya and Sons,34531.7,Entertainment,True
+1261987,9772709,Withdrawal,3084.23,2022-11-02,"Page, Marshall and Smith",30452.68,Utilities,True
+1533324,6625361,Payment,292.38,2023-02-08,Williams-Austin,89868.86,Utilities,True
+3232491,5066188,Transfer,6926.08,2022-01-07,Fitzgerald Group,12324.36,Entertainment,True
+2565829,4016595,Withdrawal,139.74,2023-12-05,Walters-Pitts,4585.3,Utilities,True
+1591472,7413411,Transfer,4020.98,2023-12-01,"Gillespie, Murray and White",52574.45,Entertainment,False
+3361721,8749829,Transfer,7863.35,2023-11-14,Hernandez PLC,25035.17,Groceries,False
+7052257,1568787,Deposit,9726.85,2022-07-14,"Warner, Johnson and Brown",76885.56,Entertainment,False
+1775484,4727785,Deposit,4587.23,2022-11-01,Roberson-Hunter,14029.13,Travel,True
+4987592,2716769,Deposit,9008.57,2022-01-27,Green-Salinas,69855.48,Groceries,False
+7480664,3422161,Deposit,1202.12,2023-02-05,"Smith, Franco and Mendoza",31252.73,Travel,False
+3276457,4216071,Deposit,3806.96,2023-11-23,"Jackson, Trevino and Matthews",71206.25,Travel,True
+1096882,5133801,Payment,7629.16,2023-03-07,Francis PLC,88236.44,Utilities,True
+1907627,9196158,Transfer,929.05,2022-02-06,Hughes-Robinson,97652.09,Travel,False
+5433310,1367453,Deposit,2974.37,2023-12-25,Clark PLC,72374.53,Groceries,False
+1765897,7114288,Deposit,5156.8,2023-02-09,"Riley, Richardson and Thornton",26063.04,Travel,False
+6312352,5276365,Withdrawal,3356.82,2023-02-22,Foster-Rivera,48468.28,Health,True
+1036045,3533835,Transfer,9012.19,2023-12-17,Houston-Davis,87323.37,Travel,True
+5478443,2309969,Deposit,1803.48,2023-07-07,Lane Inc,75627.92,Entertainment,False
+8645153,5732119,Withdrawal,3916.66,2022-08-23,Little Inc,79571.83,Utilities,True
+1549325,4935818,Withdrawal,7073.0,2022-09-28,Vargas-Ortega,20104.2,Utilities,True
+8009908,8188793,Deposit,370.05,2023-04-18,Moore LLC,13000.69,Entertainment,True
+5926540,2741156,Transfer,1292.41,2022-09-27,Walsh LLC,4270.75,Entertainment,False
+9319954,2170698,Withdrawal,9307.7,2022-10-10,Chavez-Estrada,86253.02,Health,False
+8971256,4777548,Transfer,609.15,2022-09-17,Cohen Group,53734.03,Travel,True
+3963786,5005690,Payment,7579.68,2023-12-03,Williams LLC,93337.32,Health,False
+8901401,1605999,Deposit,5145.2,2023-11-05,Hendricks-Scott,64187.38,Health,True
+5684375,8726493,Payment,7380.92,2023-10-31,Cooper-Cline,23062.4,Travel,True
+5272054,3588749,Transfer,3185.71,2022-09-02,"Powers, Thompson and Davidson",44888.86,Groceries,True
+6603575,1117473,Deposit,2548.62,2022-06-16,"Thomas, Williams and Medina",15092.39,Utilities,True
+9149187,2606401,Payment,8594.57,2023-03-06,Watkins Group,60479.41,Health,True
+7404901,8373306,Withdrawal,5072.69,2023-02-12,Bauer-Lewis,22671.69,Entertainment,True
+8798895,8622487,Transfer,2297.15,2022-04-26,Salinas-Thornton,32573.87,Groceries,True
+5670201,5272925,Payment,4601.41,2023-10-17,"Anderson, Cook and Burke",23547.38,Utilities,False
+2017829,3501005,Transfer,3705.91,2022-02-03,Fletcher Ltd,47285.7,Travel,False
+6883359,9414586,Payment,1344.35,2022-02-19,Campos-Gonzales,36267.06,Travel,True
+5480574,7902683,Deposit,4184.44,2022-02-26,"Lucas, Vazquez and Ramirez",34984.65,Health,False
+9078551,9564672,Deposit,3556.41,2022-11-24,"Davis, Ramos and Archer",71553.45,Groceries,False
+8796723,2803755,Deposit,4922.07,2023-05-01,"Tucker, Robinson and Mckenzie",25525.83,Entertainment,False
+2847697,9579827,Withdrawal,7350.29,2023-12-06,Mcneil Group,83161.63,Groceries,False
+4525207,5510136,Deposit,3980.76,2023-03-20,Burch LLC,87226.14,Health,False
+1691560,9165391,Transfer,3971.17,2023-11-23,Mcclure LLC,85572.98,Groceries,False
+9283602,8929246,Payment,1105.39,2023-06-28,Wheeler LLC,88923.38,Entertainment,False
+4062876,2685116,Deposit,1388.42,2023-09-21,Evans-Gomez,84994.91,Entertainment,True
+7533879,2288036,Transfer,4427.56,2023-11-24,Lara-Walker,6196.48,Utilities,True
+1958991,7796625,Transfer,9595.4,2022-01-07,Smith PLC,59651.05,Utilities,False
+2475840,6311920,Deposit,3315.66,2023-06-28,Greer and Sons,484.93,Groceries,True
+8650586,5863811,Transfer,5774.52,2022-06-12,"Turner, Flores and Gray",293.65,Groceries,False
+7307752,7142996,Withdrawal,135.94,2022-12-21,"Gutierrez, Wilson and Young",72818.43,Travel,False
+7201755,5499900,Transfer,7917.53,2022-11-15,Long-Kennedy,6961.29,Groceries,False
+9839161,3000688,Transfer,3957.08,2023-09-13,Reed Group,52656.34,Health,False
+2535580,7751460,Deposit,1715.1,2022-08-18,Collins-Gilbert,37616.57,Utilities,True
+2631705,9798932,Transfer,6322.46,2023-10-19,Young Inc,23424.96,Entertainment,True
+5579159,2868371,Withdrawal,4285.95,2022-04-02,"Mcdonald, Lee and Adams",97067.87,Entertainment,True
+6496509,5031154,Deposit,7268.96,2022-08-11,Hall Inc,62312.73,Travel,False
+8689940,5942965,Deposit,8358.51,2022-12-10,Johnson LLC,70639.8,Travel,True
+1553615,5171880,Transfer,4927.9,2022-12-06,"Luna, Brooks and Davis",19016.47,Health,False
+4887028,5506374,Withdrawal,6948.73,2023-11-04,Ellison Group,56038.0,Travel,True
+5795224,5313283,Transfer,9743.3,2023-04-08,Hayes Ltd,12612.04,Entertainment,True
+8946820,8586791,Withdrawal,5161.6,2023-07-12,"Hammond, Dillon and Gillespie",63054.67,Groceries,True
+4569276,7533475,Transfer,610.47,2022-05-02,"Jones, Garcia and Jackson",79653.8,Health,True
+6558491,5682653,Withdrawal,2672.88,2022-09-25,"Gonzalez, Pena and Reynolds",30287.32,Entertainment,False
+1011458,9951019,Payment,2305.59,2023-03-03,"Peters, Smith and Miles",35489.43,Health,True
+6837281,3680454,Withdrawal,7717.5,2022-03-25,"Buck, Berry and Carlson",47717.89,Entertainment,True
+7376610,1561301,Payment,7976.72,2022-06-16,"Estrada, Morales and Lyons",43955.58,Health,False
+1300019,4503279,Withdrawal,220.99,2022-12-24,Cook and Sons,87572.35,Utilities,True
+7197377,4209004,Payment,3040.67,2023-03-05,"Rivas, Bates and Rodriguez",20896.8,Groceries,True
+3170701,1133745,Deposit,5021.33,2022-10-05,"Morse, Alvarez and Gomez",66400.59,Groceries,True
+2134828,5286163,Transfer,1109.28,2023-08-13,Brown Group,9849.36,Health,False
+4594992,8454998,Transfer,3645.31,2023-03-26,"Mcguire, Singleton and Sanchez",22964.92,Travel,True
+4186260,2561985,Transfer,3284.46,2023-05-14,Davis Inc,74425.27,Groceries,True
+8775097,9301216,Deposit,6436.8,2023-08-12,"Ward, Brown and Dudley",40294.53,Travel,True
+6852481,3368069,Deposit,2463.05,2023-09-11,Garcia-Wilson,28739.97,Groceries,False
+4472612,3187192,Withdrawal,9200.45,2023-06-28,"Webb, Hart and Edwards",27882.47,Health,False
+7912797,7615668,Transfer,7875.47,2023-08-13,"Kelly, Brown and Dixon",68408.38,Travel,True
+4259422,9486773,Withdrawal,7048.53,2023-09-05,"Hudson, Hahn and Williams",3372.5,Groceries,True
+7714731,1686218,Payment,4105.91,2023-02-21,Thomas and Sons,21227.1,Groceries,True
+3882288,9100803,Deposit,8450.32,2022-01-12,Lewis PLC,59810.72,Health,True
+9189691,5764456,Deposit,5657.25,2022-03-07,"Burke, Owen and Carlson",38681.14,Entertainment,True
+4382041,1804334,Withdrawal,9648.43,2023-01-09,"Alvarez, Stone and Sullivan",2780.62,Travel,False
+6866549,6977089,Deposit,9392.53,2023-05-07,Moody-Sloan,72782.88,Health,True
+5430857,5672004,Withdrawal,5526.59,2022-09-30,"Richardson, White and Sloan",7636.64,Groceries,True
+3693143,4126764,Deposit,8104.46,2022-09-12,Fox-Lynn,71562.28,Utilities,True
+5144857,5358514,Withdrawal,1705.89,2022-08-08,Morrow-Green,86881.29,Travel,False
+4578156,4920481,Transfer,6973.59,2023-01-11,Stevens-Wong,60717.46,Entertainment,True
+2229975,9323696,Transfer,9368.81,2022-09-14,Phelps-Wong,28135.74,Utilities,True
+4777232,5549730,Transfer,105.41,2022-07-11,Hoffman-Wilson,55170.42,Utilities,True
+3897969,2333378,Deposit,3760.75,2022-10-16,Shaw Group,39442.08,Health,True
+8557074,6858075,Withdrawal,7552.69,2022-03-20,Hall LLC,72579.26,Utilities,False
+8418183,5929659,Payment,8526.42,2023-08-30,Parker LLC,44040.33,Travel,True
+5028908,3515664,Transfer,3224.54,2022-03-07,"Gonzalez, Jimenez and Brown",96592.1,Groceries,False
+8346169,7961318,Withdrawal,9097.81,2023-03-11,Rogers LLC,45887.54,Health,True
+7033225,9106611,Deposit,1686.28,2023-04-19,"Schneider, Davis and Sandoval",31281.55,Groceries,True
+5700553,7858581,Transfer,9771.98,2022-08-30,Lucas-Lee,50570.29,Groceries,True
+9691975,6560483,Payment,220.4,2022-10-10,"Blankenship, Gonzales and Mccormick",72829.43,Entertainment,True
+5131004,8917503,Transfer,5416.57,2022-12-22,"Hurst, Green and Sweeney",60515.49,Utilities,False
+2220375,9315813,Payment,3500.71,2023-02-10,Schmidt PLC,73313.1,Health,True
+3947988,7965616,Payment,892.99,2023-06-14,Williams-Gonzalez,98790.41,Travel,False
+2225776,8891535,Payment,3720.68,2023-11-21,"Castillo, Hobbs and Harper",60484.01,Entertainment,True
+3947661,2275575,Payment,7675.61,2023-03-07,Sanders-Higgins,10412.13,Health,False
+5091885,7018810,Transfer,5588.62,2022-05-26,"Jones, Hernandez and Whitney",37621.16,Health,True
+5558788,4926267,Transfer,7750.35,2023-07-22,"Scott, King and Smith",14918.16,Travel,True
+8364672,5819322,Payment,6194.32,2023-05-27,"Lewis, Green and Wang",80592.95,Entertainment,False
+3765081,1313803,Deposit,3874.97,2023-01-08,"Brown, Braun and Moore",93527.63,Utilities,False
+5278101,3576856,Withdrawal,8711.77,2022-03-23,Cantrell-Nolan,5970.07,Groceries,True
+3660154,8754885,Withdrawal,2360.58,2022-02-02,Armstrong Ltd,5124.04,Health,True
+1587806,8749022,Transfer,9586.72,2023-09-11,Miller Ltd,34197.32,Entertainment,True
+5636338,1734095,Payment,3943.64,2022-04-06,Gonzales Inc,67418.98,Entertainment,False
+5668655,8379965,Transfer,5000.16,2023-09-29,Schmidt-Bowers,4290.87,Groceries,True
+1798653,4842055,Withdrawal,7980.06,2022-05-14,"Ross, Wilson and Goodwin",29416.4,Groceries,False
+7304060,3550343,Withdrawal,4461.46,2023-01-08,"Wright, Alvarez and Hobbs",94711.2,Groceries,False
+2031011,3608636,Payment,6374.55,2023-08-29,Camacho-Hurley,91158.96,Utilities,False
+7120665,8584505,Deposit,5572.69,2022-09-16,"Ray, Vazquez and Ortiz",49399.22,Health,True
+5934600,4720711,Withdrawal,8040.25,2023-09-12,"Bailey, Weaver and Rogers",93864.38,Health,True
+6676663,8318008,Deposit,913.48,2023-05-06,"Sexton, Hogan and Murphy",75259.96,Utilities,False
+9155257,2477789,Deposit,1119.88,2022-06-27,Deleon Inc,20720.01,Health,False
+2887378,7517441,Deposit,1968.39,2023-10-21,Perez-Williams,43766.57,Entertainment,False
+4375176,1319142,Withdrawal,5027.52,2022-10-08,Scott-Walton,85362.22,Entertainment,False
+2150449,6918627,Withdrawal,7540.84,2023-06-04,Bell Group,63304.46,Entertainment,False
+5142059,1299751,Payment,9534.65,2022-01-05,Jordan PLC,42531.96,Entertainment,True
+4636698,3130617,Transfer,5065.53,2023-02-24,Tucker-Freeman,90625.06,Entertainment,False
+8972817,3815994,Payment,9598.21,2022-10-22,Clark Inc,60817.53,Groceries,False
+8643114,3545332,Payment,7551.3,2023-09-20,Jones and Sons,41726.68,Entertainment,True
+4698454,9629764,Deposit,5016.91,2022-04-30,Nguyen-Cox,63724.09,Entertainment,True
+3689376,8974455,Withdrawal,6173.89,2023-05-27,"Poole, Mitchell and Johnson",53197.94,Health,True
+3725156,2266674,Deposit,3832.39,2023-06-20,Torres PLC,39452.6,Travel,False
+7946868,8165813,Payment,4433.02,2023-11-17,Walker Ltd,90672.62,Health,False
+4123846,2570765,Transfer,2423.75,2023-06-28,Johnson Group,8233.31,Groceries,True
+6832230,4018569,Transfer,9519.07,2022-10-18,Rivera-Williams,2825.23,Entertainment,True
+5432930,8499895,Transfer,172.18,2023-03-26,Cunningham-Jackson,6127.31,Travel,False
+6625269,7406749,Transfer,7503.43,2023-05-30,Watson-Brandt,82669.59,Utilities,True
+6692222,6743333,Transfer,2572.32,2022-01-06,Thompson-Mcintyre,86745.68,Groceries,True
+2505665,5855645,Withdrawal,115.96,2022-03-12,Zamora-Bradley,44973.67,Utilities,True
+5996595,4167255,Deposit,6257.52,2023-06-04,Espinoza-Christian,81050.58,Health,True
+9835970,5448254,Transfer,8932.94,2023-12-07,"Cline, Glover and George",17332.77,Entertainment,False
+6024652,4355058,Transfer,3307.13,2022-07-16,Garcia LLC,54545.38,Entertainment,True
+5304550,5927021,Payment,911.94,2022-11-15,"Saunders, Scott and Todd",22622.23,Travel,False
+7480648,3171595,Payment,3417.54,2023-02-17,Simmons Ltd,9179.59,Entertainment,True
+1744500,8211774,Deposit,6489.09,2023-02-23,Johnson Ltd,96684.55,Groceries,False
+5629208,7059607,Transfer,9778.52,2022-08-27,"Jones, Chavez and Cooper",32650.07,Utilities,True
+9509498,6808554,Payment,3145.02,2023-03-20,Robbins LLC,96663.28,Utilities,False
+6744386,7252943,Transfer,2019.12,2023-04-16,Rosario Group,71768.09,Groceries,False
+9372796,4468649,Transfer,3089.43,2022-10-16,Moreno PLC,46308.41,Groceries,False
+6862798,5812768,Withdrawal,1059.23,2022-01-29,Johnson-Collier,36304.5,Entertainment,False
+1096182,2119288,Deposit,6818.83,2023-05-17,Ellis-Figueroa,761.35,Health,True
+9658026,5711849,Transfer,9155.99,2022-07-13,Hansen-Reyes,28411.07,Entertainment,True
+9405504,9624651,Deposit,757.44,2022-11-15,Wade Ltd,75450.69,Utilities,False
+5100634,1890808,Withdrawal,2254.89,2022-05-05,Sanders-Harvey,74246.73,Utilities,True
+7901403,1466951,Withdrawal,3367.4,2022-02-23,"Francis, Moody and Galvan",83177.58,Utilities,True
+2217711,8948846,Transfer,1953.35,2022-11-09,"Faulkner, Atkins and Cobb",58132.46,Health,True
+9732964,8189684,Payment,8666.68,2023-10-31,Mcdaniel-Thompson,73315.09,Travel,True
+2410000,8171350,Payment,1909.41,2022-11-29,Reid-Saunders,45885.37,Groceries,False
+7497472,5963426,Deposit,1091.62,2022-03-17,Reynolds-Hamilton,36794.44,Travel,True
+2300602,5837481,Withdrawal,9867.71,2023-11-08,Hudson-Reynolds,81513.18,Health,False
+3496205,5472784,Withdrawal,8450.7,2022-06-26,Smith Inc,83591.39,Travel,True
+3267723,2534673,Payment,1733.53,2023-02-26,Sutton-Lopez,50123.59,Health,True
+1509602,9664359,Transfer,1198.14,2023-11-04,Francis-Gross,81105.41,Utilities,False
+1219122,1627015,Payment,3423.77,2023-04-15,"Thomas, Heath and Montes",48182.8,Entertainment,True
+3513629,6237062,Transfer,3066.76,2022-08-26,Melendez-Terry,39097.97,Groceries,False
+9474452,7601250,Withdrawal,1201.91,2023-11-05,Garcia-Cooper,26333.91,Groceries,True
+1024289,7340806,Withdrawal,4897.33,2022-07-18,Patel LLC,88281.98,Health,False
+9169077,5762606,Withdrawal,3316.93,2022-06-14,"Evans, Herrera and Jackson",43185.41,Utilities,False
+5381329,6442336,Withdrawal,8146.55,2022-04-14,Davis LLC,74961.29,Health,False
+4864845,4870810,Deposit,1689.94,2023-06-27,"Estes, Olson and Wells",13621.89,Health,False
+3511748,9637472,Withdrawal,4881.45,2022-08-31,Daniels LLC,70010.79,Health,False
+9681020,9955333,Payment,7497.08,2023-06-26,Davies-Petty,87871.38,Health,True
+9269675,7633385,Transfer,6196.03,2023-08-23,Hogan-Shepherd,29638.25,Groceries,True
+3718574,5900769,Deposit,379.36,2023-01-06,Olson-Murray,11654.36,Travel,True
+1015720,3032181,Deposit,2268.95,2023-06-05,Griffin Ltd,29867.13,Groceries,True
+7798952,3871740,Withdrawal,5709.4,2022-10-10,Soto-Lopez,45259.68,Health,False
+3486974,8786014,Payment,7521.1,2022-11-27,"Sharp, Zimmerman and Dunn",1753.21,Travel,True
+2370490,6298110,Transfer,867.5,2022-02-16,"Fisher, Fields and Thomas",35771.39,Health,False
+9316331,1753290,Withdrawal,603.76,2022-03-05,"Price, Larson and Tucker",88389.96,Travel,True
+2117168,3614758,Payment,8521.49,2022-08-15,Travis and Sons,47333.16,Health,True
+1145387,5362836,Withdrawal,4499.82,2022-06-20,Ramirez and Sons,31588.44,Entertainment,False
+5948012,9898913,Payment,8425.68,2023-08-17,"Miller, Thompson and Jacobs",13909.09,Groceries,True
+8420139,1158174,Deposit,3443.44,2022-10-11,Johnson-Leblanc,38581.22,Groceries,False
+5430794,7931276,Payment,8491.95,2022-08-16,Wyatt-Gordon,16603.86,Utilities,False
+5694517,9165181,Deposit,8488.63,2023-04-25,Martinez-Arnold,16017.34,Travel,False
+1313042,6061126,Transfer,7524.68,2022-07-25,"Guerrero, Wall and Mooney",26860.63,Groceries,True
+5032303,5825280,Payment,2918.28,2023-01-22,Wilson-Ritter,66780.27,Travel,True
+7079788,9150290,Deposit,7183.01,2022-06-08,"Warren, Spencer and George",70056.6,Travel,True
+9468196,3472432,Withdrawal,9990.53,2022-09-03,Clark-Pratt,30880.41,Travel,False
+9762408,1800196,Deposit,6255.3,2023-12-02,Rojas Group,26612.44,Entertainment,True
+5899019,1165249,Transfer,9129.53,2023-02-07,Bauer-Miles,20760.3,Entertainment,True
+9904424,7984640,Deposit,6110.74,2023-05-10,Henderson Inc,29542.04,Groceries,False
+4465815,6431695,Payment,1346.54,2022-12-28,"Lynch, Hoffman and Kelly",65862.19,Groceries,True
+7588696,3997846,Payment,5473.74,2022-07-10,"Hoover, Robertson and Harris",88877.45,Utilities,False
+7078412,1617346,Withdrawal,3206.1,2022-06-07,Martinez LLC,50126.45,Entertainment,True
+5587672,1350589,Transfer,1602.34,2023-05-25,Floyd and Sons,33563.62,Travel,True
+5967154,7249086,Deposit,2730.86,2023-06-08,Bell-Gomez,78676.82,Entertainment,False
+1152646,7971152,Withdrawal,9215.21,2022-05-21,Russell-Stewart,13479.05,Health,True
+6867905,9294231,Deposit,8374.47,2023-08-26,Myers PLC,92459.55,Utilities,False
+8141630,3918657,Deposit,1209.53,2023-10-12,"Avery, Blair and Young",86511.04,Entertainment,True
+8915684,3830402,Withdrawal,8115.26,2023-01-23,Holloway-Lewis,85720.95,Groceries,True
+3749461,4786284,Withdrawal,2602.61,2023-02-10,"Rich, Sexton and Tran",84792.57,Health,False
+4958231,9178327,Payment,9861.28,2022-12-07,Phillips LLC,36720.72,Utilities,True
+3671887,3314318,Payment,3307.65,2023-02-15,"Sharp, Elliott and Gibson",16715.67,Groceries,True
+1459392,2883800,Payment,667.13,2022-11-20,Robertson LLC,89698.1,Entertainment,True
+3580303,2564301,Payment,1077.66,2022-07-05,Gibson-Harris,81355.3,Travel,True
+6855203,9338470,Transfer,1253.06,2022-04-27,"Mcdonald, Romero and Contreras",3614.58,Travel,False
+1953450,9328713,Payment,5066.32,2022-12-02,Lee-Harrison,62091.03,Health,False
+5507670,1598642,Withdrawal,8003.57,2022-07-28,"Benjamin, Smith and Jones",43496.35,Travel,True
+6898312,5740819,Withdrawal,6114.66,2022-11-04,Hendrix and Sons,52496.47,Entertainment,True
+8013517,7905770,Withdrawal,5251.99,2023-12-24,Hill Group,82963.76,Health,True
+8349502,1285085,Deposit,7580.04,2023-08-10,Martinez Group,537.27,Travel,False
+9999940,7628029,Payment,3511.9,2023-02-04,Hodges LLC,28695.05,Utilities,False
+3268555,2423106,Withdrawal,3735.71,2023-11-23,Taylor LLC,37915.7,Groceries,False
+7144820,6661096,Transfer,5067.15,2022-02-28,"Nguyen, Sullivan and Oconnor",10002.36,Groceries,False
+8799409,1003263,Deposit,7202.41,2022-08-01,"Ray, Barron and Johnson",87263.37,Health,True
+5144540,5130742,Payment,6858.0,2022-09-07,"Rogers, Crawford and Hudson",67870.63,Utilities,True
+2317800,5257247,Transfer,1396.18,2022-04-18,Davis LLC,16214.61,Travel,False
+3416027,4849718,Deposit,7583.2,2023-06-07,Garcia-Moore,16017.42,Travel,False
+4227059,2645206,Deposit,4525.0,2022-01-28,Scott-White,8682.98,Health,True
+5137672,6421967,Withdrawal,9066.98,2022-09-20,"Hayes, Allen and Holt",61985.82,Utilities,True
+8601827,9140100,Transfer,1865.99,2022-04-30,Tucker-Hobbs,71986.75,Health,False
+9909197,4315716,Payment,6345.33,2023-12-01,Reynolds LLC,3276.72,Entertainment,False
+4782499,6588196,Deposit,3604.74,2023-05-11,"Zimmerman, Graham and Galloway",88639.52,Health,False
+6938516,2479777,Transfer,5720.89,2023-01-04,Hood Inc,49953.69,Utilities,False
+1112640,7014395,Withdrawal,7305.16,2022-09-25,"Randolph, White and Robertson",81897.51,Travel,False
+8176249,4247272,Transfer,5067.86,2022-02-23,Wilson-Peterson,90006.24,Entertainment,True
+6426856,9129552,Payment,9562.73,2022-06-25,"Wong, Downs and Hurst",91917.98,Utilities,True
+7598525,1883966,Withdrawal,6110.75,2022-02-24,"Thompson, Mayer and Holmes",55385.83,Entertainment,False
+6880783,9215653,Transfer,3532.41,2023-10-08,Sparks-Parker,50101.94,Travel,True
+6563553,2595518,Payment,1691.53,2022-12-20,Roberts and Sons,90225.42,Utilities,True
+9360960,2792990,Payment,8361.12,2022-12-06,"Thomas, Fischer and Wright",12720.96,Health,False
+7920377,9981799,Withdrawal,7518.59,2023-08-25,"Williamson, Pearson and Reid",28743.06,Groceries,True
+3134180,3900739,Deposit,6958.59,2022-01-06,Richards LLC,90534.19,Groceries,False
+1158401,5289958,Withdrawal,114.69,2022-03-25,"Keith, Thomas and Mays",44311.01,Travel,False
+1792225,5648657,Transfer,5268.6,2023-03-25,Wells Inc,51779.7,Groceries,False
+2940695,6472006,Transfer,971.79,2022-03-07,Duran-Murphy,88757.84,Entertainment,False
+8813073,1141565,Payment,5351.77,2023-03-05,Salazar and Sons,26799.36,Health,False
+7849678,5985911,Deposit,3393.16,2023-01-04,Cooper-Huynh,93890.62,Entertainment,False
+1206167,4893058,Payment,1210.48,2022-02-09,Wise LLC,74253.58,Health,True
+5783114,6411796,Payment,7682.92,2022-04-19,"Hanson, Maxwell and Berry",3914.73,Groceries,True
+1038586,1712575,Deposit,4922.48,2022-11-10,"Brennan, Patrick and Evans",30973.08,Travel,True
+6688353,1834813,Withdrawal,3117.87,2022-01-12,"Walter, Smith and Cooper",50633.34,Utilities,True
+8465887,3921115,Deposit,4934.71,2022-05-25,Daniels and Sons,62741.66,Entertainment,False
+2097038,9765638,Deposit,4278.33,2023-02-25,Gonzalez Ltd,98705.41,Travel,False
+5333980,8257711,Withdrawal,6975.47,2023-12-02,Booth Inc,1812.0,Groceries,True
+1128074,4306701,Deposit,4729.14,2023-02-18,Allen Ltd,90964.02,Entertainment,False
+7745093,8384239,Payment,1845.14,2022-09-28,"Adams, Johnson and Gardner",21251.45,Utilities,True
+7093091,5020777,Payment,7899.59,2023-07-27,Phillips-Cobb,43596.71,Utilities,True
+1116266,7303521,Withdrawal,1931.68,2023-01-12,Lopez-Thompson,58134.2,Groceries,True
+5729087,8213990,Deposit,4624.9,2023-02-24,"King, Monroe and Bowen",22091.29,Groceries,True
+8773370,6035029,Transfer,1302.87,2022-11-12,Galloway-Morris,85842.06,Health,False
+2285673,3354368,Payment,8551.44,2022-06-01,"Vargas, Kaiser and Medina",78587.23,Health,False
+3383410,5065740,Transfer,2975.02,2022-04-24,Johnson-Guerrero,60100.43,Travel,True
+2979222,3866248,Payment,1781.8,2022-10-24,Burke Group,4577.46,Travel,False
+6840800,3818078,Payment,9597.15,2022-01-17,Mcintyre-Johnson,53860.78,Health,False
+2392963,2089621,Deposit,8416.24,2023-02-03,Price Ltd,29806.61,Health,True
+4239516,1505991,Withdrawal,9483.2,2023-12-04,Miller-May,90749.23,Groceries,True
+8809979,1055746,Deposit,387.48,2022-01-10,Meyer-Dyer,96379.05,Travel,True
+6310276,8653444,Withdrawal,9248.39,2023-09-04,Kim-Williams,3105.33,Health,True
+8973493,7447149,Transfer,8726.65,2023-12-18,Garrison-Woodard,70283.09,Utilities,False
+2674037,5135811,Withdrawal,8956.71,2023-12-04,Woods-Wright,24576.25,Entertainment,True
+8481788,3667225,Withdrawal,1399.09,2023-07-21,Avila-Vargas,74446.17,Travel,False
+8105115,6934868,Payment,9792.31,2022-01-06,Booth-Bowers,63663.5,Groceries,False
+7372020,6777116,Deposit,6021.23,2023-04-01,"Hayes, Hale and Gonzalez",44532.3,Groceries,True
+2185339,2606107,Transfer,6528.38,2022-09-06,Nelson-Kelly,47153.37,Entertainment,True
+5984221,2024094,Payment,5584.2,2023-01-03,Gomez Group,15411.25,Health,False
+6108596,5982088,Transfer,3819.96,2023-09-18,Hill-Thompson,58822.79,Groceries,True
+3924383,4920820,Withdrawal,1548.56,2023-05-30,Ramirez-Morgan,85786.61,Entertainment,True
+7434301,3350568,Deposit,7023.62,2022-03-28,Lucero LLC,47608.24,Health,True
+4922279,7219443,Payment,1612.66,2022-10-13,Woods PLC,67874.42,Health,False
+6540965,7022639,Payment,4114.48,2023-11-28,"Myers, Fuentes and Smith",27942.63,Groceries,False
+1130231,4593064,Transfer,2429.87,2022-01-27,Green LLC,54775.93,Utilities,True
+1012172,6500774,Deposit,5433.54,2022-08-24,Lewis-Cortez,96618.55,Health,False
+4197381,6392660,Withdrawal,4049.91,2022-04-03,Rodriguez-Griffin,3794.73,Utilities,True
+3559350,4816510,Withdrawal,5632.11,2022-06-19,"Norris, Morrison and Wilkerson",82708.04,Travel,False
+3182905,7573691,Withdrawal,7529.56,2022-01-29,Brooks-Fritz,22008.17,Entertainment,False
+5483688,8131256,Deposit,7093.2,2023-06-09,Gillespie-Marsh,93481.81,Utilities,False
+7883778,4498887,Withdrawal,4620.03,2023-09-15,Mcbride and Sons,11427.05,Entertainment,False
+2352858,1364862,Transfer,5357.44,2022-02-08,"Ortiz, Miller and Vincent",6150.65,Health,False
+8969410,5909899,Payment,7134.64,2023-02-18,"Stevens, Wood and Atkinson",94734.19,Groceries,False
+4873017,9314118,Withdrawal,8473.82,2022-11-16,"Fernandez, Becker and Peterson",53294.94,Utilities,False
+5180637,2052654,Payment,4458.54,2023-11-10,Bell Inc,61744.94,Health,True
+1115295,1102032,Withdrawal,3985.99,2022-10-18,"Allen, Harmon and Rosales",70522.68,Health,True
+5856472,1413977,Payment,7452.99,2023-06-28,"Ramos, Butler and Cook",7395.93,Entertainment,True
+9655251,4901672,Transfer,6403.59,2022-11-09,Williams-Russell,8576.18,Utilities,False
+5739734,1100170,Deposit,2711.12,2023-09-17,"Jensen, Norris and Cooke",15803.27,Health,False
+3776503,1706101,Deposit,6622.46,2022-10-19,"Rubio, Jones and Robinson",3751.55,Utilities,False
+1129045,4049664,Transfer,9052.96,2023-11-17,Gray-Holmes,7458.28,Travel,True
+9724662,7781090,Payment,6571.96,2023-11-13,Russo-Medina,14349.7,Health,True
+4434775,8384408,Deposit,4320.6,2023-02-25,Jordan-Turner,67292.46,Utilities,True
+6739935,3176531,Withdrawal,5042.8,2022-05-21,Coleman-Henson,20021.24,Utilities,False
+9554832,1718171,Withdrawal,7670.89,2022-09-14,Anderson-Wise,96053.8,Groceries,False
+1913966,4876319,Transfer,3503.51,2023-01-26,Garcia-Harrell,21809.86,Health,False
+7418325,8254184,Deposit,4746.33,2023-10-28,Crawford Inc,24518.65,Travel,True
+2858986,5978401,Payment,6965.79,2023-10-09,Miller LLC,32340.43,Travel,False
+1775276,7743227,Deposit,7063.11,2023-05-06,Santos-Matthews,26801.07,Travel,False
+4502331,6215701,Withdrawal,2216.24,2022-02-22,Williams-Oneal,51415.66,Health,True
+2908276,8125545,Payment,8268.24,2023-05-25,Leonard-Thomas,44489.2,Travel,False
+5858880,2874277,Payment,7528.51,2023-08-30,Rogers LLC,45394.41,Entertainment,False
+1949568,2909126,Withdrawal,1493.13,2022-09-14,"Edwards, Booker and Clark",61418.43,Groceries,True
+2422763,3380077,Payment,7836.63,2023-04-20,"Larson, Gardner and Watson",70762.46,Travel,True
+5111669,5010950,Transfer,9975.97,2023-11-18,"Edwards, Gallegos and James",62058.82,Utilities,True
+8219167,3995138,Withdrawal,3682.28,2023-09-04,Ferguson-Graham,92600.78,Travel,True
+4137193,4399874,Withdrawal,482.21,2022-07-16,Watson and Sons,70746.45,Entertainment,True
+1383947,9910851,Transfer,9697.66,2023-04-12,Madden-Manning,12247.48,Travel,False
+9312155,9649523,Transfer,7883.17,2022-09-29,Benson Group,47493.15,Travel,False
+5089043,2778983,Payment,3409.44,2022-08-28,Brown-Johnson,878.28,Travel,True
+4089242,9620690,Withdrawal,4889.33,2022-09-19,Kim LLC,42827.76,Health,True
+8856026,5535836,Withdrawal,3031.36,2022-10-19,"Hodge, Mccarthy and Armstrong",92673.77,Entertainment,True
+6822294,3252915,Payment,7200.91,2023-12-15,"Moore, Allison and Giles",64012.99,Travel,True
+2216883,5321591,Transfer,2566.2,2023-02-08,Martin-Rios,81371.2,Travel,False
+2790237,6232153,Transfer,7366.15,2022-10-12,Owens-Melton,44724.76,Groceries,False
+7343062,2187622,Deposit,4908.4,2022-06-14,Baker-Brown,38685.0,Utilities,False
+1447861,6208279,Withdrawal,5965.17,2023-08-30,Goodwin Ltd,88119.06,Groceries,False
+3937591,9942794,Payment,874.74,2022-03-04,Smith Inc,73633.76,Travel,True
+3917627,1934357,Withdrawal,4797.56,2022-12-18,Lewis-Fox,42053.92,Entertainment,False
+8532463,2543455,Transfer,6836.94,2023-01-22,Jackson-Blake,15729.61,Travel,True
+5091379,3016205,Withdrawal,4207.81,2022-08-29,Vargas-Morris,19030.03,Entertainment,True
+8085263,4229759,Transfer,8477.19,2022-09-13,"Perez, Hendricks and Parks",55262.48,Travel,False
+7340267,1134691,Payment,1261.95,2023-07-17,Ross Group,85727.18,Groceries,False
+4966411,2429907,Deposit,1756.44,2022-08-26,Mccarty-Lane,68212.33,Travel,False
+8772849,7576182,Payment,4396.78,2023-07-12,Nichols-Rubio,3728.81,Groceries,False
+5482235,5136140,Withdrawal,7084.86,2023-05-22,Johnson-Fields,43436.41,Health,False
+9973489,7837464,Payment,7349.9,2023-05-18,"Davis, Lloyd and Stevens",93780.09,Entertainment,False
+9308596,1633629,Transfer,7128.83,2022-06-13,Peterson-Watkins,2406.53,Entertainment,False
+6268251,1076305,Payment,5374.77,2023-10-06,Love-Cameron,30032.47,Groceries,False
+9914324,7866308,Withdrawal,8377.47,2023-07-25,"Morgan, Potts and Brown",13341.14,Entertainment,False
+5265288,4344327,Transfer,8813.02,2022-09-04,Ware-Logan,40707.3,Health,False
+7210359,3786778,Deposit,1974.04,2022-12-04,"Martin, Jones and Matthews",75469.03,Utilities,True
+8185074,9593137,Withdrawal,4825.42,2023-10-27,"Walker, Rodriguez and Lynch",12179.75,Entertainment,False
+3797579,9363126,Withdrawal,8693.09,2023-04-24,Ferguson-Castro,95759.91,Utilities,False
+2503983,7039332,Withdrawal,4787.98,2022-06-23,Diaz Group,95884.57,Health,False
+3852100,9575949,Withdrawal,3748.89,2023-08-17,Bryant Inc,82236.54,Travel,False
+5811031,3674585,Deposit,1759.06,2022-06-27,Wolf PLC,77380.38,Entertainment,True
+5915395,3395423,Deposit,7768.39,2022-03-07,Hull-Gonzalez,67865.28,Entertainment,True
+9623105,5353769,Payment,8712.68,2023-09-14,Vance PLC,6081.21,Utilities,False
+9274119,5003856,Payment,2764.88,2023-02-06,"Roberts, Kennedy and Case",59781.62,Health,False
+9777798,2212835,Deposit,2162.8,2022-03-07,Martinez PLC,60738.77,Entertainment,True
+8638828,8135143,Withdrawal,9842.02,2022-06-22,Garcia PLC,10036.09,Groceries,True
+2475258,1983288,Transfer,2535.0,2022-09-05,Gonzalez and Sons,822.56,Travel,False
+7279247,6769013,Transfer,6112.69,2023-12-08,"Phillips, Gibson and Thomas",29289.11,Groceries,True
+7889610,6632330,Payment,5487.62,2023-06-14,Miller-Nichols,90252.41,Utilities,False
+8162029,5729797,Payment,2861.39,2023-05-01,"Martin, Glass and Owens",17622.7,Entertainment,True
+7171869,4791209,Payment,1436.04,2022-04-04,"Porter, Johnson and Phillips",17156.74,Groceries,False
+2533220,2885237,Deposit,7433.83,2023-02-21,Martinez-Lopez,36299.29,Entertainment,False
+4236596,6119999,Deposit,2281.14,2022-05-26,"Townsend, Riddle and Payne",7286.15,Utilities,True
+1303680,5909152,Payment,7390.84,2023-08-18,Carter Inc,45964.75,Groceries,True
+1568180,7729933,Withdrawal,7023.29,2023-12-09,"Mercado, Mccall and Bell",67864.77,Health,True
+7462429,1057449,Deposit,5020.33,2022-05-29,Sanchez PLC,32989.92,Entertainment,True
+4273431,7360655,Transfer,1840.17,2023-08-05,"Matthews, Miller and Cruz",84517.78,Groceries,False
+2949142,3981474,Transfer,1142.5,2023-09-26,"Arroyo, Strong and Dyer",36123.78,Groceries,True
+6345635,5727288,Transfer,9099.65,2022-06-22,"Neal, Strong and Rice",55943.88,Entertainment,False
+7241671,7012550,Transfer,1615.22,2023-05-16,Werner Inc,70941.62,Entertainment,True
+8729025,1569050,Transfer,5811.59,2022-06-11,Willis PLC,35455.33,Groceries,True
+6408286,2804189,Payment,3304.29,2023-12-20,"Haney, Hall and Olson",59472.82,Travel,True
+5277670,2380604,Deposit,1100.86,2022-01-09,Cannon-Burns,51075.93,Groceries,False
+4776152,8379636,Deposit,23.49,2023-12-24,Lee PLC,61371.08,Health,False
+2829932,9988092,Transfer,2945.66,2023-10-28,Richardson Ltd,52342.46,Health,True
+3081887,6598830,Transfer,6120.56,2023-11-27,"Wilson, Marsh and Lee",5495.2,Groceries,False

@@ -1,0 +1,1001 @@
+Employee_ID,Name,Department,Role,Base_Salary,Bonus,Total_Compensation,Years_of_Experience,Education_Level,Gender,Age,City,Performance_Rating
+96499,Stephanie Frederick,Marketing,Consultant,62389.81,43648.55,80630.57,20,PhD,Female,39,Houston,3.8
+48005,Michael Garrett,Sales,Analyst,44107.94,41878.18,154376.12,4,PhD,Male,46,Houston,2.0
+29216,Alexandra Gomez,Sales,Consultant,75102.01,17994.86,50781.98,2,Master's,Female,36,San Francisco,4.3
+26693,Nicole Lee,Engineering,Sales Executive,71168.27,40515.81,50327.45,28,Bachelor's,Other,32,Los Angeles,2.8
+78211,Nicole Dennis,Marketing,Engineer,42852.42,26025.59,144373.28,18,Master's,Female,51,San Francisco,2.1
+69857,Sara Bradshaw,Engineering,Analyst,147743.1,20544.5,76156.7,23,PhD,Female,31,Chicago,2.1
+23709,Mark Anderson,Sales,Manager,94782.78,19083.73,46059.58,1,Bachelor's,Male,38,Chicago,2.4
+44101,Denise Erickson,HR,Analyst,46458.55,42164.0,51016.19,24,PhD,Female,28,Chicago,1.0
+54438,Kyle Wilson,HR,Consultant,40895.74,40123.86,194429.78,29,PhD,Other,25,San Francisco,4.3
+98544,Christopher Taylor,HR,Engineer,72345.07,32135.57,122801.37,13,PhD,Other,45,San Francisco,2.9
+47149,Jessica Shah,Sales,Engineer,91705.75,26514.65,62444.09,7,Master's,Female,34,New York,4.0
+15996,Miguel Ellis,Marketing,Sales Executive,81430.64,10877.83,100142.29,8,Bachelor's,Other,22,New York,4.5
+17704,Jennifer Erickson,Finance,Engineer,48134.86,36326.04,82372.34,1,Master's,Male,49,Chicago,3.4
+18289,David Webb,HR,Sales Executive,78786.26,33652.82,97897.41,14,Bachelor's,Male,25,San Francisco,3.7
+30081,Leslie Hernandez,Sales,Analyst,105708.25,38906.92,95434.99,16,Bachelor's,Female,29,San Francisco,1.6
+99783,Richard Jones,Sales,Manager,73401.02,28982.2,104865.46,6,Master's,Female,25,San Francisco,3.5
+24043,Stephen Hood,Sales,Consultant,107024.32,34813.02,171434.19,13,Bachelor's,Female,59,Chicago,2.9
+69101,Jean Kim,HR,Sales Executive,67276.84,37088.17,66992.89,20,Master's,Male,45,New York,4.3
+51298,Melinda Rodriguez,Finance,Analyst,91580.11,32809.14,91825.05,21,Bachelor's,Female,26,San Francisco,1.9
+44349,Mrs. Haley Beasley,Marketing,Engineer,137528.38,20938.15,196664.58,3,Master's,Female,36,San Francisco,2.8
+22196,Andrew Miller,Sales,Consultant,110590.8,27051.76,48738.05,2,Bachelor's,Female,39,Los Angeles,3.6
+84946,Rebecca Cummings,Marketing,Manager,127207.27,45151.0,134636.14,24,PhD,Male,29,New York,2.7
+82193,Jose Gomez,Marketing,Consultant,145323.38,48572.49,127007.25,4,PhD,Other,26,San Francisco,4.0
+53594,Willie Choi,Engineering,Analyst,45356.29,28913.35,146887.57,2,PhD,Other,32,Los Angeles,4.2
+78933,Cynthia Barajas,Finance,Consultant,74647.69,5748.7,106455.17,20,Bachelor's,Male,49,New York,4.2
+99497,Anthony Wong,HR,Manager,42761.53,25603.66,199688.3,28,Master's,Female,58,Los Angeles,3.8
+98100,Gary Taylor,Sales,Engineer,66021.11,35714.16,89544.17,26,Master's,Female,40,Los Angeles,4.0
+35568,Matthew Lynch,Engineering,Engineer,63419.9,30611.54,68693.44,27,PhD,Male,52,New York,3.0
+60618,Kyle Nichols,Marketing,Analyst,79805.72,30319.53,191758.35,12,Bachelor's,Male,50,New York,2.9
+18341,Stephanie Clark,Finance,Sales Executive,133586.63,18851.18,134994.1,11,Master's,Male,39,Houston,4.6
+97966,Elizabeth Marshall,Engineering,Manager,102207.45,6541.64,117362.17,10,Bachelor's,Other,52,San Francisco,3.1
+91831,Jordan Sloan,Engineering,Engineer,80628.38,13325.48,182508.29,6,Bachelor's,Female,45,Chicago,1.1
+88334,Judy Bailey,Sales,Sales Executive,57624.5,5414.61,181873.32,20,Master's,Female,59,Los Angeles,1.2
+10693,Lindsey Walters,Engineering,Sales Executive,100879.03,13930.55,107564.68,27,Bachelor's,Other,46,Houston,4.7
+93614,Jacob Reed,Finance,Engineer,109753.09,44386.05,45811.5,8,Bachelor's,Other,25,Los Angeles,2.7
+89439,Michael Daugherty,Marketing,Sales Executive,89134.96,39141.32,49690.67,22,Bachelor's,Female,55,New York,3.6
+80693,Ashley Cole,Finance,Sales Executive,100231.64,7082.74,114852.69,28,PhD,Other,59,San Francisco,2.8
+40368,Lauren Dominguez,HR,Sales Executive,112580.38,5844.7,98036.99,15,Bachelor's,Other,47,New York,1.7
+74489,Karen Perry,HR,Sales Executive,83899.56,49693.12,72344.22,13,Bachelor's,Male,49,Chicago,2.1
+90806,Chelsea Tate,HR,Manager,90417.04,21337.18,107887.05,11,PhD,Male,26,Chicago,2.3
+57750,Curtis Marshall,Marketing,Sales Executive,85069.05,12086.74,143652.68,7,Bachelor's,Female,23,Los Angeles,2.1
+65850,Lisa Valentine,HR,Manager,41893.74,49643.2,169680.7,21,PhD,Female,30,Los Angeles,4.4
+63844,Melanie Singh,Marketing,Sales Executive,97715.71,12553.69,74697.12,13,Bachelor's,Other,52,Los Angeles,4.7
+80609,Amanda Sweeney,Sales,Consultant,59975.93,26475.24,151445.01,18,PhD,Female,57,Los Angeles,4.8
+51288,Matthew Myers,Engineering,Consultant,138157.13,36952.55,189343.0,26,Bachelor's,Male,31,Los Angeles,3.3
+89229,Alexander Sanchez,Marketing,Engineer,110667.48,39019.35,85910.35,2,Master's,Male,42,New York,4.4
+14789,Peter Park,Engineering,Analyst,46563.64,20181.46,89073.58,5,Master's,Other,32,Los Angeles,4.2
+32559,Christopher Ortiz,Finance,Engineer,114749.84,11273.74,176138.3,25,PhD,Female,34,Los Angeles,2.0
+56634,Martin Travis,Sales,Sales Executive,127881.61,36130.11,123489.81,22,Master's,Male,26,San Francisco,1.0
+70031,Justin Lara,Marketing,Engineer,90304.04,16806.16,93865.92,5,PhD,Other,42,Chicago,3.8
+90397,Danny Young,Finance,Consultant,60029.54,13460.48,148830.66,1,Bachelor's,Female,53,San Francisco,2.9
+13347,Samantha Gutierrez,Marketing,Consultant,147061.75,19446.48,146815.7,6,PhD,Male,38,Los Angeles,1.9
+63664,Jonathan Smith,Marketing,Analyst,108861.42,20602.95,51578.59,6,Master's,Other,25,Chicago,2.4
+50195,Alan Williams,HR,Analyst,137386.78,9573.63,121922.01,25,Master's,Female,32,Chicago,2.6
+80834,Richard Holland,Engineering,Analyst,48955.63,30504.1,193302.97,26,Master's,Female,46,San Francisco,2.4
+85238,Timothy Jensen,Sales,Consultant,118689.13,26639.51,140375.87,18,PhD,Female,32,Houston,1.1
+86135,James Castro,Engineering,Sales Executive,123067.85,11462.54,71510.66,12,Master's,Other,34,New York,1.7
+17794,Jordan Levine,Engineering,Sales Executive,76797.75,45206.44,91679.37,22,Bachelor's,Other,43,Houston,2.7
+13892,Rebecca Obrien,Marketing,Consultant,147746.21,48645.97,94999.93,15,Master's,Male,24,Chicago,4.8
+98458,Casey Lawrence,Marketing,Engineer,108129.88,21064.67,97354.71,10,Master's,Female,33,New York,3.0
+80096,Dawn Thomas,Engineering,Analyst,72792.67,38510.03,85834.95,24,Master's,Male,30,New York,2.5
+67035,James Taylor,Marketing,Manager,89877.75,30026.05,68312.2,3,PhD,Female,34,San Francisco,4.1
+34695,Jean Fernandez,Marketing,Manager,66701.53,45696.71,59434.37,3,PhD,Female,44,Houston,4.2
+74805,Emily Hernandez,Finance,Sales Executive,135753.26,10878.84,193769.28,16,Master's,Other,34,New York,3.8
+98376,Christina Williams,Finance,Sales Executive,113640.51,37604.67,99017.42,25,Master's,Male,28,San Francisco,3.0
+66322,Terry Maldonado,HR,Engineer,84829.73,26219.84,194579.79,3,Bachelor's,Female,42,San Francisco,3.3
+43785,Bill Reese,Engineering,Manager,121979.08,26230.35,88059.03,18,Bachelor's,Other,49,Houston,2.8
+46980,Katrina Russell,HR,Sales Executive,101382.26,47415.48,126433.18,10,Bachelor's,Other,46,New York,2.7
+22625,Gregory Rivera,HR,Consultant,108404.23,9966.0,140022.62,25,Master's,Female,47,Los Angeles,2.7
+11200,Donald Martin,Sales,Consultant,65649.98,5802.05,76526.99,21,Bachelor's,Male,22,Houston,4.8
+57976,Stephen Roberts,Engineering,Manager,139090.94,35684.49,198708.55,15,Master's,Female,44,Houston,4.4
+80417,Carl Pittman,Sales,Analyst,109763.91,28268.59,147640.43,3,Bachelor's,Female,59,San Francisco,4.1
+52611,Cynthia Torres,Engineering,Analyst,56468.97,29752.94,72125.58,19,Bachelor's,Female,58,Los Angeles,4.8
+46034,Dominique Brooks,Marketing,Sales Executive,99851.89,16385.81,96474.53,3,PhD,Male,46,San Francisco,3.9
+53984,Kimberly Johnston,HR,Analyst,116447.29,29122.96,115300.98,29,Master's,Other,27,Los Angeles,2.1
+21926,Tracy Harrison,Engineering,Consultant,67710.62,49502.15,79287.6,4,Master's,Male,59,Houston,2.3
+73657,Joseph Rogers,Engineering,Engineer,147564.64,46611.76,125713.52,24,PhD,Other,39,New York,1.8
+99442,Anthony Parker,Marketing,Sales Executive,127501.96,30711.13,187992.02,6,PhD,Female,23,Chicago,4.5
+15473,Brian Rodriguez,Marketing,Sales Executive,122939.66,18459.4,83087.2,29,Bachelor's,Female,36,San Francisco,2.5
+38420,Sonya Daugherty,Finance,Manager,138292.65,11067.17,61119.82,24,Master's,Female,57,New York,1.2
+53014,Mary Allen,HR,Manager,147485.87,26922.06,69494.19,27,Bachelor's,Other,50,San Francisco,2.4
+10533,Edward Cole,HR,Sales Executive,55463.8,31933.9,142465.02,11,Master's,Other,57,Houston,3.0
+49975,Lori Rivera,HR,Analyst,45115.81,16423.21,60026.85,19,Bachelor's,Female,25,Los Angeles,4.8
+63659,Kenneth Myers,Engineering,Engineer,94881.76,33234.85,45091.01,18,Bachelor's,Female,39,San Francisco,1.0
+66086,Chad Spencer,HR,Analyst,114986.57,13809.73,146342.83,26,PhD,Male,51,Houston,3.5
+17020,Brittany Knight,Finance,Analyst,116429.52,31179.52,81721.56,5,PhD,Male,45,Los Angeles,2.4
+45787,Heather Guerrero,Marketing,Engineer,80095.73,44103.59,172179.07,8,Bachelor's,Female,41,San Francisco,1.2
+71210,Robert Ferguson,Marketing,Engineer,100497.41,28733.7,112481.89,29,PhD,Female,30,San Francisco,2.8
+58292,Elizabeth Abbott,HR,Analyst,92945.94,42952.54,91256.3,16,Master's,Other,59,New York,2.2
+61002,Elizabeth Ford,Finance,Analyst,95331.86,12193.0,48297.2,12,PhD,Female,29,San Francisco,2.4
+51108,Steven Gibson,Marketing,Consultant,51033.54,28613.5,64738.42,10,PhD,Male,31,Houston,1.7
+71187,Marc Murray,Sales,Consultant,51367.32,42301.4,190701.02,5,PhD,Other,43,New York,1.5
+61888,Douglas Stark,Finance,Consultant,53129.14,15431.17,176942.02,28,PhD,Other,46,New York,3.6
+67017,Nancy Thompson,Sales,Manager,148120.1,32145.59,137070.36,16,PhD,Female,58,Houston,4.1
+82020,Stephanie Francis,Finance,Consultant,78319.72,6621.43,173034.43,16,Bachelor's,Male,23,Houston,1.8
+49566,Heather Dickson,HR,Manager,81804.82,18965.63,61780.88,15,Master's,Other,48,San Francisco,2.4
+60984,Charles Blanchard,Sales,Manager,144684.15,16777.29,84651.15,22,Bachelor's,Male,27,New York,1.4
+75624,Clarence Graham,HR,Consultant,123506.67,24761.69,98309.97,21,PhD,Male,34,Los Angeles,1.8
+77192,Crystal Palmer,Finance,Manager,45791.15,29963.12,181902.87,2,Bachelor's,Female,51,Houston,2.0
+48009,Mike Savage,Marketing,Consultant,69508.7,42878.19,168420.55,3,Bachelor's,Female,48,Chicago,3.0
+25499,Maria White,HR,Analyst,90919.38,20711.76,68999.17,5,PhD,Female,42,New York,3.7
+22030,Stephanie Brooks,Finance,Sales Executive,63591.19,7675.48,179066.96,3,PhD,Male,31,Chicago,1.9
+12120,Jessica Miller,Marketing,Engineer,122294.95,49419.33,75711.59,25,Bachelor's,Other,33,Chicago,2.0
+52748,Katherine Merritt,Finance,Sales Executive,120184.63,27003.75,59381.52,9,PhD,Male,22,San Francisco,2.8
+40724,Kimberly Barker,Marketing,Manager,43648.9,38929.07,191980.41,19,Master's,Female,29,Los Angeles,4.8
+82606,Eugene Rodriguez,Finance,Engineer,48360.37,36570.48,144463.86,3,Bachelor's,Male,50,Los Angeles,2.1
+19922,Kimberly Haney,HR,Consultant,52437.7,18671.95,75598.59,15,PhD,Male,52,Chicago,3.8
+83146,Sarah Martinez,Finance,Consultant,140510.2,44391.15,170091.04,1,PhD,Other,27,San Francisco,3.6
+55533,William Fisher,Sales,Analyst,103368.24,36231.83,166465.16,25,PhD,Male,46,Los Angeles,1.0
+63604,Dawn Hughes,Sales,Analyst,93783.18,14557.53,121627.79,12,Master's,Other,30,Houston,2.8
+80022,John Collins,Sales,Engineer,143091.52,18496.59,63137.22,5,PhD,Male,50,San Francisco,4.7
+94743,Megan Brewer,Marketing,Sales Executive,131161.65,9056.33,199575.05,26,Master's,Male,43,San Francisco,4.8
+88089,Maria White,Marketing,Engineer,96265.19,41731.22,91645.5,27,PhD,Other,41,Chicago,3.7
+44108,Kevin Joseph,Engineering,Analyst,143980.23,46115.94,171892.08,17,Master's,Male,54,Chicago,3.8
+18543,Kristina Alexander,Engineering,Consultant,55127.24,15250.88,87882.71,7,Master's,Male,37,Chicago,4.1
+81047,Emily Davis,Sales,Engineer,47005.55,6201.35,84504.18,2,PhD,Female,37,New York,3.4
+73823,Patricia Gilbert,Sales,Engineer,118393.21,46385.29,102451.39,19,Bachelor's,Female,36,Houston,2.9
+22266,Cody Simpson,Marketing,Manager,117735.14,12095.06,117650.53,22,Bachelor's,Male,47,Houston,1.5
+91053,Kim Munoz,Engineering,Sales Executive,148074.45,32766.51,102957.72,2,Master's,Other,23,San Francisco,4.8
+37914,Joshua Anderson,Sales,Analyst,43833.79,40972.81,182037.7,15,Bachelor's,Female,33,New York,2.3
+33043,Christina Valdez,Finance,Analyst,144834.58,11886.06,187419.28,25,Master's,Other,52,Los Angeles,3.4
+77751,Megan Schmidt,Sales,Sales Executive,118811.92,17529.61,139045.12,21,PhD,Other,46,New York,4.7
+57218,Cory Beltran,Marketing,Sales Executive,56499.57,12523.79,174805.62,19,Bachelor's,Female,32,Chicago,2.6
+62752,Patrick Brown,Engineering,Manager,121332.27,18389.2,113818.87,17,PhD,Other,39,Houston,3.7
+60512,Juan Nelson,Engineering,Consultant,135795.99,28809.24,87721.81,26,PhD,Female,40,Houston,1.6
+59331,Melissa Chang,Engineering,Consultant,47740.43,28968.07,198741.08,8,Master's,Other,31,Chicago,4.6
+29415,Stacy King,Sales,Sales Executive,81024.1,16201.22,158297.08,6,Master's,Male,37,Los Angeles,4.8
+13060,Mr. Larry Mendez,Finance,Analyst,71393.44,14776.53,185852.11,19,Master's,Male,39,Chicago,4.7
+19836,James Jackson,Engineering,Engineer,130199.12,37347.1,82943.74,25,PhD,Male,36,Houston,4.9
+25042,Gabriella Villarreal,Marketing,Sales Executive,97371.2,35414.08,166700.25,17,PhD,Male,36,San Francisco,3.9
+80941,Zachary Martin,Finance,Engineer,79706.95,18093.24,154821.61,1,PhD,Other,29,Chicago,3.8
+95936,Steven Sanders,Marketing,Sales Executive,148701.34,21771.63,155297.45,5,PhD,Female,44,San Francisco,1.3
+59495,Lisa Roberts,HR,Consultant,141206.78,32608.01,58854.45,7,Bachelor's,Female,40,New York,4.1
+13338,Christopher Edwards,HR,Manager,40184.67,30669.9,168519.91,3,Bachelor's,Other,52,Chicago,4.2
+60310,Christina Cook,HR,Consultant,98852.9,7237.15,95443.89,6,Bachelor's,Female,58,Chicago,4.7
+82538,Dr. Darrell Griffin,Finance,Manager,64349.5,33460.66,49217.24,11,Bachelor's,Female,22,Los Angeles,4.3
+93522,Courtney Schmidt,Sales,Sales Executive,77266.87,36663.34,71796.33,4,Bachelor's,Male,54,San Francisco,1.9
+10250,Misty Holmes,Sales,Sales Executive,135636.27,16280.02,170982.66,18,Bachelor's,Other,30,Los Angeles,3.4
+77852,Christopher Thompson,HR,Analyst,109252.18,43879.12,79533.0,27,Master's,Other,26,Chicago,1.5
+45608,Elizabeth Herrera,HR,Analyst,85573.23,13216.95,121071.76,18,Master's,Other,41,Los Angeles,3.4
+68748,Heidi Riley,Finance,Sales Executive,82790.08,25782.06,173288.35,24,Bachelor's,Female,36,Los Angeles,1.2
+29514,Dominic West,Engineering,Engineer,127785.68,17164.14,186778.46,21,PhD,Other,28,Chicago,3.8
+22682,Lindsey Smith,Engineering,Engineer,127269.36,25523.92,74500.8,14,PhD,Other,51,San Francisco,2.2
+52474,Gina Clark,Sales,Analyst,122929.48,10258.15,69149.87,22,Master's,Other,49,San Francisco,1.3
+73429,Whitney Williams,Engineering,Consultant,62822.29,29016.18,134024.85,18,PhD,Other,23,Houston,1.3
+37717,Mark Perez,Engineering,Analyst,51048.27,35683.15,157560.33,29,Master's,Other,43,Chicago,1.9
+47520,Helen Stanley,HR,Manager,50095.15,27335.95,113654.43,16,Bachelor's,Female,59,Chicago,2.2
+50956,Heather Sanchez,Finance,Analyst,57406.87,23580.34,106515.73,12,Master's,Male,45,New York,4.7
+32822,Carrie Wright,Finance,Engineer,93839.75,18369.21,89420.67,16,Bachelor's,Male,24,Houston,1.5
+78477,Logan Holland,Engineering,Sales Executive,57800.66,40554.7,153963.47,8,PhD,Male,44,Los Angeles,3.4
+21698,Jason Novak,HR,Engineer,55168.63,6724.35,131821.29,6,Master's,Other,22,Houston,4.8
+56857,Bryan Lopez,Engineering,Engineer,109328.26,7115.24,163270.25,6,PhD,Female,32,Houston,4.9
+39353,Paul Key,Sales,Engineer,46747.03,33235.51,124437.84,13,Bachelor's,Male,42,Houston,1.0
+58229,Emily Stevenson,Marketing,Engineer,95527.52,23140.08,111443.29,26,PhD,Other,27,New York,1.1
+73096,Mark Jackson,Finance,Analyst,49824.22,9009.27,168679.52,11,PhD,Male,44,Chicago,4.7
+49278,Tina Hartman,Engineering,Engineer,99981.42,16737.44,164820.26,10,Bachelor's,Female,33,San Francisco,2.6
+85134,Brian Thompson,HR,Sales Executive,129159.77,10581.99,165441.1,28,Master's,Female,44,Los Angeles,2.2
+66738,Elizabeth Barrett,Finance,Manager,146183.12,12298.74,198967.29,20,PhD,Female,39,Houston,2.0
+90402,Gary Sexton,Marketing,Consultant,79754.81,46615.93,62850.33,17,PhD,Other,32,San Francisco,3.2
+44094,Susan Rodriguez,HR,Consultant,115382.76,25842.68,57844.95,18,PhD,Male,31,Houston,4.1
+22029,Nathan Collier,Marketing,Sales Executive,117798.96,21360.56,94227.53,20,PhD,Female,25,New York,4.4
+84302,Shannon Wilson,Marketing,Engineer,133037.16,40172.88,64420.05,29,Master's,Other,50,New York,4.5
+73562,Joyce Crane,Finance,Engineer,75034.95,32782.95,129615.86,19,PhD,Male,50,New York,3.3
+75641,Kenneth Hahn,Marketing,Consultant,50409.15,36348.33,81285.5,16,Bachelor's,Female,55,San Francisco,2.5
+81393,Joy Thomas,Finance,Consultant,40384.05,10894.02,174598.09,11,Master's,Female,25,Chicago,3.0
+72710,Jason Gomez,Sales,Consultant,93933.51,17061.24,114333.64,18,PhD,Other,37,Los Angeles,4.6
+50868,Benjamin Hall,Marketing,Analyst,125545.74,27862.78,167529.91,13,Bachelor's,Other,41,Los Angeles,3.2
+49279,Jonathan Martin,Finance,Consultant,86187.76,35109.53,59218.52,10,Bachelor's,Other,23,Los Angeles,3.4
+92548,Michael Ingram,HR,Sales Executive,62181.91,20536.15,128857.0,18,PhD,Female,25,New York,4.2
+71133,James Gonzalez,HR,Manager,94788.79,41599.46,169787.63,10,Master's,Other,28,Houston,2.6
+94979,Vanessa Cruz,Marketing,Consultant,110025.66,44106.81,78778.47,23,PhD,Other,49,Los Angeles,4.6
+19076,Dorothy Ramos,Engineering,Analyst,101918.74,5106.25,49798.11,26,PhD,Male,45,Houston,1.5
+17256,Brandi Adams,Engineering,Engineer,73792.42,5302.42,199260.98,14,PhD,Male,35,Chicago,2.5
+85910,Sabrina Curry,Marketing,Manager,121082.95,9012.58,157956.34,29,Master's,Female,40,New York,5.0
+92677,Nicholas Brown,Sales,Manager,43699.69,5327.55,194937.89,17,Master's,Female,26,New York,1.7
+31986,Andrea Fields,HR,Consultant,40752.2,5691.64,183453.55,12,Bachelor's,Other,39,Chicago,3.1
+94281,Breanna Perez,Finance,Analyst,101787.31,23886.78,199520.37,2,Master's,Female,59,Chicago,2.5
+97253,Julie Young,Marketing,Engineer,93927.29,5667.66,157517.37,16,Master's,Male,43,New York,3.6
+89450,Russell Graham,Finance,Consultant,103495.39,38141.61,136561.39,10,Master's,Male,31,New York,3.5
+21523,Rachel Garza,Engineering,Manager,80861.24,33139.17,169440.13,22,PhD,Female,31,Chicago,1.8
+68788,Bobby Grimes,HR,Consultant,45832.52,20633.91,139151.0,5,Bachelor's,Male,35,Los Angeles,5.0
+40173,Mathew Garrison,HR,Engineer,81071.62,21303.84,137521.56,2,Master's,Male,26,Chicago,2.8
+45183,Jared Leonard,HR,Consultant,42162.44,33648.59,149611.89,5,Master's,Male,23,San Francisco,2.2
+72157,Brittany Hoover,Sales,Manager,100671.93,11556.5,185049.91,19,Bachelor's,Other,36,Chicago,1.9
+97357,Kyle Hahn,Marketing,Sales Executive,139021.2,19790.12,96238.58,6,PhD,Other,57,San Francisco,4.0
+36967,Mrs. Denise Ellis,Finance,Sales Executive,107268.96,37206.75,144687.14,15,Master's,Female,47,Chicago,3.2
+16331,Mackenzie Lee,Sales,Analyst,87851.5,21549.28,140864.47,2,Master's,Male,36,Chicago,3.7
+14432,Raymond Hall,Engineering,Manager,88395.68,5917.76,172677.5,1,Bachelor's,Female,41,Chicago,1.3
+46026,Terry Gilmore,HR,Engineer,71547.71,9499.2,104750.28,18,Bachelor's,Female,40,San Francisco,4.5
+37825,Eric Castillo,HR,Engineer,72928.48,49783.12,107947.31,11,Bachelor's,Female,49,San Francisco,4.7
+38595,Alex Lee,Marketing,Manager,103190.1,40166.09,178251.45,21,Master's,Male,30,San Francisco,4.1
+12016,John Moore,Engineering,Engineer,83562.94,28747.34,173668.65,8,PhD,Other,40,Los Angeles,4.8
+78175,Jennifer Moore,Finance,Sales Executive,61776.15,41619.66,89813.92,11,Master's,Female,35,San Francisco,2.9
+45630,Christopher Bryan,Engineering,Manager,95015.61,21307.66,49433.08,24,Master's,Other,26,San Francisco,3.0
+64419,Dr. Sarah Green,Engineering,Sales Executive,130882.04,44783.93,87085.0,7,Bachelor's,Other,47,New York,1.3
+45295,Mike Smith,HR,Sales Executive,149831.57,21203.87,127677.83,27,Bachelor's,Female,22,Houston,3.7
+52583,Denise Tate,Marketing,Sales Executive,47197.25,29416.28,125886.56,1,PhD,Male,34,New York,1.1
+71520,Vicki Valencia,Marketing,Manager,107970.63,46064.49,180817.42,19,Bachelor's,Other,31,Chicago,3.8
+37277,Brittany Cunningham,Sales,Manager,128046.99,39754.18,95556.75,26,Bachelor's,Other,42,Los Angeles,1.3
+82380,Danielle Leblanc,Engineering,Consultant,122044.13,36514.76,49209.77,12,Master's,Male,26,New York,4.5
+13038,Andrew Taylor,HR,Manager,123682.91,36406.57,119303.82,9,Master's,Female,46,San Francisco,2.6
+57007,Joel Thomas,Sales,Consultant,108042.15,49042.06,96367.32,25,PhD,Female,45,New York,2.8
+71453,Mrs. Tara Powell,Finance,Consultant,110838.68,40930.44,186065.75,25,Master's,Female,31,San Francisco,2.9
+88557,Austin Scott,HR,Manager,133231.58,9270.06,162756.61,23,PhD,Male,47,Chicago,3.7
+57705,Courtney Andrews,Sales,Manager,59325.27,28920.1,111761.25,4,Bachelor's,Female,56,Los Angeles,1.6
+93154,Chelsey Moore,Marketing,Engineer,148510.97,25312.86,58961.37,26,Bachelor's,Male,53,San Francisco,2.8
+86608,Kathy Collins,HR,Manager,74431.39,26430.08,163439.67,23,Bachelor's,Female,32,San Francisco,4.9
+85805,Lorraine Foster,HR,Engineer,56263.44,11588.1,131041.01,1,Master's,Female,35,Houston,2.6
+87678,Steven Booker,Marketing,Consultant,56434.87,25878.04,110953.55,10,Bachelor's,Male,51,New York,2.8
+86552,Jennifer Erickson,Sales,Analyst,144150.51,10543.21,122885.81,7,Bachelor's,Other,37,Chicago,1.6
+77055,Heather Prince,Engineering,Manager,77048.15,9920.41,117942.54,21,PhD,Female,28,Los Angeles,1.4
+45694,Sherri Lamb,Finance,Manager,79537.45,25285.01,91515.92,15,Master's,Male,59,New York,4.1
+28952,Jessica Hill,Sales,Analyst,73616.05,41814.3,168199.6,23,Bachelor's,Male,23,Chicago,4.9
+75738,Melissa Atkinson,Engineering,Sales Executive,102394.49,26067.57,187774.56,15,Master's,Female,28,Houston,3.2
+95630,Steven Gray,Finance,Consultant,132260.45,35565.91,150435.62,10,Bachelor's,Female,46,New York,4.3
+84393,Scott Montes,Finance,Analyst,72037.43,27652.78,86282.59,17,Bachelor's,Female,48,Los Angeles,2.7
+94439,Benjamin Clayton,Finance,Engineer,143395.02,19946.44,178148.94,5,PhD,Other,40,San Francisco,4.3
+40040,Ryan Smith,Marketing,Engineer,76804.8,28752.06,84954.38,17,PhD,Other,35,San Francisco,1.0
+32037,Alexander Rodriguez,Engineering,Consultant,62008.52,49444.29,97004.75,15,Bachelor's,Female,33,San Francisco,2.1
+93071,Brian Thompson,Finance,Analyst,62707.53,6555.07,105731.8,26,Bachelor's,Other,26,New York,2.9
+26303,Eddie Ryan,Marketing,Analyst,139463.76,11352.0,147953.19,11,Master's,Female,47,New York,2.6
+77442,Theresa Ayala,Finance,Sales Executive,71419.13,48493.02,55911.15,7,PhD,Other,54,New York,3.3
+73778,Mary Cox,Marketing,Manager,102138.93,27658.64,51580.05,4,Master's,Male,25,San Francisco,3.8
+56047,Lindsay Barton,Finance,Sales Executive,95828.53,11975.6,172094.64,26,Bachelor's,Male,41,Los Angeles,4.6
+39051,Jacqueline Turner,Sales,Engineer,74729.45,23987.49,183740.94,28,Bachelor's,Other,37,Los Angeles,1.3
+89745,David Torres,Finance,Analyst,132538.66,22005.54,195863.66,6,Bachelor's,Female,42,Chicago,1.1
+33385,Tammy Matthews,Marketing,Analyst,125821.79,32716.25,70087.88,17,Master's,Other,22,Chicago,1.5
+25734,Dustin Mcdonald,HR,Analyst,145079.59,31429.85,74758.76,26,Master's,Other,50,San Francisco,4.7
+35269,Laura Brown,Marketing,Manager,81087.13,38917.68,151478.12,20,Bachelor's,Female,41,Los Angeles,1.2
+55619,Sarah Owens,HR,Sales Executive,75489.47,23159.42,117126.86,16,Bachelor's,Other,43,New York,4.5
+87423,Corey Davis,Engineering,Sales Executive,79723.18,49341.61,58567.71,2,Master's,Male,46,San Francisco,3.5
+92190,Michael Lopez,Marketing,Consultant,137856.15,6536.37,66651.68,29,Master's,Other,27,Los Angeles,4.3
+64984,Alice Kelly,Finance,Consultant,63358.38,38799.37,109604.46,3,Bachelor's,Male,59,Los Angeles,3.1
+71942,Jon West,Finance,Consultant,98330.71,41505.79,194580.99,27,PhD,Other,57,New York,4.7
+58426,Gary Yang,HR,Analyst,121163.19,32210.72,60932.23,4,Master's,Other,58,Chicago,4.3
+18288,Dr. Richard White,Sales,Engineer,50655.03,40011.63,176439.11,29,Master's,Other,23,San Francisco,1.7
+88002,Jack Daniel,Engineering,Sales Executive,61942.71,31982.6,183638.69,22,Bachelor's,Female,45,New York,3.9
+21866,Linda Roach,Finance,Sales Executive,113758.87,48125.27,171701.66,1,PhD,Male,33,Chicago,4.7
+98862,Emily Holland,Engineering,Sales Executive,43774.16,41545.72,145253.93,6,Bachelor's,Female,47,New York,2.8
+21275,Courtney Wilson,Finance,Manager,42735.79,21232.13,156050.9,17,PhD,Male,22,New York,3.0
+45718,Christine Miles,Sales,Consultant,51485.38,38052.01,116941.54,1,Bachelor's,Male,52,New York,4.5
+81898,Veronica Ward,Marketing,Consultant,57886.49,7407.44,112151.69,23,Bachelor's,Female,50,Chicago,3.2
+21785,Elizabeth Jones,Engineering,Sales Executive,84368.36,43665.81,77284.9,1,Master's,Other,52,San Francisco,3.0
+32991,Dr. Lori Bailey,Finance,Consultant,145750.59,10750.33,52482.73,22,Master's,Other,40,New York,4.0
+27982,Parker Sosa,Sales,Consultant,137272.17,27419.94,136172.97,6,PhD,Female,34,San Francisco,1.3
+78670,Cody Delgado,HR,Manager,48077.1,41033.94,135593.18,4,PhD,Male,54,Houston,4.9
+20745,Erica Dean,Marketing,Sales Executive,118410.96,29078.28,114330.56,2,Master's,Female,55,Chicago,5.0
+63562,Joe Harrington,Finance,Consultant,56612.33,20123.06,177845.65,3,Bachelor's,Male,22,Los Angeles,1.9
+63545,Wendy Schmidt,Marketing,Sales Executive,99986.59,23818.76,59266.9,14,Master's,Female,33,San Francisco,1.8
+75512,Philip Fernandez,Marketing,Consultant,64810.27,44386.74,91917.09,20,PhD,Female,43,Los Angeles,4.7
+31178,Mary Williams,Marketing,Engineer,65647.71,42729.95,69105.82,21,Master's,Male,39,San Francisco,3.0
+36795,Mario Thompson,HR,Consultant,66977.73,17327.46,162488.42,13,Bachelor's,Female,25,San Francisco,4.0
+82049,Jordan Osborne,Engineering,Sales Executive,116049.79,9743.44,71504.62,4,Bachelor's,Other,25,Los Angeles,1.6
+73832,Daniel Willis,Finance,Sales Executive,72067.15,7745.09,109906.3,18,Bachelor's,Female,44,New York,3.6
+50198,Christine Blair,Finance,Analyst,51294.62,6571.94,160995.0,26,PhD,Male,23,Los Angeles,2.8
+86267,Timothy Hawkins,Sales,Engineer,112211.5,17276.15,138391.91,25,Bachelor's,Other,54,Los Angeles,2.9
+73775,Michael Jackson,Finance,Manager,67687.98,8156.35,160963.46,17,PhD,Male,45,Los Angeles,1.6
+64569,Brittany Flynn,Finance,Sales Executive,117232.07,25740.98,103790.43,7,Master's,Female,45,Houston,4.4
+18649,Alexander Klein,Engineering,Manager,97480.59,39673.66,134730.61,17,PhD,Female,42,Chicago,2.4
+31155,Brendan Williams,Engineering,Manager,96271.56,23265.88,155336.33,16,PhD,Other,40,New York,1.7
+57292,Frances Williams,Marketing,Analyst,131462.19,16430.42,160661.88,7,Master's,Female,44,New York,1.2
+72743,Amanda Murray,Sales,Sales Executive,69097.58,7499.91,83808.78,23,Master's,Female,54,Los Angeles,2.0
+30062,Nicole Salazar,Marketing,Consultant,133202.36,32873.24,88867.48,25,Master's,Female,44,Houston,1.0
+76869,Beth Yates,Sales,Engineer,68287.16,28739.09,199235.59,6,Bachelor's,Other,26,Los Angeles,1.5
+41940,Austin Baird,Sales,Manager,64213.75,12226.32,169836.67,5,Master's,Male,59,Houston,2.2
+70757,David Sloan,Sales,Manager,50618.7,40035.34,81537.12,9,Bachelor's,Male,43,New York,2.6
+22774,Kimberly Scott,Finance,Consultant,115859.68,32218.86,170511.63,8,Bachelor's,Other,28,Los Angeles,2.2
+69206,Meghan Tate,Marketing,Consultant,72668.01,14508.51,86765.74,1,Bachelor's,Male,39,New York,2.2
+98218,Carrie Smith,Finance,Manager,147505.99,33582.94,125620.99,24,Bachelor's,Female,55,Los Angeles,2.6
+18893,Emily Ramirez,Marketing,Manager,101554.97,15391.44,100184.67,13,Bachelor's,Female,37,New York,2.4
+73804,Brooke Wilson,HR,Sales Executive,62757.92,22777.48,76349.95,13,Bachelor's,Male,50,Houston,4.0
+51761,Jennifer Collins,Sales,Sales Executive,60326.47,17770.64,106840.1,13,Bachelor's,Male,26,New York,3.4
+49077,Daniel Herrera,HR,Analyst,99571.87,45745.27,109279.49,22,Master's,Female,35,New York,3.3
+76588,Nicholas Smith,Finance,Analyst,62279.69,38656.89,58518.86,6,PhD,Male,41,Los Angeles,1.8
+98671,Rachel Smith,Engineering,Analyst,75927.46,26616.16,164158.82,3,Master's,Male,44,Los Angeles,3.5
+77209,Lisa Villegas,Sales,Analyst,76038.63,24627.06,87957.41,18,Master's,Female,36,San Francisco,2.9
+42492,James Carter,HR,Manager,123569.51,20257.95,157476.09,13,Bachelor's,Female,32,Los Angeles,3.2
+81229,David Richards,Marketing,Sales Executive,40706.24,19266.64,53357.81,24,Master's,Other,37,Los Angeles,2.5
+89976,James Mccarthy,Sales,Consultant,81665.89,14292.1,155681.77,1,Master's,Male,37,Los Angeles,1.7
+73346,Jeffery Fernandez,Finance,Analyst,74018.62,40962.95,122848.61,16,PhD,Female,46,New York,2.8
+18667,Rebecca Cook,HR,Consultant,96111.48,29101.99,196691.6,1,Master's,Other,36,Chicago,2.8
+24585,Amy Watson,Sales,Engineer,79152.48,47027.26,132539.48,28,PhD,Other,25,Los Angeles,3.5
+60641,Aaron Edwards,Sales,Engineer,115691.71,29582.06,183921.08,5,Master's,Female,48,Los Angeles,2.5
+44524,Walter Collins,Sales,Engineer,69237.66,31942.8,45853.72,7,Bachelor's,Female,55,Houston,3.4
+22365,Barry Maldonado,Finance,Consultant,55771.22,10756.52,183655.39,7,PhD,Male,37,New York,1.9
+77156,David Anderson,Engineering,Sales Executive,111588.37,45803.25,67897.27,22,PhD,Other,23,Los Angeles,2.6
+29040,Audrey Hill,Sales,Sales Executive,142549.47,43283.45,111478.6,9,PhD,Male,39,San Francisco,3.2
+83758,Erin Bass,Sales,Sales Executive,62228.1,11435.63,198298.29,10,Master's,Other,43,Los Angeles,4.4
+88429,Jonathan Soto,Sales,Consultant,79612.17,15106.83,64046.5,26,Master's,Male,47,Chicago,4.4
+61278,Holly Price,Marketing,Analyst,57697.93,44020.32,128076.03,4,Master's,Other,47,Los Angeles,4.2
+43541,Stephen Butler,Sales,Consultant,95780.55,37917.12,68943.48,25,Bachelor's,Other,39,San Francisco,3.2
+92425,Dominic Jackson,Marketing,Engineer,98598.39,29070.22,123710.71,3,Bachelor's,Female,22,Houston,2.7
+66651,Ann King,HR,Sales Executive,87157.11,6494.72,113119.56,26,PhD,Female,46,Chicago,2.8
+98402,Todd Roberts,Engineering,Analyst,54361.87,43206.05,148044.41,12,PhD,Male,35,Chicago,2.0
+10112,Kayla Collins,Finance,Manager,47292.05,16210.42,81699.1,12,Bachelor's,Female,50,Houston,2.4
+32171,Bryan Carey,Marketing,Analyst,145191.48,45983.48,164712.89,23,Master's,Female,58,Los Angeles,2.9
+32606,Daniel Chapman,HR,Analyst,117227.42,19210.11,131351.91,22,Master's,Female,36,Houston,3.8
+33940,Robert Alexander,Engineering,Manager,43753.82,5857.85,155370.86,2,PhD,Other,44,Los Angeles,4.2
+16513,Sheila Lynch,Marketing,Manager,113570.5,41188.04,47900.59,18,Master's,Male,41,San Francisco,4.7
+53302,Crystal Hughes,Marketing,Sales Executive,115489.75,20849.75,109367.75,24,PhD,Male,35,Houston,1.5
+25857,Sandy Smith,Engineering,Consultant,131659.58,26634.17,152086.53,1,PhD,Other,48,Los Angeles,1.6
+81575,Devon Robinson,Marketing,Consultant,124275.64,21810.75,98861.75,3,PhD,Other,46,Chicago,3.7
+50057,Traci Lopez,Finance,Analyst,59153.44,27848.52,84324.41,2,PhD,Other,31,Los Angeles,2.9
+10823,Bruce Cook,HR,Analyst,93740.32,40448.45,89735.37,16,Master's,Female,55,Chicago,4.3
+51334,Michelle Lee,Marketing,Manager,63181.16,47599.66,145801.78,19,Bachelor's,Female,52,New York,1.3
+73039,Edward Nelson,Marketing,Sales Executive,108040.48,5608.16,158785.35,17,PhD,Other,57,Los Angeles,3.3
+54152,Riley Kline,Engineering,Sales Executive,104438.67,28482.71,187479.81,22,Master's,Other,43,New York,3.0
+92067,Samantha Butler,Finance,Analyst,149706.15,38287.65,189041.46,17,PhD,Male,57,Los Angeles,2.1
+79882,Denise Chen,Sales,Consultant,98465.38,37068.08,122277.88,15,PhD,Male,48,Houston,4.6
+19284,Stephanie Stewart,Engineering,Engineer,70781.22,32185.9,143355.28,24,Master's,Male,30,Houston,3.7
+22445,Kristen Conrad,Marketing,Consultant,47590.16,38514.05,155038.72,26,PhD,Male,40,Chicago,3.7
+46539,Cynthia Atkins,Marketing,Consultant,136799.73,8263.38,69398.29,27,PhD,Male,41,Houston,4.2
+82625,Regina Roberts,Sales,Sales Executive,107861.53,28816.85,77733.85,10,Bachelor's,Female,45,Los Angeles,1.7
+32030,Karen Carroll,Marketing,Sales Executive,117084.92,48798.43,91116.47,6,PhD,Other,39,Chicago,4.4
+64021,Jamie Burnett,Finance,Manager,40085.79,38788.13,94668.0,26,PhD,Male,28,Los Angeles,2.9
+94555,Dylan Ellis,Finance,Consultant,115048.14,40953.24,67607.12,12,PhD,Male,53,Los Angeles,2.5
+97380,Andre Baxter,Finance,Consultant,87184.29,33637.75,67728.99,12,Bachelor's,Other,34,New York,3.1
+69163,David Payne,Engineering,Sales Executive,106329.68,39653.05,83214.93,20,Bachelor's,Male,38,San Francisco,3.3
+59061,Tom Schroeder,Marketing,Sales Executive,99236.97,29462.19,140709.82,16,PhD,Other,42,Los Angeles,3.7
+79693,Christopher Jones,Engineering,Analyst,138637.32,10573.37,92369.48,10,Bachelor's,Female,31,Los Angeles,3.9
+81336,Megan Walters,HR,Sales Executive,125332.23,35278.25,128954.22,19,PhD,Other,32,Chicago,4.5
+89793,Brent Koch,Finance,Consultant,98277.05,43920.53,82122.43,22,Bachelor's,Other,32,New York,4.0
+52888,Antonio Greene,HR,Consultant,138512.37,37465.93,88604.1,11,PhD,Female,36,New York,4.6
+35695,Jason Oneill,Engineering,Consultant,134012.13,20284.63,106150.21,15,PhD,Male,29,Los Angeles,1.5
+10537,Bruce Evans,Engineering,Analyst,55831.75,30594.95,164325.87,29,Master's,Other,34,Los Angeles,1.1
+98251,Jason Carson,Engineering,Manager,102923.46,16870.48,187494.2,3,PhD,Female,36,Chicago,3.4
+47177,Holly Wood,Marketing,Analyst,134239.42,49612.11,190767.08,27,Master's,Male,43,San Francisco,2.3
+60392,Nicholas Smith,Marketing,Manager,137418.48,32411.05,58757.58,17,Master's,Female,43,Chicago,4.0
+49846,Kimberly Williams,Sales,Analyst,95988.84,9389.45,163424.69,17,PhD,Female,37,San Francisco,3.9
+44946,Nancy Hunt,Finance,Manager,115965.67,44162.39,112580.87,13,PhD,Other,36,New York,4.6
+16309,Brandi Harrington,Marketing,Consultant,133535.87,14006.87,109284.73,12,PhD,Male,47,Chicago,3.4
+76617,Holly Price,Sales,Engineer,43475.47,21432.54,145558.97,20,Master's,Male,24,Houston,2.4
+59646,Brenda Cross,Sales,Sales Executive,140611.34,40885.64,61500.53,5,Master's,Male,49,New York,1.5
+74477,Edgar Dunn,HR,Analyst,50510.5,12505.5,88797.03,21,Master's,Male,32,Los Angeles,3.9
+69453,Adam Johnson,Marketing,Engineer,91770.9,17222.7,47014.7,10,PhD,Male,25,Chicago,1.7
+12823,Jennifer Wall,HR,Sales Executive,71667.42,42381.56,105260.46,29,PhD,Male,35,Los Angeles,3.8
+26304,Amber Jones,Sales,Sales Executive,64195.98,15152.35,65131.52,7,Bachelor's,Other,44,Chicago,3.2
+97231,Lori Jimenez,Engineering,Consultant,52722.27,39743.13,100216.03,10,Bachelor's,Male,36,San Francisco,3.8
+74938,Betty Howard,Finance,Sales Executive,130646.31,19418.49,117306.88,8,Bachelor's,Other,51,Los Angeles,1.4
+53447,Brooke Duran,Sales,Analyst,77007.94,43800.69,75342.57,27,PhD,Other,56,San Francisco,1.2
+15537,Luis Lee,Marketing,Sales Executive,75702.14,9382.77,118913.41,24,PhD,Male,57,Chicago,4.3
+11406,Mr. Thomas Powell,Sales,Analyst,59087.5,46717.96,116776.45,6,PhD,Female,24,Chicago,4.5
+78436,Tiffany Caldwell,HR,Sales Executive,78511.4,27008.6,172812.48,24,Bachelor's,Female,45,New York,3.9
+78787,Donna Proctor,Engineering,Manager,64836.25,24721.27,90108.66,7,Bachelor's,Male,41,Los Angeles,4.4
+67751,John Jackson,Marketing,Engineer,124410.52,5319.8,183359.81,29,Bachelor's,Female,43,New York,3.0
+45097,Raymond Bowen,Engineering,Sales Executive,127098.52,18657.17,74514.75,24,Master's,Female,53,Chicago,4.4
+52024,Raymond Ellis,Sales,Engineer,136748.4,11670.13,173731.06,6,Bachelor's,Female,32,San Francisco,2.0
+42323,Allison Dunn,Marketing,Analyst,81619.22,45954.26,110068.54,9,PhD,Female,45,New York,4.4
+42767,Daniel Mcdaniel,Sales,Manager,123206.98,38896.17,149612.75,4,PhD,Female,51,San Francisco,3.7
+24973,Jacqueline Russell,HR,Engineer,69612.06,36428.43,82395.8,21,Master's,Male,24,New York,1.3
+91471,Jeffrey Moore,Sales,Engineer,82961.08,36521.96,156928.34,7,Bachelor's,Male,58,Los Angeles,1.1
+69705,Barbara Lopez,Marketing,Sales Executive,93255.61,33108.23,56412.23,2,Master's,Female,57,Houston,2.2
+12136,Tammy Whitehead,HR,Analyst,144436.76,49412.72,61053.01,15,PhD,Male,35,New York,4.0
+91679,Lindsey Simpson,Engineering,Sales Executive,117945.81,27690.42,113649.43,27,Master's,Female,55,San Francisco,2.0
+24000,Erin Richardson,Sales,Manager,69580.27,22017.19,57484.66,21,PhD,Other,28,San Francisco,4.3
+57664,Danielle Simpson,Marketing,Analyst,94548.38,23760.24,165592.81,23,PhD,Female,27,Houston,1.5
+47832,Allen Taylor,Finance,Engineer,90104.55,21915.65,54688.66,3,PhD,Other,50,Houston,1.0
+36275,Haley Juarez,Sales,Manager,91872.42,30451.92,55411.85,11,Bachelor's,Female,49,Chicago,3.7
+38619,Allison Anderson,HR,Sales Executive,142142.24,19529.04,104768.93,6,Bachelor's,Other,38,Houston,4.0
+51251,Rachel Monroe,Engineering,Manager,52791.5,35318.68,174728.96,3,PhD,Male,40,New York,2.5
+48205,Timothy Anderson,Marketing,Analyst,91040.66,12237.76,51507.59,10,PhD,Male,27,Los Angeles,4.5
+48287,Andrew Wood,Sales,Consultant,112877.43,43780.92,106941.02,21,Bachelor's,Female,42,Los Angeles,1.8
+32745,Christopher Reyes,Marketing,Manager,51577.38,38524.86,166228.91,18,PhD,Male,32,Chicago,4.7
+98116,Dave Ray,Marketing,Consultant,149336.44,48876.91,182793.61,4,Master's,Female,51,San Francisco,1.2
+17398,Grant Patel,Finance,Engineer,86791.04,6981.36,148788.2,4,Bachelor's,Male,45,Chicago,3.3
+54350,Garrett Alvarado,Engineering,Engineer,103383.92,23459.31,65398.47,12,PhD,Other,24,San Francisco,3.1
+82151,Sean Brown,Sales,Sales Executive,56365.17,35979.43,62658.99,4,Master's,Female,44,New York,4.5
+65197,Timothy Bradshaw,Marketing,Manager,57771.8,31617.94,47871.91,27,PhD,Other,25,Los Angeles,3.2
+29587,Anthony Higgins,Finance,Consultant,51513.12,36077.44,133466.33,9,Bachelor's,Female,30,Chicago,2.0
+81714,Brian Andrews,HR,Engineer,119518.33,13373.53,100919.26,4,Bachelor's,Male,33,New York,4.9
+88875,Timothy Orozco,Engineering,Analyst,97761.35,21755.26,165589.29,7,Bachelor's,Female,29,San Francisco,4.9
+70221,Kathryn Hernandez,Finance,Engineer,135203.54,11734.6,122801.72,24,Bachelor's,Female,23,New York,2.9
+93256,Troy Thompson,HR,Manager,109547.21,19364.37,189180.05,20,Master's,Other,32,Chicago,1.8
+20296,Mario Shannon,Engineering,Consultant,40699.29,20794.95,142263.06,11,Master's,Female,54,New York,1.3
+91786,Christina Chapman,Engineering,Consultant,89272.83,11716.02,135737.36,18,Bachelor's,Female,53,Chicago,1.8
+73514,William Mcdaniel,Engineering,Consultant,132843.37,48643.46,86323.18,6,PhD,Other,38,Houston,3.3
+69681,Sharon Johnson,Engineering,Manager,122652.47,31275.34,106247.15,9,Bachelor's,Other,40,Houston,4.9
+36647,Yvette Rojas,HR,Engineer,42079.17,29797.22,105794.76,4,PhD,Female,39,San Francisco,2.9
+85841,Amanda Montes,Finance,Analyst,134673.82,44517.51,57445.15,29,Master's,Female,55,Los Angeles,3.9
+85610,Marissa Webb,HR,Engineer,126121.51,6650.42,163096.08,15,Bachelor's,Other,40,Houston,2.2
+33050,Brianna Jackson,HR,Manager,81306.71,49299.64,190979.73,21,PhD,Male,32,Chicago,4.3
+44354,Jose Mann,Sales,Engineer,96246.23,8457.27,193468.62,12,Master's,Male,25,San Francisco,3.6
+87938,Kristopher Miller,Finance,Analyst,59436.55,42491.27,178962.09,13,Bachelor's,Other,27,Chicago,3.6
+83222,Lisa Mcneil,Sales,Manager,66300.94,39884.24,154667.78,1,Master's,Other,36,Houston,2.3
+38906,Derrick Sanders,Sales,Engineer,76009.08,47141.21,124333.18,7,Master's,Other,48,Chicago,1.9
+81886,Jesse Cox,Sales,Manager,71159.45,32432.37,148731.74,21,PhD,Female,40,New York,2.5
+32127,Brittany Smith,Engineering,Analyst,53382.39,22815.63,99824.75,28,PhD,Male,41,Los Angeles,1.2
+78472,Vanessa Pratt,Marketing,Sales Executive,127225.27,25620.08,193080.25,17,Master's,Male,39,Los Angeles,4.1
+86285,Mary Proctor,Finance,Engineer,80602.92,35474.56,195585.49,15,PhD,Male,45,New York,2.2
+85645,Mary Reilly,Engineering,Consultant,128121.47,38389.96,128899.12,20,Master's,Other,29,New York,4.9
+48072,Elizabeth Edwards,Sales,Manager,78016.24,49648.55,85069.82,2,Bachelor's,Male,30,San Francisco,3.5
+48938,Janet Bowers,Sales,Consultant,51363.6,37642.41,184492.45,12,PhD,Female,41,Los Angeles,3.4
+79636,Gary Prince,Finance,Analyst,125497.29,31553.57,166875.81,19,PhD,Other,38,San Francisco,4.3
+81626,Chad Clarke,Engineering,Analyst,117201.26,11336.9,47898.53,26,Bachelor's,Male,23,San Francisco,2.0
+81788,Nicole Diaz,Marketing,Consultant,98639.01,8470.3,49385.75,17,PhD,Male,23,Los Angeles,1.4
+82867,Karen Weeks,Marketing,Analyst,94420.95,22146.03,64902.02,24,Master's,Other,58,Los Angeles,4.6
+50334,John Burnett,Finance,Consultant,88381.0,44860.53,62420.21,1,Master's,Other,55,Houston,1.1
+51439,Sara Randolph,HR,Analyst,70739.48,49967.73,79766.17,25,PhD,Male,59,Los Angeles,2.2
+30328,Phyllis Giles,HR,Consultant,118205.3,10055.28,116458.17,8,PhD,Male,24,Los Angeles,3.6
+86365,Elizabeth Lowe,Engineering,Analyst,128442.44,47061.16,149448.7,11,PhD,Male,57,Chicago,2.0
+53448,Barbara Lewis,Engineering,Sales Executive,122762.48,7042.92,137112.17,6,Bachelor's,Female,39,San Francisco,5.0
+94456,Angel Chung,Sales,Engineer,136725.73,8253.0,45808.59,6,PhD,Other,22,Chicago,1.9
+66397,John Carter,Sales,Sales Executive,123282.37,42762.59,174362.02,11,Bachelor's,Female,40,Houston,2.5
+31547,Susan Jones PhD,HR,Manager,87513.71,18236.83,194751.37,20,Master's,Other,42,Los Angeles,2.1
+70369,Rebecca Anderson,HR,Sales Executive,61706.8,16687.95,116705.49,6,Master's,Male,25,Houston,3.6
+84990,Luis Miller,HR,Consultant,122142.58,47697.9,85114.17,13,Master's,Female,52,Houston,1.3
+18310,Howard Barnett,HR,Sales Executive,63013.15,20152.12,172942.74,4,Master's,Male,32,Houston,3.2
+84419,Alisha Perez,Engineering,Sales Executive,73966.1,32837.58,50712.46,7,Bachelor's,Female,52,Los Angeles,1.6
+61649,Kristin Higgins,Marketing,Manager,56527.81,28861.98,154466.09,10,Master's,Female,53,Los Angeles,3.1
+12087,Stephen Smith,Marketing,Engineer,58769.44,30643.21,117438.4,12,Master's,Female,53,Chicago,3.1
+20844,Brandon Edwards,Sales,Analyst,83531.42,19750.76,112511.21,2,Bachelor's,Male,30,San Francisco,4.8
+81911,Shari Branch,Engineering,Engineer,106037.53,48302.89,69009.81,8,PhD,Male,22,San Francisco,3.3
+68381,Seth Oneal,Engineering,Engineer,114612.41,6053.17,166275.43,16,PhD,Male,51,San Francisco,1.8
+10844,Jessica Graham,HR,Sales Executive,79977.26,14490.25,125094.41,6,Master's,Female,29,New York,4.9
+25378,Yesenia Serrano,HR,Sales Executive,129659.72,8800.3,87459.96,26,Bachelor's,Other,41,Los Angeles,2.1
+55157,Matthew Thomas,Marketing,Manager,123756.14,12782.01,147587.3,2,Master's,Male,27,Los Angeles,3.9
+33154,Craig Acosta,Sales,Consultant,78891.33,19602.4,66369.62,2,Bachelor's,Female,36,New York,3.4
+80501,Christopher Mccormick,Engineering,Analyst,138839.4,21541.04,100822.39,27,PhD,Female,35,Los Angeles,1.4
+21152,Christopher Sanders,Marketing,Sales Executive,146836.71,13472.45,143151.31,7,PhD,Female,24,Los Angeles,3.5
+62231,Steven Park,Marketing,Sales Executive,107695.12,37352.03,70953.91,14,PhD,Male,46,Los Angeles,3.1
+74329,Ronald Wright,Marketing,Engineer,81925.16,30442.87,67769.33,2,Bachelor's,Male,47,Houston,4.4
+87264,April Mann,Sales,Consultant,104902.45,47265.49,103972.14,17,Master's,Other,34,Houston,3.7
+25787,Gregory Smith,HR,Sales Executive,130810.56,29040.9,105638.33,25,PhD,Other,39,Chicago,2.4
+36084,Jennifer Sanchez,Engineering,Analyst,109668.86,10602.39,116783.51,28,Master's,Male,34,San Francisco,2.3
+36924,Joe Gillespie,HR,Analyst,94764.14,16366.35,118123.55,11,Master's,Female,42,Los Angeles,3.2
+11515,Jason Peterson,Sales,Analyst,106435.08,48888.7,105416.2,14,Bachelor's,Male,38,Houston,1.7
+56750,Kimberly Moore,HR,Consultant,138966.63,14446.25,127471.94,3,PhD,Female,45,Houston,2.9
+24319,Lisa Jones,Marketing,Analyst,81286.69,48974.5,112049.76,28,Master's,Female,22,Houston,1.6
+20925,Jonathan Hess,Engineering,Analyst,124578.89,18279.79,60183.25,27,Bachelor's,Female,35,Los Angeles,2.3
+91905,Nina Mora,Finance,Manager,101430.98,36448.93,62253.94,24,Bachelor's,Male,54,New York,2.2
+75752,Natalie Johnson,Sales,Analyst,78396.23,8643.39,143495.58,12,Bachelor's,Female,37,San Francisco,4.0
+98985,Julie Flynn,Engineering,Analyst,95759.3,27269.68,116594.02,24,Master's,Male,39,San Francisco,2.9
+26573,Albert Kennedy,Marketing,Consultant,41003.21,16752.17,111794.3,14,Bachelor's,Female,59,Chicago,1.3
+14408,Mr. Edgar Gardner,Finance,Sales Executive,89673.78,7285.34,189503.02,13,PhD,Female,29,New York,3.8
+68182,Tiffany Stephens,Finance,Consultant,63245.94,41015.62,106203.1,6,Master's,Female,37,New York,4.7
+79132,Andrew Smith,HR,Manager,127201.66,24289.59,60531.33,11,Master's,Male,43,Chicago,2.7
+36930,Victoria Kelley,Marketing,Sales Executive,98214.12,18343.18,122934.35,23,Bachelor's,Female,53,San Francisco,2.6
+80005,Sheila Cox,Finance,Manager,122421.49,34821.81,186326.0,5,PhD,Female,55,Los Angeles,1.8
+27098,Derek Smith,Sales,Consultant,134694.92,35440.54,182279.12,16,Bachelor's,Female,38,San Francisco,1.8
+68193,Stacey Hardin,Engineering,Sales Executive,50757.2,18162.06,68749.02,8,Bachelor's,Other,57,New York,4.0
+88578,Patrick Roach,Finance,Engineer,127661.02,21130.36,131362.94,10,PhD,Other,42,Chicago,2.5
+20655,William Martin,Sales,Consultant,98294.07,42255.41,176700.04,16,PhD,Other,23,Los Angeles,2.4
+29436,Sheila Leon,HR,Engineer,148796.86,28483.01,181167.15,11,PhD,Male,46,Los Angeles,2.7
+87904,Molly Bell,Sales,Consultant,93150.45,45120.86,198396.11,16,Bachelor's,Female,47,San Francisco,2.3
+25934,Evelyn Shaffer,Finance,Analyst,56371.97,45919.34,108035.0,1,Master's,Female,43,Houston,3.2
+85855,Jaime Chang,Finance,Analyst,71658.8,12674.72,163444.58,19,Master's,Other,33,New York,2.3
+19910,Diana Johnson,Engineering,Engineer,58041.45,27553.54,79748.39,16,Master's,Female,25,Houston,4.7
+42009,Jennifer Wilson,Finance,Engineer,112215.46,37751.52,135961.21,1,Master's,Female,59,Chicago,3.6
+66340,Mary Riley,Sales,Sales Executive,122296.12,12699.9,188654.21,3,PhD,Other,47,Houston,3.2
+14787,Brian Robinson,Engineering,Sales Executive,98872.64,20239.28,132548.5,29,PhD,Male,49,San Francisco,4.8
+37672,Michelle Lee,HR,Manager,146384.75,46293.32,74429.4,17,PhD,Male,46,Chicago,1.7
+75932,Joshua Browning,Sales,Analyst,43199.97,49888.69,170372.73,19,Bachelor's,Female,50,Houston,3.8
+50652,Dan Oneal,Marketing,Analyst,135682.58,5562.85,145731.89,27,Master's,Male,34,New York,1.1
+14707,Micheal Nguyen,HR,Sales Executive,114596.71,7260.21,138214.87,23,PhD,Other,38,Los Angeles,4.0
+58763,Sarah Nichols,Marketing,Sales Executive,111688.05,34889.25,94460.95,18,Master's,Female,23,Los Angeles,4.4
+82186,Christina Bridges,HR,Engineer,126631.49,49089.32,186820.14,23,PhD,Male,56,Houston,1.4
+97701,Keith Bryan DDS,Finance,Engineer,41941.74,21419.4,156988.74,15,Master's,Other,38,San Francisco,3.3
+17412,Jacqueline Myers,Sales,Analyst,103118.96,18014.61,49104.61,27,Master's,Other,28,Los Angeles,4.4
+85911,Tina Wheeler,Engineering,Consultant,45875.22,6400.95,138277.94,28,Bachelor's,Male,38,New York,4.7
+97698,Madison Larson,Sales,Manager,133301.62,18821.17,122212.48,27,PhD,Female,40,Houston,3.1
+16214,David Jones,Marketing,Analyst,140448.24,22878.81,198423.85,27,Bachelor's,Male,28,New York,3.3
+11024,Trevor Watson,Marketing,Manager,78243.88,49395.61,183589.9,1,Master's,Male,52,New York,2.3
+93451,Daniel Taylor,HR,Engineer,79626.72,30947.63,129354.82,13,Master's,Male,45,Los Angeles,2.0
+42174,Desiree Hardy MD,Marketing,Consultant,126041.74,9484.18,120507.84,27,PhD,Female,22,Los Angeles,2.5
+14200,Melissa Cordova,Marketing,Consultant,48177.69,36160.86,104282.29,11,Master's,Male,52,New York,2.9
+69755,Rachel Brewer,Marketing,Analyst,104974.91,8163.31,75866.51,1,PhD,Other,27,Houston,3.0
+70660,John Lawson,Marketing,Consultant,130454.21,48310.13,117530.59,1,Bachelor's,Other,54,Chicago,1.2
+67083,Beverly Johnson,Finance,Manager,104658.69,48710.06,189859.98,25,Bachelor's,Female,44,San Francisco,4.7
+46341,William Fuller,Marketing,Consultant,127868.73,8200.5,131451.48,22,Master's,Other,35,Houston,4.1
+58361,Amy Fowler,Sales,Consultant,123001.08,42528.77,190987.23,16,Master's,Female,29,Los Angeles,1.4
+67196,Preston Johnson,Engineering,Consultant,94048.64,11034.27,90500.5,2,Master's,Male,45,New York,4.1
+36490,Scott Evans,Engineering,Manager,146273.71,9693.1,124851.37,7,Master's,Female,49,New York,1.9
+15101,Tiffany Moore,Engineering,Manager,110774.04,13573.05,114015.76,24,PhD,Male,39,Houston,4.1
+83505,Eric Berger,Finance,Analyst,87538.46,17746.44,139107.88,25,Master's,Male,55,Los Angeles,2.5
+57048,Nicole Jackson,Finance,Consultant,121506.83,13313.52,120855.73,12,Master's,Male,48,Chicago,3.1
+26745,Mr. William Fritz,HR,Manager,57676.4,16093.81,61078.86,9,Bachelor's,Male,28,Houston,3.8
+49625,Kevin Garcia,Engineering,Engineer,104490.42,14462.73,91371.28,25,Bachelor's,Male,35,San Francisco,3.4
+62922,Nathan Dorsey,HR,Analyst,136488.89,37798.46,187844.87,2,PhD,Male,53,Los Angeles,3.2
+35095,Heather Glenn,Engineering,Engineer,80136.74,28065.05,124017.77,26,Bachelor's,Other,30,New York,4.7
+79402,Judith Harris,HR,Sales Executive,94018.04,44542.52,121865.01,10,Master's,Other,31,San Francisco,3.1
+79107,Joshua Griffin,Engineering,Analyst,56144.16,28518.33,147887.86,6,Master's,Male,26,Chicago,3.0
+89358,Toni Johnson,Marketing,Manager,149356.96,21699.84,112612.54,17,Master's,Female,30,New York,3.6
+43128,Dennis Lee,Marketing,Manager,71091.86,17164.02,145531.33,6,Bachelor's,Male,35,Los Angeles,3.5
+54582,George Scott,Marketing,Analyst,90850.71,16115.96,191093.44,13,PhD,Male,24,San Francisco,1.2
+28109,Alexa Haynes,Finance,Engineer,120978.15,30761.48,176780.5,24,Master's,Male,38,Los Angeles,4.7
+44204,David Fernandez,Sales,Manager,113077.35,19481.32,76103.38,1,PhD,Male,58,Chicago,4.4
+77953,Mary Thomas,Marketing,Engineer,110262.13,46298.23,171707.69,25,PhD,Female,26,Chicago,3.9
+57120,Sarah Gray,Engineering,Consultant,146942.64,34173.5,92417.45,1,Master's,Other,44,New York,4.7
+69132,Andrew Nelson,HR,Analyst,49565.44,37011.72,115261.36,17,Bachelor's,Male,56,New York,3.7
+53278,Curtis Smith,Engineering,Engineer,104199.0,14181.6,173153.36,20,Master's,Female,59,Chicago,4.7
+24889,Colleen Woods,Engineering,Analyst,73684.6,8736.99,150163.14,6,Bachelor's,Male,52,San Francisco,4.7
+57455,Lacey Stone,Engineering,Sales Executive,82282.35,38514.65,193918.5,29,Master's,Female,28,San Francisco,2.7
+83638,Jacob Scott,Finance,Manager,93564.67,46208.71,177733.42,5,PhD,Female,29,New York,1.9
+95260,Chelsey Mitchell,Engineering,Manager,140680.25,36933.36,143598.92,4,Master's,Male,57,Houston,1.3
+16613,Mr. Jason Medina,Engineering,Engineer,68006.56,41146.07,113375.0,10,PhD,Other,38,Los Angeles,4.6
+51013,Sean Deleon,Finance,Manager,139555.0,37651.1,69424.67,16,Master's,Other,30,Chicago,1.1
+70095,Veronica Thomas,Sales,Engineer,135681.82,29289.91,171805.49,25,PhD,Other,24,New York,4.1
+49232,Diana Gardner,Marketing,Consultant,92663.94,22657.21,185558.78,19,PhD,Male,25,Houston,1.7
+40287,Stephen Jones,Engineering,Engineer,122155.18,8637.81,167408.14,4,Master's,Other,33,Houston,3.8
+91245,Troy Farmer,Finance,Consultant,134078.37,17885.97,100935.19,11,Bachelor's,Other,45,Chicago,2.6
+36627,Ivan Patton,Marketing,Sales Executive,47498.3,41336.12,175478.07,26,PhD,Female,57,San Francisco,1.4
+71313,Jared Knapp,Engineering,Sales Executive,78650.08,36605.08,157603.75,6,Bachelor's,Female,27,New York,2.6
+40630,Katherine Smith,Engineering,Engineer,122326.54,40699.3,134090.03,7,Master's,Female,34,Los Angeles,3.3
+65535,Traci Walton,HR,Engineer,104564.58,46781.03,156479.98,13,PhD,Other,35,San Francisco,1.8
+39156,William Hess,Marketing,Consultant,102223.29,5392.6,146468.3,17,Bachelor's,Male,35,San Francisco,1.9
+26245,Richard Griffith,Finance,Consultant,110605.86,8289.91,105465.04,15,Master's,Male,30,Chicago,1.3
+13885,Jeffery Harrington,Engineering,Analyst,54928.4,41145.63,51671.07,18,Bachelor's,Female,55,San Francisco,1.6
+20061,Melvin Brooks,HR,Manager,102581.41,13650.33,78399.67,22,PhD,Female,24,San Francisco,4.5
+80610,Toni Mcdonald,Finance,Consultant,68219.91,28474.45,183962.21,10,Master's,Other,44,San Francisco,4.9
+31093,Kaitlyn Aguilar,Engineering,Manager,70481.6,36694.78,98522.66,9,Master's,Male,40,San Francisco,4.2
+56336,Jaime Smith,Finance,Consultant,85871.35,48969.28,136633.03,3,PhD,Male,52,San Francisco,3.0
+36456,Ashley Howell,HR,Analyst,60137.61,34662.31,141153.43,12,Bachelor's,Female,41,Chicago,3.0
+74027,Brandi Mejia,Marketing,Consultant,92664.95,27609.73,145333.46,6,Bachelor's,Female,41,Chicago,3.7
+43577,Annette Payne,Marketing,Manager,87759.66,13283.39,163583.24,15,Bachelor's,Male,53,Los Angeles,1.6
+33153,Dylan Reyes,Finance,Analyst,110443.22,7513.88,156055.29,28,Bachelor's,Male,22,San Francisco,4.8
+50969,Christopher Jones,Marketing,Analyst,53561.68,48477.41,158264.24,16,Bachelor's,Female,40,Houston,1.7
+49949,John Fernandez,Engineering,Sales Executive,144728.16,23530.35,125049.51,23,Master's,Other,31,New York,1.3
+27071,Cynthia Mosley,Sales,Manager,73175.38,27312.96,56005.29,7,Bachelor's,Other,23,Los Angeles,2.7
+48152,Donna Fitzpatrick,HR,Analyst,109707.06,15311.01,141581.05,27,PhD,Male,36,Los Angeles,4.5
+87316,Tyler Brown,Finance,Consultant,58645.23,46959.97,181390.86,18,Master's,Female,50,Houston,1.7
+97000,Summer Robinson,Engineering,Analyst,141425.48,39352.12,156733.03,1,Master's,Female,53,New York,4.2
+20596,Christopher Sims,Marketing,Manager,55775.04,11230.99,134352.11,27,PhD,Female,22,Los Angeles,2.2
+33018,Chelsea Carrillo,Engineering,Sales Executive,42704.45,39686.2,189793.33,28,Master's,Female,33,New York,4.2
+15615,Trevor Wang,Sales,Manager,137791.98,23424.74,137786.91,24,Bachelor's,Other,56,Houston,2.5
+16903,Matthew Sanchez,Marketing,Engineer,63073.07,42802.19,89962.79,19,Bachelor's,Male,25,Los Angeles,1.8
+43758,Nicholas Johnson,Finance,Sales Executive,123575.44,14087.22,171133.86,12,Master's,Female,33,San Francisco,3.4
+93374,Julie Jenkins,Sales,Sales Executive,121516.1,7884.38,168389.99,16,PhD,Female,27,New York,3.2
+54970,Cheryl Burke,Finance,Consultant,111543.7,37360.66,84116.82,12,Master's,Female,30,New York,3.4
+41538,Ethan Guzman,Engineering,Engineer,60092.7,42993.21,81035.03,2,PhD,Male,52,Houston,3.0
+44087,Joshua Chang,Finance,Engineer,124484.69,28635.46,167557.26,26,PhD,Other,23,Los Angeles,2.4
+52757,Chad Franklin,Marketing,Sales Executive,73230.86,26583.13,91054.48,22,Bachelor's,Female,45,Houston,1.8
+98819,Heather Hancock,HR,Engineer,99762.59,36687.6,88065.96,27,PhD,Male,37,San Francisco,1.1
+42316,William Randall,Sales,Sales Executive,78583.86,22467.02,192382.07,23,PhD,Male,37,Los Angeles,3.0
+98757,Dustin Curry,HR,Manager,63370.37,33220.03,106966.63,11,PhD,Male,33,Los Angeles,2.3
+82763,Amy Thomas,Marketing,Sales Executive,107405.33,8028.18,160638.6,3,PhD,Other,44,San Francisco,4.0
+64668,Carla Anderson,Finance,Consultant,86639.42,15928.38,196839.57,2,PhD,Male,27,Los Angeles,4.0
+38637,Kristopher Sharp,Finance,Engineer,76679.38,20275.36,108165.53,3,PhD,Female,24,San Francisco,3.6
+26977,Elizabeth Paul,HR,Engineer,55294.83,26351.63,118725.44,16,PhD,Female,31,Los Angeles,4.6
+40034,Grant Jackson,Finance,Sales Executive,82790.32,43475.13,108225.4,10,PhD,Other,50,San Francisco,2.6
+76268,Audrey Becker,Marketing,Consultant,113344.2,7722.98,126535.04,21,PhD,Male,25,Houston,2.6
+33031,Gerald Robertson,Finance,Sales Executive,134972.55,35659.31,106943.38,12,Master's,Female,29,Houston,4.4
+49143,Roger Villa,Engineering,Engineer,63790.34,31871.45,189795.23,17,Master's,Other,28,Chicago,4.6
+78537,John Freeman,Finance,Analyst,118347.65,40073.5,46442.18,16,Bachelor's,Other,49,Chicago,2.9
+68011,Jason Ramirez,Engineering,Consultant,130255.69,17499.49,198420.53,27,Master's,Female,32,Chicago,4.5
+89277,Gregory Ramos,Finance,Analyst,141034.72,13812.1,89575.03,1,Master's,Other,58,San Francisco,3.8
+12316,Katrina Graham,Engineering,Engineer,100229.98,45539.72,185267.89,18,Bachelor's,Other,29,Los Angeles,1.5
+27815,Sheri Jacobson,HR,Manager,106989.51,40007.27,180641.58,3,Bachelor's,Male,53,Houston,3.1
+74097,Richard Green,Sales,Engineer,140337.74,20865.67,125059.93,22,PhD,Female,59,Los Angeles,4.1
+77849,Denise Bailey,Marketing,Engineer,42825.12,18204.99,162303.75,10,Master's,Female,33,New York,4.4
+43085,Megan Schneider,Sales,Manager,144969.26,49455.6,87240.87,14,Bachelor's,Other,52,Chicago,5.0
+52023,Andrew Smith,HR,Analyst,120750.76,17445.86,137902.39,25,Master's,Female,59,Chicago,1.1
+88777,Steven Graham,Sales,Sales Executive,122261.5,15513.84,166580.2,19,Bachelor's,Female,35,Chicago,3.9
+64606,Carla Allen,Marketing,Sales Executive,70631.55,38484.3,176286.8,26,PhD,Male,51,Houston,2.4
+84680,Greg Foster,Finance,Manager,58261.97,11915.13,59571.25,6,PhD,Female,50,Houston,2.8
+25602,Brittany Powers,HR,Engineer,112851.93,46516.91,66668.74,28,Bachelor's,Female,59,Houston,2.6
+36751,Emily Larsen,Sales,Sales Executive,69804.41,29263.19,54056.63,3,PhD,Other,47,San Francisco,3.3
+13025,Amy Nunez,HR,Engineer,146159.42,16179.76,47422.19,27,Bachelor's,Male,43,Houston,4.1
+95550,Samantha Lozano,Engineering,Sales Executive,118028.98,17473.59,177759.14,19,Master's,Other,57,San Francisco,3.8
+61152,Jeffrey Ford,Finance,Sales Executive,104161.99,23919.36,46793.97,19,Master's,Other,25,Chicago,4.1
+22452,Erin Williams,Engineering,Consultant,123206.67,29442.76,131622.37,3,Master's,Other,56,Chicago,1.4
+61564,Mr. Justin Cooley,Engineering,Sales Executive,47760.95,12354.85,101377.61,5,Master's,Male,59,Los Angeles,1.1
+81049,Danielle Chambers,Engineering,Consultant,77729.83,22071.18,142103.52,21,PhD,Other,49,New York,3.6
+70649,Travis Martinez,Finance,Engineer,56005.55,27723.65,151390.84,12,Bachelor's,Other,47,Houston,3.3
+71596,Jennifer Lambert,Engineering,Consultant,53114.29,33325.77,143090.71,24,PhD,Other,56,Los Angeles,2.5
+46566,Donald Matthews,Sales,Sales Executive,141875.48,30990.86,162415.03,1,Master's,Other,28,Houston,4.4
+27908,Kayla Acosta,Marketing,Engineer,40800.98,11231.62,81477.56,11,Bachelor's,Female,32,San Francisco,1.8
+84460,Brenda Thompson,Sales,Sales Executive,146268.52,35572.88,81189.9,6,Bachelor's,Male,24,Los Angeles,1.1
+59550,Steven Owens,Marketing,Engineer,94918.27,49903.51,131610.58,23,Master's,Male,42,Houston,3.1
+89222,Matthew Bartlett,HR,Sales Executive,70033.73,11462.21,85791.96,2,Bachelor's,Female,39,Houston,3.6
+20498,Kyle Joseph,Marketing,Consultant,53859.65,39974.19,72193.8,10,Master's,Female,57,San Francisco,3.0
+77136,Mary Green,Sales,Consultant,109702.17,28694.79,171843.74,3,Bachelor's,Male,52,Los Angeles,3.0
+31730,Diana Pena,Marketing,Consultant,60152.66,13467.14,190568.69,25,Bachelor's,Male,39,Los Angeles,1.2
+68079,Cassandra Hicks,HR,Engineer,67360.04,42595.04,55194.21,7,PhD,Other,26,New York,4.4
+47374,Kevin Jones,Sales,Consultant,138912.07,35097.53,129276.84,14,Bachelor's,Female,53,New York,1.3
+69121,Ann Davis,Engineering,Sales Executive,148887.88,8525.15,156942.73,26,PhD,Male,44,San Francisco,4.4
+24913,Mary Wilson,Sales,Engineer,107403.39,37567.77,130908.19,27,PhD,Female,45,Chicago,4.0
+24238,Michael Thomas,HR,Analyst,107523.72,40074.5,140524.23,26,PhD,Other,30,Chicago,1.6
+55037,Gwendolyn Charles,Finance,Consultant,56688.62,21976.86,118766.96,29,PhD,Other,26,Chicago,3.3
+95745,Jacob Singh,HR,Sales Executive,145337.47,46509.11,115251.62,25,Bachelor's,Female,36,Houston,2.7
+33585,Gregory Sanders,Finance,Manager,94849.89,18901.55,74288.24,20,Bachelor's,Male,42,New York,2.6
+52091,Lauren Ball,HR,Sales Executive,41146.82,49002.99,88993.05,8,Bachelor's,Other,30,Chicago,4.0
+58925,Carrie Silva,Sales,Sales Executive,61283.83,13618.69,82138.61,2,Master's,Other,23,Houston,2.8
+54275,Dustin Oliver,Engineering,Engineer,47674.16,41443.75,172918.36,21,Master's,Female,28,New York,4.7
+94074,Meagan Norton,Marketing,Manager,105082.43,8137.9,137527.43,1,PhD,Male,54,New York,1.0
+97262,Ethan Cruz,Marketing,Manager,126766.54,30929.47,82318.79,19,Master's,Other,47,New York,3.3
+32015,Bryan Evans,Marketing,Manager,128115.11,14276.85,61772.38,24,PhD,Male,49,San Francisco,1.3
+30382,Jack Bauer,Marketing,Engineer,120207.53,43977.48,82081.54,10,Bachelor's,Female,48,San Francisco,3.7
+21110,Thomas Russell,Marketing,Analyst,125585.1,8613.63,45550.72,18,PhD,Male,37,Houston,1.5
+29035,Darren Cain,Finance,Sales Executive,55987.02,25402.53,79109.51,12,Bachelor's,Other,40,Chicago,3.3
+79198,Tyler James,Engineering,Manager,147833.8,29440.34,68072.92,14,PhD,Male,30,New York,2.9
+92510,Felicia Kane,Marketing,Manager,147469.49,42808.67,60116.55,24,PhD,Female,32,New York,3.3
+34768,Michael Robinson,Finance,Sales Executive,48466.74,12938.17,51905.0,13,Bachelor's,Other,53,Houston,1.2
+46773,Melissa Mason,Sales,Engineer,105722.91,6569.4,162590.03,10,Master's,Other,44,Chicago,1.0
+26455,Katelyn Rowe,Marketing,Manager,89533.93,21568.96,79258.18,2,PhD,Female,59,Houston,2.3
+62893,William Anderson,Marketing,Manager,42191.03,40975.37,108667.91,8,Master's,Other,54,Los Angeles,3.6
+43849,David Torres,Marketing,Sales Executive,139428.91,33541.09,113347.96,15,PhD,Other,52,Los Angeles,2.2
+25590,Emily Thomas,Sales,Manager,77097.35,22544.75,141587.46,18,Master's,Other,27,Chicago,3.6
+75807,Christina Kramer,Marketing,Consultant,135910.4,12818.79,107962.7,17,PhD,Male,54,San Francisco,4.5
+86201,Joanne Jefferson,Sales,Sales Executive,78830.37,20585.05,139503.53,13,Bachelor's,Male,47,Houston,3.2
+95144,John Schmidt,Marketing,Sales Executive,72089.47,13293.98,46721.6,5,Bachelor's,Other,49,New York,3.8
+50071,Shawn Haas,Sales,Consultant,121577.23,37153.27,197635.29,10,Master's,Female,59,Los Angeles,3.4
+63153,Jennifer Riley,Marketing,Analyst,142059.96,48022.86,99822.9,17,Bachelor's,Female,43,Chicago,1.2
+75951,William Chandler,Marketing,Sales Executive,62934.17,8192.71,80098.14,18,PhD,Other,38,Los Angeles,4.0
+40278,Kristy Sanchez,HR,Consultant,108949.18,15309.8,130911.22,25,PhD,Female,30,Chicago,3.6
+24412,Bruce Moore,HR,Engineer,140972.25,16468.25,132255.28,2,Master's,Male,31,New York,2.9
+99974,Joshua Reeves,HR,Engineer,143676.3,9571.56,51952.6,12,PhD,Other,27,New York,4.7
+77618,Tonya Rivera,Marketing,Engineer,65017.27,24805.05,94717.24,12,Master's,Other,27,Los Angeles,1.2
+41584,Angela Lewis,Marketing,Consultant,70518.13,37264.83,55932.8,6,Master's,Female,46,Chicago,1.0
+40072,Michael Serrano,Finance,Sales Executive,87623.58,29993.16,75434.69,19,Bachelor's,Male,50,New York,4.6
+95542,Natalie Coleman,HR,Sales Executive,121866.09,14951.51,94385.65,26,PhD,Other,27,San Francisco,4.6
+92101,Michael Alexander,Engineering,Analyst,69604.67,27666.73,135561.35,10,Bachelor's,Other,25,Los Angeles,3.1
+15496,Carlos Oliver,Finance,Manager,147282.33,25131.58,97416.81,13,Master's,Male,32,New York,2.6
+37478,Jennifer Russell,Engineering,Analyst,81707.59,18902.98,80324.86,8,Bachelor's,Other,43,Los Angeles,4.1
+43031,Charles Berry,Engineering,Engineer,82623.56,30779.49,153140.39,7,Bachelor's,Other,43,New York,3.6
+66662,Wanda Watkins,HR,Analyst,80212.19,48441.09,135755.05,22,PhD,Other,28,New York,4.9
+14966,Barbara King,Marketing,Engineer,105767.78,22311.27,153650.93,27,Master's,Female,26,Chicago,4.6
+54967,Kevin Hudson,HR,Analyst,119779.79,19503.17,45489.32,3,PhD,Male,36,San Francisco,1.7
+79819,Dominique Strickland,Finance,Sales Executive,139780.44,28464.57,131544.45,26,Master's,Female,42,San Francisco,3.0
+12858,Stacy Brown,Engineering,Analyst,73761.8,47858.42,144077.54,12,Bachelor's,Other,46,Los Angeles,1.6
+47678,Stephanie Smith,Engineering,Engineer,94756.57,41375.9,166062.42,26,PhD,Other,55,Chicago,4.7
+81067,Jacob Cooke,Finance,Analyst,114471.65,38123.45,166857.76,2,PhD,Male,58,Chicago,4.2
+92811,Lisa Reeves,Finance,Manager,89134.3,29469.43,196343.95,8,PhD,Female,31,Los Angeles,5.0
+29838,Michael Higgins,HR,Sales Executive,133848.31,34698.61,113650.56,10,Master's,Female,35,San Francisco,2.2
+11296,Jennifer Diaz PhD,HR,Consultant,115074.41,44014.72,45837.61,21,PhD,Other,37,Houston,3.8
+93283,Mrs. Alyssa Scott,HR,Analyst,73335.22,33523.28,103599.52,18,Master's,Other,35,Houston,2.1
+65733,Cynthia Santos,Marketing,Consultant,111294.98,33607.99,132264.71,12,Bachelor's,Female,46,San Francisco,1.3
+71931,Austin Clark,HR,Engineer,53990.08,13030.2,68365.77,8,Bachelor's,Other,37,Houston,2.5
+84026,Alison Velasquez,Marketing,Engineer,87505.28,30373.01,199298.45,11,Bachelor's,Other,30,San Francisco,1.3
+62498,Crystal Ellison,Finance,Analyst,127737.52,31026.56,63149.1,14,Bachelor's,Other,36,Chicago,2.7
+38621,Andrew Howard,HR,Consultant,149175.71,15158.07,62677.12,24,PhD,Female,46,New York,4.4
+54185,Amber Cherry,Finance,Analyst,101885.61,31586.86,72248.0,24,PhD,Male,51,New York,2.2
+32925,Ryan Greene,Engineering,Consultant,58235.93,32841.27,141381.87,2,Master's,Female,50,Los Angeles,3.1
+22156,Christina Wang,Sales,Analyst,115653.46,17217.06,119977.25,8,Master's,Other,47,Houston,2.2
+79415,Emily Stanley,Sales,Manager,105089.25,49578.34,92211.99,2,PhD,Female,41,New York,1.6
+98261,Melissa Parker,Finance,Sales Executive,96100.09,23591.45,93000.5,21,Master's,Female,30,San Francisco,1.9
+30127,Martin Boone,Finance,Manager,125075.51,32967.38,95842.56,20,Bachelor's,Male,26,Houston,2.7
+84202,Shannon Franklin,Sales,Analyst,111968.08,33692.19,165659.62,12,Bachelor's,Female,33,Los Angeles,4.6
+51429,Oscar Young,Marketing,Engineer,75085.0,38950.0,131450.83,15,Bachelor's,Female,54,Houston,2.4
+83295,Brandon Reeves,Engineering,Analyst,140300.98,5566.06,84327.88,19,Bachelor's,Male,48,Houston,1.6
+36840,Kenneth Potts,HR,Analyst,66175.63,46696.32,141503.27,28,PhD,Female,45,Los Angeles,2.2
+58270,Sharon Kennedy,Finance,Consultant,79097.3,49185.6,174566.26,7,Master's,Female,59,New York,4.9
+14609,David Williams,Engineering,Sales Executive,98546.15,28131.94,134776.04,15,PhD,Male,26,Chicago,3.1
+50542,Robert Mathis,HR,Analyst,119288.69,23729.43,184960.53,22,PhD,Other,41,San Francisco,3.6
+53016,Robert Chapman,Engineering,Manager,99708.88,43312.73,153409.0,5,PhD,Female,38,Houston,2.7
+14794,Susan Frost,Marketing,Engineer,65296.94,33315.93,134771.39,24,Bachelor's,Other,32,San Francisco,4.1
+91139,Nicole Robinson,HR,Manager,82028.52,44645.61,136237.76,21,Bachelor's,Other,59,Chicago,3.5
+61863,Chad Rodriguez,Finance,Manager,40038.04,38692.52,90806.64,14,PhD,Other,25,Chicago,3.8
+99893,Daniel Black,Marketing,Engineer,65674.64,47844.66,121647.28,8,Master's,Female,56,Chicago,1.7
+80328,Bernard Frost,Engineering,Sales Executive,115948.94,23047.03,115904.17,21,Bachelor's,Male,29,New York,3.1
+14862,Benjamin Payne,HR,Sales Executive,107664.32,6580.23,114408.51,1,Bachelor's,Male,25,New York,3.2
+94474,Karen Burton,HR,Engineer,143285.24,38932.7,63352.36,9,PhD,Other,28,Los Angeles,2.0
+56680,Rhonda Scott,Finance,Consultant,94829.33,18577.19,112659.99,19,Master's,Male,55,Houston,4.8
+59602,Jordan Myers,Marketing,Analyst,72385.1,26779.36,111524.19,2,PhD,Male,42,Chicago,2.9
+45296,Angela Mercado,Finance,Manager,75490.32,28376.98,80301.42,27,Master's,Male,45,San Francisco,2.0
+47608,Harry Sanchez,Engineering,Sales Executive,80071.64,23604.68,115355.23,3,PhD,Other,25,New York,1.9
+66421,Matthew Howard,HR,Consultant,91350.93,44571.4,103261.78,14,Master's,Male,51,New York,4.5
+37188,Monica Collins,Sales,Analyst,122062.09,44524.89,184614.98,5,Bachelor's,Female,57,Chicago,4.2
+57564,Deborah Schultz,Finance,Analyst,82698.42,28057.9,143032.5,22,PhD,Male,34,San Francisco,3.5
+81104,Kimberly Suarez,Finance,Sales Executive,54330.27,40877.79,46785.98,9,Master's,Male,22,New York,4.5
+72006,Sabrina Espinoza,Marketing,Analyst,77542.43,10588.48,82928.76,13,Bachelor's,Female,37,New York,4.4
+64680,Traci Ramirez,Engineering,Engineer,93044.41,36902.16,129784.75,7,Master's,Female,53,San Francisco,3.6
+14878,Mary Harrell,Finance,Consultant,52976.15,5312.7,115117.14,13,Master's,Other,56,Los Angeles,2.9
+98802,Beth Hawkins,Marketing,Engineer,123552.58,44219.85,182093.49,3,Bachelor's,Female,24,New York,4.5
+23886,Katie Henderson,Sales,Engineer,96075.35,30845.81,188322.53,13,Bachelor's,Male,31,San Francisco,4.3
+29560,Jerry Davidson,Marketing,Engineer,106686.7,25239.75,84329.97,28,Master's,Female,59,Los Angeles,4.7
+47286,Heather Kaufman,HR,Engineer,43311.78,18044.82,108631.02,16,Bachelor's,Female,48,Chicago,4.7
+18167,Amber Anderson,Finance,Engineer,133379.9,26663.33,195214.9,20,Master's,Female,47,San Francisco,4.1
+27079,Charlotte Torres,Marketing,Sales Executive,101949.01,22404.25,168406.93,10,PhD,Male,45,Houston,4.5
+23198,James Frey,Sales,Sales Executive,55179.43,48539.63,125601.02,25,Master's,Male,49,San Francisco,3.7
+35821,Courtney Russell,Marketing,Analyst,94238.91,16578.8,147304.35,12,Master's,Other,50,Los Angeles,2.5
+39411,Molly Dean,Marketing,Sales Executive,59398.29,25791.07,182913.18,6,Master's,Female,36,Los Angeles,2.3
+25234,Douglas Barker,Engineering,Consultant,136410.98,44575.32,48967.23,29,Master's,Male,39,Houston,3.3
+83032,Joseph Mccarthy,HR,Engineer,69243.89,45729.44,133615.24,16,PhD,Male,23,New York,2.4
+96889,Jennifer Schmidt,Engineering,Engineer,100926.48,25977.76,187782.49,2,Master's,Female,41,San Francisco,3.4
+58517,Amy Bennett,HR,Engineer,64078.52,39199.12,198690.31,2,PhD,Female,52,Chicago,1.1
+75296,Kevin Moore,Sales,Manager,145398.56,14777.68,150762.47,27,PhD,Male,38,San Francisco,3.3
+80994,Amanda Berg,Marketing,Engineer,84429.53,16885.43,191473.98,11,Master's,Male,26,Houston,2.2
+29365,Brittany Gonzalez,Sales,Engineer,135557.43,38333.8,140131.42,19,PhD,Other,35,Chicago,4.6
+68239,Diane Garcia,HR,Engineer,54150.05,48411.31,172075.57,16,PhD,Female,37,New York,3.5
+68625,Daniel Murphy,Engineering,Engineer,74577.8,40219.85,77783.55,5,Master's,Female,42,Houston,4.9
+92069,Amy Bennett,Finance,Manager,55585.2,48779.65,170018.36,16,Master's,Male,39,Los Angeles,2.0
+19804,Nathan Baxter,Sales,Sales Executive,58686.13,17217.62,145502.38,27,Bachelor's,Female,30,Los Angeles,4.6
+28299,Bradley Wheeler,Marketing,Consultant,83152.51,17824.64,82068.67,16,Master's,Other,24,Los Angeles,4.1
+78397,Jessica Martin,Sales,Sales Executive,66084.23,5734.74,109772.4,17,Bachelor's,Other,35,San Francisco,3.2
+80206,Stephen Sandoval,HR,Engineer,107625.72,44869.5,157183.7,11,PhD,Female,23,San Francisco,1.8
+98235,Daniel Clements,Marketing,Manager,132452.3,6555.54,75421.21,24,PhD,Other,41,New York,4.6
+12255,Scott Navarro,Finance,Consultant,131734.49,46364.29,148151.98,18,PhD,Female,22,Chicago,4.7
+69266,Stephanie Newman,Marketing,Sales Executive,41043.56,45343.97,61959.96,23,Bachelor's,Other,37,Los Angeles,1.7
+20542,Jeff Johnson,Engineering,Engineer,44761.26,14184.77,94259.25,19,Master's,Other,43,Los Angeles,2.9
+54795,Julia Thomas,Marketing,Consultant,53891.95,7034.84,76418.23,27,Master's,Male,38,Chicago,3.3
+73432,Krystal Owens,Finance,Engineer,60453.2,23826.15,77190.35,9,PhD,Male,57,San Francisco,2.2
+97062,Mr. Timothy Burgess,Marketing,Manager,111297.56,18001.57,63963.21,5,PhD,Female,36,Los Angeles,1.1
+56363,Jeremy Mcgee,Finance,Engineer,111820.3,10560.72,161793.75,17,Bachelor's,Female,42,Los Angeles,4.5
+49514,Juan Bailey,Finance,Engineer,66112.19,33246.08,196150.19,15,Bachelor's,Male,39,New York,2.5
+60861,Laura Smith,Finance,Sales Executive,64652.11,25402.17,108558.77,3,Bachelor's,Female,28,Houston,2.6
+38670,Maurice Daniel,Finance,Manager,108487.97,41020.15,187803.71,21,Bachelor's,Other,51,Chicago,4.2
+90986,Vickie Hall,Marketing,Consultant,42966.7,37117.34,148709.76,16,PhD,Female,22,San Francisco,2.5
+81419,Zachary Jackson,HR,Manager,138305.69,47229.97,189669.21,8,Bachelor's,Other,51,Houston,2.6
+68012,Jessica Neal,HR,Consultant,116567.76,44113.91,94693.67,23,Master's,Other,27,New York,4.0
+14673,Tammy Mckinney,HR,Consultant,129453.75,26250.37,196682.44,17,Bachelor's,Female,56,Houston,2.0
+59265,Mrs. Toni Garcia,Marketing,Consultant,96375.77,32386.36,193722.17,16,Bachelor's,Other,30,Chicago,4.1
+57793,Haley Coleman,Engineering,Analyst,93047.72,21657.58,94230.86,22,Master's,Male,22,Chicago,3.4
+59902,Christopher Lopez,Engineering,Manager,82010.34,46927.84,65406.06,14,Bachelor's,Male,45,Houston,4.8
+27991,Alexa Salazar,Sales,Sales Executive,102543.73,41381.67,93807.36,24,PhD,Female,28,Houston,2.4
+72121,Karen Berry,Sales,Sales Executive,66324.51,26368.42,150346.76,5,Master's,Male,41,Houston,1.6
+31830,Brenda Doyle,HR,Consultant,71862.1,19322.77,86722.93,3,Bachelor's,Female,28,San Francisco,3.1
+84525,Christine Gonzales,Marketing,Manager,141148.15,24761.28,189215.45,4,PhD,Male,51,San Francisco,2.2
+27350,Cheyenne Frank,Marketing,Manager,48344.55,47487.63,87863.37,9,PhD,Male,42,Los Angeles,2.0
+86630,David Herrera,Finance,Manager,49963.06,44650.61,143869.43,19,Bachelor's,Other,34,San Francisco,4.0
+97863,Vincent Morris,Finance,Analyst,133884.74,27199.43,102341.55,19,Bachelor's,Other,54,San Francisco,2.7
+68120,Daniel Rivera,Marketing,Manager,82259.59,17916.14,139694.09,29,PhD,Other,44,Chicago,4.9
+46523,Alicia Allen,HR,Engineer,118717.7,47923.34,71516.88,1,PhD,Male,41,Chicago,2.1
+80262,Kevin Bowers,Finance,Engineer,131370.06,33086.69,187235.08,18,PhD,Female,58,San Francisco,2.3
+32227,Anna Martin,Marketing,Consultant,50826.41,20616.31,179649.59,19,Bachelor's,Female,32,New York,4.5
+84395,Julie Mullins,Sales,Consultant,86899.04,9313.88,143008.55,13,Master's,Male,48,Houston,4.0
+63302,Katie Adams,Engineering,Sales Executive,65887.4,33963.83,167758.72,18,PhD,Female,29,San Francisco,2.2
+10042,Philip Lambert,Marketing,Consultant,111757.25,27578.94,97312.05,8,Bachelor's,Other,51,Chicago,1.9
+80154,Ashley Melendez,Engineering,Sales Executive,99579.29,34048.25,71083.71,19,Bachelor's,Female,44,Houston,2.8
+50346,Breanna Taylor,Sales,Sales Executive,71386.85,24815.91,76025.61,4,PhD,Female,35,Houston,4.9
+77576,Cody Elliott,Finance,Consultant,82880.46,16267.21,80793.75,1,PhD,Other,31,Los Angeles,3.3
+83742,Ashley Harris,Engineering,Manager,41985.47,16503.31,116030.53,13,Bachelor's,Male,23,New York,2.0
+78133,Danielle Smith,Marketing,Sales Executive,140970.23,24339.29,52952.92,24,Bachelor's,Other,22,Chicago,1.1
+41123,Abigail Dodson,Sales,Consultant,42030.64,11306.81,82682.74,29,Bachelor's,Female,46,Chicago,2.1
+54764,Sarah Avila,Sales,Engineer,69076.82,39317.7,59563.81,8,Master's,Male,53,Houston,1.4
+45668,Gloria Mitchell,Engineering,Engineer,75984.98,5429.95,67531.06,11,Master's,Other,57,Los Angeles,1.7
+48288,Kathleen Torres,Finance,Manager,145756.69,33550.57,117372.63,7,PhD,Other,47,Houston,3.1
+88093,Jason Bennett,Finance,Engineer,89933.08,44617.83,85453.2,9,Master's,Female,26,Chicago,4.1
+57710,Mary Pacheco,HR,Consultant,75823.32,43576.73,61487.5,17,Bachelor's,Male,52,Houston,1.2
+45001,Andrew Carlson,Finance,Analyst,51537.65,33513.32,73399.88,11,Master's,Male,55,Los Angeles,2.1
+61745,Daniel Olson,HR,Manager,60734.94,43531.53,95976.62,7,PhD,Male,22,Chicago,2.1
+59409,Jeremy Ford,Finance,Analyst,114351.75,5170.3,109325.19,7,PhD,Male,37,Chicago,4.7
+23099,Lori Ali,Marketing,Consultant,61667.85,40091.9,179816.21,29,Bachelor's,Male,46,Los Angeles,4.4
+36553,Ronald Olson,Sales,Manager,60331.84,26835.54,71468.37,10,Master's,Male,36,San Francisco,2.3
+65377,Erica Ramos,Marketing,Sales Executive,50277.03,25033.36,180981.2,19,PhD,Male,56,San Francisco,1.4
+98935,James Mccarthy,HR,Consultant,76700.35,45025.49,84865.27,25,Master's,Male,39,San Francisco,3.1
+83355,David Johnson,HR,Analyst,149031.81,15602.59,51025.42,29,Bachelor's,Female,57,Los Angeles,1.8
+41808,Kelly Sullivan,HR,Analyst,92838.22,40517.29,114078.91,9,PhD,Female,57,New York,2.8
+44960,Edgar Wong,Finance,Manager,116649.41,14163.43,53959.65,25,PhD,Female,26,Los Angeles,2.7
+55471,Cory Perez,Finance,Sales Executive,132491.13,38134.7,182655.72,22,PhD,Female,54,New York,1.3
+55433,Beth Hernandez,Marketing,Engineer,124628.69,16005.56,183240.87,7,Master's,Other,47,New York,2.6
+57274,Katrina Holland,Engineering,Analyst,69556.25,42260.86,136978.98,21,Bachelor's,Female,42,New York,5.0
+57192,Mary Miller,Engineering,Analyst,137446.65,7944.26,175206.07,4,PhD,Male,30,Los Angeles,3.2
+51523,James Rogers,Engineering,Manager,107255.6,28506.66,150140.0,14,Bachelor's,Male,28,Los Angeles,4.8
+67926,Angel Cross,HR,Sales Executive,60179.68,7126.36,146281.9,8,PhD,Female,37,Chicago,4.9
+70926,Alisha Jones,Marketing,Sales Executive,120947.54,46200.19,143785.05,13,Master's,Male,56,San Francisco,2.7
+50491,David Atkinson,Engineering,Analyst,88401.28,39923.22,160510.14,3,Bachelor's,Other,56,Chicago,2.6
+37603,Deborah Watkins,Finance,Analyst,111236.84,11311.48,125449.78,24,Bachelor's,Male,28,Los Angeles,2.6
+51883,Jennifer Craig,Marketing,Consultant,142283.35,41534.04,75934.68,5,PhD,Female,24,Chicago,3.4
+67910,Reginald Brown,HR,Consultant,109002.43,23590.43,71484.86,12,PhD,Male,42,San Francisco,4.9
+17771,Angela Lee,Finance,Engineer,105107.94,9179.21,66957.32,11,PhD,Other,46,Los Angeles,1.7
+99054,Lisa Morgan,Engineering,Consultant,123240.27,6672.79,147486.99,22,PhD,Male,27,New York,4.0
+95646,Joseph Wilcox,Marketing,Analyst,119464.6,21240.54,103016.99,24,Master's,Other,59,Houston,2.3
+38408,William Donovan,Sales,Analyst,99977.21,37663.84,83889.27,22,Bachelor's,Male,55,Houston,3.0
+85485,Heather Smith,Engineering,Consultant,131640.81,12137.32,143494.12,19,Master's,Male,32,San Francisco,2.2
+25222,Susan Williams,Sales,Manager,117274.46,47960.31,122531.22,3,Master's,Male,59,Chicago,1.2
+66505,Ashley Burnett,Marketing,Sales Executive,114427.64,46202.07,140446.11,5,PhD,Female,53,New York,1.7
+57893,Megan Smith,Marketing,Manager,115889.29,38516.81,180484.03,2,Master's,Other,49,Chicago,2.8
+77368,Casey Oliver,Engineering,Analyst,135325.41,25580.13,104875.67,1,Bachelor's,Female,33,New York,2.6
+33657,Amber Smith,Engineering,Analyst,42342.99,18717.05,194333.64,26,PhD,Male,44,New York,1.5
+98914,Ryan Lewis,Engineering,Sales Executive,122708.73,25837.39,141526.53,3,Master's,Male,53,Los Angeles,1.4
+54323,Samuel Lowery,Engineering,Consultant,47524.12,17288.01,59771.0,13,PhD,Female,37,San Francisco,4.8
+22048,Laura Ramirez,Engineering,Sales Executive,62381.8,23376.29,189648.16,16,PhD,Other,24,New York,4.0
+89189,James Becker,Engineering,Analyst,143049.85,42514.03,97373.71,2,Master's,Male,51,Houston,3.3
+34430,Amanda Roberson,Engineering,Engineer,123271.92,9856.21,74760.33,9,PhD,Male,39,Los Angeles,3.7
+71112,Sherri Vega,Marketing,Sales Executive,80091.73,47476.02,165361.18,5,Master's,Other,30,Chicago,4.2
+53671,David Hamilton,Engineering,Analyst,50760.5,26834.67,91240.47,21,Master's,Male,43,Chicago,2.1
+13322,Ronald Robertson,Finance,Manager,57380.32,22800.81,134586.75,27,Master's,Female,46,Los Angeles,4.7
+52549,Sara Adams,HR,Manager,44187.44,46799.44,130942.26,27,Bachelor's,Male,43,New York,1.6
+46335,Jose Kane,Sales,Analyst,134966.76,42233.44,51705.25,17,PhD,Other,56,New York,2.8
+40971,Cody Waller,Finance,Consultant,146025.21,48647.92,197684.69,20,Bachelor's,Other,45,Los Angeles,2.8
+68981,Melissa Russell,Engineering,Analyst,122396.89,28646.35,59756.44,9,Master's,Female,40,New York,1.1
+67425,Valerie Dean,HR,Analyst,70348.21,20634.31,62010.15,6,Bachelor's,Other,32,New York,4.3
+66491,Alyssa Collins,Marketing,Consultant,91917.22,37169.77,127951.08,14,Bachelor's,Other,41,Houston,1.9
+77607,Adam Ortiz,Finance,Manager,112817.65,22514.38,135767.77,29,Master's,Female,22,Los Angeles,4.0
+98456,Chad Hudson,Marketing,Sales Executive,126609.41,10724.36,171769.09,7,Bachelor's,Female,37,Los Angeles,4.7
+42005,James Smith,Marketing,Engineer,51604.14,9468.94,73838.3,1,PhD,Male,43,New York,3.4
+50294,Crystal Reyes,HR,Engineer,125468.06,21411.04,135433.18,27,Bachelor's,Male,57,Los Angeles,3.0
+87538,Sean Brooks,Marketing,Analyst,109210.4,7767.32,97077.17,7,Bachelor's,Other,57,Houston,2.9
+14612,Jeremy Kelly,Marketing,Consultant,116073.23,10931.11,111073.94,12,Master's,Female,37,San Francisco,2.5
+22262,Michelle Phelps,Engineering,Analyst,90650.88,30430.63,90470.83,10,Master's,Female,39,Chicago,3.0
+27076,Emily Smith,Engineering,Manager,142371.64,36663.73,175969.41,1,Master's,Female,44,Chicago,1.2
+70665,Amy Meyer,Finance,Sales Executive,140669.42,19441.98,176517.81,7,Master's,Other,39,San Francisco,3.6
+79577,Calvin Garcia,Marketing,Analyst,87783.62,35051.39,109451.79,4,Bachelor's,Other,54,Los Angeles,1.4
+22889,Dr. Amanda Byrd,Finance,Sales Executive,79072.96,45903.98,166452.79,24,Master's,Other,50,San Francisco,4.2
+89911,Christopher Bell,HR,Sales Executive,72502.48,21854.91,171704.07,21,PhD,Female,32,San Francisco,1.7
+49541,Tony Price,Sales,Sales Executive,53176.75,35697.73,157105.85,14,Master's,Male,22,Houston,1.9
+18354,Christian Young,Finance,Sales Executive,149652.53,45035.09,69222.54,29,Bachelor's,Other,26,Houston,1.3
+53703,Jeffrey Barrett,Engineering,Consultant,50575.09,23709.34,128246.96,28,PhD,Other,22,Los Angeles,1.1
+97734,Eric Mclaughlin,Engineering,Manager,146793.64,32339.33,45268.98,3,Bachelor's,Male,44,Houston,1.1
+42849,Madison Shah,Sales,Engineer,46296.68,48354.43,119232.3,28,Bachelor's,Male,31,Chicago,4.0
+56241,Kristen Patterson,Marketing,Consultant,73179.01,17684.62,136352.38,29,Master's,Male,30,Houston,4.4
+32457,Nancy Chase,Marketing,Analyst,49381.38,11149.67,127075.75,25,Bachelor's,Female,31,San Francisco,2.5
+67194,Kara Evans,Finance,Sales Executive,141932.95,36853.94,137779.57,9,Bachelor's,Male,25,San Francisco,3.1
+20522,Joseph Butler,Engineering,Engineer,101820.21,22750.37,175278.85,11,Bachelor's,Other,38,Chicago,2.0
+91258,Henry Williams,Marketing,Engineer,83818.49,32920.22,164182.68,10,Master's,Male,23,Houston,4.5
+63378,Danielle Martinez,Finance,Sales Executive,75184.23,26686.92,45633.21,2,Bachelor's,Female,39,San Francisco,1.1
+18374,Brandon Martinez,Sales,Manager,131988.98,33621.09,79784.26,25,Master's,Female,34,New York,1.2
+30737,Stacey Hill,Sales,Sales Executive,123406.82,6079.86,113069.7,3,PhD,Other,49,New York,2.0
+70190,Christopher Butler,Engineering,Consultant,72122.7,41531.31,184312.68,11,Master's,Other,33,San Francisco,3.5
+83053,Michael Anderson,Engineering,Sales Executive,76713.09,47050.92,113509.0,13,PhD,Other,47,Chicago,2.4
+33346,Roy Boyd,Engineering,Sales Executive,140160.25,12621.67,164553.35,8,Bachelor's,Other,29,Los Angeles,2.5
+70020,Tiffany Patterson,Sales,Consultant,80291.31,9688.38,118414.76,14,Bachelor's,Female,35,Houston,3.0
+94856,Marcus Willis DDS,Marketing,Manager,74086.01,29982.1,101266.04,24,Bachelor's,Male,29,Chicago,1.1
+18463,Vanessa Young,Sales,Analyst,93456.21,22514.02,161363.83,9,Master's,Male,35,Chicago,1.2
+57729,Michael Davis DDS,Marketing,Engineer,86531.98,5327.76,163979.1,3,PhD,Other,38,New York,3.7
+17539,Charles Allen,Sales,Manager,134407.81,23491.09,46413.89,18,Master's,Male,28,Houston,2.7
+31032,Annette Snyder,HR,Analyst,94972.81,29900.87,121105.32,16,Master's,Other,52,Los Angeles,3.4
+35850,Andrea Gray,Marketing,Analyst,50199.39,25941.18,188580.55,23,Bachelor's,Female,56,New York,1.3
+56132,Hector Garcia,Sales,Consultant,108243.11,16989.27,181955.45,1,PhD,Female,56,Houston,4.1
+92246,Chad Harmon,Sales,Sales Executive,64381.47,43244.03,147904.03,5,Bachelor's,Other,51,Los Angeles,4.2
+66770,Edward Carroll,Sales,Consultant,78981.21,41395.62,71182.05,5,Bachelor's,Female,34,San Francisco,3.5
+12010,Heather Johnson,Engineering,Sales Executive,108556.6,14407.02,76641.2,4,PhD,Male,37,Chicago,4.0
+66134,Ann Buchanan,HR,Sales Executive,102255.04,20672.14,76018.27,11,PhD,Male,47,Houston,1.2
+83797,Sharon Ali,Engineering,Engineer,51724.37,33369.0,193646.51,12,Master's,Other,29,San Francisco,2.8
+18408,Shannon Castillo,Marketing,Analyst,139692.62,35597.08,196719.19,27,Master's,Female,45,San Francisco,1.8
+56331,Anthony Roman,Finance,Consultant,140687.16,34890.47,104888.22,29,Bachelor's,Other,30,Chicago,2.8
+20251,Hannah Farrell,Sales,Engineer,63692.56,49411.53,81060.31,23,Bachelor's,Male,35,Houston,2.9
+21382,George Patton,Finance,Analyst,130412.61,32465.74,105886.24,27,Master's,Other,55,New York,2.0
+81492,Lisa Kaufman,HR,Manager,129698.59,5627.42,151929.49,25,Bachelor's,Male,22,Chicago,4.5
+55542,Melvin Anderson,Sales,Consultant,135387.5,6942.61,174702.08,8,Master's,Other,54,San Francisco,3.8
+24048,David Scott,Sales,Analyst,137403.34,49686.51,189060.61,13,Bachelor's,Female,46,Chicago,4.3
+19036,Javier Morales,Marketing,Engineer,123982.01,36748.92,67147.61,13,Master's,Male,55,New York,4.3
+91274,Wayne Martinez,Engineering,Analyst,62770.27,34094.57,198084.1,8,Master's,Other,26,San Francisco,1.0
+59530,Christina Cisneros,Sales,Engineer,135189.19,45319.02,78153.9,13,PhD,Male,44,San Francisco,3.4
+29645,Ann Rivas,Engineering,Sales Executive,44554.98,41435.91,175616.28,18,Master's,Other,39,Los Angeles,2.1
+91158,Daniel Hess,Finance,Sales Executive,66979.53,11032.13,122695.38,9,Master's,Other,25,New York,2.1
+15922,James Cain,Finance,Analyst,85675.68,37859.25,156004.46,21,Master's,Male,49,Los Angeles,1.6
+90009,Kristen Morris,Engineering,Manager,57348.98,46130.29,151939.82,28,Bachelor's,Male,40,Los Angeles,4.9
+63690,Ronald Williams,Finance,Consultant,84882.59,17103.73,46413.77,8,Bachelor's,Other,36,Chicago,2.7
+46486,David Martin,Sales,Analyst,50189.39,32160.88,45228.94,5,Master's,Female,54,Houston,3.2
+73047,Robert Carter,Finance,Engineer,54513.03,35714.14,75929.48,23,Bachelor's,Male,52,Chicago,4.8
+90106,Adam Martin,Engineering,Manager,52372.74,15392.64,175515.54,14,Master's,Male,59,Chicago,3.6
+33775,Tiffany Evans,Sales,Sales Executive,138801.69,18519.81,125907.12,9,PhD,Female,50,San Francisco,1.5
+58618,Dustin Scott,HR,Analyst,145888.66,8896.76,78961.87,25,Master's,Female,37,Chicago,1.3
+85115,David Jackson,HR,Engineer,51856.42,21525.32,61179.44,22,Master's,Other,59,Chicago,1.3
+36953,Amy Brown,Sales,Consultant,147671.68,47469.62,45909.92,8,Bachelor's,Male,58,Los Angeles,3.5
+35258,Claudia Mcgee,Sales,Manager,61954.87,25512.51,69163.88,8,PhD,Male,33,Los Angeles,1.9
+68181,Sandra Murphy,Marketing,Manager,103068.08,37772.38,146846.84,22,PhD,Female,29,Los Angeles,2.4
+33670,Amy Turner,Engineering,Analyst,123618.71,18375.07,181222.97,1,Master's,Male,58,Houston,2.2
+80389,Rhonda Alexander,HR,Consultant,110270.82,10444.87,113058.58,25,Bachelor's,Female,35,Los Angeles,1.8
+51798,Denise Jordan,HR,Analyst,74573.03,46900.16,154178.73,5,Master's,Male,40,Chicago,1.4
+28747,Caleb Garcia,Marketing,Sales Executive,89891.84,7757.34,134767.82,4,PhD,Female,35,Los Angeles,4.6
+79331,Melinda Vaughn,Engineering,Analyst,100735.49,7311.42,145452.87,21,Master's,Male,39,Houston,1.3
+99013,Travis Crawford,Finance,Sales Executive,53588.51,9079.98,156863.69,15,PhD,Other,47,Chicago,3.0
+48988,David Zhang,Finance,Analyst,127047.77,9372.19,158422.18,27,Bachelor's,Male,47,Los Angeles,3.0
+32652,Michele Butler,Sales,Manager,144652.48,9556.51,62702.13,27,PhD,Other,57,Los Angeles,1.6
+39034,Jesse Cisneros,Finance,Consultant,146853.66,39206.62,197885.86,20,Bachelor's,Female,41,New York,4.9
+74493,Brittany Lewis,HR,Consultant,133442.37,10916.53,112198.53,18,Bachelor's,Other,38,Chicago,3.7
+14252,Douglas Hansen,Sales,Manager,90033.33,11388.28,176100.5,15,Bachelor's,Other,28,Houston,3.2
+47539,Kristina Shields,Sales,Manager,42294.26,20772.35,48519.99,5,Bachelor's,Female,58,Los Angeles,2.2
+71909,Jeffrey Bradley,Finance,Consultant,83820.83,13504.77,113036.92,11,Master's,Male,58,Chicago,4.6
+70952,Heather Collins,Marketing,Analyst,121907.22,19246.5,56341.14,4,Bachelor's,Male,39,New York,3.4
+88001,Curtis Wilkinson,Engineering,Analyst,82274.4,7585.14,190376.83,12,PhD,Other,47,Chicago,4.4
+28097,Jenny Bishop,Sales,Consultant,124819.45,7714.38,175938.08,11,PhD,Male,50,New York,2.5
+40780,Thomas Ortega,Marketing,Manager,103659.72,40316.37,69599.29,5,PhD,Female,30,San Francisco,2.8
+84803,Luke Myers,HR,Engineer,56473.46,5710.5,154567.94,22,PhD,Male,45,Chicago,2.5
+67808,Ryan Miller,Marketing,Manager,120339.37,35368.7,72175.64,24,PhD,Male,32,New York,3.4
+43017,Jason Smith,HR,Manager,104652.24,24923.78,168917.05,24,PhD,Other,34,New York,5.0
+60135,Angela Moore,Marketing,Engineer,118103.28,38580.26,137878.12,20,Master's,Female,30,Los Angeles,3.0
+84025,Todd Payne,Finance,Sales Executive,73976.04,31654.59,108524.59,24,Bachelor's,Other,28,New York,1.5
+18732,Nichole Miller,Engineering,Manager,111622.49,46604.43,144484.87,29,Master's,Male,42,Houston,4.8
+28087,Michael Mccann,Engineering,Consultant,143893.01,30299.67,96465.14,28,Bachelor's,Male,28,San Francisco,2.6
+41341,Darlene Ingram,Engineering,Engineer,106896.6,6735.29,114947.7,15,Master's,Female,31,New York,1.1
+74795,Cynthia Bell,Sales,Engineer,74338.22,46549.95,186034.1,9,Bachelor's,Male,42,Chicago,2.1
+85432,Jordan Lee,HR,Analyst,143231.53,14189.71,100831.0,7,Bachelor's,Other,24,Chicago,4.8
+13819,Jose Kirk,Sales,Manager,90441.43,44540.19,106682.84,2,Bachelor's,Male,51,Houston,3.1
+91693,Stephen Johnson,Sales,Manager,117451.2,30877.48,168394.93,18,Master's,Female,28,Chicago,4.4
+47532,Colleen Scott,Marketing,Manager,102134.11,16812.57,63185.24,10,PhD,Female,50,New York,3.0
+70851,Andrew Solis,Finance,Consultant,90002.89,8119.18,58880.19,18,Bachelor's,Female,55,Chicago,5.0
+17277,Elizabeth Price,Finance,Engineer,65181.4,18564.06,68970.67,29,PhD,Other,32,Houston,1.6
+24370,Ryan Thompson,Finance,Manager,107475.11,32147.94,164754.58,21,Master's,Male,38,San Francisco,2.7
+84377,Zachary Hayes,Sales,Consultant,72648.71,22169.75,127844.85,7,PhD,Other,41,San Francisco,2.6
+16137,Corey Decker,Marketing,Engineer,115676.39,39667.04,142679.85,20,Master's,Other,25,San Francisco,2.5
+26970,Justin Jenkins,Sales,Manager,118435.65,14482.05,123115.15,17,Master's,Female,50,Los Angeles,1.9
+29457,Catherine Goodwin,Sales,Consultant,86872.22,35086.11,80998.91,27,Master's,Other,39,Houston,3.9
+96105,Dalton Byrd,Marketing,Engineer,132793.48,35750.97,101063.03,15,Bachelor's,Male,26,Houston,4.4
+41996,Kendra Brewer,Finance,Consultant,87723.56,21652.29,155562.36,28,Bachelor's,Male,36,Los Angeles,4.8
+30672,Jessica Bradley,Engineering,Consultant,125112.94,6910.34,154534.58,12,Bachelor's,Male,47,Chicago,4.2
+87785,Anthony Lopez,Sales,Consultant,102869.48,28125.96,60562.58,27,PhD,Other,56,Houston,4.9
+52460,Allen Pitts,Sales,Engineer,146806.58,35065.93,153121.72,19,PhD,Male,30,Los Angeles,3.2
+79129,Stephanie Lopez,Marketing,Manager,53364.68,35541.06,83747.37,27,Bachelor's,Male,43,New York,4.3
+10314,Michelle Reed,Engineering,Consultant,55072.72,30149.06,96586.91,7,Master's,Female,28,Los Angeles,4.1
+60418,Stephen Herman,Finance,Consultant,104906.59,26773.91,144987.54,1,Bachelor's,Male,32,San Francisco,1.3
+37597,Tracy Young,Marketing,Manager,57431.79,43172.14,192522.23,22,Bachelor's,Female,32,San Francisco,4.3
+21758,Sandra Gibbs,Marketing,Consultant,54102.57,12970.01,154696.38,24,PhD,Other,44,Chicago,4.6
+72905,Stephanie Norris,Engineering,Engineer,130750.18,45608.26,146104.34,27,PhD,Female,57,New York,2.1
+99927,Joshua Mclean,Sales,Sales Executive,130747.3,18824.69,45869.51,16,Master's,Other,55,Chicago,4.3
+11959,Kimberly Lane,Engineering,Engineer,48645.65,12951.77,71037.68,25,Master's,Other,28,Chicago,1.3
+41044,Nicholas Campbell,HR,Engineer,92669.76,38002.18,67752.91,14,Bachelor's,Other,51,New York,4.0
+96572,Leah Harrington,Sales,Consultant,98189.45,30582.03,134537.27,27,PhD,Other,55,Houston,3.4
+20579,Mary Turner,Finance,Manager,142101.05,21857.59,109386.41,20,PhD,Male,53,San Francisco,4.6
+14326,Tony King,Sales,Analyst,78848.3,19851.9,45348.54,5,PhD,Other,50,Los Angeles,4.7
+72250,Lindsey Bauer,HR,Consultant,149107.44,33113.93,135627.02,2,PhD,Other,34,San Francisco,2.7
+58831,Erik Larsen,Marketing,Engineer,116889.54,12009.01,177533.8,11,Master's,Other,36,Los Angeles,3.9
+12327,Gabriel Cruz,Finance,Analyst,132993.04,30907.02,134152.72,18,Master's,Male,47,San Francisco,3.6
+34771,Laura Washington,Finance,Manager,46959.05,7930.89,63375.83,2,PhD,Female,23,Chicago,2.1
+31176,Andrew Leonard,Finance,Manager,89389.66,17131.33,195903.38,6,Master's,Other,57,Houston,3.6
+67161,Tiffany Ramirez,Sales,Manager,128743.44,13986.02,184586.16,23,Master's,Other,55,New York,1.0
+79162,Michael Young,Marketing,Consultant,103159.42,14773.83,115191.92,1,PhD,Female,23,San Francisco,1.5
+47130,Victoria Kim,HR,Engineer,135479.36,6431.14,79343.27,26,PhD,Other,36,New York,3.4
+39837,Christopher Khan,Sales,Manager,141203.77,41574.1,175822.35,3,PhD,Other,34,Houston,4.8
+46565,Nicholas Green,Sales,Consultant,130567.33,46513.55,163664.48,28,PhD,Female,25,San Francisco,4.8
+99967,Stacy Porter,Marketing,Sales Executive,57049.1,22464.45,183945.96,28,Bachelor's,Female,22,New York,2.6
+79654,Amanda Blair,HR,Manager,138133.93,29786.02,91476.7,10,Master's,Female,32,New York,2.7
+59698,Laurie Smith,Finance,Manager,69084.61,38800.74,45549.96,27,PhD,Male,22,San Francisco,2.8
+17040,Tina Williams,Engineering,Analyst,48461.42,33424.92,126112.14,18,PhD,Male,48,Los Angeles,4.9
+76321,Randall Nelson,Sales,Engineer,103793.41,44021.85,66064.71,15,Bachelor's,Female,29,Los Angeles,1.6
+34741,Bradley Nolan,Finance,Manager,132738.71,26223.13,141043.19,17,Bachelor's,Female,47,Los Angeles,4.9
+56454,Cathy Smith,Sales,Analyst,140676.43,11323.77,108943.45,22,PhD,Male,30,New York,4.5
+18267,Randy Ellis,Finance,Engineer,101416.86,36513.26,46328.8,9,Bachelor's,Female,59,Houston,4.5
+47198,Nicholas Tate,Finance,Manager,137640.52,14439.77,77311.07,3,Master's,Male,34,Los Angeles,1.6
+52743,Ashley Bryan,Sales,Engineer,120646.09,27228.0,195565.12,9,Bachelor's,Other,36,Los Angeles,3.0
+29017,James Thompson,Engineering,Sales Executive,147658.44,10043.58,63634.78,2,Bachelor's,Female,52,Chicago,2.5
+27157,Anna Harrison,HR,Manager,115987.36,47734.67,58009.85,13,Master's,Female,52,San Francisco,1.0
+97823,Elizabeth Lee,Marketing,Engineer,57724.19,16365.16,59864.43,4,PhD,Other,35,Los Angeles,4.0
+98316,Terry Hughes,HR,Consultant,125868.34,7283.02,132353.45,28,Master's,Other,44,Chicago,3.5
+26743,Bridget Munoz,Marketing,Consultant,66137.43,46652.54,136716.86,17,Bachelor's,Female,45,Los Angeles,2.5
+97258,Brandon Velez,Sales,Manager,104906.33,13963.55,64734.71,28,Master's,Other,36,Houston,3.0
+53583,Laura Becker,HR,Engineer,58007.74,45645.25,92735.05,25,Bachelor's,Other,34,Chicago,4.0
+63178,Laura Trevino,HR,Manager,82577.89,15329.92,64269.47,11,PhD,Other,29,Los Angeles,1.7
+23631,Mr. Dylan Schmidt,Engineering,Consultant,110023.73,14643.39,96470.66,12,PhD,Other,36,New York,1.3
+34472,Sierra Richards,Sales,Manager,43362.67,43739.01,140421.81,4,Bachelor's,Other,36,San Francisco,4.0
+35824,Emily Marquez,Finance,Engineer,92957.5,8710.89,45747.06,8,Master's,Male,48,New York,1.2
+10801,Kristin Woodward,Finance,Manager,99867.11,19268.62,68725.73,4,Master's,Female,35,Houston,1.5
+21478,Ashley Patton,Sales,Consultant,63042.66,43872.11,77805.78,9,PhD,Female,27,Houston,1.3
+62246,Brandon Valentine,HR,Manager,54833.46,30702.28,59065.13,23,Bachelor's,Male,32,Chicago,2.6
+95510,Mariah Rice,Marketing,Consultant,149899.78,33776.66,97053.94,11,Bachelor's,Male,49,Chicago,1.1
+89472,Madison Singh,Marketing,Analyst,116651.08,25396.57,163214.61,22,Bachelor's,Other,27,San Francisco,2.6
+17267,Patrick Fuller,Sales,Engineer,126783.69,43829.66,180403.81,22,PhD,Other,56,New York,3.5
+33998,Daniel Boyer,Sales,Sales Executive,124275.9,18275.37,156063.97,26,PhD,Other,56,New York,4.4
+74466,Charles Wilson,Sales,Consultant,104228.66,40690.82,67433.11,3,PhD,Other,31,Chicago,1.9
+30973,Sandra Smith,Marketing,Sales Executive,140124.22,49429.79,184706.45,19,PhD,Female,43,San Francisco,3.2
+79996,Laurie Freeman,Engineering,Manager,149964.04,14665.95,87576.37,17,Master's,Female,43,San Francisco,2.2
+92093,Shawn Contreras,Sales,Analyst,88705.9,29259.58,162834.66,29,Bachelor's,Male,42,New York,3.8
+51410,Sharon Gonzalez,Sales,Consultant,75120.89,42434.84,164626.69,16,Bachelor's,Other,49,Chicago,1.8
+13469,Todd Green,Engineering,Sales Executive,110923.79,8616.2,100279.75,25,Bachelor's,Other,35,San Francisco,4.5
+94516,Christopher Payne,Sales,Consultant,127021.68,44794.87,111889.6,14,PhD,Male,57,Los Angeles,4.3
+63676,Bradley Williams,Marketing,Engineer,72951.15,16342.78,93861.74,22,PhD,Female,22,New York,4.1
+84614,David Brown,Sales,Sales Executive,137217.77,35161.99,65014.93,23,PhD,Other,31,New York,2.1
+46564,Justin Carrillo,HR,Analyst,80715.58,17569.66,123031.02,1,PhD,Female,42,San Francisco,2.5
+43234,Peter Roberts,HR,Consultant,149608.14,15651.06,180304.3,7,Bachelor's,Female,24,San Francisco,2.7
+79426,Shannon Hernandez,Engineering,Analyst,61590.97,27907.06,55511.07,24,PhD,Male,53,San Francisco,4.7
+11507,John Smith,Sales,Analyst,118305.64,42378.81,142263.86,10,Bachelor's,Other,56,Los Angeles,2.8
+24888,Denise Spencer,Engineering,Engineer,110678.54,7480.67,189611.8,2,Bachelor's,Other,24,San Francisco,4.8
+74373,Joseph Guzman,Sales,Analyst,137000.74,34167.24,147050.04,15,PhD,Male,58,Houston,3.9
+17666,April Brown,Sales,Engineer,75406.13,46674.62,64573.13,27,Master's,Female,25,San Francisco,1.2
+99429,Christopher Wagner,HR,Analyst,114655.98,32361.66,120485.58,17,Bachelor's,Other,41,New York,4.1
+93932,Nathaniel Munoz,Sales,Analyst,87413.55,29393.79,51819.12,6,Bachelor's,Other,22,Houston,1.2
+32648,Reginald Barrett,Finance,Sales Executive,86764.56,7176.91,68264.01,9,Bachelor's,Male,53,Houston,3.3
+62462,Jeffrey Ramos,Marketing,Manager,147694.88,40226.29,112215.79,7,PhD,Male,37,Chicago,4.8
+38658,Donald Lopez,Sales,Sales Executive,116634.38,26182.93,67297.66,10,Master's,Male,29,Chicago,4.1
+36749,Jenny Stanley,Engineering,Analyst,128047.93,47275.35,46957.64,23,Master's,Female,57,Chicago,2.2
+97427,Jessica Barrera,Finance,Manager,47420.4,29599.97,160982.68,26,PhD,Other,27,Houston,1.9
+67791,Chelsea Banks,Sales,Engineer,134820.67,5081.55,168812.13,15,Bachelor's,Other,35,Houston,2.0
+46309,Elizabeth Vance,Marketing,Analyst,132687.29,38799.52,149598.71,27,PhD,Other,30,Los Angeles,4.8
+16773,Mark Webb,Finance,Sales Executive,106509.31,15027.57,115441.21,23,Bachelor's,Other,26,San Francisco,2.3
+42629,Dr. Joseph Fuller Jr.,Engineering,Engineer,55952.54,16943.05,192271.01,12,PhD,Male,36,Houston,1.4
+31341,Amy Jacobs,HR,Manager,110742.55,35659.41,188548.83,4,Bachelor's,Male,35,Chicago,2.9
+82052,Carol Williams,HR,Consultant,75403.87,23628.93,187574.59,18,Bachelor's,Female,46,New York,3.9
+96997,Richard Wolf,Finance,Manager,74055.89,32035.9,139083.93,29,Bachelor's,Male,56,San Francisco,3.1
+80614,Arthur Bradford,Engineering,Engineer,132864.68,10173.47,155857.01,8,Master's,Female,49,San Francisco,1.4
+52190,Darren Walker,Sales,Analyst,105227.49,18514.21,146833.77,26,PhD,Female,50,San Francisco,3.5
+49909,Craig Johnson,Sales,Analyst,69496.45,12575.09,81939.99,25,Master's,Female,23,San Francisco,4.4
+87778,Joseph Foster,Sales,Sales Executive,48061.97,27626.8,62842.44,16,Bachelor's,Male,48,San Francisco,3.6
+60583,Stephen Fisher,HR,Consultant,82914.36,18075.03,116987.54,20,Bachelor's,Other,54,Chicago,3.5
+29282,Theresa Lozano,HR,Manager,86345.35,32366.52,50711.78,15,Bachelor's,Male,29,New York,4.8
+12521,Oscar Reynolds,HR,Consultant,91193.97,48777.25,142454.21,20,PhD,Female,54,New York,4.9
+75978,Paul Diaz,Engineering,Analyst,90070.43,35376.5,175149.64,14,PhD,Female,22,New York,3.1
+95460,Jodi Andrews,Sales,Sales Executive,80701.81,42170.99,128860.04,2,Master's,Male,48,Chicago,2.7
+85258,Lisa Sharp,Engineering,Sales Executive,47153.84,31609.12,171452.75,19,PhD,Female,57,Los Angeles,3.2
+34523,Andrea Cook,Engineering,Engineer,98977.53,38049.37,117685.82,16,Master's,Female,48,New York,3.5
+26833,Pamela Love,HR,Analyst,117603.97,5173.98,120305.37,23,Bachelor's,Female,59,Chicago,2.3
+15453,Kevin Weeks,Sales,Consultant,62782.84,34213.96,110962.63,12,Master's,Other,45,Los Angeles,4.5
+70121,April Clark,Engineering,Sales Executive,121594.53,49876.15,96700.16,19,Bachelor's,Female,26,San Francisco,1.5
+51498,Maria Davis,Engineering,Consultant,42384.39,38565.26,192426.08,8,Master's,Male,23,New York,3.4
+36633,Tiffany Ware,HR,Sales Executive,94085.65,24786.01,175499.39,12,Bachelor's,Female,22,New York,4.3
+50927,Julie Mitchell,Marketing,Engineer,132089.6,16387.25,92248.81,1,Bachelor's,Male,43,New York,4.8
+85219,Adam Sims,Finance,Sales Executive,127343.73,8570.36,94406.69,4,Bachelor's,Other,28,New York,3.0
+39398,Candace Greer,Engineering,Sales Executive,54998.97,21605.17,190861.67,27,Master's,Male,41,Houston,1.9
+62781,James Barker,Marketing,Consultant,120911.95,26888.28,87910.01,6,Bachelor's,Female,51,Houston,2.0
+41407,Suzanne Mitchell,Finance,Manager,131252.37,47119.92,73668.6,22,PhD,Other,28,Chicago,1.6
+99468,Michelle Miranda,Sales,Manager,54840.18,45019.22,161763.64,22,PhD,Female,28,Chicago,2.9
+41418,Erika Bush,HR,Manager,121997.32,30069.76,85307.22,14,Master's,Female,22,Chicago,1.4
+51587,Bruce Lopez,Sales,Consultant,83149.62,24194.42,127233.6,18,Master's,Female,34,Chicago,1.9
+80850,Joann Anderson,Finance,Sales Executive,65998.28,10818.33,195471.47,27,Master's,Female,58,New York,3.3
+70426,Dana Wilcox,Sales,Engineer,117644.58,33508.0,192360.61,24,Master's,Female,22,New York,1.2
+95980,Stacy Martin,Engineering,Engineer,72311.02,42978.72,156115.37,24,Master's,Female,37,Chicago,2.5
+12993,Katherine Schultz,Marketing,Consultant,101964.54,34903.21,95735.76,10,PhD,Male,57,New York,4.8
+34721,Katherine Montgomery,Engineering,Engineer,41497.23,35562.43,178022.68,28,Master's,Other,29,Chicago,2.6
+38985,Robert Grant,Sales,Consultant,60487.55,19188.83,148442.8,7,PhD,Female,46,San Francisco,3.4
+74977,Carol Huerta,Marketing,Consultant,148397.41,30332.73,107759.01,8,Bachelor's,Other,29,San Francisco,3.6
+16289,Monique Jones,HR,Engineer,68733.64,38166.54,92052.8,13,PhD,Other,49,Houston,3.7
+32608,Christopher Lowery,Finance,Consultant,84715.71,45024.98,145015.11,7,Bachelor's,Male,49,New York,4.3
+51319,Derek Lam,Engineering,Sales Executive,67572.4,5159.1,50155.11,24,PhD,Female,27,San Francisco,1.3
+65421,Caleb Parker,Marketing,Engineer,73275.51,41491.52,192532.36,13,Master's,Female,23,Chicago,3.0
+19059,Miss Christie Randolph,Engineering,Analyst,60449.93,9382.7,151447.08,12,Bachelor's,Male,41,New York,2.4
+54816,Samantha Golden,Sales,Manager,131456.35,30437.4,132423.08,12,PhD,Female,54,Chicago,2.8
+77988,Brent Evans,Sales,Engineer,139590.09,13911.28,58099.28,11,PhD,Male,40,San Francisco,2.8
+63059,Nicholas Hernandez,Finance,Engineer,112984.0,44562.76,117874.23,28,PhD,Female,32,Los Angeles,4.7
+75433,Sarah Washington,Marketing,Engineer,124030.51,46083.51,173815.52,7,Master's,Male,33,Chicago,3.2

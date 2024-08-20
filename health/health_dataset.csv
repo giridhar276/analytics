@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Diagnosis,Treatment,Medication,Blood_Pressure,Heart_Rate,Cholesterol_Level,Visit_Date,Hospital_Name,Follow_Up
+917739,14,Female,Diabetes,Medication,Drug C,117.8,65.8,220.0,2022-05-14,General Hospital,Yes
+556242,50,Female,Heart Disease,Medication,None,124.6,113.3,289.7,2020-07-17,General Hospital,No
+905879,54,Other,Diabetes,Therapy,Drug A,169.9,99.1,259.5,2020-10-13,Health Center,Yes
+963269,72,Male,Hypertension,Lifestyle Change,Drug B,111.2,73.5,100.9,2022-12-07,Health Center,Yes
+317021,73,Other,Heart Disease,Medication,None,86.2,70.6,273.7,2023-12-30,City Clinic,Yes
+825288,79,Other,Hypertension,Therapy,None,176.3,112.7,289.5,2022-08-22,Health Center,Yes
+269658,86,Male,Heart Disease,Medication,None,98.4,65.7,165.7,2023-07-17,General Hospital,Yes
+481976,68,Male,Asthma,Surgery,None,94.8,70.9,288.9,2021-04-17,City Clinic,No
+341959,62,Male,Diabetes,Lifestyle Change,Drug A,132.0,69.0,255.4,2022-06-30,City Clinic,No
+922170,97,Male,Diabetes,Lifestyle Change,None,164.0,102.5,149.4,2022-10-25,General Hospital,No
+409959,34,Female,Diabetes,Therapy,Drug C,148.5,76.2,261.5,2023-05-31,Health Center,Yes
+712385,41,Male,Hypertension,Surgery,None,111.7,99.2,116.7,2021-03-04,General Hospital,No
+590013,16,Female,Diabetes,Surgery,Drug A,89.8,62.7,194.3,2022-07-06,General Hospital,Yes
+497358,91,Other,Heart Disease,Medication,Drug A,153.7,64.1,233.2,2021-03-09,City Clinic,No
+668426,48,Other,Asthma,Surgery,Drug B,144.4,100.3,168.1,2021-11-18,Health Center,No
+610376,63,Male,Asthma,Medication,Drug B,94.1,102.6,232.2,2022-04-16,General Hospital,Yes
+423030,15,Other,Heart Disease,Therapy,Drug B,158.2,100.1,199.7,2020-10-08,Health Center,No
+745291,46,Male,Diabetes,Surgery,None,117.7,112.5,209.0,2022-04-02,City Clinic,Yes
+706423,66,Other,Hypertension,Lifestyle Change,Drug A,88.1,107.6,149.6,2022-02-18,City Clinic,No
+446626,79,Male,Hypertension,Lifestyle Change,None,170.5,112.0,104.2,2021-12-06,City Clinic,No
+487876,69,Female,Asthma,Therapy,Drug A,96.5,83.7,218.9,2020-03-29,City Clinic,No
+754125,79,Male,Heart Disease,Lifestyle Change,Drug C,139.7,80.3,287.9,2020-06-08,General Hospital,Yes
+218439,12,Other,Asthma,Surgery,None,113.8,110.1,176.3,2020-07-20,Health Center,Yes
+802508,98,Female,Hypertension,Therapy,None,115.9,89.4,194.9,2021-02-16,Health Center,No
+895191,88,Other,Heart Disease,Lifestyle Change,None,115.7,76.0,224.0,2021-12-21,Health Center,Yes
+361056,80,Male,Hypertension,Surgery,Drug B,145.5,97.4,205.0,2020-07-30,City Clinic,No
+830685,41,Male,Asthma,Therapy,Drug C,90.9,88.4,247.0,2020-06-21,Health Center,Yes
+536019,30,Male,Diabetes,Therapy,None,86.2,110.8,257.1,2023-08-23,Health Center,No
+916314,16,Other,Hypertension,Lifestyle Change,None,155.9,82.5,148.0,2021-09-06,General Hospital,No
+744266,14,Male,Heart Disease,Surgery,Drug A,80.0,66.9,104.5,2020-02-01,Health Center,Yes
+643070,92,Male,Asthma,Lifestyle Change,Drug C,172.8,114.7,288.4,2020-08-03,General Hospital,No
+825845,57,Male,Heart Disease,Therapy,Drug A,138.8,104.4,249.9,2021-03-05,General Hospital,Yes
+237223,15,Female,Diabetes,Lifestyle Change,Drug C,142.8,97.3,266.6,2021-01-08,General Hospital,No
+214332,75,Female,Asthma,Surgery,Drug C,174.1,76.6,150.1,2023-04-12,General Hospital,No
+497064,48,Other,Asthma,Surgery,Drug B,177.3,86.1,212.4,2022-09-25,Health Center,Yes
+963597,27,Male,Diabetes,Surgery,Drug C,112.2,116.4,126.1,2023-03-20,City Clinic,Yes
+622248,6,Other,Heart Disease,Surgery,Drug C,174.7,107.5,253.6,2023-09-28,Health Center,Yes
+548900,76,Other,Diabetes,Surgery,Drug B,149.7,66.3,250.7,2022-09-12,City Clinic,No
+929780,49,Other,Hypertension,Lifestyle Change,Drug B,88.6,93.5,284.1,2021-11-13,General Hospital,Yes
+509101,97,Male,Heart Disease,Therapy,Drug C,153.8,79.3,188.0,2021-10-10,City Clinic,Yes
+633731,94,Male,Asthma,Therapy,None,106.3,79.4,144.3,2020-01-17,City Clinic,No
+929745,56,Female,Hypertension,Surgery,Drug B,172.7,66.0,268.5,2022-12-31,City Clinic,No
+282624,19,Female,Hypertension,Surgery,None,131.8,119.1,253.5,2023-06-11,General Hospital,Yes
+796483,86,Female,Diabetes,Medication,Drug B,127.6,100.7,256.1,2021-02-02,General Hospital,No
+868157,39,Other,Heart Disease,Therapy,None,81.6,119.4,179.5,2020-05-29,General Hospital,No
+861382,2,Female,Hypertension,Surgery,None,139.0,68.2,292.2,2023-08-01,Health Center,No
+355541,29,Other,Asthma,Surgery,Drug B,110.9,116.0,175.9,2021-05-04,Health Center,Yes
+514748,60,Female,Asthma,Lifestyle Change,Drug A,105.1,117.9,204.1,2021-07-02,Health Center,Yes
+530127,12,Female,Heart Disease,Lifestyle Change,Drug C,128.1,116.6,281.1,2020-08-04,Health Center,No
+548262,56,Other,Heart Disease,Lifestyle Change,Drug B,146.2,60.5,213.9,2021-08-04,General Hospital,No
+255034,88,Male,Heart Disease,Therapy,None,111.8,63.1,143.9,2023-03-11,General Hospital,Yes
+308884,61,Other,Hypertension,Surgery,Drug A,113.7,108.2,287.6,2023-11-08,Health Center,Yes
+158463,39,Other,Asthma,Surgery,Drug A,105.3,72.5,192.4,2021-01-27,General Hospital,Yes
+743169,38,Male,Hypertension,Surgery,None,155.2,63.5,116.9,2020-10-13,General Hospital,No
+950276,83,Other,Asthma,Therapy,Drug A,81.8,72.8,215.7,2020-04-08,City Clinic,Yes
+891082,76,Male,Diabetes,Surgery,Drug B,135.9,118.2,154.7,2021-03-28,City Clinic,Yes
+600346,8,Female,Hypertension,Surgery,None,122.0,112.3,249.9,2022-03-09,Health Center,Yes
+722045,94,Other,Heart Disease,Lifestyle Change,Drug B,112.7,67.1,138.2,2022-11-29,General Hospital,Yes
+264742,60,Male,Hypertension,Surgery,None,153.2,97.8,293.9,2022-04-27,Health Center,No
+154933,60,Other,Diabetes,Lifestyle Change,Drug C,85.7,78.3,188.9,2020-08-18,Health Center,No
+893981,44,Male,Heart Disease,Surgery,Drug B,111.6,78.7,206.7,2020-12-13,General Hospital,Yes
+465352,74,Other,Heart Disease,Therapy,Drug C,96.4,113.2,105.5,2021-08-20,City Clinic,No
+699937,9,Male,Asthma,Medication,Drug C,141.3,68.5,228.1,2021-08-18,City Clinic,Yes
+389405,70,Other,Heart Disease,Lifestyle Change,None,91.1,70.8,190.7,2020-02-24,City Clinic,No
+393255,69,Other,Hypertension,Therapy,None,103.1,118.1,279.7,2021-01-21,City Clinic,No
+911593,5,Other,Heart Disease,Surgery,Drug A,115.6,103.0,244.7,2023-06-30,General Hospital,Yes
+927525,53,Female,Asthma,Therapy,None,159.1,66.5,116.8,2023-01-23,General Hospital,No
+524295,62,Male,Hypertension,Lifestyle Change,None,112.6,96.4,192.0,2021-05-23,Health Center,No
+876277,37,Female,Asthma,Medication,Drug A,105.7,114.5,126.4,2021-06-03,General Hospital,No
+688070,57,Other,Hypertension,Medication,Drug B,100.5,117.2,127.6,2023-10-08,General Hospital,Yes
+942795,54,Female,Heart Disease,Therapy,None,91.4,95.7,226.1,2023-10-01,General Hospital,No
+205364,15,Female,Heart Disease,Surgery,None,157.8,107.5,219.7,2023-11-12,General Hospital,Yes
+237606,7,Female,Diabetes,Therapy,Drug A,126.8,73.9,200.5,2023-07-22,Health Center,Yes
+363074,49,Female,Asthma,Lifestyle Change,Drug C,104.6,76.6,243.0,2021-08-15,Health Center,Yes
+867998,69,Female,Asthma,Surgery,Drug B,152.6,96.4,186.5,2022-02-03,City Clinic,Yes
+158370,81,Other,Asthma,Lifestyle Change,Drug B,119.6,102.1,137.1,2023-11-14,Health Center,No
+719801,8,Other,Hypertension,Therapy,None,119.3,112.2,160.6,2021-09-11,General Hospital,No
+813478,12,Other,Diabetes,Medication,Drug A,129.6,108.4,278.4,2020-11-20,Health Center,Yes
+891260,99,Female,Diabetes,Therapy,Drug C,129.6,115.9,261.6,2021-01-23,General Hospital,No
+193876,21,Female,Hypertension,Medication,None,125.9,92.3,169.4,2020-04-18,Health Center,Yes
+827511,80,Female,Asthma,Surgery,Drug A,124.4,92.7,254.7,2023-02-27,Health Center,Yes
+183763,31,Female,Asthma,Medication,Drug B,134.0,103.2,133.4,2020-10-21,Health Center,No
+592693,62,Male,Hypertension,Medication,Drug C,148.2,79.4,173.6,2022-04-23,General Hospital,No
+657935,39,Female,Asthma,Lifestyle Change,None,165.8,98.7,125.9,2022-04-25,City Clinic,No
+404484,14,Other,Hypertension,Therapy,Drug C,102.7,93.0,161.9,2023-04-07,General Hospital,No
+702324,85,Male,Diabetes,Therapy,Drug B,168.0,74.6,119.4,2021-10-22,City Clinic,No
+930536,65,Female,Diabetes,Therapy,Drug C,155.1,105.2,160.3,2023-02-19,General Hospital,No
+154534,72,Other,Asthma,Lifestyle Change,Drug C,146.8,65.7,223.9,2021-07-10,General Hospital,No
+773073,88,Other,Heart Disease,Therapy,None,143.3,77.5,292.3,2021-01-26,City Clinic,No
+732909,94,Female,Asthma,Surgery,Drug B,84.6,86.1,198.3,2022-12-20,City Clinic,Yes
+403014,55,Other,Diabetes,Surgery,Drug B,107.0,73.9,159.5,2021-04-29,City Clinic,Yes
+433053,46,Male,Hypertension,Lifestyle Change,Drug C,163.8,61.9,115.9,2022-02-02,Health Center,Yes
+784811,60,Other,Heart Disease,Therapy,Drug A,141.5,108.6,283.7,2022-06-09,General Hospital,No
+190002,63,Female,Asthma,Surgery,Drug B,157.5,80.3,192.8,2022-12-16,General Hospital,Yes
+787045,20,Other,Diabetes,Therapy,Drug C,118.6,69.2,169.5,2022-11-10,Health Center,Yes
+519136,8,Other,Hypertension,Surgery,Drug C,109.8,64.2,227.2,2020-12-08,Health Center,Yes
+900713,31,Other,Hypertension,Medication,None,124.8,73.1,287.2,2024-01-01,Health Center,Yes
+978904,91,Female,Diabetes,Lifestyle Change,Drug B,125.4,75.1,192.6,2020-06-03,Health Center,No
+222485,19,Female,Diabetes,Therapy,Drug A,120.8,92.7,228.6,2023-12-31,Health Center,Yes
+809056,58,Female,Asthma,Surgery,Drug B,158.7,65.9,146.8,2022-10-10,General Hospital,No
+133494,19,Male,Diabetes,Medication,Drug B,135.0,96.2,252.6,2023-08-01,City Clinic,Yes
+589423,60,Male,Hypertension,Therapy,Drug B,93.3,119.3,293.0,2022-05-12,City Clinic,No
+767510,91,Female,Asthma,Surgery,Drug A,88.6,94.5,120.8,2022-10-09,General Hospital,Yes
+475165,28,Other,Hypertension,Lifestyle Change,Drug A,160.2,100.3,270.9,2020-11-13,Health Center,Yes
+533221,8,Male,Hypertension,Therapy,Drug B,113.8,61.6,171.8,2023-09-06,City Clinic,No
+365704,54,Other,Hypertension,Medication,Drug C,128.9,110.8,281.0,2023-06-22,City Clinic,Yes
+863922,61,Male,Heart Disease,Therapy,Drug C,142.6,66.8,296.8,2023-08-27,City Clinic,Yes
+512923,4,Male,Asthma,Surgery,Drug C,113.1,102.2,276.2,2022-09-14,City Clinic,No
+713950,23,Female,Hypertension,Surgery,None,151.4,74.3,152.7,2023-12-03,Health Center,No
+248637,12,Male,Asthma,Therapy,None,85.4,91.7,227.8,2023-12-04,General Hospital,No
+790528,73,Male,Heart Disease,Therapy,Drug B,157.7,61.6,222.1,2021-07-09,General Hospital,No
+454482,99,Female,Hypertension,Lifestyle Change,Drug C,163.7,117.2,208.7,2023-04-29,Health Center,No
+194104,91,Other,Asthma,Medication,None,126.8,99.0,259.3,2020-02-09,General Hospital,No
+997237,11,Male,Asthma,Therapy,Drug C,126.9,119.6,179.1,2023-04-07,City Clinic,Yes
+213758,72,Other,Diabetes,Lifestyle Change,Drug C,98.1,111.2,146.1,2020-02-25,General Hospital,No
+902664,8,Male,Asthma,Medication,Drug B,157.2,102.2,240.9,2021-03-31,Health Center,Yes
+293939,25,Male,Asthma,Surgery,Drug C,179.5,109.0,246.9,2023-01-01,Health Center,Yes
+352161,7,Male,Diabetes,Therapy,Drug C,160.3,110.9,120.2,2020-10-02,Health Center,Yes
+701624,28,Female,Asthma,Surgery,None,125.1,116.6,176.8,2020-03-09,City Clinic,Yes
+431035,59,Male,Hypertension,Therapy,Drug B,146.2,106.6,296.2,2023-12-08,General Hospital,No
+533362,6,Other,Heart Disease,Medication,Drug A,133.9,78.4,291.6,2023-01-31,City Clinic,No
+669632,42,Other,Hypertension,Medication,Drug B,124.1,82.1,114.7,2022-10-04,Health Center,No
+554522,95,Other,Heart Disease,Medication,None,98.2,87.0,201.4,2022-07-11,Health Center,Yes
+819541,79,Female,Asthma,Surgery,Drug A,107.2,68.7,159.9,2023-08-05,Health Center,Yes
+423640,79,Male,Heart Disease,Therapy,Drug C,99.0,96.1,150.1,2020-06-02,City Clinic,Yes
+342422,7,Other,Heart Disease,Therapy,Drug C,109.6,109.3,204.1,2022-06-15,General Hospital,Yes
+489152,43,Other,Diabetes,Therapy,Drug B,80.1,61.1,273.0,2021-01-14,Health Center,No
+191193,51,Male,Asthma,Medication,Drug C,144.2,111.4,253.6,2023-06-20,General Hospital,Yes
+907421,63,Female,Diabetes,Surgery,None,96.1,84.3,112.4,2020-12-25,General Hospital,No
+370492,27,Other,Heart Disease,Lifestyle Change,Drug C,144.1,109.4,216.2,2021-05-18,General Hospital,No
+154799,4,Male,Heart Disease,Medication,Drug B,96.3,68.5,204.5,2023-10-07,City Clinic,Yes
+519147,16,Female,Heart Disease,Medication,Drug A,162.2,63.9,108.5,2021-09-05,General Hospital,No
+769866,76,Female,Hypertension,Medication,Drug A,104.3,110.5,167.0,2021-01-15,Health Center,Yes
+877043,32,Female,Hypertension,Lifestyle Change,None,120.1,96.3,220.3,2022-07-15,City Clinic,No
+432187,78,Other,Hypertension,Medication,Drug C,83.9,92.5,119.1,2020-04-04,General Hospital,Yes
+858695,26,Other,Diabetes,Therapy,Drug A,134.9,93.8,150.0,2020-03-08,City Clinic,No
+250657,97,Other,Diabetes,Surgery,Drug B,162.5,96.6,213.4,2022-08-05,City Clinic,Yes
+900612,90,Male,Heart Disease,Therapy,Drug C,154.1,71.1,248.4,2022-05-09,Health Center,No
+114404,31,Female,Hypertension,Therapy,Drug B,81.5,87.3,291.0,2022-10-15,City Clinic,No
+437445,89,Male,Diabetes,Medication,Drug A,91.0,112.5,232.6,2022-10-22,Health Center,No
+756662,20,Male,Asthma,Lifestyle Change,Drug C,102.4,100.7,243.8,2021-05-28,City Clinic,Yes
+258533,24,Male,Asthma,Medication,Drug C,163.3,111.5,208.5,2022-02-22,City Clinic,No
+535085,20,Female,Hypertension,Surgery,Drug A,83.3,82.0,272.2,2021-12-02,Health Center,No
+618339,26,Male,Heart Disease,Lifestyle Change,Drug C,160.3,67.6,219.3,2020-02-13,Health Center,Yes
+384490,41,Female,Asthma,Surgery,Drug A,125.0,116.8,282.8,2021-02-09,Health Center,No
+237342,29,Female,Diabetes,Lifestyle Change,Drug B,98.4,65.8,234.2,2020-10-07,General Hospital,Yes
+680249,10,Male,Heart Disease,Medication,None,100.7,88.3,260.0,2020-03-21,General Hospital,No
+689401,80,Other,Heart Disease,Therapy,Drug B,174.2,102.0,219.6,2020-04-13,City Clinic,Yes
+543781,74,Male,Diabetes,Therapy,Drug A,118.8,90.4,174.8,2020-10-16,City Clinic,Yes
+535481,54,Male,Heart Disease,Therapy,Drug A,158.0,73.0,250.9,2021-01-08,City Clinic,Yes
+598195,28,Female,Hypertension,Surgery,Drug B,85.1,74.0,299.1,2021-06-17,General Hospital,No
+307162,71,Male,Diabetes,Surgery,Drug C,80.2,70.7,295.3,2021-05-14,Health Center,Yes
+956513,87,Other,Diabetes,Surgery,Drug C,98.7,101.1,221.6,2023-08-14,Health Center,No
+198904,10,Other,Asthma,Medication,None,94.0,115.3,277.4,2022-01-20,City Clinic,Yes
+262199,32,Male,Heart Disease,Medication,None,157.6,64.2,285.5,2020-09-24,Health Center,No
+975058,0,Female,Heart Disease,Medication,None,114.0,69.3,101.3,2022-11-06,General Hospital,Yes
+334977,62,Male,Hypertension,Surgery,Drug A,118.9,118.6,125.6,2020-10-04,General Hospital,No
+154200,86,Female,Diabetes,Surgery,Drug A,175.0,105.4,151.8,2022-08-17,General Hospital,Yes
+800042,36,Female,Asthma,Lifestyle Change,Drug C,114.6,118.7,145.3,2021-12-17,General Hospital,Yes
+272606,32,Other,Heart Disease,Medication,None,154.9,115.8,274.4,2022-02-03,Health Center,Yes
+683540,61,Female,Hypertension,Surgery,Drug B,107.8,95.6,167.5,2021-12-04,City Clinic,Yes
+610711,15,Female,Heart Disease,Lifestyle Change,Drug A,93.7,119.8,271.8,2022-10-21,Health Center,No
+190715,22,Other,Hypertension,Medication,Drug C,141.8,72.2,109.4,2020-09-19,Health Center,Yes
+118839,49,Female,Hypertension,Lifestyle Change,Drug B,145.2,72.8,125.7,2023-02-05,General Hospital,Yes
+944784,17,Other,Hypertension,Medication,Drug C,150.6,81.4,155.0,2022-08-30,General Hospital,No
+956818,43,Male,Diabetes,Medication,Drug B,154.6,93.7,130.6,2021-12-21,Health Center,No
+242532,98,Other,Diabetes,Lifestyle Change,Drug B,101.9,92.4,264.7,2020-03-20,Health Center,Yes
+731849,32,Female,Heart Disease,Surgery,None,140.8,93.4,178.8,2023-02-15,City Clinic,No
+655419,5,Other,Asthma,Surgery,None,144.0,115.2,206.8,2022-03-20,City Clinic,Yes
+405964,83,Male,Hypertension,Medication,None,153.4,75.1,164.8,2021-04-27,City Clinic,No
+894938,86,Female,Hypertension,Therapy,None,89.3,81.7,280.2,2020-07-15,Health Center,Yes
+696023,92,Female,Heart Disease,Medication,Drug C,174.0,90.7,108.4,2021-07-23,City Clinic,Yes
+288948,18,Male,Hypertension,Surgery,Drug A,123.2,87.8,110.3,2021-05-08,General Hospital,No
+531639,89,Other,Asthma,Therapy,Drug A,90.0,74.0,137.2,2021-01-20,Health Center,Yes
+892256,78,Male,Asthma,Lifestyle Change,Drug B,166.4,95.4,255.7,2023-11-26,City Clinic,Yes
+606554,93,Other,Asthma,Therapy,Drug B,95.6,99.7,286.3,2020-04-19,Health Center,No
+897268,10,Female,Asthma,Lifestyle Change,None,105.1,111.2,130.1,2020-10-11,City Clinic,No
+624288,71,Male,Hypertension,Lifestyle Change,Drug C,152.8,110.3,106.9,2021-01-28,City Clinic,Yes
+513671,40,Male,Heart Disease,Medication,Drug A,93.7,65.9,271.4,2023-01-26,City Clinic,No
+911011,84,Other,Asthma,Lifestyle Change,None,148.0,90.9,189.0,2021-06-13,General Hospital,No
+743907,24,Female,Diabetes,Surgery,Drug A,148.1,105.0,183.6,2023-12-12,General Hospital,Yes
+618814,61,Female,Diabetes,Lifestyle Change,Drug A,138.9,99.0,214.4,2022-03-07,City Clinic,No
+620277,71,Female,Asthma,Surgery,Drug B,171.6,75.3,247.7,2022-05-25,General Hospital,Yes
+923966,93,Female,Asthma,Medication,Drug A,141.3,100.8,182.0,2022-10-05,General Hospital,Yes
+806484,12,Female,Heart Disease,Therapy,Drug C,179.0,117.9,292.9,2020-02-26,General Hospital,Yes
+624313,85,Other,Asthma,Therapy,Drug A,94.8,89.0,253.2,2020-04-03,City Clinic,No
+162530,10,Female,Diabetes,Medication,Drug C,128.1,61.8,142.0,2023-01-22,Health Center,Yes
+927005,84,Other,Asthma,Lifestyle Change,Drug B,145.4,89.1,208.9,2020-02-04,Health Center,No
+225040,63,Other,Hypertension,Lifestyle Change,Drug C,123.5,66.4,192.9,2021-09-16,Health Center,Yes
+540881,54,Male,Heart Disease,Medication,Drug A,96.1,117.2,144.4,2023-08-15,City Clinic,No
+697613,95,Female,Asthma,Surgery,Drug C,104.9,115.2,159.5,2021-03-31,Health Center,Yes
+273180,22,Male,Asthma,Medication,Drug A,92.8,112.7,120.4,2021-01-12,Health Center,No
+760299,15,Male,Diabetes,Medication,None,114.2,80.5,238.1,2023-07-14,Health Center,Yes
+557343,58,Other,Asthma,Surgery,Drug B,99.3,82.4,182.2,2020-01-06,Health Center,Yes
+691682,81,Other,Diabetes,Lifestyle Change,None,150.5,117.5,140.8,2021-08-04,General Hospital,No
+239085,72,Other,Diabetes,Lifestyle Change,Drug B,108.2,71.6,254.3,2021-11-03,General Hospital,No
+409143,43,Female,Diabetes,Surgery,None,175.7,64.6,196.9,2020-04-19,General Hospital,Yes
+542679,93,Other,Asthma,Therapy,Drug A,132.2,71.0,151.1,2023-02-17,City Clinic,No
+276583,31,Female,Asthma,Medication,Drug A,104.3,62.8,192.4,2021-12-05,General Hospital,Yes
+282566,22,Female,Diabetes,Surgery,None,124.9,67.8,155.7,2021-09-08,Health Center,No
+648137,88,Female,Heart Disease,Therapy,Drug B,111.2,119.4,190.3,2020-06-28,General Hospital,No
+240456,56,Other,Heart Disease,Medication,Drug C,164.4,79.4,167.1,2022-06-30,City Clinic,No
+179977,42,Male,Asthma,Medication,None,171.9,116.1,267.8,2020-09-30,General Hospital,No
+363212,76,Male,Diabetes,Surgery,None,125.1,89.5,218.3,2020-07-12,City Clinic,Yes
+963901,15,Other,Asthma,Therapy,Drug B,145.3,70.0,265.0,2022-02-11,Health Center,No
+675020,1,Male,Asthma,Therapy,Drug B,173.5,99.7,133.6,2023-10-17,City Clinic,Yes
+847298,7,Male,Asthma,Therapy,Drug B,172.6,113.4,247.2,2020-11-25,Health Center,No
+615561,55,Female,Heart Disease,Surgery,Drug C,144.7,93.2,179.9,2023-11-25,City Clinic,Yes
+618149,68,Other,Diabetes,Lifestyle Change,Drug A,162.3,112.9,103.7,2021-01-26,General Hospital,Yes
+420988,1,Female,Diabetes,Therapy,Drug A,158.4,71.0,123.3,2023-07-27,City Clinic,No
+994630,51,Other,Diabetes,Medication,None,163.2,66.8,129.2,2020-03-31,General Hospital,Yes
+928018,97,Other,Hypertension,Lifestyle Change,None,102.2,106.2,142.4,2022-06-19,City Clinic,No
+331459,74,Other,Heart Disease,Therapy,Drug B,170.6,113.7,289.8,2022-08-01,General Hospital,No
+921208,14,Other,Hypertension,Therapy,None,117.3,61.1,220.0,2023-10-03,City Clinic,Yes
+307011,11,Male,Diabetes,Surgery,None,159.3,68.1,105.8,2023-07-30,General Hospital,No
+154045,71,Female,Heart Disease,Therapy,Drug A,134.8,89.4,197.7,2021-05-08,Health Center,No
+371947,11,Female,Heart Disease,Surgery,None,123.3,104.7,281.1,2022-05-27,City Clinic,No
+868915,11,Other,Heart Disease,Medication,Drug B,180.0,102.8,118.6,2022-10-22,City Clinic,Yes
+889245,48,Female,Hypertension,Lifestyle Change,None,151.1,63.2,252.3,2021-03-16,City Clinic,Yes
+924720,3,Male,Hypertension,Therapy,None,141.7,70.3,287.3,2020-10-09,Health Center,No
+761141,55,Female,Asthma,Surgery,Drug A,92.8,104.9,182.8,2023-05-31,City Clinic,Yes
+182423,28,Other,Diabetes,Therapy,Drug C,95.2,70.4,200.8,2021-12-04,General Hospital,No
+106086,30,Other,Hypertension,Surgery,Drug C,107.9,72.8,232.6,2022-08-09,Health Center,Yes
+523015,36,Male,Heart Disease,Surgery,Drug B,148.7,79.0,191.9,2020-11-06,General Hospital,Yes
+507166,64,Male,Diabetes,Lifestyle Change,None,137.6,98.4,238.8,2021-02-02,General Hospital,No
+660663,34,Other,Heart Disease,Medication,Drug A,95.4,108.8,208.1,2022-10-02,General Hospital,No
+453372,48,Male,Hypertension,Surgery,None,158.3,66.9,141.1,2020-12-24,General Hospital,No
+911736,77,Male,Heart Disease,Therapy,Drug C,116.9,116.8,164.0,2021-03-10,General Hospital,No
+988556,66,Female,Asthma,Surgery,Drug B,127.4,110.4,156.0,2022-05-08,City Clinic,Yes
+604741,26,Female,Diabetes,Medication,Drug B,136.4,94.0,281.3,2020-03-16,Health Center,No
+879846,13,Male,Asthma,Surgery,Drug A,174.5,97.8,191.4,2023-10-23,City Clinic,No
+364494,37,Female,Hypertension,Medication,Drug B,147.0,117.8,281.3,2021-10-30,Health Center,No
+730664,20,Female,Asthma,Medication,Drug C,175.3,82.8,102.6,2023-10-25,General Hospital,No
+614017,31,Male,Diabetes,Therapy,None,170.1,82.9,141.8,2023-08-02,Health Center,No
+256042,42,Female,Heart Disease,Therapy,None,120.1,99.5,149.5,2022-05-27,Health Center,No
+877176,17,Female,Asthma,Therapy,Drug C,178.7,79.8,274.6,2020-07-14,Health Center,Yes
+777872,89,Female,Heart Disease,Medication,Drug B,133.1,88.7,198.1,2023-04-21,General Hospital,Yes
+637619,51,Male,Asthma,Surgery,Drug C,166.6,87.3,213.7,2022-07-09,Health Center,No
+477658,70,Male,Heart Disease,Medication,Drug C,136.1,106.0,272.3,2023-01-21,General Hospital,Yes
+440349,82,Female,Asthma,Surgery,Drug A,160.4,68.9,267.7,2023-06-07,General Hospital,No
+150369,40,Male,Heart Disease,Lifestyle Change,Drug B,119.9,68.4,136.7,2022-10-23,Health Center,No
+715530,91,Male,Diabetes,Surgery,None,169.0,110.6,150.3,2022-07-18,Health Center,Yes
+512683,14,Other,Asthma,Lifestyle Change,Drug B,97.5,72.8,135.8,2022-03-23,General Hospital,Yes
+466092,22,Female,Asthma,Lifestyle Change,None,127.2,109.9,183.9,2020-02-19,City Clinic,No
+868336,31,Female,Hypertension,Lifestyle Change,Drug A,104.2,87.2,193.5,2021-07-23,Health Center,No
+973419,15,Female,Diabetes,Therapy,Drug A,96.4,111.4,246.3,2022-10-04,General Hospital,No
+298875,79,Other,Asthma,Surgery,Drug C,152.4,112.2,142.0,2022-08-15,General Hospital,No
+674316,14,Female,Diabetes,Surgery,Drug B,138.6,79.8,276.8,2023-05-28,City Clinic,No
+601619,81,Other,Heart Disease,Surgery,Drug B,101.4,108.8,172.1,2023-05-23,Health Center,No
+219559,97,Female,Diabetes,Lifestyle Change,Drug B,147.9,118.3,164.2,2022-06-15,General Hospital,Yes
+323692,54,Other,Asthma,Medication,Drug B,135.6,108.9,118.7,2021-11-04,City Clinic,Yes
+900463,91,Female,Asthma,Lifestyle Change,Drug A,176.3,80.6,262.6,2021-01-16,Health Center,No
+741268,21,Other,Asthma,Lifestyle Change,None,100.4,69.0,284.5,2020-05-07,General Hospital,Yes
+367260,41,Other,Asthma,Surgery,Drug C,171.8,102.7,100.5,2020-07-18,General Hospital,Yes
+619644,18,Male,Asthma,Surgery,Drug A,110.3,65.8,237.8,2020-01-08,City Clinic,No
+344245,9,Other,Asthma,Therapy,Drug B,91.3,103.7,253.2,2020-03-22,City Clinic,No
+519333,69,Male,Asthma,Therapy,None,88.0,81.3,271.2,2023-09-21,Health Center,No
+270209,67,Other,Heart Disease,Medication,Drug B,142.6,108.3,130.1,2022-04-09,City Clinic,No
+358813,80,Female,Hypertension,Surgery,Drug A,129.5,103.3,191.7,2023-11-18,Health Center,Yes
+365933,22,Other,Heart Disease,Lifestyle Change,Drug C,159.6,110.0,105.3,2020-05-09,Health Center,No
+254736,47,Male,Heart Disease,Lifestyle Change,Drug A,171.3,69.6,243.9,2020-08-14,Health Center,Yes
+396676,44,Female,Heart Disease,Surgery,Drug C,94.2,79.5,283.3,2021-05-04,City Clinic,No
+404908,86,Male,Asthma,Surgery,None,159.9,61.5,161.3,2022-08-21,Health Center,Yes
+268007,7,Female,Heart Disease,Surgery,None,164.9,68.4,288.5,2023-10-06,Health Center,No
+174007,12,Female,Hypertension,Therapy,Drug C,137.3,107.5,154.4,2021-07-15,General Hospital,No
+697270,78,Male,Heart Disease,Surgery,Drug A,120.5,112.1,248.7,2021-11-25,City Clinic,No
+979288,86,Female,Heart Disease,Lifestyle Change,Drug B,87.1,67.6,211.3,2020-02-22,General Hospital,No
+754571,78,Male,Heart Disease,Medication,Drug C,148.9,99.9,203.4,2020-04-08,Health Center,Yes
+490711,41,Female,Heart Disease,Lifestyle Change,Drug A,174.9,115.1,158.8,2022-08-28,City Clinic,Yes
+994370,0,Other,Heart Disease,Surgery,None,126.6,77.1,267.1,2023-04-05,General Hospital,No
+694357,99,Male,Heart Disease,Lifestyle Change,None,141.2,104.7,187.7,2020-06-23,City Clinic,Yes
+567572,33,Female,Asthma,Medication,Drug A,161.6,78.2,293.8,2022-02-17,General Hospital,No
+964997,1,Other,Asthma,Medication,Drug C,102.7,111.1,154.0,2021-08-25,City Clinic,No
+725223,33,Female,Heart Disease,Medication,Drug A,129.7,91.4,251.6,2022-05-22,Health Center,Yes
+527309,23,Female,Hypertension,Therapy,None,144.7,118.2,220.8,2023-08-07,Health Center,Yes
+600171,6,Female,Heart Disease,Medication,None,89.7,109.0,283.1,2021-08-04,City Clinic,Yes
+441823,27,Other,Hypertension,Therapy,None,132.1,62.0,163.3,2021-12-05,General Hospital,Yes
+899886,97,Male,Diabetes,Surgery,None,83.1,77.5,280.8,2022-04-01,General Hospital,Yes
+782361,23,Male,Hypertension,Lifestyle Change,Drug C,90.9,109.1,140.6,2021-04-04,City Clinic,Yes
+774769,40,Female,Asthma,Therapy,Drug B,110.9,101.0,174.2,2020-12-26,City Clinic,No
+440147,7,Other,Heart Disease,Therapy,Drug A,121.4,103.9,130.2,2020-10-01,General Hospital,No
+913663,82,Male,Diabetes,Medication,Drug C,128.1,96.5,293.8,2023-12-17,Health Center,No
+452555,4,Male,Hypertension,Surgery,Drug C,88.4,94.7,270.0,2020-01-22,Health Center,No
+493931,28,Other,Heart Disease,Surgery,Drug B,150.2,110.5,221.6,2022-04-30,General Hospital,No
+448251,23,Other,Heart Disease,Medication,Drug A,174.7,95.9,286.0,2021-09-25,City Clinic,Yes
+913682,54,Other,Diabetes,Medication,Drug A,105.9,95.5,295.5,2020-02-20,General Hospital,No
+391693,43,Male,Hypertension,Lifestyle Change,Drug B,92.2,101.1,252.4,2021-10-25,City Clinic,Yes
+873589,59,Other,Asthma,Surgery,None,146.9,62.2,251.5,2022-03-28,General Hospital,No
+495677,55,Other,Asthma,Therapy,Drug B,154.7,64.0,249.3,2022-06-19,Health Center,Yes
+183657,91,Male,Hypertension,Lifestyle Change,Drug A,126.8,89.2,156.3,2020-09-16,Health Center,Yes
+524566,64,Other,Diabetes,Lifestyle Change,None,132.7,76.6,198.9,2023-07-07,City Clinic,Yes
+736259,42,Female,Diabetes,Medication,None,172.9,82.7,287.5,2021-05-29,General Hospital,Yes
+252099,92,Female,Diabetes,Lifestyle Change,None,83.3,91.2,270.8,2020-03-25,General Hospital,No
+859138,76,Female,Hypertension,Therapy,Drug C,125.8,80.1,266.0,2021-07-04,Health Center,Yes
+116800,55,Male,Asthma,Lifestyle Change,Drug A,116.6,110.7,177.0,2022-11-17,Health Center,Yes
+790282,73,Other,Hypertension,Therapy,Drug A,102.6,111.2,234.9,2021-06-28,General Hospital,Yes
+904921,57,Female,Hypertension,Lifestyle Change,None,88.7,77.2,214.2,2020-10-06,City Clinic,No
+258990,78,Other,Diabetes,Medication,Drug A,129.2,99.9,158.5,2022-02-01,General Hospital,No
+532746,26,Female,Hypertension,Therapy,None,114.6,113.3,105.4,2022-01-14,City Clinic,No
+839921,68,Male,Asthma,Lifestyle Change,None,85.3,71.3,159.5,2022-11-02,General Hospital,No
+271032,70,Male,Asthma,Surgery,Drug A,178.2,85.2,137.5,2023-02-21,General Hospital,Yes
+581839,68,Other,Hypertension,Lifestyle Change,Drug C,136.8,65.0,171.2,2022-05-28,Health Center,No
+968689,92,Female,Hypertension,Medication,None,128.2,80.1,213.1,2023-06-28,Health Center,No
+353723,15,Female,Hypertension,Surgery,None,162.9,60.4,172.6,2020-02-02,City Clinic,No
+221642,35,Male,Diabetes,Medication,Drug A,162.5,84.9,148.3,2022-03-18,General Hospital,No
+955261,37,Female,Asthma,Lifestyle Change,Drug B,160.1,107.3,116.5,2021-02-09,City Clinic,No
+626941,83,Male,Heart Disease,Medication,Drug B,176.2,114.1,299.2,2023-01-23,General Hospital,No
+900033,74,Female,Asthma,Lifestyle Change,None,165.8,119.9,222.8,2020-11-09,General Hospital,Yes
+956017,44,Other,Hypertension,Lifestyle Change,Drug B,165.5,95.1,110.1,2020-07-03,Health Center,Yes
+708900,25,Other,Asthma,Lifestyle Change,Drug C,98.8,83.8,128.3,2023-12-08,General Hospital,No
+699757,6,Other,Asthma,Lifestyle Change,Drug A,122.3,63.7,244.8,2020-09-09,Health Center,Yes
+475690,48,Male,Diabetes,Lifestyle Change,Drug B,104.3,105.2,166.0,2021-06-19,Health Center,No
+276449,6,Other,Diabetes,Therapy,Drug A,124.1,102.7,246.5,2020-08-16,City Clinic,Yes
+687713,32,Other,Hypertension,Therapy,None,174.3,66.9,258.2,2023-09-17,City Clinic,Yes
+114045,44,Male,Hypertension,Lifestyle Change,Drug A,156.2,116.0,224.6,2023-07-15,City Clinic,Yes
+443801,22,Female,Hypertension,Medication,None,172.5,65.6,232.8,2023-09-25,City Clinic,No
+988104,8,Other,Diabetes,Lifestyle Change,Drug C,96.6,101.9,206.5,2021-06-01,City Clinic,No
+408307,81,Other,Heart Disease,Surgery,Drug C,162.8,115.3,271.8,2020-09-19,General Hospital,Yes
+944940,97,Other,Heart Disease,Surgery,None,148.6,117.8,120.7,2023-03-06,City Clinic,No
+729811,32,Male,Hypertension,Lifestyle Change,Drug A,169.5,95.8,127.2,2022-01-25,Health Center,No
+102372,41,Other,Diabetes,Lifestyle Change,Drug C,127.6,103.5,233.7,2023-03-30,City Clinic,No
+962966,41,Male,Hypertension,Medication,Drug A,101.6,61.1,230.7,2020-08-15,City Clinic,No
+259949,1,Female,Asthma,Therapy,None,80.1,112.3,119.2,2022-02-18,City Clinic,No
+808197,22,Female,Hypertension,Lifestyle Change,Drug B,131.9,96.0,208.0,2022-06-26,General Hospital,No
+765002,89,Female,Asthma,Medication,None,81.3,111.0,202.6,2020-03-01,Health Center,Yes
+866395,72,Other,Hypertension,Therapy,Drug B,112.2,114.6,210.2,2020-12-07,General Hospital,Yes
+927309,7,Male,Heart Disease,Medication,None,140.8,83.3,202.9,2023-12-23,Health Center,Yes
+189337,99,Male,Hypertension,Therapy,Drug C,152.3,70.9,190.5,2023-05-23,City Clinic,Yes
+724377,86,Male,Diabetes,Medication,Drug C,177.5,98.0,230.6,2022-04-19,General Hospital,No
+475351,66,Female,Diabetes,Surgery,Drug A,119.7,70.7,215.6,2023-02-18,General Hospital,Yes
+781113,26,Male,Hypertension,Medication,Drug C,130.2,98.5,287.2,2022-06-04,City Clinic,No
+245291,31,Other,Heart Disease,Lifestyle Change,Drug A,99.4,91.8,233.6,2021-06-27,City Clinic,Yes
+732095,40,Male,Asthma,Therapy,Drug C,120.5,92.8,213.8,2020-05-20,City Clinic,No
+641356,51,Other,Hypertension,Therapy,Drug B,123.8,81.3,265.3,2020-04-30,Health Center,Yes
+498736,46,Other,Heart Disease,Therapy,Drug B,132.7,62.4,106.2,2023-05-07,General Hospital,Yes
+400609,29,Male,Heart Disease,Therapy,Drug B,122.9,87.7,116.3,2021-08-15,Health Center,No
+562930,23,Female,Heart Disease,Lifestyle Change,Drug C,166.5,105.0,229.8,2020-08-17,General Hospital,No
+350934,57,Male,Asthma,Surgery,Drug B,99.1,106.4,165.4,2023-10-04,Health Center,No
+874039,33,Male,Heart Disease,Lifestyle Change,Drug B,173.9,115.2,124.1,2023-06-22,City Clinic,Yes
+838419,35,Male,Diabetes,Lifestyle Change,Drug C,163.9,116.7,102.2,2022-07-21,City Clinic,Yes
+823659,2,Other,Hypertension,Therapy,None,114.0,67.7,181.3,2020-07-16,General Hospital,Yes
+733497,23,Female,Diabetes,Surgery,Drug B,138.9,93.1,122.9,2020-11-25,City Clinic,No
+736480,49,Other,Hypertension,Therapy,Drug A,126.2,95.2,298.8,2021-03-18,Health Center,Yes
+800565,73,Male,Heart Disease,Lifestyle Change,Drug A,152.2,62.9,288.1,2021-06-25,General Hospital,No
+568114,55,Male,Hypertension,Therapy,Drug C,84.8,85.4,287.0,2020-08-28,City Clinic,No
+275451,31,Male,Diabetes,Surgery,Drug C,111.7,107.5,217.5,2022-10-01,General Hospital,Yes
+509525,62,Male,Hypertension,Therapy,Drug C,154.3,84.8,291.8,2020-05-12,General Hospital,Yes
+115076,14,Male,Hypertension,Surgery,Drug A,159.6,68.2,269.5,2020-03-19,Health Center,Yes
+269607,65,Female,Asthma,Therapy,Drug C,114.6,81.2,167.2,2020-01-24,City Clinic,No
+258156,69,Male,Hypertension,Surgery,Drug B,162.5,111.5,199.3,2021-01-20,General Hospital,Yes
+481695,27,Other,Diabetes,Therapy,Drug A,122.6,98.1,264.4,2020-05-25,City Clinic,No
+943635,5,Male,Hypertension,Lifestyle Change,Drug B,110.1,88.5,265.7,2022-01-15,General Hospital,Yes
+247386,25,Female,Heart Disease,Therapy,None,90.0,80.3,171.0,2023-07-28,General Hospital,No
+104919,49,Female,Diabetes,Surgery,None,128.3,86.9,265.9,2020-05-08,Health Center,No
+154899,6,Female,Heart Disease,Surgery,Drug B,113.3,72.6,281.2,2020-10-15,City Clinic,Yes
+791191,38,Other,Hypertension,Surgery,None,158.3,83.3,139.6,2020-12-13,General Hospital,No
+490575,9,Male,Hypertension,Medication,None,177.7,100.8,124.7,2022-01-30,General Hospital,No
+617725,96,Male,Heart Disease,Lifestyle Change,None,113.1,113.2,140.5,2020-03-17,General Hospital,Yes
+320882,63,Male,Asthma,Therapy,Drug A,98.1,72.6,245.0,2020-11-05,City Clinic,Yes
+497112,45,Male,Heart Disease,Surgery,Drug B,143.0,115.3,211.0,2020-12-31,Health Center,No
+805472,38,Other,Asthma,Medication,Drug C,99.9,98.3,248.6,2023-10-22,City Clinic,Yes
+358707,9,Other,Diabetes,Lifestyle Change,None,102.7,73.0,270.6,2022-08-20,Health Center,Yes
+630833,47,Other,Diabetes,Medication,None,164.0,112.7,241.1,2020-05-07,Health Center,Yes
+285818,11,Female,Hypertension,Surgery,Drug C,155.2,66.7,108.3,2023-01-12,Health Center,Yes
+120613,64,Other,Heart Disease,Therapy,Drug A,104.8,88.7,231.2,2020-08-29,City Clinic,No
+252379,40,Female,Diabetes,Lifestyle Change,Drug B,155.9,97.5,171.9,2020-06-17,General Hospital,No
+941824,48,Female,Asthma,Lifestyle Change,Drug C,173.9,97.2,282.4,2023-12-27,Health Center,Yes
+724297,39,Male,Asthma,Surgery,Drug A,109.4,61.3,286.3,2020-11-21,Health Center,Yes
+813765,1,Male,Diabetes,Medication,None,97.3,73.8,213.0,2023-06-05,City Clinic,Yes
+734023,2,Male,Asthma,Medication,Drug C,149.1,110.5,133.0,2023-12-09,Health Center,No
+554816,6,Female,Heart Disease,Lifestyle Change,Drug B,169.4,69.9,280.7,2020-08-25,City Clinic,Yes
+152506,21,Female,Hypertension,Surgery,None,116.2,97.1,106.7,2021-11-19,Health Center,No
+453502,11,Other,Hypertension,Medication,None,172.7,100.8,225.5,2023-10-01,General Hospital,Yes
+591467,17,Other,Asthma,Therapy,None,86.1,101.1,218.4,2021-01-19,Health Center,Yes
+404792,95,Male,Heart Disease,Medication,Drug A,122.8,77.4,201.8,2022-12-26,Health Center,No
+513511,15,Other,Hypertension,Surgery,Drug B,88.2,72.5,170.1,2023-10-21,City Clinic,Yes
+649467,26,Male,Hypertension,Medication,Drug A,136.3,87.9,167.2,2021-07-24,Health Center,Yes
+770706,96,Other,Heart Disease,Lifestyle Change,Drug B,173.4,88.3,219.2,2020-04-15,Health Center,Yes
+902724,72,Other,Heart Disease,Medication,Drug A,142.4,108.4,258.1,2020-02-25,City Clinic,Yes
+205957,38,Other,Hypertension,Lifestyle Change,None,98.2,83.7,273.6,2021-02-17,Health Center,Yes
+142966,49,Female,Diabetes,Lifestyle Change,Drug C,95.4,105.7,188.9,2021-07-19,Health Center,Yes
+658452,17,Male,Diabetes,Lifestyle Change,Drug B,130.5,85.4,114.9,2020-08-25,General Hospital,No
+809300,50,Other,Heart Disease,Therapy,Drug C,114.3,102.2,120.7,2021-11-09,General Hospital,Yes
+101283,54,Other,Diabetes,Therapy,Drug B,96.0,64.2,249.6,2022-03-24,City Clinic,Yes
+301003,98,Other,Hypertension,Medication,Drug B,96.3,88.3,219.1,2022-03-26,City Clinic,No
+241687,74,Female,Heart Disease,Surgery,Drug A,173.3,102.0,141.5,2022-01-02,City Clinic,No
+132452,88,Male,Diabetes,Surgery,Drug B,170.0,103.1,158.9,2023-08-26,City Clinic,No
+454612,41,Other,Diabetes,Therapy,Drug A,155.9,114.7,263.8,2021-08-30,General Hospital,No
+225128,87,Female,Diabetes,Surgery,Drug C,80.8,62.4,162.3,2022-11-30,Health Center,No
+688512,46,Female,Diabetes,Medication,Drug B,101.5,90.4,105.2,2022-12-14,City Clinic,No
+437554,55,Female,Asthma,Surgery,Drug A,114.0,80.1,212.0,2022-05-11,General Hospital,Yes
+583810,97,Male,Heart Disease,Medication,None,155.0,85.7,279.6,2020-04-13,Health Center,Yes
+392361,45,Female,Hypertension,Surgery,Drug B,121.9,82.2,270.5,2021-03-11,General Hospital,Yes
+320947,21,Other,Asthma,Lifestyle Change,Drug C,134.3,63.1,260.7,2023-07-31,Health Center,Yes
+526469,2,Male,Diabetes,Therapy,Drug A,160.8,118.2,106.8,2021-02-28,City Clinic,No
+876437,88,Male,Hypertension,Therapy,Drug A,82.0,64.4,243.3,2022-01-09,City Clinic,No
+350539,57,Female,Heart Disease,Therapy,Drug B,120.3,110.3,281.8,2021-03-19,City Clinic,No
+362785,15,Male,Asthma,Surgery,Drug B,166.2,71.4,253.5,2020-09-23,Health Center,No
+620418,27,Female,Hypertension,Medication,Drug A,143.7,84.0,156.8,2021-06-07,City Clinic,No
+347245,84,Other,Diabetes,Medication,Drug B,156.7,70.0,181.2,2023-08-03,City Clinic,No
+957366,98,Male,Hypertension,Medication,Drug B,143.2,64.1,174.2,2022-05-17,City Clinic,Yes
+787924,0,Male,Hypertension,Lifestyle Change,Drug A,118.0,101.2,102.6,2023-09-29,City Clinic,No
+887398,43,Other,Diabetes,Lifestyle Change,None,82.7,113.7,285.5,2021-08-03,General Hospital,No
+536202,27,Other,Asthma,Lifestyle Change,Drug A,112.0,69.3,191.8,2020-09-15,City Clinic,Yes
+467495,70,Other,Hypertension,Surgery,Drug B,92.3,108.9,278.9,2021-10-12,City Clinic,Yes
+568254,57,Male,Hypertension,Lifestyle Change,Drug A,173.7,101.1,106.7,2023-03-30,General Hospital,Yes
+495023,71,Female,Diabetes,Surgery,Drug B,132.3,88.0,274.5,2022-11-27,General Hospital,No
+528767,72,Female,Asthma,Surgery,None,164.3,102.1,241.7,2023-01-29,General Hospital,Yes
+619783,81,Female,Heart Disease,Surgery,Drug C,154.3,86.8,293.9,2020-12-12,City Clinic,No
+219936,80,Other,Heart Disease,Therapy,Drug B,128.7,99.4,254.4,2020-01-20,General Hospital,No
+190346,11,Male,Asthma,Lifestyle Change,Drug A,151.1,87.5,122.9,2021-08-31,General Hospital,Yes
+871435,69,Other,Diabetes,Surgery,Drug C,171.7,70.0,127.9,2021-08-29,Health Center,Yes
+554299,13,Male,Heart Disease,Surgery,Drug C,120.3,95.4,290.0,2021-04-18,Health Center,No
+784342,4,Male,Hypertension,Medication,None,178.4,63.7,157.5,2023-06-11,City Clinic,Yes
+333817,94,Female,Heart Disease,Lifestyle Change,Drug A,90.9,68.6,207.6,2021-01-12,City Clinic,No
+215935,61,Other,Diabetes,Surgery,Drug A,113.6,66.9,244.8,2021-10-27,City Clinic,Yes
+258940,8,Other,Diabetes,Medication,None,161.6,100.8,297.3,2021-03-27,General Hospital,No
+229741,88,Male,Asthma,Medication,Drug C,157.8,101.2,147.4,2022-12-08,City Clinic,No
+646983,75,Other,Asthma,Therapy,Drug B,92.4,72.6,296.8,2021-12-22,General Hospital,Yes
+312797,87,Female,Heart Disease,Therapy,None,112.3,83.9,106.1,2023-12-24,General Hospital,Yes
+737647,56,Male,Asthma,Lifestyle Change,Drug C,113.4,117.6,164.5,2022-02-26,Health Center,Yes
+126848,49,Other,Diabetes,Surgery,None,80.9,85.4,257.5,2021-04-26,General Hospital,No
+145593,85,Other,Hypertension,Therapy,None,114.5,65.9,275.4,2020-01-13,City Clinic,Yes
+736681,68,Female,Diabetes,Therapy,Drug C,118.3,96.3,198.2,2023-05-23,General Hospital,Yes
+549240,51,Female,Hypertension,Surgery,Drug B,105.9,109.0,206.2,2023-06-20,General Hospital,Yes
+610555,1,Female,Diabetes,Therapy,None,119.0,105.6,116.1,2022-12-19,City Clinic,No
+364391,9,Male,Asthma,Medication,Drug A,169.2,117.1,107.3,2022-11-02,City Clinic,Yes
+582827,88,Other,Hypertension,Lifestyle Change,Drug A,160.3,75.9,280.2,2023-07-04,General Hospital,Yes
+871540,25,Male,Diabetes,Medication,Drug B,136.3,71.0,282.7,2023-12-04,General Hospital,Yes
+152763,8,Female,Hypertension,Therapy,None,172.0,112.0,209.4,2022-01-31,Health Center,No
+677046,21,Female,Asthma,Surgery,Drug C,111.6,105.6,205.7,2023-09-06,Health Center,Yes
+521825,95,Female,Diabetes,Medication,Drug B,176.3,71.4,239.6,2021-04-04,Health Center,Yes
+755173,73,Other,Heart Disease,Surgery,Drug C,131.8,112.0,230.8,2021-10-22,General Hospital,No
+275774,8,Other,Diabetes,Medication,Drug C,80.7,116.6,281.3,2022-09-28,Health Center,No
+204355,57,Male,Asthma,Lifestyle Change,Drug A,140.7,100.4,258.2,2021-01-18,Health Center,No
+508362,83,Other,Heart Disease,Surgery,Drug A,98.2,106.2,110.8,2021-08-05,Health Center,No
+531238,14,Male,Hypertension,Surgery,Drug C,90.7,61.5,230.0,2020-03-24,Health Center,No
+367070,36,Male,Heart Disease,Medication,None,89.9,79.4,210.4,2023-02-19,City Clinic,Yes
+399830,94,Female,Asthma,Medication,Drug A,166.9,68.0,275.1,2021-03-13,General Hospital,Yes
+377017,82,Other,Hypertension,Therapy,Drug B,124.6,76.9,295.8,2021-05-06,Health Center,Yes
+298714,80,Male,Heart Disease,Therapy,Drug A,133.5,89.8,288.9,2022-01-02,Health Center,No
+898553,39,Male,Hypertension,Medication,Drug A,135.9,108.9,268.2,2023-08-06,City Clinic,Yes
+160173,33,Female,Heart Disease,Therapy,Drug C,150.3,69.9,291.5,2022-01-14,Health Center,Yes
+174675,92,Male,Diabetes,Lifestyle Change,Drug C,133.1,94.3,105.3,2020-05-27,City Clinic,Yes
+844973,36,Female,Diabetes,Lifestyle Change,Drug C,131.8,67.3,251.4,2020-02-17,Health Center,Yes
+235589,98,Male,Heart Disease,Therapy,Drug A,161.5,102.1,179.5,2023-04-14,City Clinic,Yes
+479503,16,Male,Diabetes,Therapy,Drug B,168.7,68.3,296.0,2022-10-20,Health Center,No
+902647,41,Male,Asthma,Lifestyle Change,None,157.6,119.8,294.5,2021-08-18,City Clinic,Yes
+476508,16,Male,Heart Disease,Surgery,Drug B,120.0,94.2,212.9,2023-05-17,General Hospital,No
+955817,47,Female,Hypertension,Surgery,None,104.5,91.3,144.9,2022-06-08,City Clinic,No
+282879,73,Male,Hypertension,Medication,Drug B,85.0,76.2,257.1,2023-11-21,City Clinic,No
+361564,1,Male,Asthma,Medication,Drug C,94.0,117.0,106.6,2022-11-06,General Hospital,Yes
+527715,14,Female,Hypertension,Surgery,Drug A,156.0,69.7,261.9,2020-04-25,General Hospital,Yes
+668011,79,Female,Asthma,Lifestyle Change,None,107.6,90.2,160.4,2023-03-31,Health Center,No
+953206,24,Other,Hypertension,Surgery,Drug C,133.7,102.3,228.2,2022-09-10,Health Center,No
+168770,23,Male,Heart Disease,Surgery,Drug B,136.7,114.2,152.7,2020-04-05,Health Center,No
+662688,80,Female,Heart Disease,Medication,Drug C,175.8,74.3,238.9,2022-08-25,Health Center,Yes
+612287,62,Male,Diabetes,Surgery,Drug A,163.9,115.9,152.7,2021-10-08,General Hospital,No
+351363,32,Male,Heart Disease,Medication,Drug A,171.0,118.4,251.4,2023-10-25,City Clinic,No
+412495,33,Male,Hypertension,Medication,Drug B,97.2,95.9,266.3,2023-02-02,General Hospital,No
+395932,54,Male,Heart Disease,Surgery,Drug C,139.1,91.1,294.2,2022-10-18,Health Center,No
+653706,10,Other,Heart Disease,Surgery,Drug A,133.9,80.5,117.1,2023-10-06,Health Center,Yes
+893434,98,Female,Asthma,Therapy,None,174.1,90.3,135.2,2023-11-22,General Hospital,Yes
+726806,98,Other,Heart Disease,Medication,Drug B,107.8,87.7,229.0,2020-10-26,General Hospital,No
+223519,95,Other,Hypertension,Therapy,Drug A,152.2,118.2,250.0,2022-05-01,City Clinic,Yes
+895501,92,Other,Heart Disease,Therapy,Drug C,124.8,110.0,128.6,2022-01-13,City Clinic,Yes
+266415,80,Female,Asthma,Medication,Drug A,125.6,119.5,295.1,2021-05-14,General Hospital,No
+508440,56,Other,Heart Disease,Lifestyle Change,Drug A,108.4,115.4,179.5,2022-12-11,General Hospital,Yes
+549153,73,Male,Heart Disease,Therapy,Drug C,159.6,116.0,106.5,2022-08-17,General Hospital,No
+174659,52,Other,Hypertension,Medication,Drug A,154.8,83.2,222.7,2022-06-10,General Hospital,No
+671327,0,Male,Hypertension,Therapy,Drug C,179.7,101.1,193.5,2023-12-22,City Clinic,Yes
+862620,35,Female,Diabetes,Lifestyle Change,Drug A,131.3,98.7,269.6,2022-06-26,General Hospital,Yes
+623078,56,Other,Heart Disease,Therapy,Drug C,113.8,102.7,164.3,2022-02-02,General Hospital,No
+747014,76,Other,Hypertension,Surgery,Drug A,104.8,75.9,138.5,2022-05-01,Health Center,Yes
+833106,73,Other,Hypertension,Therapy,Drug B,92.7,77.1,143.3,2021-03-25,Health Center,No
+120233,80,Female,Hypertension,Lifestyle Change,Drug A,156.8,88.7,182.6,2021-04-18,General Hospital,No
+598628,74,Female,Asthma,Therapy,Drug A,113.8,74.0,239.7,2022-08-02,General Hospital,No
+703462,38,Other,Diabetes,Medication,None,159.5,60.2,256.7,2021-10-11,City Clinic,Yes
+162256,90,Male,Hypertension,Surgery,None,141.3,80.7,219.2,2023-04-25,City Clinic,Yes
+835021,52,Male,Diabetes,Therapy,Drug B,171.2,74.2,154.1,2022-03-05,General Hospital,No
+803518,69,Male,Heart Disease,Medication,None,113.9,72.6,184.3,2023-08-30,Health Center,Yes
+768663,49,Female,Heart Disease,Lifestyle Change,None,116.9,113.0,178.8,2022-04-19,General Hospital,No
+516380,50,Other,Hypertension,Lifestyle Change,None,158.3,66.3,210.3,2020-05-21,General Hospital,Yes
+719982,73,Female,Hypertension,Medication,Drug B,84.6,113.8,188.5,2021-04-17,Health Center,No
+214075,87,Male,Asthma,Therapy,Drug B,126.6,102.8,141.2,2020-05-30,City Clinic,No
+880741,59,Female,Hypertension,Therapy,Drug B,91.7,107.6,263.5,2021-12-05,Health Center,No
+439439,49,Other,Asthma,Surgery,Drug C,131.4,105.1,247.8,2023-05-24,City Clinic,No
+290662,88,Other,Asthma,Medication,Drug C,138.2,75.0,121.0,2023-10-12,City Clinic,Yes
+167221,25,Female,Heart Disease,Medication,Drug A,145.8,85.2,253.7,2023-08-23,Health Center,No
+601009,51,Female,Heart Disease,Medication,None,134.9,78.9,146.0,2022-08-19,City Clinic,Yes
+120238,15,Female,Heart Disease,Surgery,None,161.7,82.7,297.9,2020-05-16,General Hospital,No
+485009,75,Other,Diabetes,Surgery,Drug C,94.7,90.4,147.4,2021-11-26,General Hospital,No
+114891,7,Male,Diabetes,Therapy,Drug B,137.3,84.1,290.4,2020-09-24,General Hospital,Yes
+990807,95,Female,Hypertension,Therapy,Drug B,117.6,99.2,149.8,2021-09-02,General Hospital,No
+972782,83,Other,Asthma,Lifestyle Change,Drug B,139.7,97.8,225.3,2023-10-18,Health Center,No
+417220,16,Male,Asthma,Therapy,Drug B,138.3,114.3,232.7,2021-07-04,General Hospital,Yes
+631466,68,Other,Hypertension,Lifestyle Change,None,147.6,69.6,147.8,2022-05-31,City Clinic,Yes
+339842,59,Other,Hypertension,Therapy,Drug A,100.6,114.4,163.7,2023-03-11,General Hospital,No
+749617,55,Female,Hypertension,Lifestyle Change,Drug A,129.5,81.2,230.9,2022-10-05,General Hospital,No
+752679,55,Other,Asthma,Lifestyle Change,Drug B,117.7,91.8,244.0,2022-10-16,Health Center,No
+693446,75,Male,Heart Disease,Surgery,Drug A,100.4,81.9,150.8,2020-12-23,General Hospital,No
+526943,27,Male,Asthma,Medication,Drug A,93.3,111.1,248.7,2023-11-11,City Clinic,Yes
+397019,37,Male,Diabetes,Medication,Drug C,114.5,108.8,285.8,2023-02-17,General Hospital,No
+654717,54,Male,Asthma,Medication,None,123.7,69.1,110.1,2023-04-09,City Clinic,Yes
+356526,44,Male,Asthma,Medication,Drug C,96.6,68.9,110.9,2020-07-15,City Clinic,No
+582140,24,Other,Heart Disease,Medication,Drug A,151.6,103.0,125.4,2020-12-10,General Hospital,No
+761006,59,Female,Hypertension,Surgery,Drug A,139.6,67.4,185.8,2021-04-13,Health Center,Yes
+735631,97,Female,Hypertension,Medication,Drug B,84.0,77.7,211.3,2020-01-27,General Hospital,Yes
+912278,6,Male,Asthma,Therapy,None,162.7,67.0,170.9,2021-08-15,City Clinic,No
+184765,73,Female,Diabetes,Lifestyle Change,Drug A,100.4,62.2,171.5,2023-05-29,General Hospital,No
+965996,3,Female,Diabetes,Therapy,Drug C,167.6,68.7,140.3,2020-06-15,City Clinic,Yes
+223504,13,Other,Diabetes,Medication,Drug C,97.3,105.3,269.8,2020-08-24,General Hospital,No
+200576,26,Female,Hypertension,Surgery,Drug C,167.6,91.8,187.9,2023-07-19,City Clinic,Yes
+174166,8,Other,Heart Disease,Surgery,Drug B,177.7,87.3,206.8,2021-11-09,General Hospital,Yes
+437695,27,Female,Heart Disease,Medication,Drug A,174.6,88.7,193.2,2022-10-30,City Clinic,Yes
+308920,59,Female,Diabetes,Medication,Drug B,162.5,99.7,206.1,2021-08-15,Health Center,Yes
+997980,25,Male,Diabetes,Surgery,Drug C,109.9,114.6,176.1,2020-01-26,City Clinic,Yes
+194586,68,Other,Diabetes,Lifestyle Change,Drug C,164.2,116.5,234.7,2022-06-09,Health Center,Yes
+744842,26,Other,Asthma,Therapy,Drug A,180.0,117.6,166.9,2021-06-29,General Hospital,No
+700480,95,Male,Asthma,Therapy,Drug A,138.6,85.1,243.1,2022-03-10,Health Center,No
+307197,78,Male,Heart Disease,Surgery,None,91.7,106.2,244.2,2020-03-19,General Hospital,Yes
+429878,34,Other,Diabetes,Surgery,None,179.4,86.4,230.7,2021-04-22,General Hospital,No
+574017,66,Female,Hypertension,Medication,Drug B,106.0,74.0,275.8,2023-08-14,Health Center,Yes
+546373,95,Female,Diabetes,Medication,Drug C,154.7,118.4,148.8,2022-04-27,General Hospital,No
+930782,7,Other,Diabetes,Therapy,Drug A,82.2,95.8,175.0,2020-06-02,City Clinic,Yes
+682466,4,Other,Hypertension,Surgery,None,106.4,73.1,193.8,2022-04-11,General Hospital,No
+192187,27,Male,Hypertension,Lifestyle Change,Drug A,124.7,92.7,105.7,2022-10-12,City Clinic,No
+648029,60,Male,Hypertension,Medication,None,111.8,103.9,227.9,2021-01-29,City Clinic,No
+821552,48,Female,Heart Disease,Medication,None,147.6,118.7,164.4,2023-12-18,City Clinic,Yes
+615519,3,Male,Heart Disease,Lifestyle Change,Drug C,140.3,95.2,117.7,2021-05-07,Health Center,No
+986091,7,Male,Heart Disease,Therapy,None,178.7,69.0,115.6,2020-02-20,City Clinic,Yes
+968146,13,Female,Heart Disease,Medication,Drug A,99.2,65.8,285.9,2023-01-07,General Hospital,Yes
+150068,95,Other,Hypertension,Lifestyle Change,Drug A,151.0,116.2,165.3,2021-06-25,City Clinic,No
+570899,63,Male,Asthma,Surgery,Drug A,139.2,103.5,229.2,2020-04-17,City Clinic,Yes
+243489,36,Female,Diabetes,Lifestyle Change,Drug C,123.4,103.2,159.6,2022-05-27,General Hospital,No
+852395,46,Female,Asthma,Surgery,None,155.0,81.6,252.2,2020-12-13,Health Center,No
+689129,11,Male,Diabetes,Surgery,None,93.6,90.8,260.6,2020-04-17,General Hospital,Yes
+577015,71,Other,Heart Disease,Lifestyle Change,Drug C,179.9,80.8,247.3,2021-02-13,City Clinic,Yes
+964553,72,Other,Heart Disease,Lifestyle Change,Drug A,113.4,108.0,180.7,2023-05-25,City Clinic,No
+900163,4,Other,Hypertension,Lifestyle Change,Drug C,123.8,69.7,265.5,2023-07-27,City Clinic,Yes
+495975,88,Male,Hypertension,Surgery,None,145.5,79.0,228.9,2021-12-22,Health Center,Yes
+879128,26,Other,Asthma,Therapy,Drug C,97.1,92.2,134.7,2022-01-30,Health Center,Yes
+389219,29,Male,Diabetes,Therapy,Drug A,125.1,90.2,152.0,2023-10-27,City Clinic,No
+653890,76,Male,Heart Disease,Therapy,None,154.0,102.8,158.6,2022-04-27,General Hospital,No
+183257,46,Other,Diabetes,Lifestyle Change,Drug C,95.2,116.3,135.8,2020-08-09,Health Center,Yes
+249385,42,Other,Hypertension,Medication,Drug A,123.1,98.8,191.5,2021-05-19,Health Center,No
+421182,48,Male,Diabetes,Lifestyle Change,None,148.2,99.0,230.7,2023-06-07,Health Center,No
+688867,76,Other,Diabetes,Surgery,Drug C,93.4,106.9,260.0,2022-08-02,City Clinic,Yes
+596715,58,Other,Heart Disease,Surgery,Drug A,89.5,85.7,179.7,2023-06-07,General Hospital,No
+411954,86,Male,Hypertension,Surgery,None,102.5,77.0,188.4,2021-03-29,City Clinic,Yes
+665780,34,Female,Heart Disease,Lifestyle Change,Drug A,177.6,115.6,167.0,2020-05-22,Health Center,Yes
+168224,94,Other,Diabetes,Therapy,Drug C,107.4,62.1,107.7,2020-10-04,General Hospital,No
+419883,72,Male,Heart Disease,Medication,None,98.0,93.5,235.5,2023-05-23,General Hospital,Yes
+751174,89,Male,Asthma,Therapy,Drug A,98.0,116.5,279.0,2022-12-07,City Clinic,Yes
+971192,45,Male,Asthma,Therapy,Drug C,152.7,74.3,100.0,2021-03-13,Health Center,Yes
+872974,77,Other,Asthma,Medication,Drug C,82.6,63.4,150.1,2023-02-25,General Hospital,Yes
+344452,94,Male,Heart Disease,Therapy,Drug B,87.0,72.3,238.0,2020-07-08,City Clinic,Yes
+904988,90,Other,Asthma,Medication,Drug A,93.9,76.3,223.5,2021-04-01,General Hospital,No
+121972,26,Male,Heart Disease,Medication,None,122.0,107.3,219.9,2021-02-10,Health Center,No
+939793,17,Female,Diabetes,Medication,Drug C,115.0,110.9,163.1,2020-12-18,Health Center,No
+173258,22,Other,Hypertension,Medication,Drug B,125.8,70.3,292.7,2021-07-09,Health Center,No
+154255,65,Other,Diabetes,Medication,Drug B,173.4,84.2,181.6,2022-09-25,City Clinic,Yes
+201207,92,Female,Hypertension,Lifestyle Change,None,110.0,88.6,196.6,2023-04-02,General Hospital,Yes
+302976,36,Male,Asthma,Surgery,None,94.6,119.3,173.9,2020-07-17,General Hospital,Yes
+835404,25,Male,Hypertension,Lifestyle Change,Drug C,80.7,92.3,293.2,2020-10-30,City Clinic,Yes
+785510,76,Other,Diabetes,Lifestyle Change,Drug C,155.4,76.4,176.1,2023-03-31,City Clinic,Yes
+827625,7,Female,Asthma,Medication,Drug C,110.5,73.2,114.5,2022-03-29,Health Center,Yes
+557179,43,Female,Asthma,Therapy,None,161.2,98.2,193.9,2023-09-24,General Hospital,No
+330959,52,Male,Diabetes,Lifestyle Change,Drug C,155.9,98.2,167.1,2020-11-25,General Hospital,No
+709825,65,Female,Diabetes,Surgery,Drug A,125.9,86.9,122.7,2020-11-20,City Clinic,No
+632359,8,Female,Diabetes,Lifestyle Change,Drug A,153.4,63.7,126.0,2022-05-08,City Clinic,Yes
+892820,86,Other,Asthma,Therapy,Drug C,127.3,78.8,166.1,2021-11-06,City Clinic,No
+470344,47,Female,Heart Disease,Surgery,None,147.6,105.7,160.5,2022-03-04,City Clinic,No
+327925,17,Female,Heart Disease,Medication,Drug A,164.7,107.0,250.9,2021-09-19,Health Center,Yes
+761758,31,Other,Heart Disease,Therapy,Drug B,139.3,103.2,115.1,2023-01-31,General Hospital,Yes
+417316,50,Male,Heart Disease,Surgery,Drug B,172.0,116.7,121.0,2020-01-08,City Clinic,No
+798096,84,Male,Diabetes,Therapy,Drug C,94.9,111.9,289.1,2020-10-04,Health Center,No
+974172,18,Other,Hypertension,Medication,Drug C,174.0,119.9,257.8,2020-03-01,City Clinic,No
+770051,1,Other,Asthma,Medication,Drug C,84.4,106.3,179.1,2020-09-10,General Hospital,No
+951536,40,Other,Heart Disease,Lifestyle Change,None,81.6,113.3,261.0,2022-05-12,City Clinic,No
+926349,70,Male,Asthma,Medication,Drug B,149.3,79.0,234.6,2021-11-27,General Hospital,No
+334834,99,Male,Asthma,Medication,None,86.6,91.1,100.9,2020-07-05,General Hospital,Yes
+769846,20,Female,Asthma,Therapy,Drug A,173.0,78.4,187.9,2022-12-29,City Clinic,No
+928809,50,Female,Asthma,Surgery,None,107.7,117.2,244.2,2020-11-19,City Clinic,Yes
+218424,8,Female,Heart Disease,Surgery,None,131.0,95.2,204.1,2020-09-04,General Hospital,No
+744770,43,Other,Hypertension,Medication,Drug A,141.4,114.3,279.0,2020-09-10,General Hospital,No
+230468,85,Other,Diabetes,Medication,Drug A,101.5,78.8,239.4,2022-12-13,Health Center,No
+106457,94,Male,Asthma,Lifestyle Change,None,89.4,73.3,174.9,2023-02-06,City Clinic,No
+329865,15,Male,Hypertension,Therapy,None,120.2,62.4,164.6,2020-08-20,City Clinic,No
+612594,0,Male,Diabetes,Therapy,Drug A,117.7,62.4,220.3,2023-01-08,Health Center,No
+448040,14,Female,Heart Disease,Medication,Drug B,95.8,61.7,160.7,2021-01-01,City Clinic,No
+884804,20,Female,Hypertension,Lifestyle Change,None,93.7,99.2,201.8,2021-04-19,General Hospital,Yes
+222737,89,Female,Hypertension,Therapy,None,173.2,105.1,226.2,2021-12-14,City Clinic,Yes
+781593,89,Other,Hypertension,Lifestyle Change,None,109.0,70.3,282.9,2021-06-01,City Clinic,No
+719050,85,Male,Hypertension,Therapy,Drug C,90.8,93.2,205.3,2022-01-01,General Hospital,Yes
+626615,84,Male,Asthma,Lifestyle Change,Drug A,121.4,72.7,125.5,2022-09-25,Health Center,Yes
+117846,71,Other,Diabetes,Therapy,None,171.3,84.9,225.1,2021-01-22,General Hospital,No
+884749,47,Female,Hypertension,Medication,Drug A,166.0,98.3,105.5,2021-11-25,City Clinic,No
+572285,57,Female,Heart Disease,Medication,Drug C,126.1,88.3,233.1,2022-11-15,City Clinic,Yes
+353636,12,Other,Asthma,Therapy,Drug B,159.0,86.3,101.3,2022-05-10,City Clinic,Yes
+926251,83,Female,Diabetes,Lifestyle Change,Drug C,147.6,72.4,184.6,2021-08-22,Health Center,No
+437796,1,Male,Diabetes,Therapy,Drug C,100.0,114.5,207.5,2021-12-15,City Clinic,No
+929318,7,Male,Hypertension,Lifestyle Change,Drug C,81.9,74.1,205.9,2021-07-28,General Hospital,No
+684590,4,Female,Asthma,Medication,None,142.8,92.1,274.3,2020-05-15,City Clinic,No
+324854,66,Other,Diabetes,Therapy,Drug C,108.3,108.8,298.5,2022-02-17,General Hospital,Yes
+708299,63,Other,Diabetes,Surgery,Drug C,98.7,77.2,186.8,2020-02-11,General Hospital,No
+742917,66,Female,Diabetes,Therapy,Drug B,106.0,69.8,220.9,2020-03-30,General Hospital,No
+225260,79,Male,Heart Disease,Surgery,Drug B,131.5,116.2,140.6,2021-07-14,Health Center,Yes
+949626,81,Female,Heart Disease,Lifestyle Change,Drug A,143.2,116.4,117.6,2020-01-20,Health Center,No
+537148,92,Male,Diabetes,Therapy,None,103.4,73.8,172.9,2022-08-23,Health Center,Yes
+919395,95,Female,Hypertension,Lifestyle Change,None,167.6,73.1,229.8,2023-08-21,City Clinic,Yes
+122711,37,Female,Heart Disease,Lifestyle Change,None,97.6,108.4,248.4,2020-01-05,City Clinic,No
+864914,38,Other,Asthma,Medication,Drug A,89.2,110.9,109.8,2022-04-17,General Hospital,Yes
+534150,56,Other,Hypertension,Surgery,Drug C,130.6,73.4,160.2,2020-10-31,Health Center,No
+972677,53,Other,Asthma,Therapy,Drug C,81.0,63.2,235.1,2020-05-19,Health Center,No
+946307,44,Male,Heart Disease,Medication,Drug A,124.9,73.2,221.6,2023-11-19,Health Center,No
+362061,34,Other,Hypertension,Lifestyle Change,Drug C,148.4,75.9,131.1,2022-11-26,Health Center,No
+227047,68,Female,Diabetes,Lifestyle Change,Drug A,153.2,119.9,146.0,2020-08-10,City Clinic,Yes
+122509,40,Male,Diabetes,Medication,Drug A,123.4,114.3,265.4,2021-10-12,City Clinic,Yes
+688624,1,Female,Asthma,Medication,Drug C,82.7,89.1,138.1,2021-02-11,Health Center,Yes
+554080,35,Female,Diabetes,Surgery,Drug C,125.1,98.3,126.7,2023-11-14,City Clinic,No
+983670,79,Female,Diabetes,Surgery,Drug C,128.0,113.3,145.5,2023-04-08,Health Center,Yes
+134557,87,Male,Hypertension,Medication,Drug C,174.1,71.9,236.3,2020-08-05,City Clinic,No
+671033,78,Male,Heart Disease,Lifestyle Change,Drug A,151.7,71.6,150.7,2020-06-05,General Hospital,Yes
+132336,21,Male,Hypertension,Surgery,Drug B,144.1,60.8,287.0,2023-12-21,Health Center,No
+277475,94,Female,Heart Disease,Surgery,Drug A,142.0,60.6,295.2,2022-04-26,General Hospital,No
+160564,29,Male,Hypertension,Lifestyle Change,Drug C,119.4,92.5,205.6,2020-12-22,General Hospital,Yes
+733932,70,Other,Heart Disease,Lifestyle Change,Drug B,144.7,91.8,271.3,2023-12-22,General Hospital,Yes
+452988,0,Female,Diabetes,Lifestyle Change,Drug A,127.5,113.3,209.6,2021-04-16,Health Center,No
+158090,79,Female,Heart Disease,Medication,Drug C,114.8,73.0,157.0,2020-08-31,Health Center,Yes
+172137,77,Female,Heart Disease,Therapy,Drug B,120.3,79.1,294.9,2023-03-04,General Hospital,No
+861039,75,Male,Hypertension,Surgery,Drug B,127.3,119.4,182.8,2021-07-07,City Clinic,Yes
+383246,88,Other,Hypertension,Surgery,Drug B,139.7,104.9,281.1,2020-12-31,Health Center,Yes
+616159,1,Other,Diabetes,Surgery,None,133.7,96.2,289.7,2023-11-26,General Hospital,Yes
+817280,38,Other,Asthma,Lifestyle Change,None,165.5,96.2,241.1,2023-10-08,City Clinic,No
+248657,12,Other,Asthma,Medication,Drug A,106.8,88.0,162.8,2023-12-05,City Clinic,Yes
+950691,4,Other,Diabetes,Surgery,Drug A,130.6,118.3,239.1,2023-05-08,City Clinic,No
+293991,36,Other,Hypertension,Surgery,Drug C,165.2,85.1,134.8,2022-12-13,General Hospital,Yes
+855167,23,Other,Diabetes,Lifestyle Change,Drug B,157.6,72.9,293.3,2021-01-21,General Hospital,No
+759398,66,Other,Asthma,Medication,Drug B,141.5,68.8,288.3,2023-06-14,General Hospital,Yes
+940156,85,Female,Hypertension,Therapy,None,88.3,94.4,188.6,2022-11-03,City Clinic,Yes
+659531,27,Other,Heart Disease,Surgery,Drug A,167.2,115.7,104.1,2020-08-25,City Clinic,No
+933119,90,Male,Diabetes,Lifestyle Change,Drug B,135.0,97.6,232.6,2020-10-16,General Hospital,Yes
+285290,79,Female,Diabetes,Lifestyle Change,Drug C,128.4,77.0,116.6,2023-05-14,City Clinic,No
+940268,69,Male,Heart Disease,Medication,Drug A,102.1,76.8,285.6,2020-08-10,General Hospital,No
+207568,60,Female,Heart Disease,Lifestyle Change,Drug C,166.8,78.2,102.9,2022-03-03,City Clinic,No
+352403,55,Other,Hypertension,Surgery,Drug A,115.1,84.8,206.1,2020-11-10,City Clinic,Yes
+377071,84,Male,Asthma,Medication,Drug A,171.4,119.9,171.8,2022-03-21,City Clinic,No
+288942,19,Male,Asthma,Lifestyle Change,None,155.2,110.5,136.0,2023-01-20,Health Center,Yes
+300881,6,Female,Hypertension,Surgery,None,106.0,96.2,121.5,2022-05-09,City Clinic,Yes
+771061,48,Male,Hypertension,Medication,Drug C,139.1,81.2,105.5,2020-02-24,Health Center,No
+997195,72,Other,Hypertension,Surgery,Drug B,88.1,115.1,196.7,2022-10-02,General Hospital,Yes
+406693,31,Other,Heart Disease,Lifestyle Change,None,87.8,96.4,132.7,2022-12-14,Health Center,No
+803031,42,Female,Heart Disease,Therapy,None,110.9,113.1,280.2,2022-05-10,City Clinic,Yes
+450714,29,Other,Hypertension,Surgery,Drug C,150.0,99.5,108.9,2021-01-25,General Hospital,Yes
+109283,17,Female,Asthma,Medication,Drug C,158.0,90.4,174.4,2020-07-13,General Hospital,No
+383918,7,Male,Heart Disease,Surgery,None,150.7,64.5,223.6,2020-10-27,City Clinic,No
+497577,20,Other,Heart Disease,Surgery,Drug C,179.8,93.3,214.7,2023-02-21,General Hospital,No
+713441,16,Other,Asthma,Medication,Drug B,89.3,66.8,152.5,2022-03-12,City Clinic,No
+615562,18,Other,Diabetes,Therapy,None,141.7,74.3,165.5,2020-06-05,Health Center,No
+326267,2,Female,Diabetes,Surgery,None,102.5,61.4,241.0,2020-04-01,General Hospital,No
+779532,67,Male,Hypertension,Lifestyle Change,Drug C,94.6,118.7,121.3,2021-08-17,Health Center,Yes
+563336,35,Other,Hypertension,Surgery,Drug A,114.8,72.9,107.0,2020-04-17,General Hospital,No
+462139,74,Female,Hypertension,Surgery,Drug B,94.2,94.5,234.3,2022-01-08,General Hospital,Yes
+141515,63,Female,Diabetes,Medication,Drug C,156.1,114.3,110.0,2020-09-01,Health Center,Yes
+289040,65,Other,Hypertension,Medication,Drug C,144.8,75.6,222.6,2023-10-03,General Hospital,Yes
+802873,89,Other,Diabetes,Surgery,Drug C,127.5,78.8,262.2,2023-02-12,City Clinic,Yes
+725592,90,Male,Diabetes,Therapy,Drug C,87.8,104.2,162.0,2022-03-09,City Clinic,No
+939111,55,Female,Asthma,Lifestyle Change,Drug A,90.4,67.1,121.1,2021-07-31,Health Center,No
+959144,92,Male,Diabetes,Therapy,None,136.1,82.2,242.8,2020-02-19,City Clinic,Yes
+155255,95,Female,Hypertension,Therapy,Drug A,111.7,70.0,241.8,2022-08-21,Health Center,No
+820337,41,Other,Heart Disease,Medication,None,154.0,63.0,183.3,2023-10-02,General Hospital,Yes
+578362,32,Other,Heart Disease,Therapy,Drug C,103.1,109.5,222.6,2023-03-02,Health Center,No
+289230,77,Male,Diabetes,Medication,Drug C,93.7,61.2,296.0,2021-09-16,Health Center,Yes
+910054,24,Other,Heart Disease,Surgery,None,159.1,66.7,110.1,2020-02-27,General Hospital,No
+816167,74,Female,Heart Disease,Lifestyle Change,Drug B,151.1,107.0,242.4,2021-04-01,General Hospital,No
+888244,46,Female,Heart Disease,Surgery,Drug A,103.8,70.9,126.8,2023-06-06,Health Center,Yes
+448459,18,Other,Diabetes,Medication,Drug C,158.7,91.7,165.5,2021-03-27,General Hospital,No
+748485,55,Female,Asthma,Lifestyle Change,None,82.6,106.0,161.6,2020-01-14,City Clinic,No
+642144,81,Male,Hypertension,Surgery,Drug B,95.2,93.6,295.0,2021-01-06,General Hospital,No
+165478,44,Male,Asthma,Surgery,Drug C,126.5,80.1,147.0,2022-04-07,City Clinic,No
+528211,69,Female,Heart Disease,Medication,None,129.1,114.5,287.6,2020-01-30,City Clinic,Yes
+180026,50,Female,Hypertension,Surgery,None,94.5,79.0,291.8,2020-10-27,General Hospital,No
+235205,8,Female,Hypertension,Lifestyle Change,Drug A,159.7,101.5,266.0,2023-02-01,Health Center,Yes
+909723,75,Female,Asthma,Lifestyle Change,Drug C,95.5,108.2,129.3,2021-02-11,City Clinic,Yes
+313391,73,Male,Hypertension,Therapy,Drug B,107.6,75.2,199.5,2022-11-26,Health Center,Yes
+473298,12,Female,Asthma,Lifestyle Change,None,178.7,118.4,135.5,2021-05-01,Health Center,Yes
+568772,31,Other,Diabetes,Lifestyle Change,Drug B,156.7,103.7,264.5,2021-11-25,Health Center,Yes
+520945,41,Other,Asthma,Therapy,Drug C,171.5,89.4,147.9,2023-06-16,General Hospital,No
+873554,37,Female,Heart Disease,Therapy,Drug B,104.8,99.3,153.0,2021-03-17,City Clinic,No
+158123,61,Female,Asthma,Therapy,Drug B,83.1,112.8,274.7,2021-10-29,Health Center,No
+350768,82,Male,Diabetes,Lifestyle Change,Drug C,111.0,83.2,197.9,2020-12-28,City Clinic,Yes
+896441,52,Female,Diabetes,Lifestyle Change,Drug B,142.6,97.3,259.8,2021-04-09,General Hospital,No
+126861,94,Female,Diabetes,Lifestyle Change,Drug B,148.3,64.0,104.4,2022-08-05,General Hospital,No
+163061,89,Other,Hypertension,Medication,Drug A,167.7,66.1,112.8,2021-07-21,General Hospital,Yes
+497329,67,Male,Hypertension,Medication,None,121.0,108.7,250.9,2021-11-29,Health Center,No
+130593,26,Male,Hypertension,Medication,Drug B,89.0,73.4,260.2,2021-02-18,Health Center,No
+210382,7,Female,Hypertension,Lifestyle Change,Drug B,80.9,80.9,244.6,2023-06-08,General Hospital,Yes
+108742,55,Other,Heart Disease,Surgery,Drug A,130.8,89.2,230.5,2020-05-13,City Clinic,No
+211878,79,Female,Hypertension,Lifestyle Change,None,120.2,84.7,260.1,2020-11-14,Health Center,No
+479672,66,Male,Heart Disease,Therapy,Drug A,156.5,106.1,281.4,2021-11-13,Health Center,No
+562795,78,Other,Diabetes,Lifestyle Change,Drug C,114.2,71.4,196.2,2022-04-06,General Hospital,No
+947694,21,Other,Diabetes,Lifestyle Change,Drug A,161.8,108.8,289.4,2023-03-08,City Clinic,No
+981239,66,Female,Heart Disease,Medication,Drug A,139.0,115.6,219.9,2022-09-10,Health Center,No
+870330,33,Female,Asthma,Therapy,Drug C,163.5,75.7,100.5,2023-03-13,Health Center,No
+753754,46,Other,Hypertension,Lifestyle Change,Drug C,178.3,107.2,263.7,2023-09-27,General Hospital,No
+470494,41,Male,Diabetes,Therapy,Drug B,158.2,76.4,137.2,2020-11-30,Health Center,Yes
+685303,82,Other,Heart Disease,Medication,Drug C,107.0,119.7,120.9,2023-12-20,City Clinic,Yes
+519841,33,Other,Asthma,Surgery,Drug C,136.6,111.0,279.7,2022-06-13,Health Center,No
+350326,24,Female,Heart Disease,Surgery,Drug C,142.7,99.2,163.5,2021-12-27,City Clinic,Yes
+811104,53,Other,Diabetes,Therapy,Drug C,155.0,81.0,144.5,2020-05-26,General Hospital,Yes
+333861,3,Other,Asthma,Surgery,None,99.4,99.7,235.0,2022-09-15,General Hospital,No
+858960,70,Female,Hypertension,Medication,None,121.4,99.2,114.1,2020-02-14,City Clinic,No
+806877,52,Female,Heart Disease,Surgery,None,171.3,106.6,222.3,2020-07-21,City Clinic,Yes
+360675,3,Other,Hypertension,Medication,Drug A,139.9,94.5,251.6,2023-06-14,Health Center,No
+268266,81,Other,Hypertension,Lifestyle Change,Drug B,132.4,97.5,127.1,2022-05-25,General Hospital,No
+624874,57,Female,Hypertension,Therapy,Drug A,159.4,85.4,169.8,2021-12-12,City Clinic,Yes
+491696,35,Female,Diabetes,Lifestyle Change,Drug C,83.8,65.2,126.7,2022-08-08,City Clinic,Yes
+179955,98,Male,Diabetes,Surgery,Drug B,174.8,63.6,181.2,2023-06-02,City Clinic,Yes
+409022,31,Male,Hypertension,Lifestyle Change,Drug A,135.9,106.7,238.8,2022-07-04,Health Center,No
+212840,19,Female,Hypertension,Lifestyle Change,Drug A,85.2,103.4,125.3,2023-04-20,City Clinic,Yes
+528323,30,Female,Diabetes,Therapy,Drug C,139.4,81.6,156.6,2023-08-15,City Clinic,Yes
+175196,66,Female,Diabetes,Lifestyle Change,Drug C,134.9,111.8,241.7,2023-03-22,General Hospital,Yes
+599700,50,Female,Diabetes,Medication,None,89.9,74.9,278.6,2021-01-07,Health Center,Yes
+509072,97,Male,Asthma,Therapy,None,114.9,113.8,120.5,2023-11-17,General Hospital,Yes
+676905,27,Male,Diabetes,Medication,Drug A,155.8,101.9,295.8,2020-03-01,City Clinic,Yes
+203842,16,Female,Hypertension,Therapy,Drug A,114.5,93.5,235.2,2023-07-27,City Clinic,Yes
+566528,95,Other,Hypertension,Lifestyle Change,None,145.4,105.2,186.8,2022-06-29,City Clinic,Yes
+994002,43,Other,Asthma,Therapy,Drug C,169.1,113.2,194.1,2020-12-26,General Hospital,No
+175744,63,Male,Hypertension,Medication,None,94.9,114.5,112.3,2023-12-27,Health Center,Yes
+360580,98,Other,Heart Disease,Surgery,None,90.5,81.0,167.0,2021-01-05,General Hospital,No
+754457,75,Female,Diabetes,Lifestyle Change,None,140.8,62.1,184.7,2023-09-20,General Hospital,Yes
+201255,87,Female,Hypertension,Lifestyle Change,None,95.6,106.2,142.1,2021-08-02,General Hospital,Yes
+893293,94,Other,Heart Disease,Surgery,Drug B,162.6,64.6,146.7,2023-10-02,Health Center,Yes
+653792,19,Female,Asthma,Lifestyle Change,Drug B,165.5,86.6,254.9,2020-04-28,City Clinic,Yes
+677114,21,Other,Asthma,Therapy,Drug A,163.9,90.6,195.7,2021-07-28,City Clinic,Yes
+975556,51,Male,Heart Disease,Surgery,Drug B,175.4,80.1,256.5,2021-08-05,General Hospital,Yes
+629199,73,Female,Heart Disease,Surgery,None,107.3,99.8,144.6,2021-02-13,General Hospital,No
+759637,22,Female,Heart Disease,Lifestyle Change,Drug C,168.5,64.3,253.9,2021-05-03,General Hospital,Yes
+498819,30,Male,Diabetes,Therapy,Drug A,80.9,71.1,257.1,2023-10-17,General Hospital,Yes
+226565,76,Male,Hypertension,Therapy,Drug A,103.3,67.2,212.2,2022-11-03,Health Center,Yes
+165958,88,Other,Heart Disease,Therapy,Drug C,100.4,93.5,182.3,2020-03-24,General Hospital,Yes
+336349,48,Male,Asthma,Lifestyle Change,None,108.9,98.2,115.5,2023-09-05,General Hospital,No
+429634,48,Other,Diabetes,Medication,Drug C,147.5,71.5,240.0,2022-07-14,City Clinic,Yes
+566693,16,Male,Asthma,Lifestyle Change,Drug A,98.5,76.7,225.7,2022-07-28,City Clinic,No
+658640,66,Male,Heart Disease,Surgery,Drug A,142.0,86.1,121.5,2022-08-16,General Hospital,No
+323404,28,Female,Asthma,Therapy,Drug B,151.7,89.1,127.7,2021-01-21,General Hospital,No
+399311,32,Other,Hypertension,Medication,Drug C,156.3,82.2,188.9,2022-06-26,Health Center,No
+647584,98,Other,Heart Disease,Therapy,None,152.2,62.0,191.2,2023-01-29,General Hospital,Yes
+925570,36,Female,Diabetes,Lifestyle Change,Drug B,179.7,77.5,170.5,2023-12-26,Health Center,No
+529359,65,Other,Diabetes,Surgery,Drug C,161.7,77.2,207.8,2022-10-21,General Hospital,No
+458516,47,Other,Asthma,Surgery,Drug B,94.5,93.0,125.0,2021-07-02,Health Center,No
+859126,47,Female,Hypertension,Medication,Drug B,94.9,114.3,181.4,2022-12-14,Health Center,Yes
+428959,43,Female,Hypertension,Surgery,None,154.2,70.8,222.3,2020-06-11,City Clinic,Yes
+245702,14,Other,Diabetes,Surgery,Drug C,125.5,95.7,219.7,2022-10-02,Health Center,No
+484541,31,Male,Hypertension,Surgery,Drug B,130.0,103.4,171.9,2020-03-10,City Clinic,No
+680679,13,Male,Asthma,Therapy,Drug B,92.7,64.1,163.9,2022-03-11,General Hospital,Yes
+763488,89,Male,Hypertension,Lifestyle Change,Drug C,99.0,104.9,240.2,2023-04-23,General Hospital,No
+266586,98,Female,Asthma,Surgery,Drug C,106.0,101.7,112.4,2020-10-25,Health Center,No
+689844,57,Other,Hypertension,Surgery,None,103.0,63.1,239.5,2022-12-29,General Hospital,No
+406992,28,Male,Hypertension,Lifestyle Change,Drug A,166.6,119.4,156.4,2022-05-29,Health Center,No
+426395,65,Male,Hypertension,Therapy,Drug A,173.5,80.6,271.2,2020-08-07,General Hospital,Yes
+564908,76,Other,Heart Disease,Surgery,Drug A,161.8,109.6,202.7,2023-03-25,City Clinic,No
+623708,85,Other,Heart Disease,Medication,Drug C,176.3,63.6,109.3,2021-12-16,City Clinic,No
+642135,35,Other,Asthma,Surgery,None,92.5,108.6,208.5,2020-11-10,General Hospital,Yes
+323967,67,Other,Heart Disease,Therapy,Drug C,126.2,71.2,111.0,2022-11-19,Health Center,No
+868634,36,Male,Hypertension,Therapy,Drug C,173.5,105.9,138.7,2021-01-28,Health Center,Yes
+690837,47,Other,Asthma,Lifestyle Change,Drug A,80.1,112.0,209.5,2022-03-20,City Clinic,Yes
+208592,0,Female,Diabetes,Lifestyle Change,Drug B,96.5,87.1,284.8,2022-03-12,Health Center,No
+667923,71,Male,Hypertension,Therapy,None,140.4,88.5,158.9,2022-11-22,City Clinic,Yes
+378325,64,Other,Hypertension,Lifestyle Change,Drug B,120.6,117.7,154.5,2020-11-19,Health Center,Yes
+185583,88,Male,Diabetes,Therapy,None,161.6,62.8,179.4,2020-10-08,Health Center,Yes
+319570,31,Male,Diabetes,Surgery,None,100.4,63.1,242.3,2020-05-03,General Hospital,Yes
+999864,21,Female,Hypertension,Surgery,Drug B,104.8,72.4,166.5,2022-07-19,General Hospital,Yes
+208727,22,Male,Asthma,Surgery,None,106.0,101.5,149.5,2020-03-24,Health Center,No
+753598,1,Other,Hypertension,Therapy,Drug B,129.4,119.9,282.7,2022-04-28,Health Center,No
+681720,3,Female,Hypertension,Surgery,Drug A,91.6,100.5,184.6,2021-06-18,General Hospital,No
+681072,23,Female,Hypertension,Medication,Drug B,154.4,109.6,196.7,2023-08-18,City Clinic,Yes
+203761,69,Other,Hypertension,Lifestyle Change,None,116.3,104.5,139.3,2020-07-06,City Clinic,Yes
+520907,48,Female,Hypertension,Lifestyle Change,None,95.3,68.3,227.3,2020-02-21,General Hospital,Yes
+171857,35,Other,Diabetes,Therapy,Drug B,142.6,99.6,144.0,2020-11-15,City Clinic,No
+836752,24,Female,Asthma,Surgery,Drug A,101.1,109.4,165.1,2022-11-24,General Hospital,Yes
+833298,32,Male,Diabetes,Medication,Drug C,175.8,99.4,106.6,2021-01-28,City Clinic,No
+964590,73,Male,Hypertension,Therapy,None,110.3,73.1,254.1,2023-05-18,General Hospital,Yes
+469322,85,Other,Hypertension,Surgery,Drug C,134.7,105.0,123.3,2020-09-21,Health Center,No
+523878,65,Other,Hypertension,Surgery,Drug A,147.7,72.6,240.1,2022-07-13,Health Center,No
+627515,24,Female,Asthma,Surgery,Drug C,140.8,95.1,266.1,2023-04-28,Health Center,Yes
+599067,81,Male,Diabetes,Lifestyle Change,None,97.3,83.0,159.4,2023-10-12,General Hospital,No
+247988,64,Other,Asthma,Therapy,Drug C,175.2,62.9,255.0,2021-03-04,General Hospital,No
+585979,43,Other,Heart Disease,Medication,Drug A,81.0,101.5,150.1,2021-05-16,Health Center,Yes
+725044,71,Female,Heart Disease,Therapy,Drug C,151.6,73.7,256.9,2021-06-30,City Clinic,No
+876376,13,Male,Hypertension,Medication,Drug A,152.6,84.1,208.0,2023-11-08,General Hospital,Yes
+395802,13,Female,Hypertension,Therapy,Drug B,114.6,92.4,191.2,2021-07-30,Health Center,No
+649596,92,Other,Hypertension,Medication,Drug B,122.8,107.8,258.2,2022-01-07,Health Center,Yes
+800491,36,Female,Hypertension,Lifestyle Change,Drug A,117.4,76.5,126.2,2022-10-08,Health Center,No
+976549,4,Male,Diabetes,Therapy,Drug B,167.0,86.6,213.9,2021-02-10,City Clinic,Yes
+329056,32,Male,Asthma,Therapy,Drug B,159.3,84.1,255.6,2023-11-23,Health Center,No
+143572,36,Other,Diabetes,Surgery,Drug C,127.1,60.3,147.1,2021-08-30,General Hospital,Yes
+423832,3,Other,Diabetes,Lifestyle Change,Drug B,101.8,102.6,181.3,2021-03-24,General Hospital,No
+179382,27,Male,Diabetes,Lifestyle Change,Drug A,104.5,100.1,182.6,2023-01-16,Health Center,Yes
+795375,6,Other,Asthma,Medication,Drug A,121.8,105.3,146.4,2023-12-22,City Clinic,No
+397949,34,Male,Diabetes,Lifestyle Change,Drug B,154.0,67.4,144.6,2020-10-23,General Hospital,Yes
+884497,4,Female,Diabetes,Medication,Drug B,154.0,72.9,272.1,2021-09-16,General Hospital,No
+989034,9,Male,Hypertension,Medication,None,170.5,107.0,122.2,2020-11-03,General Hospital,Yes
+259966,47,Male,Diabetes,Lifestyle Change,Drug C,102.5,76.6,234.2,2020-12-09,Health Center,Yes
+208622,75,Female,Heart Disease,Medication,Drug B,178.5,69.2,242.5,2021-12-28,Health Center,Yes
+445616,83,Other,Heart Disease,Medication,None,168.7,110.7,298.6,2022-03-16,City Clinic,No
+547516,9,Female,Heart Disease,Surgery,None,109.1,105.6,189.8,2022-01-05,General Hospital,No
+128568,20,Female,Hypertension,Therapy,Drug B,162.8,87.0,220.9,2020-07-30,General Hospital,Yes
+833521,5,Male,Diabetes,Lifestyle Change,Drug A,151.4,67.7,231.7,2021-12-28,General Hospital,No
+698631,22,Female,Asthma,Therapy,Drug A,179.3,79.7,243.6,2022-06-11,Health Center,Yes
+799898,92,Male,Asthma,Medication,Drug C,132.3,69.5,291.1,2022-09-27,General Hospital,No
+269040,35,Other,Heart Disease,Surgery,Drug C,176.3,68.0,158.6,2021-08-31,General Hospital,Yes
+495028,18,Other,Asthma,Therapy,Drug B,127.2,68.1,115.0,2020-06-29,Health Center,Yes
+917782,35,Other,Heart Disease,Therapy,Drug A,142.5,67.9,133.3,2022-06-11,Health Center,No
+247620,82,Male,Hypertension,Surgery,None,123.2,73.3,125.7,2020-07-05,General Hospital,No
+547167,15,Other,Hypertension,Medication,Drug B,178.9,92.9,120.7,2022-05-06,Health Center,Yes
+807780,8,Female,Asthma,Lifestyle Change,None,141.2,86.4,289.4,2020-04-19,City Clinic,Yes
+277158,49,Other,Diabetes,Medication,Drug C,128.0,79.1,128.3,2022-05-08,Health Center,No
+815518,76,Other,Heart Disease,Lifestyle Change,None,95.9,76.7,262.9,2020-01-08,General Hospital,Yes
+212766,1,Other,Heart Disease,Therapy,Drug C,103.0,101.4,193.2,2020-09-21,Health Center,Yes
+989818,92,Female,Diabetes,Lifestyle Change,Drug C,132.6,95.3,271.8,2023-06-27,City Clinic,Yes
+822404,81,Male,Asthma,Surgery,Drug B,110.1,100.9,161.1,2021-01-09,City Clinic,No
+328897,96,Male,Diabetes,Surgery,Drug C,111.2,98.0,253.4,2020-11-26,Health Center,No
+946745,0,Other,Hypertension,Medication,Drug B,95.1,99.0,296.2,2023-09-22,City Clinic,Yes
+751115,52,Other,Hypertension,Medication,Drug A,102.5,109.9,215.1,2020-07-16,City Clinic,Yes
+474384,73,Male,Asthma,Lifestyle Change,Drug A,112.6,111.2,172.3,2020-10-10,Health Center,Yes
+574024,75,Male,Heart Disease,Surgery,Drug C,131.8,90.6,292.1,2022-08-08,City Clinic,No
+849162,85,Female,Asthma,Surgery,Drug C,135.9,95.1,170.8,2021-09-27,General Hospital,Yes
+726642,38,Male,Heart Disease,Lifestyle Change,Drug B,93.4,95.9,106.3,2021-08-11,Health Center,No
+976299,18,Male,Hypertension,Lifestyle Change,Drug A,155.8,93.3,274.5,2023-04-26,City Clinic,Yes
+588615,24,Female,Asthma,Therapy,Drug C,153.0,112.5,185.1,2020-06-23,General Hospital,No
+480326,53,Other,Asthma,Therapy,Drug A,145.2,81.4,196.5,2020-06-12,General Hospital,No
+504902,19,Male,Diabetes,Medication,Drug A,86.2,62.2,235.4,2022-10-10,City Clinic,Yes
+365675,93,Male,Heart Disease,Surgery,None,176.4,76.7,224.6,2023-07-04,General Hospital,No
+403717,70,Male,Hypertension,Therapy,Drug C,100.4,87.3,240.6,2023-01-16,General Hospital,No
+105622,53,Other,Hypertension,Medication,Drug A,150.9,117.3,282.8,2020-11-16,City Clinic,No
+807767,40,Male,Diabetes,Medication,None,165.7,107.9,177.1,2023-07-17,General Hospital,Yes
+964792,57,Other,Hypertension,Lifestyle Change,Drug C,111.1,110.9,182.5,2020-10-17,City Clinic,Yes
+891382,30,Female,Diabetes,Medication,Drug B,176.7,94.8,127.1,2020-01-14,Health Center,Yes
+942863,50,Other,Asthma,Therapy,None,85.9,70.8,147.2,2021-04-12,General Hospital,No
+113078,5,Other,Heart Disease,Medication,Drug B,176.7,89.4,243.2,2020-01-24,General Hospital,Yes
+679626,32,Female,Diabetes,Therapy,Drug C,114.5,77.8,142.8,2022-05-11,Health Center,Yes
+883617,38,Female,Asthma,Therapy,Drug A,90.4,89.8,181.4,2023-09-30,City Clinic,Yes
+579512,23,Other,Heart Disease,Surgery,None,166.7,80.9,188.5,2020-11-26,Health Center,Yes
+169656,39,Male,Asthma,Therapy,Drug A,135.1,77.6,229.3,2021-01-11,City Clinic,Yes
+181111,52,Male,Heart Disease,Surgery,Drug B,115.8,76.7,270.6,2022-11-17,City Clinic,No
+470665,35,Male,Hypertension,Lifestyle Change,Drug A,103.4,73.1,149.0,2022-02-16,General Hospital,No
+201237,5,Male,Asthma,Lifestyle Change,Drug C,83.9,117.2,175.8,2022-12-17,General Hospital,No
+979495,34,Female,Diabetes,Medication,Drug A,89.0,90.9,115.0,2021-06-29,Health Center,Yes
+868415,97,Other,Heart Disease,Therapy,Drug A,88.3,74.6,284.7,2022-07-07,City Clinic,Yes
+133301,24,Female,Hypertension,Lifestyle Change,Drug C,147.6,100.0,291.2,2020-10-07,General Hospital,No
+816973,84,Male,Diabetes,Medication,None,150.0,113.1,170.4,2023-04-22,Health Center,Yes
+419862,12,Male,Diabetes,Surgery,Drug C,147.1,83.9,262.9,2022-05-24,Health Center,Yes
+418508,23,Female,Diabetes,Therapy,Drug B,102.2,73.1,150.4,2023-09-07,City Clinic,No
+369229,94,Other,Heart Disease,Therapy,Drug B,109.4,62.6,184.2,2022-08-30,General Hospital,Yes
+307219,7,Female,Heart Disease,Lifestyle Change,Drug B,172.2,88.5,111.6,2020-03-18,General Hospital,No
+344946,62,Male,Heart Disease,Medication,Drug A,90.5,75.2,290.9,2023-08-15,General Hospital,No
+249160,91,Female,Hypertension,Medication,Drug C,82.3,89.4,262.3,2021-12-07,City Clinic,Yes
+605383,27,Female,Asthma,Lifestyle Change,None,122.9,107.9,207.4,2022-05-04,Health Center,No
+680041,99,Other,Hypertension,Medication,Drug B,161.2,87.4,204.4,2022-11-20,City Clinic,No
+434082,20,Male,Heart Disease,Surgery,Drug A,122.3,71.2,176.5,2020-01-21,Health Center,Yes
+773539,61,Female,Hypertension,Therapy,Drug A,175.4,77.4,145.5,2022-11-18,Health Center,Yes
+624931,6,Other,Asthma,Therapy,Drug B,145.2,74.6,283.4,2023-09-17,General Hospital,No
+394970,78,Male,Heart Disease,Medication,Drug C,155.8,78.4,147.4,2021-10-02,Health Center,Yes
+437066,36,Other,Hypertension,Medication,Drug C,95.7,112.4,135.9,2022-10-22,Health Center,Yes
+126981,3,Male,Hypertension,Therapy,Drug B,90.5,63.2,279.5,2023-08-19,General Hospital,No
+169509,82,Female,Diabetes,Surgery,Drug B,120.7,102.5,102.8,2020-12-21,General Hospital,Yes
+581902,69,Male,Asthma,Lifestyle Change,None,134.6,119.3,225.2,2021-04-04,City Clinic,No
+292099,10,Male,Asthma,Therapy,Drug C,159.1,66.2,273.9,2020-12-01,Health Center,No
+252375,72,Male,Diabetes,Medication,Drug B,144.5,89.7,204.9,2023-07-25,City Clinic,Yes
+990945,32,Male,Diabetes,Therapy,Drug C,179.7,100.7,100.8,2023-02-12,Health Center,Yes
+490629,58,Male,Heart Disease,Surgery,Drug B,145.6,65.0,232.0,2021-12-03,General Hospital,No
+224000,33,Other,Diabetes,Lifestyle Change,Drug B,156.3,91.1,135.2,2020-06-12,Health Center,Yes
+166038,76,Other,Diabetes,Surgery,None,133.6,108.9,244.2,2021-05-31,City Clinic,Yes
+490866,49,Male,Diabetes,Surgery,Drug A,162.6,98.1,226.5,2022-12-02,City Clinic,Yes
+272026,37,Female,Heart Disease,Medication,Drug B,169.2,104.0,282.5,2021-04-01,City Clinic,No
+474495,69,Female,Heart Disease,Medication,Drug C,171.6,93.9,266.5,2023-11-10,General Hospital,Yes
+373753,87,Other,Diabetes,Lifestyle Change,Drug C,84.6,107.1,296.6,2020-01-22,Health Center,Yes
+931444,3,Other,Diabetes,Medication,Drug B,97.0,62.0,266.4,2020-08-16,City Clinic,No
+449112,91,Male,Heart Disease,Surgery,None,137.7,67.5,244.5,2020-02-20,General Hospital,Yes
+346775,49,Female,Diabetes,Medication,Drug C,95.7,102.9,203.9,2022-09-02,City Clinic,No
+221343,38,Female,Hypertension,Lifestyle Change,Drug A,92.7,66.8,122.9,2022-09-13,Health Center,Yes
+549115,14,Male,Asthma,Therapy,Drug B,96.4,83.9,102.6,2021-05-07,General Hospital,Yes
+509807,35,Male,Heart Disease,Medication,Drug B,105.3,83.5,234.9,2021-07-29,City Clinic,Yes
+629955,68,Male,Heart Disease,Surgery,Drug C,119.6,105.9,262.3,2022-09-30,City Clinic,Yes
+758164,61,Other,Asthma,Medication,Drug A,98.4,114.6,112.1,2020-10-03,City Clinic,Yes
+375449,8,Female,Heart Disease,Medication,Drug A,106.7,80.5,103.6,2020-05-11,General Hospital,Yes
+927675,60,Male,Asthma,Therapy,None,99.1,77.2,246.7,2021-12-05,City Clinic,Yes
+352101,4,Female,Diabetes,Lifestyle Change,Drug C,122.0,98.4,119.9,2023-06-11,Health Center,No
+752543,66,Male,Diabetes,Surgery,Drug C,159.0,111.5,139.2,2022-06-13,General Hospital,No
+644551,10,Male,Asthma,Medication,Drug C,136.4,62.2,110.4,2020-02-23,General Hospital,Yes
+332880,84,Female,Heart Disease,Surgery,None,107.9,78.5,165.5,2022-07-03,Health Center,Yes
+160238,70,Other,Asthma,Therapy,None,160.1,112.4,183.6,2020-06-13,Health Center,No
+743839,53,Female,Diabetes,Therapy,Drug C,136.3,74.1,182.1,2023-03-30,City Clinic,Yes
+571703,62,Male,Hypertension,Therapy,None,101.6,84.2,147.3,2023-12-02,Health Center,No
+227088,77,Female,Diabetes,Therapy,Drug B,98.4,72.3,280.8,2022-03-25,General Hospital,Yes
+970868,63,Female,Hypertension,Medication,Drug B,139.5,63.6,227.9,2020-10-01,General Hospital,Yes
+733267,43,Male,Hypertension,Therapy,None,152.8,78.7,192.4,2023-02-25,Health Center,Yes
+265904,67,Female,Heart Disease,Medication,Drug A,147.0,60.4,258.2,2021-02-28,City Clinic,Yes
+334049,59,Female,Asthma,Therapy,Drug B,90.8,111.6,122.5,2021-08-16,Health Center,Yes
+559585,37,Other,Diabetes,Therapy,Drug C,173.2,66.9,261.6,2023-05-01,City Clinic,No
+347924,98,Female,Hypertension,Surgery,Drug B,143.4,97.3,102.5,2023-06-19,City Clinic,No
+370863,90,Male,Asthma,Lifestyle Change,Drug A,155.1,69.8,290.4,2021-07-16,Health Center,Yes
+975792,41,Female,Diabetes,Surgery,Drug B,142.0,85.9,157.0,2023-06-16,Health Center,No
+481797,84,Male,Diabetes,Therapy,Drug A,165.4,119.2,264.6,2021-08-20,City Clinic,No
+361890,60,Female,Hypertension,Lifestyle Change,Drug A,157.5,60.4,200.3,2021-02-23,General Hospital,Yes
+281144,83,Other,Diabetes,Therapy,Drug A,132.8,72.8,257.5,2023-01-16,General Hospital,No
+324648,42,Male,Diabetes,Therapy,Drug A,108.0,81.3,122.1,2021-06-13,General Hospital,No
+430888,96,Male,Diabetes,Surgery,Drug B,126.0,90.7,191.7,2022-10-16,Health Center,No
+715663,10,Male,Heart Disease,Lifestyle Change,Drug C,121.8,96.7,110.6,2020-03-05,General Hospital,No
+380608,26,Male,Diabetes,Lifestyle Change,Drug B,179.4,82.3,206.0,2022-04-22,General Hospital,No
+456660,85,Other,Diabetes,Lifestyle Change,Drug B,85.6,80.9,113.3,2021-11-30,City Clinic,No
+713264,37,Female,Diabetes,Lifestyle Change,Drug B,167.6,84.8,294.2,2021-05-11,General Hospital,Yes
+507928,79,Other,Heart Disease,Surgery,None,165.4,74.9,260.5,2022-04-04,Health Center,Yes
+147476,72,Female,Heart Disease,Therapy,Drug B,169.0,118.2,169.5,2020-08-08,Health Center,Yes
+983050,41,Other,Asthma,Surgery,None,88.9,110.4,241.0,2022-03-08,City Clinic,Yes
+143571,25,Female,Heart Disease,Lifestyle Change,Drug B,157.1,105.2,298.2,2022-01-20,City Clinic,Yes
+194110,39,Male,Heart Disease,Lifestyle Change,Drug A,98.8,67.8,133.7,2022-06-07,Health Center,Yes
+390066,32,Other,Heart Disease,Medication,Drug B,161.7,117.2,185.0,2022-01-24,City Clinic,Yes
+211456,83,Other,Hypertension,Surgery,Drug C,83.4,78.2,214.2,2022-10-26,City Clinic,Yes
+383920,10,Female,Hypertension,Medication,Drug B,172.9,64.1,200.7,2021-01-21,Health Center,No
+709143,86,Other,Heart Disease,Medication,Drug B,170.8,79.7,233.6,2020-04-11,General Hospital,No
+310028,38,Female,Diabetes,Lifestyle Change,Drug C,117.2,115.2,186.6,2022-02-26,General Hospital,No
+795826,47,Male,Asthma,Medication,None,171.2,112.2,240.0,2021-05-05,Health Center,Yes
+345994,46,Other,Diabetes,Surgery,Drug B,124.2,97.0,198.7,2022-05-05,City Clinic,No
+150970,2,Female,Diabetes,Medication,Drug C,151.0,105.7,246.7,2022-01-22,Health Center,No
+527834,51,Male,Asthma,Medication,Drug B,130.3,97.7,158.6,2022-06-03,City Clinic,No
+938244,49,Male,Asthma,Therapy,Drug C,169.6,81.9,290.3,2020-10-17,City Clinic,Yes
+897780,3,Male,Asthma,Surgery,Drug A,147.1,70.7,257.2,2022-11-09,Health Center,No
+792938,95,Other,Diabetes,Lifestyle Change,Drug B,88.2,61.2,188.0,2022-09-09,City Clinic,Yes
+834698,77,Female,Hypertension,Therapy,Drug C,169.3,76.3,215.6,2022-02-18,City Clinic,Yes
+775064,46,Other,Hypertension,Surgery,Drug A,149.3,77.4,252.8,2021-02-03,General Hospital,Yes
+504641,82,Male,Heart Disease,Lifestyle Change,None,84.8,98.5,284.5,2022-01-23,General Hospital,No
+776010,42,Female,Hypertension,Therapy,Drug C,99.5,62.1,204.0,2020-06-23,Health Center,Yes
+891601,32,Other,Diabetes,Therapy,Drug A,103.9,99.4,218.6,2023-11-15,City Clinic,Yes
+612177,91,Male,Asthma,Medication,Drug A,90.2,84.2,278.7,2020-03-15,Health Center,No
+913453,48,Male,Diabetes,Surgery,Drug A,114.3,80.0,269.2,2022-04-09,Health Center,Yes
+623250,63,Female,Hypertension,Surgery,Drug B,133.0,68.1,289.5,2023-11-16,Health Center,Yes
+418358,2,Male,Hypertension,Therapy,None,127.7,105.7,156.5,2021-07-21,City Clinic,Yes
+504273,61,Other,Heart Disease,Therapy,Drug A,142.1,82.0,180.0,2021-03-22,General Hospital,Yes
+334567,86,Female,Heart Disease,Lifestyle Change,None,109.1,77.2,266.8,2020-08-27,City Clinic,No
+798455,85,Other,Heart Disease,Lifestyle Change,None,159.3,72.9,170.5,2022-01-31,General Hospital,No
+876563,66,Other,Hypertension,Surgery,Drug B,170.6,96.9,180.5,2020-11-08,City Clinic,Yes
+684583,57,Female,Hypertension,Medication,Drug B,88.5,112.2,200.0,2021-01-08,General Hospital,Yes
+296864,68,Male,Diabetes,Therapy,None,92.8,71.4,102.5,2021-08-11,Health Center,Yes
+648567,22,Male,Hypertension,Surgery,Drug B,125.0,91.1,254.4,2023-03-16,Health Center,Yes
+343179,83,Other,Asthma,Therapy,Drug C,85.0,64.7,291.5,2022-04-22,General Hospital,Yes
+178033,67,Other,Hypertension,Lifestyle Change,None,105.4,78.1,203.0,2020-10-27,City Clinic,No
+745512,95,Female,Hypertension,Surgery,Drug A,83.5,110.1,232.1,2021-03-16,General Hospital,No
+668284,36,Male,Hypertension,Lifestyle Change,Drug B,116.9,93.3,152.4,2022-11-27,General Hospital,Yes
+671590,76,Female,Asthma,Medication,Drug B,106.0,85.8,240.1,2021-07-06,City Clinic,No
+170219,30,Other,Diabetes,Therapy,Drug C,136.5,64.9,147.8,2020-04-30,General Hospital,No
+757197,55,Female,Diabetes,Medication,None,152.2,68.4,190.5,2022-09-22,City Clinic,Yes
+936312,65,Male,Hypertension,Therapy,Drug A,80.6,73.7,205.3,2022-08-11,Health Center,No
+314428,71,Male,Asthma,Medication,Drug C,169.6,72.9,138.5,2023-11-28,General Hospital,Yes
+325680,56,Female,Asthma,Therapy,None,165.8,102.5,182.3,2020-04-09,General Hospital,Yes
+437429,32,Male,Asthma,Surgery,None,91.4,109.0,148.1,2020-01-08,General Hospital,No
+569524,91,Male,Heart Disease,Surgery,None,173.8,83.4,212.9,2023-05-23,City Clinic,No
+903865,99,Other,Heart Disease,Therapy,Drug C,137.4,113.2,274.6,2023-07-21,City Clinic,Yes
+267198,58,Female,Diabetes,Medication,None,146.1,82.1,123.7,2020-12-21,Health Center,Yes
+278621,92,Other,Hypertension,Medication,None,169.3,99.5,235.6,2021-07-20,City Clinic,Yes
+676164,25,Male,Asthma,Therapy,None,157.9,90.3,124.5,2022-01-22,Health Center,Yes
+559079,18,Other,Heart Disease,Medication,Drug A,136.3,70.2,238.8,2021-06-05,Health Center,Yes
+608629,77,Other,Asthma,Lifestyle Change,Drug A,101.3,68.7,254.3,2022-10-17,City Clinic,No
+142718,3,Other,Heart Disease,Lifestyle Change,None,82.7,93.8,199.2,2020-01-26,General Hospital,No
+634572,69,Male,Asthma,Medication,Drug B,103.3,76.0,200.8,2020-02-12,General Hospital,No
+456913,83,Other,Diabetes,Therapy,None,129.9,89.3,277.8,2020-10-25,General Hospital,Yes
+595743,93,Other,Diabetes,Therapy,Drug C,116.0,89.2,111.9,2022-06-07,City Clinic,No
+192115,4,Male,Asthma,Lifestyle Change,Drug B,168.1,88.2,283.2,2021-07-02,City Clinic,No
+807719,33,Male,Asthma,Medication,Drug C,122.2,120.0,167.4,2020-02-19,Health Center,No
+901150,82,Female,Diabetes,Therapy,Drug B,96.4,70.1,192.0,2020-07-10,Health Center,No
+627652,80,Male,Asthma,Lifestyle Change,Drug C,112.7,96.5,276.7,2022-02-20,City Clinic,Yes
+441843,72,Male,Diabetes,Lifestyle Change,Drug A,118.3,105.0,275.6,2022-06-05,City Clinic,No
+189189,99,Female,Diabetes,Lifestyle Change,Drug B,134.2,116.2,282.9,2021-05-11,City Clinic,No
+914575,77,Other,Hypertension,Lifestyle Change,Drug C,123.0,88.3,292.4,2020-03-12,General Hospital,No
+329446,57,Male,Diabetes,Therapy,Drug A,88.9,103.2,230.3,2021-12-20,City Clinic,Yes
+792829,97,Other,Asthma,Therapy,None,179.4,94.6,222.1,2020-05-15,Health Center,Yes
+244227,19,Female,Hypertension,Therapy,None,113.6,79.3,140.4,2021-02-25,Health Center,Yes
+238817,50,Male,Heart Disease,Medication,Drug A,172.6,83.3,177.7,2020-01-06,City Clinic,Yes
+107089,41,Female,Asthma,Surgery,None,101.0,74.8,116.0,2023-11-02,City Clinic,No
+321045,37,Female,Heart Disease,Therapy,Drug B,107.0,110.9,108.5,2022-06-06,City Clinic,No
+578735,36,Female,Diabetes,Surgery,Drug A,135.7,115.8,172.9,2022-06-27,Health Center,Yes
+753261,66,Other,Hypertension,Therapy,Drug C,84.9,118.4,292.6,2023-07-17,General Hospital,Yes
+900704,43,Other,Hypertension,Medication,Drug B,148.6,118.6,205.6,2021-03-03,Health Center,Yes
+575225,85,Male,Hypertension,Therapy,Drug C,116.1,114.5,169.6,2020-09-18,General Hospital,No
+467006,17,Female,Hypertension,Surgery,Drug C,144.1,91.8,257.6,2021-02-18,General Hospital,Yes
+131720,71,Male,Asthma,Lifestyle Change,Drug B,96.0,88.7,232.9,2020-06-18,General Hospital,Yes
+621533,59,Other,Asthma,Therapy,None,128.8,83.1,233.7,2021-01-09,City Clinic,No
+157412,25,Male,Asthma,Surgery,Drug A,126.1,66.5,120.3,2023-05-02,General Hospital,Yes
+154282,97,Male,Heart Disease,Surgery,Drug A,121.4,69.2,179.8,2020-08-21,General Hospital,No
+648883,7,Other,Asthma,Medication,Drug C,109.6,108.5,208.8,2022-10-07,General Hospital,No
+449683,83,Female,Asthma,Therapy,Drug B,85.1,67.5,187.9,2021-05-29,General Hospital,No
+995596,76,Other,Asthma,Surgery,None,108.8,72.4,161.3,2020-08-23,Health Center,No
+581179,40,Female,Hypertension,Medication,Drug A,119.0,79.4,289.2,2023-12-31,City Clinic,No
+953630,17,Male,Asthma,Surgery,Drug C,92.8,89.9,129.4,2020-04-29,Health Center,Yes
+937694,96,Other,Hypertension,Therapy,Drug B,80.7,61.3,188.7,2023-11-20,Health Center,No
+639550,68,Male,Hypertension,Surgery,None,140.1,64.0,158.5,2020-04-28,Health Center,Yes
+761886,7,Other,Asthma,Surgery,Drug A,80.0,75.4,275.4,2022-10-23,City Clinic,Yes
+274367,62,Other,Diabetes,Surgery,None,160.6,71.9,117.7,2020-12-04,General Hospital,Yes

@@ -1,0 +1,1001 @@
+Employee_ID,Name,Department,Position,Hire_Date,Years_At_Company,Age,Gender,Education_Level,Salary,Bonus,Performance_Score,Promotion_Status
+91880,Teresa Peterson,HR,Sales Executive,2017-11-01,9,50,Male,Master's,107527.5,27365.81,3.8,False
+39638,Kristen Ponce,Finance,Engineer,2013-04-08,14,45,Other,PhD,122267.29,17898.1,2.2,True
+39784,Valerie Lucas,Engineering,Sales Executive,2022-06-05,7,54,Female,Master's,102174.27,44876.85,1.4,False
+72023,Mary Martinez,Sales,Consultant,2021-11-07,13,27,Female,Bachelor's,55790.52,13597.35,3.9,False
+51270,Brian Sherman,Engineering,Sales Executive,2012-12-30,5,57,Other,Bachelor's,96640.82,47634.14,2.8,False
+72648,Zachary Zimmerman,Marketing,Consultant,2015-04-08,8,29,Female,Bachelor's,74665.54,18221.46,3.0,True
+93299,Ryan Sims,HR,Sales Executive,2018-02-09,3,52,Male,PhD,60854.18,16755.98,4.9,False
+84646,Emily Moore,Sales,Manager,2020-08-20,11,57,Female,Master's,144618.96,11661.0,2.5,False
+25000,Michael Rojas,HR,Sales Executive,2010-09-24,7,47,Female,Bachelor's,105093.95,46493.75,1.1,True
+95413,Juan Cantrell,HR,Analyst,2022-05-19,4,36,Female,Bachelor's,95681.98,29886.75,2.9,False
+99244,Caitlin Long,Finance,Manager,2011-11-30,6,44,Male,PhD,133539.2,11389.43,4.3,False
+72079,Hannah Rodriguez,Finance,Sales Executive,2016-01-22,11,26,Male,Bachelor's,108811.17,48315.72,2.9,True
+37000,Jennifer Jones,HR,Analyst,2020-02-28,4,45,Male,PhD,132659.75,47732.04,2.0,True
+40608,Meghan Stevenson,HR,Consultant,2022-04-25,9,33,Female,PhD,83348.52,45602.43,2.5,True
+35188,James Taylor,Engineering,Analyst,2021-08-03,3,57,Other,PhD,78151.22,8993.37,2.1,True
+24707,Rodney Garcia,HR,Consultant,2021-06-22,14,25,Male,Bachelor's,81293.45,37795.4,3.0,True
+90804,Becky Sanchez,Finance,Sales Executive,2021-09-29,6,45,Male,Bachelor's,49342.27,7213.38,4.7,False
+90646,Melissa Compton,Sales,Analyst,2021-10-15,5,51,Male,Bachelor's,103439.56,21398.82,2.1,True
+33542,Erik Wilson,Engineering,Engineer,2011-07-16,12,41,Other,Master's,99251.45,28840.88,1.6,False
+61677,Andrea Mcconnell,Finance,Analyst,2014-05-21,7,50,Female,PhD,73827.54,35285.68,2.4,False
+39417,Jennifer Vaughan,Finance,Sales Executive,2022-04-24,5,47,Male,Bachelor's,54224.79,8878.18,1.4,False
+40265,Mr. Dustin Hill MD,HR,Manager,2019-12-13,14,41,Male,Master's,61781.66,39552.35,1.9,True
+82250,Ashley Williams,Sales,Manager,2011-03-21,6,38,Male,PhD,58488.0,37806.44,3.8,False
+15735,Cynthia Hayes,Marketing,Engineer,2010-11-06,12,56,Other,Bachelor's,131889.37,11468.35,1.3,True
+86046,Megan George,HR,Sales Executive,2018-01-26,6,52,Other,Master's,131705.43,40513.63,4.2,False
+32572,Randall Perry,Marketing,Analyst,2010-11-26,8,45,Other,Bachelor's,41006.11,14973.78,2.7,False
+77427,Shawn Zavala,Engineering,Consultant,2019-02-13,9,46,Female,Bachelor's,136859.67,35872.22,3.0,False
+27961,Matthew Davies,Engineering,Manager,2012-04-02,12,37,Other,Master's,95812.43,39324.75,4.7,False
+24439,Dennis Owens,Engineering,Manager,2018-03-31,4,56,Female,Bachelor's,55000.17,10011.61,3.8,True
+28030,James Lopez,Sales,Manager,2015-02-16,8,56,Female,Bachelor's,148041.23,5979.93,2.4,False
+53959,Michael Ford,Engineering,Sales Executive,2014-08-18,12,58,Other,Master's,45181.08,42487.3,3.6,True
+52948,William Winters,Marketing,Sales Executive,2016-01-06,11,32,Other,Bachelor's,58717.48,29465.59,3.5,True
+41175,Samantha Myers,Finance,Sales Executive,2014-12-14,3,44,Other,Bachelor's,121026.15,19423.28,4.2,False
+23349,Wendy Moore,Finance,Engineer,2011-07-08,4,42,Male,Bachelor's,45606.21,8328.64,2.6,False
+12065,Jared Leonard,Engineering,Manager,2011-02-08,7,37,Male,Master's,100600.84,8286.87,1.4,True
+97114,Kristen Blake,Engineering,Consultant,2020-11-26,2,43,Male,Master's,47468.35,22689.32,1.6,False
+55484,Corey Haney,Marketing,Sales Executive,2012-06-07,9,54,Male,PhD,82896.98,48987.4,3.0,False
+85856,Ethan Hunter,HR,Sales Executive,2021-04-11,13,27,Male,Bachelor's,48308.19,10418.36,2.8,True
+89714,Jane Holmes,HR,Consultant,2016-06-30,9,30,Male,Master's,44528.06,44492.22,3.9,True
+74278,Sarah Carroll,Engineering,Manager,2017-01-24,5,48,Female,Bachelor's,146791.24,29938.33,1.9,True
+29759,Jessica Ryan,Engineering,Sales Executive,2022-09-15,5,45,Male,Bachelor's,89305.69,35394.82,4.5,True
+15823,Matthew Santiago,HR,Engineer,2017-05-08,3,53,Other,PhD,138313.86,47271.14,3.3,True
+96758,Jeff Brooks,Finance,Consultant,2011-06-20,13,23,Male,Bachelor's,55498.48,41693.64,3.3,False
+55817,Laurie Williams,Finance,Consultant,2020-04-15,4,56,Other,PhD,60211.62,46548.32,4.3,False
+65569,Dr. Michael Walker,Finance,Engineer,2022-07-31,10,36,Male,Bachelor's,64114.3,49214.05,1.0,True
+27412,Brian Smith,Sales,Sales Executive,2019-12-13,9,45,Male,PhD,59032.02,9112.97,3.1,True
+59294,Scott Pace,Sales,Analyst,2021-09-30,3,22,Male,PhD,107479.05,25236.12,3.9,True
+50339,Linda Mullins,Marketing,Consultant,2018-04-12,11,27,Other,Master's,113504.13,15554.24,2.5,True
+68095,Justin Davis,Marketing,Engineer,2013-03-10,7,51,Male,Bachelor's,120016.18,29794.24,2.8,True
+59847,Cindy Hardy,Engineering,Manager,2017-03-27,3,30,Female,Bachelor's,95017.09,44658.4,2.3,True
+78199,Christopher Dennis,Finance,Analyst,2010-03-09,10,25,Female,Master's,44946.82,36394.05,2.0,True
+33301,James Miller,HR,Analyst,2011-04-29,13,33,Female,Master's,121335.01,22040.45,4.2,False
+99255,Jeffrey Fuller,Sales,Consultant,2017-12-11,13,55,Female,PhD,132551.02,33649.12,3.2,True
+55459,Gina Maxwell,Sales,Sales Executive,2013-06-04,6,37,Male,Master's,80400.39,11483.58,1.7,False
+49101,Anthony Bernard,Finance,Engineer,2019-05-03,12,29,Male,Master's,69292.1,31920.89,4.3,False
+55246,Melanie Orozco,Marketing,Sales Executive,2018-06-26,14,39,Other,Bachelor's,55088.45,38731.98,1.3,False
+13763,Judith Krause,Engineering,Sales Executive,2016-08-09,12,44,Other,Bachelor's,44087.25,47381.03,3.2,True
+94891,Lauren Hinton,HR,Analyst,2016-12-28,12,41,Female,Bachelor's,55593.73,43732.24,2.5,True
+23521,Edwin Carter,Sales,Analyst,2011-01-07,3,28,Female,Master's,113384.08,49254.37,4.4,True
+97504,Stephanie Patel,Sales,Manager,2012-01-08,13,33,Female,Master's,72909.55,43995.15,2.5,True
+27596,Riley Martinez,HR,Consultant,2021-04-04,1,55,Male,Master's,85444.49,48080.12,3.8,True
+51844,Lori Delgado,Sales,Consultant,2018-04-07,14,42,Other,Master's,88987.09,14542.27,2.6,False
+63865,William Jones,Engineering,Sales Executive,2015-07-16,1,55,Male,Bachelor's,79856.84,17694.98,2.1,False
+84774,Erik Flynn,Engineering,Sales Executive,2017-10-13,14,53,Male,PhD,73250.37,37312.44,3.9,True
+47498,Ethan Walls,Engineering,Engineer,2022-06-04,2,25,Male,Master's,85701.8,37176.46,1.2,True
+61887,Cody Miller,Marketing,Manager,2017-01-26,6,35,Female,PhD,103410.98,12027.86,1.1,False
+42441,Travis Larson,Sales,Sales Executive,2016-02-23,12,44,Male,Master's,68676.99,8640.61,2.8,False
+30939,Daniel Roth,Sales,Consultant,2011-09-14,4,50,Female,Bachelor's,123633.32,19835.69,4.0,True
+17971,Jonathan Cooper,Finance,Manager,2011-03-02,7,42,Male,PhD,147602.07,48965.19,1.3,False
+98260,Shannon Fernandez,HR,Manager,2013-01-31,7,52,Female,PhD,94651.36,47626.47,2.7,True
+94803,Daniel Graham,Engineering,Sales Executive,2018-10-24,6,30,Male,PhD,147098.85,25746.39,4.5,True
+90269,Rebecca Alvarez,Finance,Sales Executive,2019-10-11,11,38,Male,Master's,130240.33,17547.06,1.3,True
+14296,Patricia Howe,Finance,Analyst,2020-05-01,11,55,Male,Master's,131966.01,42351.93,1.4,False
+88090,William Meyer,Engineering,Engineer,2022-11-05,8,23,Other,PhD,96671.92,15879.85,3.2,True
+39170,Eugene Riley,Marketing,Sales Executive,2010-06-02,4,50,Female,PhD,133110.7,9077.46,4.0,False
+91340,Margaret Payne,Engineering,Manager,2011-12-06,4,50,Other,Master's,74254.63,19450.48,1.5,True
+18141,Luis Rogers,Sales,Sales Executive,2014-09-21,12,51,Other,PhD,71854.43,18200.82,1.5,False
+78052,Donald Daniels,Finance,Consultant,2012-12-12,7,23,Female,Master's,42814.45,12551.07,2.9,False
+66123,April Thompson,Marketing,Consultant,2011-07-30,11,57,Other,Bachelor's,131092.92,27313.0,2.2,False
+94601,Pamela Park,Finance,Sales Executive,2022-06-16,12,30,Male,Bachelor's,99870.69,40190.05,1.3,True
+68895,Janice Martinez,HR,Engineer,2015-10-29,2,51,Other,Master's,82137.5,46552.39,4.3,True
+71383,Vincent Anderson,Finance,Sales Executive,2019-07-14,6,46,Other,Bachelor's,126915.22,17832.35,3.0,False
+21495,Stephanie Anderson,Sales,Manager,2014-07-20,5,27,Female,Master's,132843.71,19830.07,1.8,False
+95071,Fernando Johnson,Sales,Engineer,2016-09-14,2,59,Other,Bachelor's,76992.18,28990.59,2.4,False
+60450,Melissa Hines,Marketing,Manager,2011-08-20,2,29,Female,PhD,111461.21,23762.84,3.1,False
+27087,Destiny Dixon,Engineering,Engineer,2021-07-11,9,25,Male,PhD,147730.14,38907.99,3.8,False
+12368,Scott Miller,Engineering,Engineer,2012-10-04,4,48,Other,Master's,70208.85,5419.67,1.6,True
+51058,Robert Cruz,Marketing,Engineer,2015-06-16,9,33,Female,Bachelor's,132023.73,47458.22,2.6,True
+14159,Jacob Vang,Finance,Engineer,2017-06-12,1,44,Male,Bachelor's,143297.51,13992.78,3.1,False
+84069,Sharon Lewis,Marketing,Manager,2016-11-22,1,26,Female,Bachelor's,99295.45,42786.43,1.7,True
+96860,Cindy Hall,Engineering,Sales Executive,2010-04-13,13,25,Other,Master's,117960.52,6938.28,2.0,True
+98491,Michelle Thompson,Sales,Engineer,2020-01-01,9,27,Female,Master's,79449.38,38860.99,2.3,False
+82083,Jennifer Perkins,Marketing,Analyst,2022-05-12,9,45,Other,Master's,80378.94,30311.62,3.5,True
+46023,Craig Bell,Engineering,Manager,2012-06-22,14,46,Other,PhD,97660.75,45692.15,1.1,False
+45107,Alicia Conrad,HR,Engineer,2010-01-02,5,30,Other,Bachelor's,70542.27,20435.95,1.4,True
+20966,Dr. Matthew Hogan MD,HR,Sales Executive,2016-08-27,11,55,Male,Master's,65004.57,28269.25,3.2,True
+43227,Veronica Clark,Marketing,Engineer,2018-06-07,10,37,Male,PhD,48931.36,22719.84,1.8,True
+68598,Gregory Clark,Engineering,Sales Executive,2015-03-14,3,38,Female,PhD,147966.01,12468.03,3.6,False
+50874,Richard Glass,Marketing,Consultant,2020-09-24,10,49,Male,PhD,107952.65,37078.07,2.6,True
+64630,Misty Myers,HR,Consultant,2014-05-01,2,58,Female,PhD,136459.84,10460.47,2.0,True
+20832,Christine Harris,Engineering,Sales Executive,2015-09-05,10,35,Female,Master's,90906.64,15233.57,3.8,False
+21478,Elizabeth Silva,Marketing,Manager,2021-05-18,5,40,Male,Master's,96000.0,35171.87,2.5,True
+72291,Noah Ramirez,Sales,Consultant,2017-06-25,14,42,Female,Bachelor's,133987.46,16874.23,4.5,True
+14157,Mr. Mark Morrison,Sales,Consultant,2013-10-21,2,40,Female,PhD,62118.16,43856.65,4.1,False
+22490,Christopher Hernandez,HR,Consultant,2014-05-03,12,27,Male,Master's,46953.42,17554.75,1.6,False
+72388,Louis Harris,Sales,Engineer,2015-09-15,10,43,Male,PhD,53916.76,38958.79,4.3,True
+85815,Lisa Cochran,Engineering,Engineer,2015-10-25,9,45,Other,Bachelor's,96679.8,31451.22,2.8,False
+89455,Annette Colon,HR,Sales Executive,2014-07-21,12,31,Male,Master's,71294.0,35544.4,2.0,False
+58707,Ruth Evans,Finance,Manager,2014-09-10,1,31,Male,PhD,82208.48,23151.07,1.1,False
+22261,Jamie Walker,Finance,Analyst,2016-04-17,10,47,Male,Bachelor's,47470.38,45737.2,4.6,True
+12135,Brandon Jones,HR,Manager,2022-07-18,1,45,Other,Bachelor's,120064.19,11957.38,2.6,True
+97077,William Charles,Marketing,Consultant,2015-07-03,5,51,Female,Bachelor's,97117.89,10260.29,4.1,True
+62238,Dorothy Hansen,Marketing,Analyst,2015-10-07,10,37,Male,PhD,41375.53,42042.27,1.8,True
+86939,Christopher Pennington,Marketing,Consultant,2015-06-16,9,39,Female,PhD,61152.24,44434.19,4.8,False
+28249,Jocelyn Conner,Finance,Manager,2017-05-08,12,51,Other,Bachelor's,59393.98,9763.17,3.2,False
+78709,Veronica Knight,HR,Manager,2013-01-09,7,29,Male,PhD,69152.3,46434.19,2.7,False
+16549,Danielle Bennett,Marketing,Analyst,2014-02-15,13,39,Other,Bachelor's,41961.47,17424.94,1.4,False
+10137,Alyssa Rosario,Engineering,Engineer,2022-12-30,9,27,Female,Master's,74318.39,18058.19,2.9,True
+75702,Rebecca Walton,Engineering,Manager,2021-09-30,6,36,Male,Master's,67440.29,19733.33,1.9,True
+95107,Carol Bell,HR,Analyst,2015-01-13,9,26,Other,Master's,125298.85,39439.8,1.5,False
+59350,Emily Spencer,Finance,Manager,2011-10-20,9,48,Other,PhD,42528.26,34680.22,2.8,True
+12573,Dr. Ryan Tran,Sales,Manager,2020-02-06,8,27,Female,PhD,127000.96,9718.1,1.5,True
+95834,Larry Smith,Finance,Manager,2013-03-07,12,25,Male,Master's,122078.13,7968.63,4.3,False
+69597,Joshua Carr,Finance,Sales Executive,2011-04-17,12,53,Male,PhD,47964.05,38847.49,4.9,False
+67820,Jennifer Bates,Sales,Engineer,2012-12-21,12,36,Female,PhD,48219.14,24316.24,3.9,True
+22973,Joan Villegas,HR,Analyst,2019-09-26,12,49,Male,Master's,94406.63,8545.92,1.4,True
+62417,Wesley Mason,Marketing,Engineer,2016-12-13,9,24,Male,Bachelor's,119884.53,15665.78,1.8,True
+52653,Charles Davis Jr.,Engineering,Sales Executive,2014-08-17,3,38,Female,PhD,146659.25,11928.48,3.9,True
+49760,Melissa Curry DDS,HR,Manager,2018-06-19,8,32,Female,PhD,115657.55,8325.65,4.8,True
+90959,Traci Leblanc,Sales,Engineer,2011-11-24,8,29,Female,PhD,128373.31,39902.89,4.5,True
+77053,Linda Mueller,HR,Engineer,2017-05-28,6,49,Other,Master's,114412.19,13356.1,2.2,False
+20462,Erin Ford,Engineering,Engineer,2016-09-25,13,48,Male,Master's,70163.04,15596.63,2.7,False
+43552,Rose Santiago,Marketing,Sales Executive,2015-02-05,7,39,Male,PhD,89322.06,42435.77,3.6,True
+18958,Kimberly Pierce,HR,Engineer,2016-04-23,12,57,Male,PhD,128655.15,16865.41,2.9,False
+12499,David Wilson,Finance,Engineer,2017-02-01,3,48,Female,PhD,78800.27,30249.75,3.8,False
+17589,Raymond Collins,HR,Consultant,2011-02-10,1,25,Other,Master's,136556.5,12104.37,1.4,False
+10920,Jeanne Alexander,Engineering,Sales Executive,2014-04-27,10,37,Male,Bachelor's,120574.0,26768.18,3.3,False
+73956,Catherine Lyons,Engineering,Analyst,2016-04-19,8,58,Male,Master's,138799.88,34580.93,3.5,True
+22027,Grace Brock,Marketing,Sales Executive,2019-10-09,6,25,Other,Master's,129546.25,29213.11,4.7,True
+93137,Jennifer Livingston,Engineering,Engineer,2011-09-07,4,49,Male,PhD,149297.19,19477.12,2.2,False
+80034,Nathan Wood,Finance,Sales Executive,2017-06-08,5,26,Other,PhD,120701.77,43645.32,3.3,False
+63862,Timothy Mckinney,Sales,Analyst,2015-02-22,14,27,Male,PhD,53514.29,44094.11,4.4,True
+92961,Eric Nelson,Sales,Manager,2021-03-29,6,44,Female,Master's,46074.71,40519.5,3.7,True
+68969,Carolyn Anderson,Finance,Analyst,2019-12-30,7,56,Female,PhD,70644.77,19797.8,1.4,True
+26049,Chris Rosales,Engineering,Engineer,2016-03-16,11,34,Other,Master's,139465.03,27524.96,1.5,False
+53932,Amanda Pearson,Marketing,Sales Executive,2010-09-28,11,29,Other,Master's,79616.04,45480.91,3.5,False
+93834,Timothy Brown,Marketing,Consultant,2018-06-13,2,33,Male,PhD,145098.54,18663.75,1.9,False
+48067,Kenneth Kent,HR,Sales Executive,2021-04-23,11,24,Female,PhD,147725.01,6030.17,3.7,False
+69286,William Berg,HR,Consultant,2021-09-21,14,58,Female,Bachelor's,52099.77,27601.98,4.8,True
+81289,Brittany Jones,Finance,Sales Executive,2020-01-24,7,39,Other,Master's,75098.66,41269.26,2.9,False
+11007,Juan Becker,Engineering,Sales Executive,2016-01-01,2,46,Female,Bachelor's,71676.41,13300.42,4.3,False
+14376,Miss Amy Berry MD,Sales,Engineer,2020-11-11,10,47,Female,Master's,50140.3,38789.23,4.7,True
+51336,Taylor Gordon,Finance,Analyst,2018-04-17,4,43,Male,Master's,70725.91,6105.65,1.5,False
+84184,Sheryl Knight,Engineering,Engineer,2011-07-24,7,50,Female,Master's,83927.55,33813.02,2.1,True
+85307,Joshua Short,Sales,Manager,2020-02-22,11,32,Male,PhD,89355.65,13129.87,2.7,False
+55888,William Smith,Engineering,Engineer,2016-08-13,12,23,Other,Bachelor's,71247.89,19594.83,3.6,False
+16920,Emily Coleman,HR,Manager,2022-09-07,9,25,Other,Bachelor's,149013.43,27826.84,4.3,True
+13202,John Cabrera,Marketing,Sales Executive,2017-12-28,9,23,Female,PhD,68463.65,12291.0,2.0,False
+81921,Dan Sandoval,Engineering,Analyst,2013-05-17,1,23,Female,Bachelor's,147345.52,38143.33,3.1,False
+68777,Garrett Molina,Engineering,Sales Executive,2014-03-16,12,53,Female,Master's,120479.17,46627.33,4.2,False
+97082,Kimberly Miller,Engineering,Engineer,2019-06-03,3,22,Male,Master's,113209.24,49327.37,2.6,False
+48456,David Rodriguez,Marketing,Consultant,2014-03-04,8,55,Female,Bachelor's,61430.63,43930.44,2.5,True
+85895,Travis Sanders,Marketing,Analyst,2012-12-22,14,50,Male,Master's,65345.6,9953.81,2.8,False
+84659,Mr. Jonathan Jones,Sales,Sales Executive,2014-07-02,5,56,Other,PhD,50779.72,29037.11,3.2,False
+97865,Vincent Edwards,Finance,Analyst,2021-01-23,5,42,Male,Master's,41355.33,49395.58,1.2,True
+16659,Karina Baldwin,Marketing,Sales Executive,2014-11-26,12,27,Male,PhD,48169.46,18244.64,3.6,True
+39891,Ashley Powell,Sales,Consultant,2014-07-18,8,43,Other,Bachelor's,125964.41,33346.1,1.9,False
+35813,Brandon Paul,Sales,Analyst,2014-06-03,1,34,Other,PhD,98834.83,44783.91,3.7,False
+84296,Chad Brown,Sales,Sales Executive,2013-02-17,2,48,Other,Bachelor's,147701.21,45955.62,2.9,False
+42885,Stephanie Gibson,Sales,Sales Executive,2021-05-25,7,41,Other,PhD,138584.73,45253.07,3.1,False
+15362,Christopher Wright,Engineering,Consultant,2016-07-19,8,40,Female,PhD,77738.09,47358.47,1.2,False
+79468,Steven Clark,Finance,Analyst,2010-11-02,5,39,Other,Bachelor's,140913.32,18585.76,4.1,False
+97367,Katherine Trujillo,Marketing,Analyst,2011-12-27,11,51,Female,Bachelor's,94384.1,21057.18,1.5,False
+56034,Angela Williams DVM,Finance,Consultant,2013-01-30,14,33,Male,Master's,65926.32,39125.52,1.5,True
+99557,Stacy Stone,Sales,Sales Executive,2021-05-16,10,46,Male,PhD,145175.37,48166.06,1.9,False
+25595,Cassidy Dawson,Finance,Engineer,2020-03-18,7,43,Male,Master's,81281.74,9501.78,3.4,False
+87751,Derrick Miller,HR,Engineer,2019-09-02,6,40,Other,PhD,50332.87,48937.39,2.2,False
+92812,Travis Mora,Finance,Engineer,2020-12-12,14,23,Other,Bachelor's,105792.23,30865.27,5.0,False
+50367,Stephen Weeks,HR,Sales Executive,2010-02-20,13,24,Other,Bachelor's,81392.76,46252.36,4.4,True
+30790,Timothy Ross,Engineering,Consultant,2020-07-01,12,54,Female,Bachelor's,112623.13,11547.3,1.9,False
+45871,Sherry Gardner,HR,Analyst,2020-10-08,6,55,Male,PhD,135798.09,37381.49,4.4,False
+15535,David Young,Finance,Analyst,2013-06-06,14,25,Male,PhD,50213.29,9995.95,2.9,True
+49134,Amy Byrd,Engineering,Engineer,2015-01-04,6,55,Other,Bachelor's,90467.72,5370.31,2.9,False
+89589,Marissa Williams,Engineering,Consultant,2015-07-13,5,28,Male,Master's,45871.88,10312.36,4.4,True
+14585,Vincent Key,Marketing,Consultant,2016-01-12,10,57,Female,Bachelor's,113794.29,7228.38,2.2,False
+53877,Nicholas Schneider,Sales,Manager,2016-10-30,1,51,Male,PhD,136746.52,39289.56,1.9,True
+20579,Willie Cochran,Finance,Manager,2019-06-08,7,41,Male,PhD,97261.79,48080.96,4.2,True
+97692,Jasmin Robertson,Marketing,Sales Executive,2018-06-08,1,47,Other,Master's,93536.74,43373.85,3.8,False
+21020,Frank Gomez,Finance,Engineer,2010-11-01,9,53,Male,Master's,51048.8,6831.21,3.8,True
+83335,Pamela Herrera,Engineering,Engineer,2012-02-18,6,56,Female,Bachelor's,73033.49,49815.39,3.8,False
+83074,Mr. Andrew Thompson,Finance,Consultant,2020-01-25,3,42,Female,Bachelor's,92688.14,24580.75,1.7,True
+21712,Samantha Scott,Sales,Engineer,2012-10-12,12,40,Male,Master's,146129.6,48253.63,4.0,True
+68414,Jessica Schultz,HR,Engineer,2022-11-16,7,24,Male,Bachelor's,145897.03,22567.45,3.2,True
+78308,Brian Hernandez,Engineering,Sales Executive,2017-04-11,1,29,Male,Master's,52549.25,48100.13,1.6,False
+32417,Holly Thompson,HR,Analyst,2011-07-11,4,33,Female,PhD,45143.47,21435.95,1.5,False
+53292,Deborah Thompson,Engineering,Manager,2014-10-18,2,27,Other,Bachelor's,130942.6,12028.62,3.7,True
+18798,Emily Ortiz,Engineering,Manager,2018-04-07,10,28,Female,Bachelor's,65689.3,21411.39,1.4,False
+65784,Jennifer Mathews,Marketing,Analyst,2015-09-03,8,35,Female,Master's,63788.26,11208.38,2.3,True
+87272,Barbara Figueroa,Engineering,Manager,2015-04-21,1,54,Female,Master's,98828.14,18458.42,2.2,False
+62536,Jane Vasquez,Engineering,Engineer,2022-04-28,8,58,Male,Bachelor's,43959.05,20498.54,4.1,False
+19165,Andrea Blackburn,Engineering,Consultant,2018-10-09,3,52,Other,Bachelor's,141673.74,20794.79,3.6,True
+12294,Marcus Campbell,Marketing,Consultant,2010-09-07,8,42,Other,PhD,40350.2,21655.56,3.3,False
+44622,Brandon Jones,Engineering,Sales Executive,2015-05-17,5,27,Other,PhD,141243.46,11751.34,2.5,False
+75521,Juan Frederick,Engineering,Consultant,2010-03-01,6,51,Other,PhD,44054.35,16132.82,2.2,False
+74233,Mr. Joshua Bailey,Marketing,Analyst,2011-04-03,14,31,Male,Bachelor's,129066.0,15337.87,1.0,False
+45406,David Contreras,Marketing,Analyst,2022-08-08,11,49,Other,PhD,60619.0,34893.78,3.5,False
+82978,Angel Banks,Marketing,Analyst,2014-05-27,10,55,Male,Bachelor's,115737.01,36425.31,1.1,False
+14955,Michelle Berg,Marketing,Consultant,2012-02-01,8,45,Female,PhD,141827.3,12666.06,4.6,True
+38719,Steven Young,HR,Manager,2018-07-21,1,52,Male,PhD,101803.52,38301.6,2.3,False
+97733,Derek Williams,Sales,Analyst,2021-08-04,8,42,Other,PhD,114731.39,36285.85,2.9,False
+62112,Christina Cook,Finance,Sales Executive,2020-09-27,6,39,Female,Bachelor's,69671.14,23425.11,2.0,False
+29245,Rodney Peterson,Sales,Analyst,2022-01-05,2,55,Other,PhD,109529.17,39767.46,2.4,True
+65190,Bridget Davis,Marketing,Manager,2021-08-30,7,57,Other,Master's,144130.91,29619.72,2.7,False
+56240,Ashley Jones,Finance,Engineer,2013-09-03,7,40,Male,Bachelor's,116538.36,14675.37,3.4,False
+77769,Christopher Diaz,Marketing,Analyst,2016-01-05,6,54,Female,PhD,130991.65,30579.32,4.4,True
+67251,Ronald Wilson,Marketing,Manager,2016-02-18,12,51,Male,Bachelor's,53456.72,23380.5,2.6,False
+56153,Daniel Sharp,HR,Analyst,2016-04-17,6,58,Female,PhD,95963.31,27141.28,3.6,False
+92946,Antonio Rhodes,HR,Consultant,2016-07-10,7,43,Female,Master's,52453.64,41468.85,3.7,False
+48240,Jimmy Cruz,Finance,Analyst,2014-05-21,1,22,Male,PhD,137537.9,36182.63,1.7,False
+82482,Jonathan Russell,Sales,Analyst,2020-08-19,2,36,Female,PhD,120636.78,17456.11,3.7,False
+58119,Terri Schmidt,Marketing,Sales Executive,2015-01-05,10,46,Female,PhD,67580.6,37189.31,2.7,False
+12058,Tara Butler,HR,Manager,2012-09-20,14,29,Male,PhD,117453.77,45305.89,1.5,False
+36297,David Barrett,Finance,Consultant,2020-06-19,13,56,Male,Bachelor's,95710.06,28441.93,3.7,False
+15587,Richard Rivas,Engineering,Manager,2011-01-20,9,59,Other,Master's,145531.9,11781.81,2.6,False
+66171,Jeffery Carter,Sales,Consultant,2013-06-13,3,35,Male,Bachelor's,77083.45,13290.66,1.1,True
+38668,Victor Schneider,Sales,Consultant,2019-02-24,13,49,Female,Bachelor's,49749.07,45161.61,2.0,True
+47275,Mr. Matthew Harrison,Engineering,Engineer,2010-08-01,8,56,Male,Bachelor's,88954.43,22147.83,4.4,False
+74524,Kimberly Everett,Sales,Analyst,2021-11-12,11,29,Female,Bachelor's,134483.98,47734.51,3.8,False
+56689,Greg Baker,Finance,Sales Executive,2010-08-04,9,32,Male,PhD,70677.33,37243.03,4.4,True
+40128,Gabrielle Thomas,Marketing,Sales Executive,2012-08-02,14,32,Female,Bachelor's,72668.33,25848.51,3.0,True
+66159,Jennifer Ramirez,Engineering,Consultant,2011-03-07,5,37,Other,PhD,91974.0,30764.01,3.7,True
+54742,James Blake,Finance,Analyst,2015-07-30,9,39,Other,Bachelor's,116859.66,35973.55,2.9,False
+60969,Ryan Roach,Sales,Analyst,2010-02-09,9,44,Female,Master's,101788.84,7091.7,2.8,False
+11707,Kathryn Anderson,Engineering,Sales Executive,2017-04-01,7,44,Other,Bachelor's,96910.66,37416.11,3.5,False
+15026,Micheal Miller,Finance,Consultant,2022-02-16,7,24,Male,Bachelor's,56435.09,21110.68,3.6,True
+31914,Kimberly Mcclain,Marketing,Manager,2012-05-07,7,45,Female,Master's,123648.87,39301.12,1.9,True
+66845,Michael Melendez,HR,Manager,2016-05-20,10,31,Female,Bachelor's,120308.01,46790.6,1.8,True
+90255,Monica Garcia,HR,Manager,2017-07-01,10,22,Male,PhD,58196.01,34501.04,4.1,True
+13064,Robert Tucker,Sales,Engineer,2017-10-17,9,50,Male,Bachelor's,69195.35,45580.49,2.9,False
+30404,Peter Villarreal,HR,Manager,2015-09-11,7,42,Male,Bachelor's,71844.38,13452.81,3.4,True
+49156,Andrea Hill,Engineering,Analyst,2019-04-30,6,51,Male,Bachelor's,120683.71,19520.57,4.8,False
+77779,Benjamin Schultz,Engineering,Engineer,2020-04-14,12,36,Other,PhD,128210.28,19820.02,2.9,True
+81858,Christopher Green,Engineering,Consultant,2015-03-29,1,24,Female,Master's,140852.19,38592.7,1.3,True
+87381,Stephen Knight,Marketing,Consultant,2014-01-20,6,29,Male,PhD,118964.51,33827.47,3.7,False
+89998,James Reed,Sales,Analyst,2013-08-18,12,26,Other,Master's,78073.73,12202.09,3.7,False
+73744,Jasmine Wall,Sales,Analyst,2018-02-27,4,49,Female,PhD,83107.53,31078.21,4.4,False
+21848,Sarah Rowland,Marketing,Manager,2014-04-26,7,42,Other,Bachelor's,70776.32,42636.79,4.1,True
+68251,Amber Reeves,Sales,Engineer,2016-06-13,12,31,Male,Bachelor's,82956.44,26037.09,3.2,False
+22059,Paul Mack,Engineering,Manager,2011-12-15,12,22,Male,PhD,130649.7,47530.98,1.9,False
+14043,Jessica Thomas,HR,Engineer,2010-11-19,14,22,Male,PhD,134054.28,21138.56,1.1,True
+24627,Tina Payne,HR,Manager,2012-10-28,10,50,Other,Master's,108331.19,42187.54,4.8,False
+17438,Matthew Fuentes,Marketing,Analyst,2017-08-09,5,31,Male,PhD,96916.49,30850.1,3.8,False
+13235,Samuel Myers,Marketing,Sales Executive,2011-03-20,2,53,Other,PhD,87192.0,38276.85,4.3,False
+65928,Jeffrey Gomez,Marketing,Manager,2021-06-03,12,53,Female,Bachelor's,65669.43,28038.21,3.8,True
+58771,Thomas Ortega,Finance,Engineer,2014-10-21,13,27,Other,Master's,80827.7,42078.75,4.7,True
+95560,Carla Cordova,Finance,Analyst,2012-07-20,9,56,Other,Bachelor's,142316.79,49979.97,3.2,False
+60655,Austin Hall,Finance,Analyst,2014-09-06,1,39,Female,PhD,91161.98,7959.01,2.6,True
+53560,Pamela Collins,Engineering,Consultant,2011-07-27,8,46,Female,PhD,49224.86,21471.76,1.6,True
+24668,Cory Miller,Sales,Sales Executive,2022-12-16,3,59,Other,PhD,79507.57,48338.74,4.2,False
+18898,Audrey Guzman,Finance,Manager,2022-08-17,10,53,Other,Bachelor's,56439.25,11656.49,1.1,True
+79314,Kelsey Boone,Engineering,Analyst,2017-04-17,10,26,Female,PhD,131943.18,49329.45,4.8,True
+34071,Michael Nelson,Finance,Consultant,2021-08-17,5,45,Male,Bachelor's,105588.18,22474.84,3.4,False
+57185,Caleb Case,Finance,Analyst,2014-07-16,10,47,Other,Master's,128062.65,28437.71,4.1,True
+23762,Michele Hatfield,Engineering,Consultant,2011-09-27,5,34,Male,PhD,115195.5,20859.5,2.2,False
+73025,Emily Rice,HR,Consultant,2015-04-11,9,41,Other,Bachelor's,96162.96,8624.98,3.1,True
+44555,Justin Johnson,HR,Analyst,2014-01-02,3,50,Other,Bachelor's,122957.53,20350.01,1.1,True
+66701,Lisa Wolfe,Engineering,Analyst,2011-12-04,1,49,Other,Master's,145379.94,9350.01,2.6,True
+85068,David Avila,Marketing,Sales Executive,2015-06-22,8,36,Other,PhD,79578.56,29534.28,2.5,False
+74613,Edwin Collins,Engineering,Analyst,2018-09-19,7,42,Male,Master's,124580.58,8335.9,2.6,False
+13919,Christopher Santana,HR,Analyst,2016-11-28,14,32,Female,Bachelor's,54401.39,44307.59,3.6,False
+54635,Laura George,HR,Analyst,2013-07-25,3,35,Female,PhD,74530.12,7179.4,2.9,False
+76589,Casey Hardy,Sales,Manager,2010-05-05,10,48,Male,PhD,61832.79,20772.22,4.9,False
+54949,Veronica Franklin,HR,Sales Executive,2012-10-03,11,45,Other,Master's,113902.78,27055.11,2.0,True
+50109,Ruth Davenport,Marketing,Analyst,2012-01-17,14,35,Other,Master's,64055.08,35234.9,1.4,False
+79203,William Downs,Sales,Engineer,2011-07-26,1,56,Other,PhD,123147.89,16972.44,5.0,True
+99985,Justin Lara,Finance,Sales Executive,2017-10-06,6,27,Female,Master's,138655.51,9723.71,3.4,False
+58236,Kelly Taylor,Finance,Analyst,2016-10-30,6,58,Male,Bachelor's,94109.22,35795.52,2.5,False
+12552,Alan Jones,HR,Consultant,2016-02-27,10,42,Other,Bachelor's,116242.23,17805.58,1.1,True
+84138,Bryan Sullivan,HR,Analyst,2014-02-26,4,52,Female,PhD,81314.71,48331.94,2.5,False
+31125,Melissa Green,Sales,Consultant,2013-07-18,3,49,Other,Master's,82321.04,40399.5,4.3,True
+34118,Collin Hurst,HR,Engineer,2022-06-02,14,39,Other,PhD,59618.14,30727.24,3.2,False
+91475,Andrew Garza,Finance,Sales Executive,2011-03-16,5,23,Other,Master's,59188.3,5240.22,1.9,False
+85927,Dorothy Villanueva,Engineering,Engineer,2011-03-10,4,28,Female,Bachelor's,59951.66,7902.78,2.4,False
+52734,Gregory Patel,Engineering,Sales Executive,2015-09-22,14,44,Male,Bachelor's,41829.65,34983.0,3.2,False
+18786,Audrey Morgan MD,Engineering,Sales Executive,2017-06-22,14,38,Female,PhD,40008.35,10802.63,2.5,False
+90450,Stephanie Lane,Sales,Consultant,2020-10-19,2,33,Male,Master's,125869.56,23096.09,1.3,True
+42942,Robert Murphy,HR,Consultant,2016-01-10,13,25,Male,Master's,54466.34,20551.91,2.7,False
+24708,Larry Jackson,HR,Sales Executive,2014-01-13,5,47,Female,Master's,101657.29,13662.26,3.6,True
+79382,Kelly Stephenson,Finance,Sales Executive,2010-09-05,11,34,Other,PhD,83614.44,42912.98,1.7,True
+76409,Kevin Greene,HR,Consultant,2014-11-08,10,44,Male,Bachelor's,81087.43,19456.84,2.1,False
+92512,Miranda Graves,Sales,Consultant,2014-06-30,1,31,Female,Bachelor's,100024.04,27557.66,1.1,False
+58577,Gabriel Martin,Marketing,Engineer,2016-08-08,11,33,Female,Master's,110546.56,37035.1,3.0,False
+13085,Tamara Herrera,Finance,Manager,2014-08-15,13,50,Female,Bachelor's,61757.71,33647.34,4.8,False
+34094,Patrick Johnson,Sales,Consultant,2018-06-18,2,38,Other,Master's,138430.04,29040.27,1.9,False
+94582,Timothy Ward,HR,Manager,2018-04-15,6,56,Male,Master's,141621.71,29376.13,4.5,True
+20838,Jack Ramos,HR,Sales Executive,2018-07-08,7,53,Female,Bachelor's,61960.77,36923.3,2.8,True
+21913,Lori Preston,Engineering,Manager,2021-05-10,1,34,Male,PhD,84750.07,47194.31,1.6,True
+81317,Michele Thomas,HR,Analyst,2012-06-09,14,34,Other,Master's,101392.11,11978.02,3.8,True
+67464,Jonathan Foley,Sales,Manager,2021-10-01,6,27,Female,Master's,77748.62,28568.27,1.5,False
+11879,Diana Kent,Finance,Consultant,2011-11-16,4,59,Other,PhD,104435.9,40186.34,2.5,True
+75834,Keith Lowery,Sales,Engineer,2017-12-07,8,28,Female,Master's,139332.59,31335.0,2.2,False
+66336,Amanda Sawyer,Engineering,Consultant,2015-02-08,14,33,Other,Master's,98215.72,27697.58,2.9,False
+22497,Victoria Martinez,Sales,Consultant,2015-09-25,9,40,Male,Master's,42127.52,15177.03,2.9,True
+86100,James Farmer,HR,Engineer,2013-12-06,3,40,Other,Bachelor's,57940.29,32912.64,1.5,True
+58148,Matthew Johnson,HR,Engineer,2014-07-10,2,31,Other,Bachelor's,68635.1,42410.83,3.3,False
+61840,Rachel Cummings,Finance,Sales Executive,2019-09-16,3,53,Male,Master's,114556.91,37739.15,4.1,False
+70574,Pamela Goodman,Sales,Manager,2013-01-15,11,26,Female,PhD,84210.04,15413.97,4.2,False
+15759,Casey Hopkins,HR,Sales Executive,2022-05-20,13,24,Female,Master's,62943.97,13111.34,3.4,True
+82773,Howard Wilson,Marketing,Engineer,2016-01-07,12,40,Male,PhD,125231.04,28543.54,4.3,True
+56129,Brandon Rose,Engineering,Manager,2013-02-10,5,25,Female,Master's,51312.95,37481.37,2.6,True
+93018,Monique Cortez,Engineering,Manager,2014-08-20,6,50,Female,PhD,122383.81,37912.7,2.5,True
+36675,Brandon Murray,Engineering,Manager,2022-10-02,13,35,Female,Bachelor's,123954.64,47388.64,4.4,False
+30877,Sarah Travis,Sales,Manager,2014-12-15,3,35,Female,Master's,84197.37,32596.97,3.8,True
+27344,Dale Gallagher DDS,Finance,Engineer,2017-09-13,6,22,Male,Bachelor's,54418.94,47012.61,3.1,False
+99609,Caroline Kent,Finance,Manager,2015-07-30,8,25,Other,Master's,132902.57,25733.75,1.9,False
+99005,Natasha Faulkner,HR,Engineer,2018-10-02,3,47,Male,Master's,92110.61,24207.04,1.2,False
+19546,Eric Baker,Finance,Consultant,2021-10-26,11,49,Female,Master's,142231.94,9639.96,3.4,False
+44637,Johnny Morgan,HR,Consultant,2021-01-03,10,53,Other,Bachelor's,83628.84,5736.04,2.9,False
+84463,Samuel King,HR,Manager,2015-02-13,8,25,Female,Bachelor's,81529.75,24817.51,2.9,True
+34599,Ashley Koch,Engineering,Sales Executive,2020-01-28,7,42,Other,PhD,93035.88,21245.91,3.7,False
+55178,Katie Cummings,Engineering,Consultant,2017-09-05,13,28,Female,Bachelor's,129174.86,5621.43,4.3,True
+89416,Meghan Hopkins,HR,Manager,2011-06-12,10,35,Male,Bachelor's,148806.64,11451.96,2.9,False
+14736,Wanda Cox,HR,Engineer,2017-08-06,11,37,Female,Master's,69348.0,7727.38,3.4,False
+85398,Colleen Scott,HR,Engineer,2019-01-04,11,43,Female,Master's,59365.59,24832.35,4.6,True
+40631,Blake Marquez,Finance,Engineer,2013-05-30,13,24,Female,Bachelor's,64468.63,40872.41,4.5,True
+13605,William Wright,Engineering,Analyst,2021-08-02,6,48,Male,Master's,122875.96,11215.26,1.2,True
+44447,Bradley Robbins,HR,Manager,2013-02-13,9,31,Male,PhD,96480.02,42317.24,2.2,False
+60921,April Pacheco,HR,Manager,2020-10-30,11,57,Other,Master's,75515.66,17533.36,4.0,True
+64251,William Pierce,Engineering,Sales Executive,2022-03-14,7,31,Other,Master's,69316.93,24986.35,3.8,False
+66045,Holly Mitchell,HR,Consultant,2016-02-28,6,51,Female,PhD,53308.92,21251.8,3.4,True
+39304,Gary Solis,HR,Analyst,2022-02-18,14,23,Female,PhD,87761.82,48231.83,2.7,False
+79808,Kelsey Riley,HR,Consultant,2020-11-04,4,43,Other,Bachelor's,138737.92,22305.58,1.7,True
+22374,Ashley Sanders,Marketing,Manager,2012-06-03,14,35,Female,Bachelor's,114589.19,47412.46,4.7,False
+66264,Sherry Hood,Finance,Manager,2022-04-04,9,28,Female,PhD,141104.14,17117.15,3.4,False
+40577,Dawn Beasley,Finance,Sales Executive,2015-12-08,12,49,Female,Master's,122829.36,46520.61,3.1,True
+87978,Gerald Fernandez,HR,Sales Executive,2012-04-21,4,49,Female,Master's,130764.42,31360.95,2.6,True
+73529,Adam Woodard,HR,Engineer,2010-03-12,9,32,Male,PhD,85512.52,32745.44,3.7,True
+12776,Robin Chan,HR,Consultant,2020-09-14,10,54,Female,Master's,94685.96,42302.52,4.6,False
+23325,Lori Zamora,Finance,Engineer,2013-01-31,4,41,Other,Master's,65884.82,18787.67,4.8,False
+21320,Corey Harris,Engineering,Engineer,2013-01-17,7,30,Other,PhD,107995.26,30145.52,2.4,True
+89036,Nicholas Winters,Sales,Manager,2018-05-10,13,52,Male,Bachelor's,72540.56,34413.58,3.5,False
+86949,Deborah Jacobs,Engineering,Manager,2019-02-06,3,37,Female,Master's,49796.07,13184.25,1.6,True
+64491,Kimberly Burns,Finance,Consultant,2022-07-09,14,27,Male,Bachelor's,45364.28,34775.24,4.2,False
+75564,Lawrence Estrada,Finance,Analyst,2017-09-21,13,42,Other,Master's,56567.77,7230.03,1.7,True
+26755,Mark Brown,Engineering,Manager,2013-07-10,5,41,Other,Bachelor's,103553.44,5336.69,1.1,False
+99836,Michelle Martin,HR,Sales Executive,2022-09-05,12,43,Male,PhD,120661.94,20453.92,2.8,True
+74617,Robert Cruz,Finance,Analyst,2017-09-11,3,35,Female,PhD,97679.42,39025.11,2.2,True
+91204,Aaron Gonzales Jr.,Engineering,Analyst,2017-06-14,13,59,Other,PhD,69739.4,29730.31,3.4,False
+29196,Zachary Lopez,Marketing,Engineer,2021-07-25,1,45,Other,Master's,132876.37,49391.32,4.3,True
+63835,Jacob Perez,Marketing,Manager,2022-05-05,3,29,Other,Bachelor's,91425.86,22386.85,3.5,False
+51815,Elizabeth Nelson,Finance,Sales Executive,2018-06-02,7,43,Male,Bachelor's,107738.83,41782.46,4.9,False
+41166,Jose Taylor,Sales,Sales Executive,2011-09-03,7,51,Other,PhD,48404.69,15060.43,1.4,False
+70818,Amy Coleman,Engineering,Consultant,2017-02-09,6,52,Other,PhD,95737.38,36706.01,1.2,True
+71354,Leah Quinn,Finance,Sales Executive,2015-02-18,11,31,Other,Bachelor's,103351.2,47800.51,2.6,True
+86746,Nicole Brown PhD,Finance,Analyst,2010-08-03,1,56,Female,PhD,41969.13,17487.9,2.9,False
+99998,Eric Hayes,Finance,Consultant,2019-04-28,4,52,Other,Master's,84789.05,38279.97,1.5,True
+25575,Holly Schmitt,Finance,Consultant,2011-05-19,8,37,Male,Master's,121115.89,14875.69,3.1,True
+10435,Sheri Hill,HR,Sales Executive,2020-07-19,12,23,Other,Master's,76129.44,19795.66,2.7,True
+78216,Felicia Perez,Engineering,Analyst,2016-07-20,2,52,Female,Bachelor's,142020.46,17512.14,4.7,False
+22935,Whitney Hamilton,Sales,Engineer,2010-08-24,9,34,Other,PhD,112602.6,44966.42,2.1,False
+35657,Richard Coffey,Sales,Engineer,2020-10-18,13,49,Male,PhD,76585.14,30880.56,4.6,False
+41467,Randall Rodriguez,Sales,Analyst,2016-03-18,9,58,Male,Master's,112389.66,34572.9,4.2,False
+51711,Arthur Campbell,Engineering,Sales Executive,2016-10-02,14,44,Other,Bachelor's,69426.08,38847.22,4.5,True
+19833,Scott Butler,Sales,Sales Executive,2020-01-07,7,50,Other,PhD,104817.58,49965.84,1.4,True
+67290,Anthony Lopez,Engineering,Engineer,2016-11-15,10,38,Female,Bachelor's,78105.17,47784.62,1.3,False
+48601,Courtney Stone,Engineering,Engineer,2020-10-13,14,39,Other,Bachelor's,120828.23,22651.59,3.6,False
+40097,Kyle Ortiz,Engineering,Engineer,2019-03-06,7,58,Other,Bachelor's,49785.55,7643.44,1.4,False
+92111,Megan Cohen,Sales,Engineer,2017-02-14,1,41,Male,PhD,95710.38,26677.4,3.2,True
+41745,Robert Holt,Finance,Engineer,2021-08-14,4,37,Other,Master's,125425.97,39703.78,1.6,False
+63020,Barbara Payne,HR,Engineer,2017-12-17,12,35,Male,PhD,80950.06,22146.79,3.4,False
+14697,Tammie Brown,Sales,Analyst,2011-07-29,10,38,Male,PhD,81917.47,43125.27,4.4,False
+75275,Crystal Webb,Marketing,Manager,2020-02-20,13,42,Female,Bachelor's,143900.66,12054.93,3.2,True
+27779,Samantha Harmon,Marketing,Engineer,2016-06-24,4,36,Female,Bachelor's,129450.32,15369.87,3.7,False
+10448,David Morris,Finance,Sales Executive,2014-11-08,14,52,Other,PhD,134410.94,40549.89,3.5,True
+49824,Jeanette Alexander,Finance,Analyst,2017-04-23,2,52,Male,Master's,139083.48,10653.52,3.9,False
+80478,William Edwards,Finance,Engineer,2013-02-22,13,47,Female,Bachelor's,122374.29,42182.91,4.2,True
+75171,Tracey Mendez,HR,Manager,2012-11-25,7,49,Other,Bachelor's,82556.98,25710.44,1.3,True
+98078,Cynthia Coleman,HR,Engineer,2016-03-23,10,25,Other,PhD,76950.94,22114.41,4.9,True
+73933,Amber Davis,Sales,Manager,2017-03-11,7,47,Other,Bachelor's,116445.26,49628.17,1.6,True
+55943,Donald Howard,Engineering,Consultant,2013-12-18,3,39,Male,PhD,114757.87,24107.39,1.5,True
+29288,Kristen Cox,HR,Manager,2010-10-03,12,28,Other,PhD,62810.26,6338.86,4.5,False
+61863,Michael Briggs,Marketing,Engineer,2013-01-22,6,34,Other,Master's,56347.74,32691.1,3.0,True
+57062,David Hicks,Sales,Analyst,2010-09-23,11,46,Other,Bachelor's,115892.99,23929.97,4.8,False
+27374,Maria Young,Sales,Consultant,2016-08-17,4,48,Other,Bachelor's,121313.64,16997.43,2.2,True
+30354,Anthony Gordon,Sales,Manager,2022-02-24,5,30,Male,Master's,88078.15,38301.19,1.9,False
+13195,Jonathan Robinson,Engineering,Consultant,2020-11-16,4,51,Other,Bachelor's,112031.06,25432.46,1.7,True
+73291,Daniel Harmon,Sales,Engineer,2016-03-04,7,56,Male,PhD,91416.52,42159.42,2.9,False
+38366,Todd Mendoza,HR,Consultant,2021-09-12,12,41,Female,Master's,47045.54,43337.25,1.4,True
+92355,Troy Carr,HR,Manager,2014-06-01,13,27,Other,Bachelor's,128642.88,18466.03,4.6,True
+69901,Patrick Davis,Sales,Manager,2011-07-04,10,47,Other,PhD,50198.84,15483.33,3.9,False
+46753,Brittany Harvey,Marketing,Sales Executive,2021-06-13,12,54,Male,Master's,73828.84,42826.09,3.6,True
+35156,Brenda Mueller,HR,Engineer,2013-01-30,11,26,Male,PhD,134595.25,48962.98,3.3,True
+11292,Sean Jones,Finance,Engineer,2015-01-12,14,32,Other,PhD,58760.3,14651.34,3.9,False
+88653,Jasmine Gallagher,Sales,Sales Executive,2019-01-14,14,33,Other,Bachelor's,94667.04,9780.64,4.4,False
+12969,John Davis,Engineering,Sales Executive,2012-10-07,9,27,Other,Master's,115829.76,21911.35,4.8,False
+47611,Alexandra Anderson,Finance,Manager,2016-06-10,10,22,Other,Bachelor's,47440.53,15200.86,4.8,True
+84674,Jeffrey Stone,Sales,Manager,2015-08-10,6,26,Male,PhD,79900.54,47057.08,3.5,False
+82290,Daniel Norton,Marketing,Sales Executive,2022-05-16,6,55,Other,Master's,83647.89,11556.41,2.8,True
+33645,Roy Mckinney,Finance,Manager,2019-12-20,9,47,Male,Master's,53862.57,5458.32,3.0,True
+21856,Taylor Torres,HR,Analyst,2011-05-14,3,31,Female,Master's,111481.12,35580.95,4.4,True
+34422,Jessica Clark,Engineering,Sales Executive,2013-09-24,12,29,Male,Master's,56326.04,27660.95,2.4,True
+10303,Amy Mcguire,Marketing,Manager,2015-12-08,5,39,Male,Bachelor's,115214.31,22790.51,3.6,False
+94003,Roger Garrett,Marketing,Engineer,2019-08-25,8,32,Male,Master's,81381.6,15512.87,3.5,False
+95359,Jeremiah Turner,Finance,Sales Executive,2012-10-20,6,40,Other,Bachelor's,68368.9,22363.88,2.0,True
+40324,Virginia Smith,Engineering,Manager,2018-05-23,4,42,Other,Master's,69973.69,11836.28,1.5,True
+34623,Seth Palmer,HR,Manager,2018-10-29,12,57,Female,PhD,139720.24,5069.04,4.3,True
+29471,Edward Jarvis,Engineering,Engineer,2018-12-08,1,29,Other,Master's,92256.17,32619.12,4.8,False
+72725,Lisa Chavez DVM,HR,Manager,2013-12-15,9,57,Male,Bachelor's,111408.89,38026.09,4.3,True
+77594,Christina Norton,Marketing,Consultant,2020-03-02,9,33,Female,Bachelor's,99839.28,31994.76,1.8,False
+18037,David Colon,Sales,Consultant,2018-03-25,3,30,Other,Master's,111506.17,10351.2,1.9,True
+35566,Nicholas Bennett,Finance,Analyst,2019-09-14,13,22,Other,Master's,63726.45,16837.73,3.5,True
+40209,Peter Cohen,Sales,Analyst,2019-07-30,3,59,Female,PhD,114573.27,42607.54,2.9,True
+87387,Michael Lopez,Marketing,Consultant,2018-12-24,4,36,Other,Bachelor's,55568.45,28397.55,1.7,True
+71248,Samantha Wood,HR,Consultant,2021-09-15,10,54,Other,Bachelor's,140012.82,11943.85,2.9,False
+26714,Manuel Scott,HR,Engineer,2012-11-11,9,23,Other,Master's,145731.25,29294.55,1.3,True
+76365,Steven Williams,Marketing,Engineer,2014-12-08,9,32,Female,Master's,111426.21,34456.32,3.7,False
+41819,William Simpson,Marketing,Analyst,2012-01-29,8,58,Female,Bachelor's,123552.36,24525.52,3.9,True
+65542,Matthew Day,HR,Analyst,2012-06-13,5,23,Other,PhD,119860.84,36829.03,4.6,False
+48661,Jennifer Casey,Engineering,Manager,2020-01-03,2,58,Female,PhD,97251.83,13759.22,1.6,True
+78350,Joshua Cervantes,Finance,Consultant,2020-04-23,13,49,Other,PhD,111806.67,38361.07,1.5,True
+12913,David Chapman,HR,Consultant,2020-12-02,8,39,Male,Bachelor's,102110.97,21692.97,2.7,False
+17182,Jose Morrison,Marketing,Manager,2019-03-20,2,51,Female,PhD,53299.73,46653.16,1.6,True
+73312,Christina Beard,Sales,Engineer,2013-10-12,9,47,Male,PhD,75473.56,34262.27,1.6,False
+76052,Samantha Perry,Sales,Analyst,2013-01-14,2,56,Male,Master's,94633.44,8604.93,3.0,True
+62991,Maria Sanchez,HR,Analyst,2018-06-04,9,24,Other,Master's,95860.1,16920.41,2.7,True
+31198,Kari Sanders,Sales,Manager,2012-10-14,13,49,Other,Bachelor's,67342.87,6553.74,4.7,True
+14310,Steven Bryant,Marketing,Manager,2013-12-20,11,43,Female,Bachelor's,137267.45,36898.87,1.8,True
+56899,Kimberly King,Engineering,Manager,2017-07-22,14,23,Male,Bachelor's,48196.02,42290.47,4.7,False
+47560,Teresa Cooley,Sales,Engineer,2014-07-31,7,38,Female,Bachelor's,134923.75,17356.01,3.9,False
+21989,Joyce Woods,Sales,Engineer,2021-02-02,1,39,Female,Bachelor's,149983.96,48052.36,2.0,True
+66958,Stephen Brown,HR,Analyst,2014-06-12,7,49,Male,Master's,117645.56,48104.73,1.7,False
+33652,Gregory Jones,HR,Analyst,2011-01-13,1,50,Other,PhD,108449.67,24349.86,2.3,True
+53743,Andrew Garrison,Finance,Analyst,2016-01-19,1,22,Other,PhD,136727.43,26624.75,3.7,False
+48165,Scott Brewer,Engineering,Engineer,2011-10-23,4,42,Other,Bachelor's,61179.04,45568.33,3.9,True
+85854,David Combs,Sales,Manager,2011-02-17,10,39,Female,Master's,108539.07,14286.09,1.8,True
+73101,Jenna Newman,Finance,Manager,2020-11-06,5,24,Other,PhD,112766.15,20951.19,3.3,True
+16939,Aaron Jackson,Finance,Sales Executive,2022-09-27,12,42,Female,Bachelor's,102020.18,27073.06,4.2,False
+43208,Tammy Adams,Marketing,Engineer,2018-01-01,3,51,Other,Master's,129777.52,37287.47,1.7,True
+88478,Robin Bush,Marketing,Analyst,2012-10-22,8,47,Other,PhD,141663.02,43387.53,1.5,True
+42613,Christina Clark,Sales,Consultant,2016-03-25,14,23,Female,PhD,108994.71,39924.36,3.0,True
+74863,Amanda Mosley,Engineering,Manager,2021-11-02,7,29,Other,Master's,55734.28,36339.61,4.0,True
+43499,Sharon Brown,Marketing,Sales Executive,2019-04-25,9,56,Female,Master's,46162.5,27529.19,3.8,True
+42640,Melissa Camacho,Engineering,Engineer,2012-06-15,4,22,Other,Bachelor's,99828.64,5253.17,4.4,False
+51355,Karla Harper,HR,Engineer,2017-01-24,4,45,Female,Master's,53707.73,13497.02,1.1,True
+74761,Daniel Henderson,Marketing,Sales Executive,2015-04-17,11,48,Female,Master's,102962.19,44949.3,4.7,False
+88132,Jimmy Gardner,Marketing,Engineer,2013-08-09,13,45,Female,PhD,69113.32,6434.15,1.5,True
+70317,Selena Schwartz,Sales,Consultant,2021-02-20,7,43,Male,Bachelor's,89540.32,41591.05,1.1,False
+99710,Crystal Simmons,Finance,Manager,2012-03-28,6,45,Female,Bachelor's,138742.09,49729.89,4.7,True
+76649,Brian Oliver,Engineering,Analyst,2015-10-27,1,57,Other,PhD,119030.93,45550.04,2.2,True
+77577,Christian Stewart,Finance,Engineer,2011-07-05,2,28,Female,PhD,73297.21,49718.52,1.9,True
+99718,Caitlin Carroll,Sales,Consultant,2014-09-22,6,52,Male,PhD,122478.65,41586.51,1.1,False
+32388,Elizabeth Williamson,Sales,Manager,2021-08-28,1,45,Other,Bachelor's,144130.76,48258.26,4.8,False
+13967,Brittany Spears,Marketing,Engineer,2015-01-08,14,50,Male,Bachelor's,93103.92,15021.69,4.1,False
+12481,Samantha Young,Finance,Consultant,2016-11-04,1,37,Male,PhD,84972.94,29173.52,4.3,True
+85255,Jill Martin,Finance,Manager,2022-08-28,13,23,Male,Bachelor's,69762.72,42899.1,4.1,False
+81333,Andrew Miller,Engineering,Consultant,2015-05-02,4,26,Female,Bachelor's,136542.69,43173.01,4.9,False
+83512,Paul Lopez,Engineering,Consultant,2013-08-12,12,47,Female,Bachelor's,125222.5,18742.14,2.1,True
+80752,Christopher Berry,Sales,Manager,2012-11-21,6,27,Other,Master's,106617.43,21088.39,3.5,False
+41076,Gina Hernandez,Engineering,Manager,2016-12-26,14,53,Other,PhD,111646.61,10505.66,3.0,True
+63685,Ryan Murray,HR,Engineer,2012-06-18,13,57,Male,Bachelor's,95102.72,25880.55,3.9,True
+84135,Teresa Garcia,HR,Sales Executive,2018-03-08,7,35,Other,Master's,82622.16,23367.57,4.9,True
+52918,Jody Alexander,HR,Analyst,2013-10-11,9,46,Other,Master's,97925.97,22663.26,1.6,False
+53486,Brenda Berry,Finance,Manager,2012-09-22,7,45,Other,PhD,125679.12,21274.57,4.5,False
+49365,Spencer Jackson,Marketing,Manager,2014-09-14,5,54,Female,Master's,146080.83,12393.46,2.5,False
+70979,John Holden,Sales,Sales Executive,2011-12-03,3,40,Male,PhD,138785.75,16934.25,2.9,False
+50187,Kelly Payne DDS,Finance,Manager,2015-10-27,12,25,Other,Master's,42736.04,42453.85,3.8,False
+27207,John Mason,HR,Engineer,2012-12-06,5,22,Male,Master's,42726.73,13566.49,3.0,True
+66419,Lorraine Jenkins,Sales,Manager,2014-09-15,6,32,Female,PhD,115474.14,12266.62,2.7,False
+87064,Michelle Dillon,HR,Consultant,2018-01-15,11,43,Female,Bachelor's,81540.2,12054.22,1.1,True
+60163,Jackie Wise,Engineering,Engineer,2016-06-12,14,22,Other,PhD,142813.28,36058.33,3.4,True
+44132,John Rodriguez,Sales,Consultant,2010-01-15,6,52,Male,PhD,119862.61,29010.86,2.2,False
+11647,Wanda Grimes,HR,Analyst,2012-02-28,9,36,Female,Bachelor's,102880.29,47021.43,1.0,True
+60784,Danielle Allen,Marketing,Sales Executive,2015-04-05,9,50,Other,Bachelor's,127606.1,17732.24,3.2,True
+72116,Robert Clark,HR,Engineer,2016-12-29,4,22,Female,Master's,65816.07,14535.96,2.6,False
+63609,Jennifer Johnson,Marketing,Engineer,2013-03-17,1,49,Other,Master's,88262.85,27216.08,2.5,False
+45647,Judith Perez,Sales,Engineer,2020-11-16,2,47,Male,Bachelor's,74559.39,44824.14,4.4,False
+52847,Kayla Hall,Finance,Engineer,2011-12-28,14,23,Other,PhD,71793.66,13771.09,3.0,True
+53189,Sara Smith,Marketing,Analyst,2010-11-18,9,57,Other,PhD,117587.59,46192.19,1.5,False
+16429,Michelle Riley,Sales,Analyst,2014-10-11,12,40,Male,Bachelor's,136454.87,30883.92,1.1,False
+85183,Brian Fields,HR,Sales Executive,2018-09-20,12,45,Other,PhD,84449.03,32667.19,1.2,False
+60477,Michael Cannon,Engineering,Analyst,2014-01-11,1,47,Male,PhD,90479.82,47341.2,2.7,True
+53935,Ian Davila,Engineering,Sales Executive,2020-10-01,11,36,Female,Master's,94410.42,36814.23,3.1,False
+16023,Ronald Cordova,Sales,Consultant,2015-04-30,11,41,Other,PhD,58736.86,46274.52,3.8,True
+54802,Cynthia Ramirez,Sales,Consultant,2014-06-18,5,40,Other,PhD,124342.2,25023.82,3.1,True
+17970,Anthony White,Sales,Sales Executive,2015-10-18,5,59,Other,Master's,80964.79,7274.31,1.1,False
+42779,Stephen Mata,HR,Sales Executive,2012-04-26,7,31,Male,PhD,104693.05,34912.04,3.0,False
+84777,Sara Simmons,Marketing,Engineer,2011-07-22,12,42,Female,Bachelor's,105555.69,12659.66,1.2,False
+97002,Bradley Molina,Sales,Consultant,2017-12-16,2,45,Female,PhD,56989.33,47481.17,1.2,True
+24810,Matthew Anderson,Sales,Engineer,2019-04-18,12,47,Other,Master's,73660.37,6814.94,3.3,False
+10001,Stephen Anthony,Engineering,Consultant,2020-10-12,13,55,Female,Bachelor's,42383.93,28054.92,2.1,False
+11555,Lindsey Gray,Engineering,Manager,2015-06-05,1,35,Male,Master's,96359.78,28898.21,1.6,False
+35950,Heather Luna,Marketing,Sales Executive,2021-05-25,8,25,Female,Master's,134573.68,40563.48,2.7,False
+92656,Francisco Joyce,Engineering,Consultant,2011-12-13,7,25,Other,PhD,67298.04,25432.96,4.9,True
+59989,Jacqueline Sweeney,HR,Analyst,2016-12-18,1,47,Male,Bachelor's,107436.0,11979.41,4.9,True
+89976,Anthony Vargas,Marketing,Engineer,2016-08-20,9,49,Female,Bachelor's,140966.99,8291.0,1.5,False
+97713,Veronica Williams,HR,Consultant,2017-03-19,1,27,Male,PhD,42007.87,37384.55,2.7,True
+84422,James White,Finance,Manager,2016-12-05,7,40,Female,PhD,81035.27,9615.8,3.9,True
+65607,Steven Daugherty,HR,Consultant,2014-04-02,6,28,Other,PhD,40273.99,5534.29,4.7,True
+63962,Ashley Singh,Engineering,Sales Executive,2020-06-08,8,39,Female,Master's,92907.45,6469.98,3.3,False
+92168,Andrea Mitchell,Sales,Analyst,2017-11-12,2,24,Male,Master's,71933.92,43885.08,3.4,True
+30355,Yvette Gardner,Marketing,Analyst,2015-05-17,13,51,Male,Master's,92038.87,28083.44,3.4,True
+26191,Michael Huerta,HR,Sales Executive,2014-12-12,6,25,Other,PhD,144207.71,32997.36,3.3,True
+10337,Robert Hernandez,Marketing,Analyst,2021-06-26,4,55,Other,Master's,134495.27,44232.75,2.6,False
+63546,Laura Wallace,HR,Consultant,2022-09-27,12,53,Female,Master's,126885.88,32669.94,1.5,False
+43380,Shaun Wong,Sales,Manager,2016-01-26,11,50,Female,Bachelor's,93749.69,37228.5,1.1,True
+88195,Aaron Davis,Marketing,Manager,2013-09-30,5,58,Male,PhD,100659.85,16553.71,1.0,False
+99782,Robert Simmons,Finance,Engineer,2018-11-12,10,48,Other,Master's,138690.07,40746.02,1.1,False
+33105,Kevin Wise,Sales,Manager,2011-06-20,1,40,Female,PhD,136211.55,26696.09,2.6,False
+99395,Michelle Rodriguez,Engineering,Analyst,2015-03-23,13,28,Male,Bachelor's,45120.26,45884.25,1.2,True
+79249,Amanda Wright,Finance,Consultant,2021-08-21,6,32,Male,Bachelor's,107491.17,6049.65,4.0,True
+32812,Julie Flynn,Engineering,Engineer,2017-03-28,3,27,Female,Master's,72564.37,17274.33,2.2,True
+22189,Carol Melton,Finance,Analyst,2022-05-19,9,55,Female,Bachelor's,55343.13,45263.2,4.6,True
+55618,Jessica Perry,Sales,Engineer,2016-11-20,1,36,Male,PhD,95910.82,48121.95,3.0,True
+83131,Judy Hunter,HR,Manager,2012-09-11,11,56,Other,Bachelor's,86647.75,47349.94,1.0,False
+20790,Richard Mason,Sales,Analyst,2015-02-12,12,51,Other,Master's,89924.17,31153.16,2.5,True
+60502,Samantha Wright,Marketing,Engineer,2014-12-06,12,47,Other,Bachelor's,61675.84,17109.22,1.8,True
+91583,Jennifer Lucas,Engineering,Sales Executive,2011-10-25,14,55,Female,Bachelor's,41353.08,13005.57,2.9,True
+78945,Robert Ramirez,HR,Consultant,2015-04-15,8,56,Male,Bachelor's,121634.08,9405.97,4.7,False
+67074,Holly Webb,Engineering,Engineer,2018-03-22,10,47,Male,Master's,44074.17,48250.33,2.2,False
+92708,Madeline Cooper,Engineering,Engineer,2021-11-25,10,29,Other,Bachelor's,60613.38,13379.26,2.8,False
+36572,James Hernandez,Engineering,Manager,2016-01-20,11,43,Female,PhD,61244.43,12195.35,3.9,False
+16850,Mrs. Beth Harris,Sales,Consultant,2017-02-10,9,32,Male,Master's,59591.7,8984.3,4.0,False
+45634,Michelle Coleman,Engineering,Consultant,2013-10-14,6,28,Female,PhD,80180.09,26773.12,4.1,False
+24480,James Johnson,Engineering,Consultant,2019-05-28,5,49,Male,Bachelor's,121273.88,12897.65,3.1,False
+60366,Pamela Hall,HR,Engineer,2019-05-18,1,46,Female,Master's,63497.97,5167.29,1.6,False
+89771,Dana Hall,HR,Sales Executive,2022-05-17,10,24,Other,Master's,75297.17,33743.78,3.3,True
+30833,Glen Carter,HR,Engineer,2014-09-18,2,47,Male,Master's,42178.28,13299.3,3.7,False
+34492,Dominique Wheeler,Marketing,Engineer,2010-01-06,8,50,Other,PhD,102140.64,12738.12,2.4,False
+37854,Robert Coleman,Marketing,Sales Executive,2018-10-01,3,42,Other,Master's,138446.13,18377.69,1.9,True
+18736,Joseph Fuentes,HR,Manager,2019-03-02,13,55,Other,PhD,66661.0,40179.01,1.0,True
+44788,Penny Graham,Marketing,Manager,2022-04-19,9,43,Female,Bachelor's,108288.63,37969.97,2.9,False
+85034,Douglas Green,Engineering,Manager,2014-12-11,1,41,Other,Master's,50001.57,10862.65,3.9,False
+16324,Wendy Smith,Marketing,Manager,2021-11-25,11,38,Female,Bachelor's,135878.72,49670.96,1.1,True
+28451,Robert Rice,Engineering,Sales Executive,2016-12-11,6,54,Female,Bachelor's,104897.95,49949.19,3.7,True
+49255,Donna Holden,HR,Manager,2017-12-18,12,55,Female,Bachelor's,76107.31,42219.03,3.2,True
+89398,Angel Novak,Engineering,Analyst,2010-09-13,8,43,Male,Bachelor's,128081.57,32456.58,2.5,True
+12752,Leah Cain,Finance,Sales Executive,2013-12-23,3,22,Other,PhD,82959.42,17102.34,4.4,False
+14963,James Page,Finance,Analyst,2022-05-10,5,29,Female,Master's,137522.83,28427.37,1.9,False
+69253,Warren Mitchell,Engineering,Consultant,2012-08-04,14,54,Male,PhD,128687.95,24553.39,1.2,False
+92167,Ashley Patterson,Engineering,Sales Executive,2016-04-03,3,23,Male,Master's,97648.24,18818.99,1.1,False
+91851,Roger Clark,Finance,Engineer,2018-05-21,4,54,Female,Bachelor's,147493.33,17896.85,2.2,False
+81815,Haley Hansen,Marketing,Consultant,2012-06-03,13,41,Male,Master's,82668.69,48126.27,3.8,True
+20572,Courtney Jones,Sales,Manager,2011-12-21,11,42,Male,PhD,45328.52,5079.46,1.4,False
+42059,Dr. Darrell Kelly,Engineering,Sales Executive,2014-12-21,1,27,Female,Master's,141790.15,6318.21,4.0,True
+49789,Carrie White,Engineering,Manager,2013-02-04,1,23,Female,Bachelor's,54956.23,35403.47,4.0,False
+69859,Mitchell Marshall,Sales,Analyst,2011-07-30,6,55,Male,PhD,114904.94,28359.22,2.3,True
+24913,Dana Hinton,Finance,Engineer,2014-05-08,12,41,Male,PhD,97149.83,21967.68,3.9,False
+33276,James Li,Sales,Engineer,2013-08-20,13,53,Other,PhD,82605.8,33398.67,4.0,True
+31596,Ronald Barnes,Marketing,Consultant,2010-04-16,10,38,Other,PhD,134735.12,32313.43,3.7,False
+87777,Gabriel Farrell,Sales,Sales Executive,2021-04-24,13,58,Male,Master's,116398.79,25110.43,3.1,True
+10065,Valerie Campbell,Marketing,Engineer,2018-03-07,4,37,Other,PhD,95708.37,16301.09,4.0,True
+41789,Ann Miller,Marketing,Manager,2011-12-19,6,27,Female,Master's,144017.69,38718.5,1.7,True
+96016,Tonya Mcdaniel,Engineering,Consultant,2020-08-24,12,45,Male,Master's,95859.46,6422.73,4.1,False
+75814,Amy Lee,Marketing,Engineer,2010-09-25,5,50,Other,PhD,122182.66,24375.64,1.9,False
+85666,Gail Roberson,Engineering,Consultant,2022-01-05,5,55,Male,Bachelor's,72839.8,18724.45,3.1,False
+14424,Albert Richardson,Finance,Sales Executive,2013-04-23,13,33,Other,Master's,136850.82,40289.16,4.4,False
+63739,Sherry Flores,HR,Engineer,2012-12-14,1,30,Male,Bachelor's,102423.28,22369.0,4.5,False
+51003,Mr. James Barker,HR,Analyst,2012-10-25,7,28,Male,PhD,133518.8,24278.74,3.3,False
+72114,Rebecca Arroyo,Engineering,Sales Executive,2010-03-06,9,30,Other,Bachelor's,123380.12,15014.3,2.4,True
+67340,Peggy Alexander,Finance,Analyst,2017-08-06,1,26,Male,PhD,59187.16,31596.85,3.7,False
+63089,Claire Martin,Sales,Manager,2014-08-13,13,35,Male,PhD,71495.69,41766.97,2.2,True
+51541,Kristen Novak,Marketing,Manager,2017-10-25,9,54,Male,Bachelor's,111484.0,8640.99,4.9,True
+71786,Donald Diaz,Engineering,Engineer,2016-12-27,5,29,Other,Bachelor's,71857.9,23001.07,1.3,False
+62397,Elizabeth Horne,Sales,Analyst,2013-01-14,3,50,Female,Bachelor's,58720.83,28995.34,2.0,False
+53561,John James,Finance,Consultant,2020-08-22,11,35,Other,Bachelor's,139396.52,25416.26,2.8,True
+71054,Holly Delgado,Sales,Consultant,2013-11-05,11,32,Male,PhD,88666.26,7239.03,1.5,False
+25166,Jorge Clark,Sales,Manager,2019-03-05,13,53,Other,Master's,142892.82,27759.14,4.9,True
+81819,Jonathan Jackson,Sales,Sales Executive,2011-09-29,1,25,Other,Master's,48536.67,34989.46,4.9,False
+12036,Brandon Baker,Finance,Analyst,2021-01-22,12,45,Male,Master's,87872.68,7515.72,4.7,False
+70457,Joseph Colon,Marketing,Sales Executive,2021-04-17,8,50,Male,Master's,129091.31,41719.58,1.2,False
+18195,Mr. Christopher Peterson PhD,Marketing,Manager,2012-12-07,3,51,Male,Bachelor's,116903.77,32597.18,1.9,False
+64985,Bethany Mcdowell,Engineering,Analyst,2021-10-04,12,55,Other,Master's,100522.61,25897.91,4.2,False
+17930,Jeffrey Harris,Marketing,Sales Executive,2018-01-06,2,30,Female,PhD,108836.99,48926.59,1.7,True
+62332,David Hill,Marketing,Sales Executive,2012-03-17,13,51,Female,Bachelor's,55259.99,21989.74,4.0,False
+17135,Mikayla Morris,Marketing,Consultant,2016-09-25,7,31,Male,PhD,84865.12,48476.62,3.5,False
+53521,Tracy Gomez,Sales,Analyst,2016-02-20,11,53,Other,PhD,48536.66,27740.2,4.4,True
+77641,Jason Fernandez,HR,Analyst,2018-09-20,8,38,Other,PhD,93721.85,23587.68,3.5,True
+37408,James Hayes,Sales,Manager,2018-03-01,14,31,Female,Bachelor's,49426.87,8601.7,2.0,True
+67038,Kevin Ward,Marketing,Consultant,2017-05-08,3,33,Female,PhD,102417.78,32410.93,2.9,False
+34553,Kelli Fields,Engineering,Consultant,2011-07-12,11,24,Other,PhD,112900.74,48492.07,1.3,False
+61470,Laura Hahn,Marketing,Manager,2010-03-31,11,46,Other,Master's,96439.67,41521.92,1.1,False
+18262,Daniel Frye,Engineering,Engineer,2015-09-07,5,46,Other,Bachelor's,136530.1,14670.81,1.2,False
+14858,Chad French,HR,Consultant,2011-06-08,5,54,Female,PhD,65954.49,9781.97,3.1,False
+79931,Julia Hill,HR,Analyst,2016-11-15,1,44,Female,Master's,112447.4,37007.09,3.1,True
+54030,Dawn Mason,Marketing,Consultant,2022-05-29,12,53,Female,Bachelor's,52593.85,46653.03,2.8,True
+12105,Kenneth Lee,Finance,Sales Executive,2016-06-30,13,36,Other,PhD,135005.58,23090.15,1.9,True
+33436,Melissa Carroll,Marketing,Engineer,2010-03-21,1,50,Male,Master's,101138.11,21253.8,1.0,False
+90571,Lori Howell,Engineering,Engineer,2013-07-22,9,38,Female,Master's,120933.12,48123.01,4.5,False
+22658,Kevin Davis,Sales,Manager,2013-12-02,1,42,Female,PhD,40421.22,12689.6,1.4,True
+34649,Anthony Kline,Engineering,Sales Executive,2011-05-09,8,41,Other,PhD,134370.04,25243.87,3.7,True
+30923,Zoe Wall,HR,Sales Executive,2011-11-21,5,24,Male,PhD,96984.14,21558.64,4.2,False
+87469,Patricia Graham,Engineering,Analyst,2014-02-16,9,47,Other,Master's,114155.28,28712.38,4.5,False
+50639,Helen Pierce,Sales,Engineer,2013-03-05,5,40,Female,Bachelor's,87323.65,35532.3,4.7,True
+95287,Kara Silva,Marketing,Analyst,2013-01-06,10,25,Other,PhD,111984.67,5145.7,3.5,False
+53140,Eugene Gonzalez,Engineering,Engineer,2011-03-03,9,56,Female,Bachelor's,124933.5,13426.43,2.8,False
+15484,David Hale,Sales,Sales Executive,2018-11-24,3,31,Other,Bachelor's,145459.92,18913.27,2.8,True
+22990,Michael Olsen,Engineering,Sales Executive,2013-05-09,9,36,Female,PhD,99871.72,29548.81,1.3,True
+37971,Michael Zhang,Engineering,Sales Executive,2011-05-07,8,52,Other,Bachelor's,132577.68,20800.75,4.2,True
+23494,Ana Copeland,HR,Engineer,2016-05-18,7,59,Other,Master's,93443.5,49753.32,4.5,False
+56207,Christopher Brown,Finance,Analyst,2017-03-01,6,41,Female,Bachelor's,94694.78,48686.62,2.5,True
+79387,Virginia Salazar,Marketing,Engineer,2019-06-28,7,54,Male,Bachelor's,82095.93,16184.13,1.3,False
+60381,Raymond Thomas,Sales,Analyst,2020-06-01,7,48,Male,PhD,100806.01,40551.45,2.8,False
+22421,Jacob Anthony,Sales,Manager,2011-02-21,10,24,Male,Master's,125400.19,16816.23,4.7,True
+47430,Kimberly Lloyd,Sales,Engineer,2016-05-07,3,34,Male,Bachelor's,139456.29,17625.69,2.8,True
+92171,Heather Hall,HR,Consultant,2022-05-01,10,45,Other,PhD,120075.26,31168.62,3.3,True
+87081,Justin Henderson,Sales,Sales Executive,2012-08-25,11,38,Other,Master's,139070.13,30562.54,1.8,False
+36681,Rachel Kane,Marketing,Engineer,2017-03-31,1,51,Male,Bachelor's,95353.53,38389.12,1.0,False
+57099,Kevin Richardson,Engineering,Sales Executive,2017-04-14,8,54,Male,Bachelor's,61881.45,19430.26,3.3,True
+79386,Darrell Moore,HR,Analyst,2016-06-22,13,46,Other,Master's,117743.09,45117.14,1.7,True
+54600,Brandon Mccarthy,Engineering,Analyst,2019-04-18,7,51,Female,Bachelor's,108835.05,39439.47,1.5,True
+73306,John Smith,HR,Manager,2011-12-29,2,36,Female,Bachelor's,63261.47,45300.47,3.8,True
+71986,Mark Griffith,Engineering,Engineer,2020-02-20,9,34,Male,Master's,122233.12,9751.69,5.0,False
+39169,Megan Stanley,Sales,Manager,2011-10-31,3,26,Other,Master's,60813.53,10729.43,4.3,False
+58058,Amy Hoffman,Finance,Manager,2014-05-06,9,24,Other,Master's,77972.15,42150.48,2.0,True
+74588,Daniel Lopez,Marketing,Manager,2015-09-14,12,45,Female,Master's,100555.3,33852.88,5.0,False
+75554,Dakota Johnson,Sales,Manager,2014-03-25,3,39,Male,Bachelor's,113434.12,17271.09,2.6,True
+43724,Amanda Williams,HR,Manager,2022-08-28,8,36,Male,PhD,96981.46,21833.97,3.3,False
+74753,Melissa White,Finance,Engineer,2013-11-02,2,40,Other,Bachelor's,42637.92,46059.18,1.9,False
+16335,Jeff Adams,HR,Analyst,2012-01-29,2,46,Female,Master's,119982.07,41375.37,1.3,False
+84125,Paul Becker,Engineering,Sales Executive,2016-11-16,3,44,Other,PhD,74114.0,33593.33,1.0,False
+69817,Joseph Williams,Engineering,Sales Executive,2014-01-20,9,49,Male,PhD,140967.13,18319.21,2.0,True
+15627,Anthony Jones,Marketing,Engineer,2011-03-20,4,44,Male,Bachelor's,109667.26,19801.54,1.4,True
+17596,David Meyer,Marketing,Engineer,2012-08-25,14,28,Female,Bachelor's,137657.76,7591.9,4.7,True
+95361,Melvin Noble,Sales,Engineer,2018-09-14,6,54,Other,Bachelor's,132907.87,15184.56,3.0,True
+33477,April Jimenez,HR,Engineer,2012-09-13,2,40,Female,Master's,66890.04,21808.65,4.4,False
+13907,Steven Rodriguez,Marketing,Manager,2010-07-17,2,55,Male,PhD,123428.06,7653.06,1.7,True
+97781,Laura Dodson,Sales,Manager,2022-08-26,4,37,Other,Master's,53189.66,14893.15,3.1,False
+11732,John Jenkins,Sales,Sales Executive,2011-05-07,7,46,Female,Master's,134276.18,6606.61,1.4,True
+54193,Debra Goodwin,Marketing,Engineer,2021-03-05,13,34,Male,PhD,113052.03,38180.41,3.2,False
+66697,Brittany Dunn PhD,Engineering,Sales Executive,2014-11-30,14,37,Female,Bachelor's,90701.6,28069.17,4.8,False
+85608,Brittany Coleman,Engineering,Manager,2013-04-30,2,38,Female,Bachelor's,88766.08,17280.54,3.2,True
+29569,Sonya Price,Finance,Analyst,2011-05-20,1,53,Other,Master's,73121.93,23964.24,3.9,False
+20363,Robert Jones,Engineering,Sales Executive,2022-06-19,9,51,Male,Master's,50725.68,44866.51,3.7,True
+71859,Andrea Smith,Sales,Analyst,2012-01-28,5,53,Other,PhD,128440.53,31791.62,1.3,True
+99294,Steven Smith,Sales,Engineer,2013-05-16,5,55,Male,Bachelor's,134128.56,13772.15,1.4,False
+79135,Bryan Perry,Engineering,Consultant,2015-05-07,2,50,Male,Bachelor's,86037.35,46731.15,1.4,True
+43983,Luke Barnett,Engineering,Analyst,2012-05-27,11,42,Female,PhD,148244.45,9469.58,4.3,False
+66723,Abigail Pearson,Finance,Sales Executive,2015-11-03,4,39,Male,Bachelor's,141424.41,42111.6,3.3,True
+96452,Robert Garza,Finance,Manager,2017-01-29,13,53,Other,Master's,58735.26,45390.9,2.6,False
+78306,Charles Cooper,Engineering,Engineer,2014-08-27,8,52,Other,Master's,55887.66,30419.92,4.0,False
+40211,Amy Thomas,Finance,Sales Executive,2019-06-27,9,45,Male,Bachelor's,72355.75,46330.51,1.9,False
+23262,Peter Romero,Marketing,Consultant,2015-08-19,3,59,Other,Master's,111213.13,28028.39,2.6,True
+13918,Tammy Freeman MD,Marketing,Consultant,2023-01-01,13,32,Male,Master's,64179.06,19335.09,2.7,True
+87734,Rebecca Riddle,Sales,Analyst,2010-06-28,3,26,Female,Bachelor's,101482.77,29802.42,4.8,False
+44318,John Baxter,Sales,Engineer,2020-08-22,6,34,Male,Bachelor's,149845.94,23330.99,2.8,True
+90437,Kristen Cox,HR,Sales Executive,2015-03-15,8,40,Female,Master's,135654.37,11028.51,4.8,False
+86690,Richard Jones,Sales,Consultant,2016-03-11,2,29,Female,Bachelor's,60095.7,31104.26,2.7,False
+11076,Melissa Butler,Marketing,Sales Executive,2016-02-09,14,38,Female,Master's,149883.91,19678.4,4.7,True
+66246,Kenneth Flowers,HR,Manager,2021-04-22,6,34,Male,Master's,121670.02,6502.47,2.1,True
+15530,Gary Williams,Engineering,Engineer,2019-12-28,13,55,Other,Bachelor's,99150.38,12948.13,3.4,True
+76754,Danielle Williams,Finance,Consultant,2013-02-03,8,41,Male,Master's,96115.2,14036.77,1.6,False
+39616,Megan Santos,Marketing,Manager,2010-07-15,6,57,Female,Bachelor's,41126.47,21157.2,2.7,True
+34136,Nicole Berger,Finance,Consultant,2020-09-13,7,35,Female,Bachelor's,65928.49,43705.13,3.8,False
+56972,Julia Jensen,Engineering,Engineer,2019-03-03,13,22,Other,PhD,58533.85,35698.54,4.8,True
+24854,James Moss,Finance,Engineer,2017-09-09,1,39,Other,Bachelor's,58850.34,42881.38,4.6,False
+97419,Nicholas Williams,Marketing,Consultant,2011-06-30,9,34,Other,Bachelor's,110587.85,5400.97,1.1,False
+33908,Hannah Schroeder,HR,Analyst,2021-02-08,13,30,Other,Master's,95666.63,7567.94,2.4,False
+13360,Laura Walker,Sales,Consultant,2011-04-24,9,48,Female,Master's,66182.9,20473.56,4.0,True
+88205,David Chen,Finance,Analyst,2011-11-03,6,27,Female,Master's,71496.97,18609.48,2.3,True
+21602,Cynthia Wilson,Finance,Manager,2013-12-27,11,31,Male,PhD,65549.72,19818.52,3.2,False
+89089,Ashley Terry,Engineering,Consultant,2014-04-26,14,47,Male,PhD,92042.11,22452.18,4.1,False
+98716,Dana Foster,HR,Consultant,2019-01-31,9,36,Female,Bachelor's,78196.57,29693.56,2.8,False
+63760,Tara Kane,Engineering,Consultant,2016-05-14,3,51,Other,PhD,78470.33,42507.43,4.2,True
+77628,Brian Walters,Sales,Engineer,2015-08-18,10,36,Other,Bachelor's,69990.43,8179.86,1.4,True
+43555,Stephanie Rivera DDS,Engineering,Engineer,2021-04-10,10,50,Other,Master's,59564.83,23309.62,1.0,False
+95776,Shawn Pearson,Marketing,Analyst,2017-11-29,14,45,Male,PhD,133093.38,10019.53,2.7,False
+55775,Robert Schmidt,Finance,Manager,2010-01-10,14,23,Other,Master's,67432.62,14730.93,2.6,True
+92693,Zachary Jones,Engineering,Sales Executive,2015-02-24,8,33,Male,Bachelor's,49627.89,7006.83,2.9,False
+86748,Alexandria Fletcher,Marketing,Consultant,2022-04-06,6,43,Other,PhD,120311.29,29585.62,2.1,True
+33411,Jeanette Norris,Finance,Manager,2017-09-04,4,53,Male,PhD,45888.17,10807.86,4.8,False
+26830,Brandon Houston,Marketing,Consultant,2018-06-28,12,23,Female,Bachelor's,49264.03,49158.47,1.6,False
+49985,Dawn Glover,Marketing,Sales Executive,2021-07-02,8,24,Other,Master's,115428.51,35515.5,1.1,True
+78120,Raymond Ramirez,Marketing,Engineer,2020-10-18,7,50,Female,PhD,137925.72,25899.1,2.8,True
+33443,Jerry Owens,Marketing,Engineer,2017-03-10,8,48,Other,PhD,117207.03,41823.21,3.4,True
+42248,Sandra Martinez,HR,Sales Executive,2019-06-04,11,54,Female,Master's,118719.83,45045.46,4.7,True
+73802,Robert Jensen,Sales,Consultant,2010-02-26,10,25,Female,PhD,117184.58,8045.78,1.1,True
+39372,Kelsey Brown,Sales,Engineer,2010-04-30,7,48,Other,Bachelor's,43118.59,45720.02,4.5,False
+43121,Kara Powell,Engineering,Sales Executive,2021-05-30,13,44,Other,PhD,104937.68,37431.09,3.2,True
+48569,Terrence Thomas,Engineering,Sales Executive,2010-05-06,9,46,Other,PhD,132966.9,39616.11,3.3,False
+35770,Tammie Weaver,HR,Analyst,2014-05-08,10,45,Male,Master's,46204.59,46653.78,2.6,False
+25702,Jackie Eaton,Finance,Consultant,2015-12-19,4,55,Other,Master's,118317.53,17294.89,2.6,False
+23799,Kimberly Williams,Engineering,Analyst,2018-01-14,2,24,Male,Master's,117437.84,32531.27,2.4,False
+12496,Troy Nguyen,Engineering,Engineer,2011-10-12,1,22,Other,PhD,64787.92,14962.54,2.0,True
+50632,David Webster,Engineering,Consultant,2018-03-30,8,58,Female,Bachelor's,128234.88,16566.03,4.2,False
+51010,William Cuevas,Sales,Consultant,2019-08-02,2,57,Other,PhD,43021.57,39611.33,1.1,False
+23217,Jennifer Jackson,Marketing,Engineer,2016-10-06,8,50,Male,PhD,115471.3,20592.48,1.4,False
+44276,Jose Evans,Engineering,Engineer,2014-10-30,7,23,Female,Master's,46911.04,34218.25,3.6,True
+37192,Robin Wood,Marketing,Analyst,2015-11-11,11,30,Other,PhD,74613.44,25648.26,1.6,True
+78706,Paula Williams,Sales,Engineer,2022-03-12,1,22,Other,Bachelor's,95987.19,21456.24,3.8,True
+82500,Howard Hart,Marketing,Sales Executive,2012-11-05,3,27,Other,Master's,124708.47,27384.14,3.3,False
+91214,Beth White,HR,Manager,2012-02-23,5,34,Other,Master's,146312.86,16351.82,2.2,False
+22232,Dr. Michael Santiago,Engineering,Consultant,2017-08-15,13,24,Other,Bachelor's,140987.07,6538.92,4.2,True
+26456,Meghan Sullivan,Engineering,Sales Executive,2010-09-26,6,28,Other,PhD,54256.52,43973.94,1.4,True
+14468,Yvette Anderson,Sales,Sales Executive,2011-01-27,7,44,Female,Master's,104726.46,36844.31,1.6,False
+66371,Joseph Meyer,Marketing,Sales Executive,2014-02-28,9,59,Male,PhD,88431.38,10030.3,1.8,False
+48903,Alicia Davis,HR,Engineer,2019-04-21,4,58,Other,Master's,146353.02,11625.97,3.1,True
+13078,Jennifer Frazier,Marketing,Manager,2022-07-22,10,28,Male,Master's,82208.72,10098.96,4.1,True
+66466,Steven Hall,Engineering,Analyst,2022-04-07,13,41,Male,Master's,119596.82,22822.55,4.9,False
+37216,Barbara Nolan,Sales,Sales Executive,2018-10-10,9,59,Male,Bachelor's,51669.72,20091.49,2.6,True
+78646,Penny Williams,Finance,Analyst,2010-08-21,8,33,Female,Bachelor's,93937.51,14020.96,4.1,False
+11043,Brandon Hunt,Engineering,Analyst,2016-08-22,6,54,Other,Master's,87185.64,43003.9,4.3,False
+43191,Ashley Thompson,Engineering,Engineer,2022-08-27,1,56,Male,Bachelor's,75551.63,12373.7,3.4,False
+98309,Donald Lee MD,Engineering,Consultant,2014-11-01,13,42,Other,Master's,103447.9,29577.62,1.1,True
+11478,James Ellison,Finance,Sales Executive,2021-10-29,2,39,Female,PhD,123286.93,23232.56,4.2,True
+53977,Matthew Patrick,Engineering,Sales Executive,2012-08-30,14,59,Other,Master's,73147.38,21075.99,2.0,True
+28023,Cory Gill,Marketing,Manager,2013-12-17,10,52,Male,Master's,123934.63,6601.71,2.0,True
+92495,Maria Hernandez,Engineering,Sales Executive,2010-02-20,8,34,Other,PhD,97356.17,19601.69,1.5,False
+78682,Jonathan Murphy,Sales,Engineer,2015-04-07,1,47,Male,Bachelor's,71313.44,26508.59,4.0,True
+91234,Adam Hardin,Sales,Sales Executive,2017-01-29,5,59,Female,Master's,118485.01,35240.05,2.6,False
+71315,Anthony Fowler,HR,Consultant,2012-03-11,7,40,Male,Master's,56612.49,20737.36,4.2,False
+23608,Samuel Young,Marketing,Manager,2020-04-05,8,56,Female,PhD,56346.45,5431.05,1.9,True
+48418,Jill Ryan,Sales,Consultant,2013-06-03,1,39,Male,Master's,116899.46,27461.1,4.1,True
+26762,Christine Aguirre,Sales,Consultant,2012-09-29,9,29,Other,Bachelor's,144865.55,30252.15,1.2,True
+53265,Michael Brown,Engineering,Analyst,2018-09-18,4,56,Other,Master's,113127.33,38066.61,3.0,False
+88385,Matthew Townsend,Sales,Sales Executive,2018-09-14,2,33,Male,Master's,125087.9,38926.38,1.5,True
+68769,Cynthia Ramirez,Finance,Sales Executive,2020-12-29,10,58,Other,Bachelor's,106148.83,5467.15,1.9,True
+83117,Jill Burns,Sales,Analyst,2015-02-26,3,31,Female,Master's,122776.89,9374.65,2.1,False
+84078,John Walker,Marketing,Consultant,2021-08-28,4,30,Male,PhD,78919.02,26450.74,4.7,False
+14772,Linda Murphy,Engineering,Sales Executive,2017-06-26,11,49,Female,PhD,111418.12,40118.69,4.5,True
+57455,Shaun Carroll,Sales,Analyst,2016-09-15,13,52,Male,Bachelor's,89999.24,22909.25,4.6,True
+29416,Benjamin Lopez,Marketing,Consultant,2022-01-31,6,50,Male,Master's,56032.92,41919.54,1.2,False
+65308,Thomas Snyder,Marketing,Analyst,2019-04-13,13,42,Other,Bachelor's,56837.32,46957.56,2.0,True
+99926,Rachel Mccoy,Marketing,Manager,2015-01-06,9,44,Female,Master's,120891.06,33264.54,1.5,True
+62967,Pamela Faulkner,Finance,Sales Executive,2011-05-18,14,50,Female,Master's,119490.35,47157.61,2.9,True
+43765,Sarah Greer,Marketing,Engineer,2012-07-25,1,58,Male,Bachelor's,40107.55,6812.73,2.0,True
+65788,Diane Nelson,Finance,Consultant,2012-11-27,6,24,Male,Bachelor's,147714.74,9325.05,2.9,False
+35354,Jeffrey Flores,HR,Manager,2013-11-25,3,22,Other,Master's,74519.97,43362.91,3.8,False
+24486,Susan Elliott,Finance,Manager,2016-06-18,3,34,Other,Bachelor's,67506.21,29480.39,3.4,False
+43873,Jessica Moss,Finance,Sales Executive,2010-07-21,6,24,Male,Bachelor's,145478.77,25512.45,2.9,False
+42336,Mr. Aaron Miles,Sales,Sales Executive,2021-12-13,4,41,Male,Master's,88485.13,32699.66,1.3,True
+95797,Scott Berry,Sales,Engineer,2018-09-10,7,36,Other,Master's,48401.09,15413.67,1.8,True
+13388,Kristi Douglas,Finance,Consultant,2016-09-06,3,26,Male,Bachelor's,51821.93,25769.17,4.5,False
+85182,Patricia Martin,Finance,Consultant,2018-01-13,14,50,Other,Bachelor's,52418.99,43539.23,1.0,True
+10385,Kendra Lane,Sales,Sales Executive,2022-11-18,1,47,Male,Master's,118775.02,32760.66,2.1,True
+30411,Kristin Olson,HR,Manager,2014-12-10,8,58,Male,Master's,60320.12,17166.68,2.7,True
+69314,Casey Bowen,Engineering,Engineer,2014-05-01,11,55,Female,PhD,110143.19,19013.97,4.6,False
+79472,Joanna Lee,Sales,Consultant,2021-06-09,4,47,Other,Bachelor's,80928.1,10722.97,3.4,True
+21464,Rhonda White,HR,Engineer,2018-03-02,12,59,Other,Master's,108870.46,7292.51,1.2,False
+91322,Donald Miller,Sales,Consultant,2010-01-06,1,56,Other,PhD,141680.79,27825.93,3.8,True
+47194,Laura Wallace,Marketing,Manager,2019-07-31,4,50,Male,Bachelor's,87934.38,42634.3,1.4,False
+97864,Justin Coleman,Engineering,Manager,2020-03-16,1,47,Male,PhD,149106.71,47788.66,2.4,True
+89574,Mr. Johnathan Hall,Finance,Analyst,2018-05-13,11,25,Female,Bachelor's,146539.19,33634.99,1.4,True
+52048,Darryl Gonzalez,HR,Manager,2015-10-20,9,46,Other,Bachelor's,71314.61,14317.88,2.6,True
+50133,Christopher Friedman,Marketing,Engineer,2020-07-14,11,22,Other,Bachelor's,49092.48,6253.83,1.7,False
+10022,Cynthia Allen,Sales,Manager,2016-05-27,11,32,Female,Master's,45258.0,39261.23,3.2,False
+55818,Randy Brown,Sales,Manager,2022-12-18,11,35,Female,PhD,85132.12,23957.0,2.0,True
+16971,Nicole Mitchell,Marketing,Sales Executive,2011-12-06,11,55,Other,PhD,130250.34,16270.97,4.5,True
+98062,Richard Clark,Finance,Consultant,2014-11-07,11,38,Other,Bachelor's,121072.06,43862.84,1.2,True
+23942,Mark Johnson,Engineering,Engineer,2012-02-06,6,47,Female,Bachelor's,85339.51,32728.92,2.1,True
+45819,Erica Johnson,Sales,Consultant,2010-01-21,5,56,Male,Bachelor's,69973.17,5548.97,1.0,False
+53931,Victoria Davidson,Marketing,Consultant,2019-09-17,8,43,Male,Bachelor's,104358.41,46628.2,4.2,True
+64131,Dustin Randall,Sales,Sales Executive,2022-09-29,2,24,Male,PhD,87980.88,39818.1,1.5,False
+60372,Cory Martin,Marketing,Analyst,2018-02-27,5,52,Female,PhD,146205.07,9921.73,2.1,False
+75543,Priscilla Navarro,Finance,Consultant,2021-09-20,11,35,Other,Master's,62137.88,49982.92,4.8,False
+52757,Walter Price,Sales,Consultant,2018-04-03,8,59,Female,Master's,92756.91,12708.23,4.6,False
+95630,Amanda Ferguson,Sales,Sales Executive,2016-03-18,13,32,Female,PhD,50831.75,15699.16,1.4,True
+93059,Monica Cuevas,HR,Consultant,2018-07-31,9,45,Male,Master's,128202.27,39005.54,1.8,False
+43327,Anna Stephenson,Finance,Sales Executive,2018-08-01,14,27,Male,Master's,119555.39,35316.91,4.7,True
+61777,Angela Montgomery,HR,Consultant,2021-05-21,9,57,Male,Bachelor's,143095.38,6101.59,3.1,True
+45564,David Williams,Sales,Manager,2019-02-10,14,41,Male,Master's,77779.46,16538.84,3.6,True
+77291,Michael Williams,HR,Analyst,2014-03-25,11,33,Other,Master's,60523.38,21093.17,2.3,True
+57685,Samantha French,HR,Engineer,2011-02-16,6,50,Male,Master's,74562.74,48733.7,4.9,False
+40636,Rita Daniels,Engineering,Sales Executive,2020-05-23,7,54,Male,PhD,132090.25,46299.07,1.6,False
+55620,Terri Sims,HR,Consultant,2018-11-03,2,54,Female,Master's,127580.26,38829.6,4.5,False
+24921,Kayla Schmidt,Finance,Manager,2022-08-11,14,23,Male,PhD,82101.57,12553.49,3.4,False
+54400,Philip Garrett,Engineering,Consultant,2021-10-28,7,56,Male,Bachelor's,100970.2,21342.66,2.6,True
+67345,Amber Mendoza,Sales,Sales Executive,2021-09-08,14,44,Other,Master's,129705.52,33612.24,4.8,False
+56954,Dana Donovan,Engineering,Engineer,2016-07-04,4,48,Female,Master's,91754.91,15915.22,3.3,False
+57300,Matthew Thomas,Engineering,Consultant,2021-07-20,6,49,Male,Master's,113630.03,11072.79,3.1,False
+39028,Kyle Stanley,Finance,Sales Executive,2013-04-21,6,31,Female,Master's,101365.98,15376.03,1.3,False
+10633,Stacey Lamb,Engineering,Sales Executive,2017-12-02,5,37,Other,Bachelor's,78334.76,6265.73,1.2,True
+55518,Michelle George,Sales,Sales Executive,2018-11-17,5,25,Other,PhD,104792.5,21676.6,3.3,True
+28574,Robert Johnson,HR,Consultant,2014-04-12,14,50,Male,Master's,54311.24,10632.25,1.9,False
+81063,Tina Esparza,Marketing,Manager,2016-02-10,14,54,Male,Bachelor's,51521.77,49167.86,3.0,False
+34454,Lindsey Houston,Engineering,Manager,2021-08-30,11,56,Other,Bachelor's,146135.61,14652.98,3.4,True
+93467,John Williams,Engineering,Sales Executive,2018-07-29,13,47,Female,PhD,129818.2,17079.63,3.2,False
+88964,Kathy Brown,Finance,Engineer,2020-06-09,11,38,Male,PhD,135456.99,19321.97,1.7,True
+67894,Susan Mcclain,HR,Sales Executive,2014-11-17,9,23,Other,Master's,132993.8,11960.7,2.3,False
+47617,Troy Phillips,Marketing,Analyst,2013-03-04,10,26,Other,Master's,80187.55,7842.39,4.5,False
+81052,Rebecca Bailey,Engineering,Engineer,2015-10-02,13,53,Male,Master's,93174.58,38775.62,1.9,True
+99519,Joe Burgess,Engineering,Consultant,2011-09-03,2,25,Other,Master's,108388.97,9822.67,4.8,False
+22954,Aaron Dickerson,Finance,Consultant,2020-05-27,7,27,Female,PhD,68048.74,15154.28,3.8,False
+93001,Lindsay Martinez,Finance,Sales Executive,2021-02-01,12,22,Other,PhD,59834.12,10163.56,3.5,False
+82363,Jesus Jones,Sales,Sales Executive,2019-06-08,4,48,Male,Master's,82801.31,7985.87,2.1,False
+18341,Victoria Lewis,HR,Sales Executive,2021-10-26,9,26,Female,Master's,62668.31,9149.09,2.6,True
+78424,Shannon Davis,Engineering,Engineer,2012-03-07,12,58,Other,PhD,120085.71,5450.15,3.2,False
+53824,Kimberly Sampson,Engineering,Sales Executive,2010-04-03,14,38,Female,Master's,84958.75,36098.59,1.3,True
+94855,Lauren Spencer,HR,Manager,2022-02-14,4,26,Female,PhD,120897.37,13910.96,3.7,True
+19740,Jessica Gibson,Marketing,Consultant,2022-04-14,5,54,Male,PhD,70714.96,32629.45,1.8,True
+70697,Jerry Goodwin,HR,Sales Executive,2015-11-19,5,54,Female,Master's,80036.23,15774.57,4.7,True
+94163,Russell Garcia,Sales,Analyst,2012-11-08,6,51,Male,Bachelor's,85902.55,31632.0,1.8,True
+87000,Roy Short,HR,Engineer,2019-05-19,5,42,Female,PhD,111513.44,40736.7,2.1,True
+82044,Candace Horn,HR,Analyst,2021-11-20,5,33,Male,Bachelor's,71859.9,25035.56,2.4,False
+23232,Diana Bell,Finance,Sales Executive,2022-06-01,9,56,Female,PhD,107810.5,8833.33,2.1,False
+93852,David Newman,Sales,Manager,2015-05-20,8,37,Female,PhD,126521.82,10418.73,1.3,False
+44093,Heather Coleman,HR,Manager,2017-07-06,9,40,Female,Master's,71342.71,27825.18,3.3,False
+43788,Christopher Branch,Engineering,Sales Executive,2019-02-12,3,40,Other,PhD,50178.76,37329.59,4.5,False
+35683,Amanda Arroyo,Finance,Sales Executive,2013-10-08,6,42,Female,Bachelor's,82606.2,48345.38,4.2,False
+35924,Jose Gallegos,Finance,Sales Executive,2019-10-05,10,58,Other,PhD,63445.77,16742.52,1.7,True
+15039,Brian King,Finance,Engineer,2019-05-08,11,41,Female,Bachelor's,101789.89,37978.52,1.6,True
+59513,Kevin Molina,Finance,Sales Executive,2011-09-10,6,30,Male,Master's,95400.13,22210.97,4.9,False
+42431,James Giles,HR,Sales Executive,2016-05-02,5,49,Other,Master's,123044.11,41724.66,1.4,True
+35044,Jessica Weaver,Finance,Sales Executive,2011-03-18,10,26,Female,Bachelor's,80529.16,40550.09,2.0,False
+67028,Lauren Gill,Sales,Consultant,2021-11-21,5,35,Other,PhD,125380.87,36129.83,1.4,True
+78827,Brandon Parker,Engineering,Sales Executive,2022-12-17,2,23,Male,Master's,70657.45,33107.32,2.9,False
+58158,Lauren Mccormick,Marketing,Engineer,2017-01-01,13,57,Male,Master's,119937.57,34468.33,2.4,False
+72381,Alyssa Gray,HR,Sales Executive,2016-06-21,2,54,Female,Bachelor's,44834.89,35056.94,3.5,True
+80051,James Fuentes,Sales,Manager,2019-05-04,14,51,Male,PhD,145617.02,25454.9,4.5,True
+44275,Michael Nichols,Finance,Manager,2020-05-26,13,35,Male,PhD,120741.41,7563.32,2.5,False
+29884,Mark Schmitt,HR,Manager,2016-01-01,12,38,Male,Bachelor's,79814.96,29112.6,4.4,False
+71480,Jennifer Mora,Finance,Manager,2012-03-21,2,35,Male,Bachelor's,132987.66,47101.75,1.4,False
+67780,Robert Cisneros,Finance,Manager,2016-07-28,2,41,Other,Bachelor's,62114.24,29849.32,2.8,False
+91831,Roger Holland,HR,Engineer,2019-08-04,1,30,Other,Bachelor's,104787.56,6115.57,1.8,True
+39831,Joseph Huff,Marketing,Analyst,2018-06-06,4,39,Other,Bachelor's,62893.34,31904.01,2.8,True
+57618,Rebecca Olson,Sales,Manager,2020-04-10,5,34,Other,Bachelor's,103805.17,24641.28,2.8,False
+61725,Timothy Murphy,HR,Consultant,2011-09-12,7,45,Other,Bachelor's,84651.6,41991.76,1.7,True
+71696,James Alvarez,Marketing,Consultant,2016-09-19,5,44,Male,PhD,89488.73,8356.32,2.4,False
+31309,Zachary Nichols,Engineering,Manager,2018-05-05,5,39,Other,PhD,133029.93,42557.11,3.5,True
+75147,Karen Hayes,Finance,Sales Executive,2022-08-06,6,57,Female,Bachelor's,124392.4,5653.18,3.7,False
+50366,Alan Nolan,Sales,Engineer,2013-03-28,1,42,Other,PhD,67171.9,28296.51,5.0,False
+72550,Maria Guzman,Sales,Engineer,2019-02-04,14,24,Male,PhD,136981.59,46672.95,3.6,True
+58544,Ashley Walker,Engineering,Analyst,2011-04-13,9,32,Male,Bachelor's,71568.23,41956.01,3.2,False
+67066,Jasmine Duke,HR,Manager,2016-08-01,10,42,Other,Bachelor's,141083.97,14223.16,1.5,True
+47872,Blake Schneider,HR,Sales Executive,2020-03-06,1,23,Male,PhD,147316.02,46089.7,2.2,True
+44605,Steven Diaz,HR,Consultant,2016-05-05,6,22,Male,Master's,143743.31,33907.9,2.2,False
+92651,Travis Parker,Finance,Manager,2018-11-29,9,51,Male,Master's,81011.46,34499.25,1.9,False
+29247,Eric Potter,Marketing,Analyst,2019-09-25,7,48,Other,Master's,43424.22,24803.52,2.0,True
+25223,Regina Hill,HR,Manager,2022-08-15,13,49,Other,PhD,109176.21,16830.32,4.3,False
+87596,Tracy Park MD,HR,Engineer,2020-07-11,5,52,Male,Bachelor's,99659.07,21863.7,2.7,False
+34279,Brandon Riley,HR,Engineer,2010-08-12,11,56,Other,PhD,96254.32,33744.23,1.9,False
+89568,Crystal Simmons,Sales,Manager,2016-08-26,6,50,Female,Bachelor's,119100.07,41785.98,4.8,True
+25214,Jacob Murphy,Sales,Consultant,2012-06-30,13,27,Female,Bachelor's,46879.28,21083.19,4.9,False
+28579,Robert Wright,Sales,Engineer,2011-09-18,13,45,Female,Bachelor's,56719.03,5868.14,3.3,False
+27218,Wyatt Collins,Finance,Sales Executive,2011-03-03,14,23,Female,PhD,50374.56,26687.48,3.2,True
+84572,Amy Riddle,Finance,Manager,2020-05-21,7,37,Female,Master's,102984.75,10452.23,3.2,False
+76018,Mr. Joseph Reese,Engineering,Manager,2012-03-19,4,23,Male,Master's,81674.8,6922.25,1.9,True
+35063,Nicole Barton,Engineering,Engineer,2015-11-09,2,24,Male,PhD,116221.19,44872.75,3.7,False
+87375,Alexander Martin,HR,Analyst,2016-03-16,10,45,Other,Bachelor's,84596.15,42289.63,2.7,False
+13039,Jamie Fuller,Marketing,Consultant,2017-05-02,2,55,Male,Bachelor's,124949.73,19864.41,2.2,True
+66243,Amy Miles,Marketing,Analyst,2013-01-03,4,57,Male,Bachelor's,67532.21,34070.56,2.0,False
+73273,Curtis Jacobson,Sales,Analyst,2017-05-30,7,26,Female,Master's,59546.01,5873.48,4.6,False
+47019,Linda Parks,Finance,Analyst,2017-11-18,11,52,Female,Bachelor's,147043.7,29786.51,1.5,False
+42112,Sarah Todd DDS,Marketing,Consultant,2017-05-11,9,49,Male,Bachelor's,102419.31,12117.06,2.0,True
+58938,Leslie Jones,Engineering,Manager,2022-03-25,7,46,Male,PhD,132309.52,41048.95,4.1,False
+65705,Katie Young,Sales,Analyst,2015-11-14,3,52,Male,Bachelor's,143420.6,36966.07,1.6,False
+68536,Samantha Tyler,Marketing,Sales Executive,2011-03-29,14,25,Female,PhD,113055.33,23313.63,2.0,False
+46934,Sarah Rivera,Marketing,Consultant,2016-03-06,7,38,Other,Bachelor's,131654.87,20556.66,1.4,False
+54330,Laura Miller,Marketing,Engineer,2013-01-05,7,57,Male,Master's,111653.94,30315.69,1.2,True
+98978,Melissa Davies,HR,Consultant,2014-05-13,13,40,Female,PhD,110162.41,34786.23,4.8,True
+22572,Victor Cole,Marketing,Sales Executive,2012-05-25,8,43,Female,PhD,98548.24,47928.91,1.4,True
+32747,Benjamin Hawkins,Sales,Analyst,2021-01-17,7,24,Other,Master's,105626.26,19716.99,2.8,False
+36150,Rachel Fry,Engineering,Sales Executive,2021-06-05,8,57,Male,Bachelor's,110706.8,14025.42,1.6,False
+15024,Patricia Ware,Sales,Sales Executive,2021-11-14,13,55,Male,Bachelor's,148388.62,23590.34,4.8,False
+30336,Jaime Moore,Engineering,Engineer,2015-10-30,10,33,Female,Master's,147067.0,25828.41,3.7,True
+45881,Leon Snow,Engineering,Manager,2013-01-09,1,49,Other,PhD,40712.99,32917.87,1.9,False
+27722,Sean Jackson,HR,Engineer,2015-04-27,4,57,Other,PhD,128427.4,29989.21,2.4,True
+42073,Douglas Payne,Engineering,Engineer,2012-02-22,1,38,Other,Master's,45484.97,38415.7,4.8,False
+49990,Sara Stewart,Sales,Analyst,2011-06-03,11,41,Female,Bachelor's,53920.13,20764.82,3.7,True
+70534,James Bryant,Marketing,Analyst,2016-05-23,10,44,Female,Master's,137720.36,42106.94,3.3,True
+79432,Martin Hanson,Finance,Manager,2013-11-12,5,37,Female,Bachelor's,41016.13,12371.73,2.9,True
+75084,Cassandra Wright,Engineering,Analyst,2010-08-20,2,45,Female,Master's,63305.71,41178.18,2.7,True
+59098,Andrew Green,HR,Consultant,2010-09-08,2,36,Other,Master's,129503.05,34603.23,3.0,False
+17544,Brianna Turner,Marketing,Consultant,2010-09-18,4,59,Male,PhD,56853.77,10831.03,1.1,False
+12852,Kimberly Roberts,Finance,Manager,2017-09-16,2,36,Female,PhD,57494.76,17347.1,3.0,True
+51629,Benjamin Lopez,HR,Engineer,2019-02-23,10,38,Male,Master's,58334.17,48562.99,3.2,True
+18587,Patricia Mcknight,HR,Engineer,2022-09-27,8,48,Female,Master's,134809.86,41257.57,2.5,True
+50484,Angela Savage,Sales,Engineer,2019-08-28,5,31,Female,Master's,56761.88,28034.2,4.3,True
+13266,Jasmin Moreno,Marketing,Engineer,2016-01-28,3,31,Female,PhD,115656.34,15835.43,2.1,True
+17435,Charles Hall,Sales,Analyst,2012-06-17,13,41,Other,PhD,112215.24,23158.96,2.2,False
+42768,John Hunt,Engineering,Engineer,2014-04-02,3,37,Female,Master's,77816.72,23175.75,1.6,True
+17909,Brett Brown,Sales,Consultant,2014-07-11,1,25,Female,Master's,59551.75,40087.69,2.9,True
+15208,Eric Cunningham,Finance,Manager,2017-10-01,12,40,Other,Master's,62324.2,22544.46,3.0,True
+51702,Thomas Beltran,Sales,Sales Executive,2020-07-30,5,25,Male,PhD,139844.59,16248.44,1.5,False
+86212,Terrance Moore,Sales,Manager,2021-04-05,9,56,Female,PhD,121608.88,38910.18,1.7,False
+29840,Nancy Larsen,Marketing,Engineer,2014-02-21,14,41,Male,Bachelor's,91456.51,41762.08,2.8,False
+30231,Norma Roth,Marketing,Consultant,2017-09-06,1,47,Female,Master's,48897.41,5923.21,2.8,False
+20875,Savannah Patrick,Engineering,Engineer,2017-08-13,8,37,Male,Bachelor's,107928.71,28388.35,1.6,True
+60242,Mr. Jon Anderson DVM,Sales,Engineer,2010-06-25,13,28,Female,PhD,133265.06,48494.06,2.6,True
+89353,Allison Bartlett,Finance,Consultant,2019-05-30,2,38,Other,PhD,135641.17,28732.62,3.6,True
+50574,James Brown,Finance,Engineer,2012-01-30,11,52,Male,Bachelor's,104129.34,17376.52,4.2,True
+41654,Mary Carpenter,Finance,Engineer,2021-12-12,10,41,Male,Bachelor's,119766.83,11583.71,2.7,True
+79934,Jason Walton,Sales,Sales Executive,2020-01-21,11,23,Female,Master's,66620.26,47103.04,4.5,True
+94304,Shannon Gaines,Engineering,Sales Executive,2019-04-16,9,40,Female,PhD,114353.51,12428.8,2.4,True
+51344,Jeremy Mejia,Engineering,Analyst,2014-11-25,6,53,Male,Master's,82326.76,38534.38,4.9,True
+72120,John Rodriguez,Sales,Consultant,2014-10-19,12,33,Male,PhD,97236.48,5375.86,2.2,False
+46564,Christopher Anderson,Finance,Manager,2015-07-11,5,27,Other,Bachelor's,116358.4,13980.82,4.1,True
+77104,Austin Peterson,Finance,Analyst,2015-10-28,10,54,Male,PhD,66219.5,24633.46,4.5,True
+34951,Rebecca Baker,Marketing,Sales Executive,2015-10-24,1,39,Other,PhD,119147.26,27745.8,2.6,False
+50699,Timothy Mccann,Engineering,Engineer,2016-07-10,3,37,Other,PhD,128107.89,15035.47,3.0,True
+88288,Robert Carroll,Engineering,Analyst,2020-11-22,9,59,Female,Bachelor's,75508.62,13747.41,3.0,True
+27884,Tiffany Bernard,Sales,Engineer,2020-01-15,4,27,Other,Bachelor's,51147.55,29502.34,3.4,False
+89550,Steven Cook,Finance,Manager,2017-11-04,7,36,Male,PhD,135036.24,10207.89,4.6,True
+18400,Billy Pace,Engineering,Engineer,2014-08-24,9,51,Female,PhD,53456.21,21291.92,4.2,True
+82160,Aaron Miller,HR,Engineer,2017-04-10,13,52,Other,PhD,44328.4,15444.8,4.3,True
+66409,Stephanie Shelton,Sales,Analyst,2013-11-23,1,43,Male,Master's,82375.66,29743.95,1.4,False
+15962,William Harris,Engineering,Engineer,2015-10-03,7,26,Other,PhD,145782.64,39952.23,4.6,True
+31703,Rebecca Castro,Engineering,Sales Executive,2013-03-12,12,24,Other,Bachelor's,44244.38,7580.5,4.4,False
+68515,Fernando Ortiz,HR,Engineer,2014-09-01,6,37,Female,Bachelor's,74825.79,12662.11,1.4,False
+57629,Cynthia Villarreal,Marketing,Manager,2022-10-07,5,48,Male,Bachelor's,55332.16,41463.71,3.8,False
+89700,Brett Norman,Sales,Engineer,2010-06-28,5,41,Female,PhD,54877.8,13157.41,1.1,True
+31744,Kelly Anderson,Finance,Sales Executive,2017-06-17,12,24,Female,PhD,149194.74,17657.83,2.6,True
+87793,Rachel Reed,Marketing,Consultant,2019-04-20,14,23,Other,Master's,52761.57,33172.94,4.6,True
+43918,Joshua Parker,HR,Analyst,2021-04-19,10,41,Male,Bachelor's,62749.21,18604.95,2.6,False
+53491,Pam Ellison,HR,Manager,2011-05-08,12,33,Male,PhD,146683.48,34518.03,2.4,False
+76072,Mark Weber,Engineering,Analyst,2022-11-24,3,50,Other,PhD,74623.16,34512.61,4.3,True
+51152,Jeffrey Bates,Sales,Engineer,2019-11-04,11,52,Female,Master's,86142.31,19241.02,4.0,True
+60541,Patrick Smith,Sales,Engineer,2015-11-06,13,40,Other,Master's,106047.05,42040.11,2.9,True
+88162,Elizabeth Smith,Finance,Consultant,2016-06-11,1,42,Female,PhD,147673.0,16000.14,4.0,False
+51942,Alison Ballard,Engineering,Consultant,2018-07-28,14,22,Male,Bachelor's,52691.34,27669.65,3.8,False
+69244,Daniel Nelson,Finance,Analyst,2018-03-14,6,37,Female,PhD,145626.67,25050.38,3.3,False
+15297,Katherine Reyes,Sales,Sales Executive,2016-08-31,12,33,Female,PhD,77546.56,29087.17,1.9,False
+81705,Angela Hooper,Sales,Consultant,2020-10-18,11,37,Other,PhD,95194.58,48010.14,4.7,True
+59662,Henry Nicholson,Marketing,Manager,2021-11-06,5,44,Female,PhD,50374.76,15147.02,1.1,False
+40195,Sylvia Stark,HR,Engineer,2018-01-24,1,51,Male,PhD,46734.32,29878.75,2.3,True
+32858,Jessica Briggs,Sales,Sales Executive,2010-11-24,9,52,Other,Master's,76611.21,38780.38,4.1,True
+94484,Erin Washington,Finance,Manager,2018-07-04,6,23,Male,Bachelor's,126324.89,38277.01,2.5,False
+85073,Christina Maddox,Sales,Engineer,2016-11-28,3,44,Other,PhD,71278.71,45123.71,2.9,False
+80777,Andrea Boyd,Marketing,Manager,2021-02-08,9,29,Male,Bachelor's,84574.14,47106.12,1.1,True
+61873,Anthony Nelson,Sales,Consultant,2021-03-24,5,40,Male,Bachelor's,52758.92,31197.52,3.7,True
+78553,Kimberly Wilson,Marketing,Sales Executive,2014-10-14,9,52,Male,Master's,128745.49,15355.77,4.6,True
+76186,Karen Fox,Sales,Analyst,2010-04-19,13,34,Other,PhD,134248.47,44418.75,4.6,False
+74100,Rhonda Mcclure,Sales,Manager,2016-02-11,2,53,Male,PhD,77643.35,45372.99,2.5,True
+67178,Valerie Ellis,Finance,Consultant,2011-08-24,1,35,Male,Master's,93210.71,12568.87,1.8,False
+54892,Susan Oconnell,Engineering,Manager,2011-09-15,7,27,Male,Bachelor's,144697.1,40188.88,2.6,False
+29891,Karen Evans,Engineering,Engineer,2015-10-04,4,34,Other,Bachelor's,96901.62,19284.88,4.8,True
+93380,Joseph Acosta,Engineering,Sales Executive,2022-07-17,12,33,Female,PhD,95463.02,29759.73,1.6,False
+23885,Steven Alvarado,Engineering,Sales Executive,2017-01-15,10,41,Male,Master's,138191.68,5280.2,4.4,False
+33295,Julia Jones,HR,Engineer,2013-03-06,1,26,Male,Bachelor's,94080.67,45108.95,4.7,True
+94176,Gabriel Stewart,Finance,Engineer,2016-07-11,2,28,Female,PhD,100732.08,15748.31,2.9,False
+20059,Kyle Davis,Engineering,Engineer,2016-12-10,14,29,Female,PhD,144927.59,34523.04,3.1,True
+56484,Danielle Warren,Engineering,Sales Executive,2013-09-01,9,31,Male,Master's,101014.33,26219.52,3.9,True
+88880,Kevin Howell,Finance,Sales Executive,2022-01-04,1,33,Male,PhD,101679.85,29186.81,5.0,False
+86788,Lindsey Oliver,Engineering,Analyst,2012-07-24,10,48,Male,Bachelor's,68891.89,41353.09,3.5,True
+66737,Susan Parker,Finance,Engineer,2014-03-02,13,24,Male,PhD,72525.94,46769.37,1.8,True
+90722,Barbara Gibson,Finance,Engineer,2011-02-23,1,32,Female,Master's,99930.87,31534.04,1.1,False
+95540,Theresa Moreno,Marketing,Manager,2013-06-09,12,44,Other,Master's,140893.95,21157.53,4.7,False
+30018,Shawn Morris,Sales,Analyst,2018-05-10,8,41,Other,PhD,133633.24,47941.12,4.0,False
+65972,Krystal Smith,Finance,Manager,2015-04-12,12,32,Female,Master's,79246.02,11091.55,2.1,True
+51335,Johnny Crawford,Sales,Analyst,2012-03-14,8,27,Female,PhD,145228.08,7907.95,1.4,False
+82131,Amanda Kramer,Finance,Manager,2020-02-21,4,48,Female,Master's,113442.61,40040.96,1.3,False
+63056,Joel Garcia,HR,Consultant,2015-02-26,2,40,Male,Bachelor's,142464.8,33323.27,2.2,True
+78162,Tina Suarez,Finance,Sales Executive,2012-01-26,11,56,Male,PhD,110034.86,33974.79,1.0,True
+72560,Kirsten Willis,Sales,Sales Executive,2019-07-18,5,49,Other,PhD,90463.3,19244.57,1.4,True
+31929,Nicholas Williams,HR,Engineer,2012-06-05,13,57,Other,Master's,122991.0,45939.65,2.9,False
+74116,Shelly Haley,Finance,Consultant,2021-02-15,3,31,Male,Master's,111052.62,13667.14,4.4,False
+67432,Jennifer Jordan,Engineering,Sales Executive,2020-11-11,2,27,Female,Bachelor's,105190.9,31246.01,2.9,False
+58469,Donna Morgan,Engineering,Engineer,2022-11-17,9,24,Female,PhD,57775.42,24493.2,3.5,True
+45971,Yvette Rivas,Sales,Analyst,2016-12-21,3,25,Other,PhD,84100.71,7655.02,1.0,True
+42276,Megan Arias,Sales,Engineer,2020-11-05,6,46,Female,PhD,48876.38,29836.16,4.7,False
+26467,Jesse Mccarthy,Engineering,Manager,2010-07-26,5,22,Other,Master's,145531.14,49314.55,3.3,False
+14548,Dylan Mack,Finance,Sales Executive,2010-01-20,2,51,Other,Bachelor's,60402.48,14944.4,3.7,False
+75552,Kevin Thomas,HR,Engineer,2011-02-26,6,45,Female,PhD,140950.03,12665.85,2.4,True
+19186,Manuel Mendez,HR,Engineer,2017-11-24,6,28,Male,PhD,75315.37,26028.76,1.2,False
+85342,Sandra Torres,Marketing,Consultant,2013-10-13,14,30,Other,Master's,67728.19,35500.54,3.2,True
+91090,Amy Adams,Marketing,Consultant,2018-06-10,2,31,Male,PhD,54555.13,46062.59,4.5,True
+84571,Amanda Ramos,Finance,Consultant,2019-11-01,13,57,Female,PhD,45737.86,47802.85,3.3,False
+76908,Zachary Cooke,Finance,Sales Executive,2011-06-25,4,53,Female,Master's,63317.73,26808.41,4.8,True
+52150,Karen Miller,Finance,Consultant,2013-01-19,7,53,Male,PhD,124296.95,13090.21,4.9,True
+59674,Thomas Logan,Engineering,Engineer,2016-01-09,1,52,Other,PhD,96275.25,21564.22,3.6,False
+85111,Nicole Jones,Marketing,Sales Executive,2020-09-28,1,30,Female,Master's,132290.23,43819.58,3.6,True
+24136,Melissa Robles,Engineering,Manager,2011-12-05,8,48,Female,Master's,131909.94,27850.06,4.5,False
+26956,William Taylor,Engineering,Consultant,2018-08-31,7,38,Male,Master's,80065.22,16859.69,2.8,True
+88300,Jason Wood,Engineering,Sales Executive,2011-06-14,13,32,Female,Bachelor's,103254.72,33135.02,1.2,False
+81200,Brittany Gray,Marketing,Analyst,2012-08-30,6,52,Male,Bachelor's,54066.65,23305.16,1.6,False
+35292,Christopher Smith,Marketing,Engineer,2015-03-21,1,29,Male,Master's,125310.64,29181.8,1.5,False
+55399,Candace Collins,Finance,Consultant,2011-12-27,14,40,Female,PhD,127764.5,48290.37,4.0,True
+93384,Joshua Briggs,Sales,Sales Executive,2010-11-23,8,51,Male,Bachelor's,43759.4,7571.14,1.8,False
+13214,Danny Stokes,Engineering,Consultant,2018-02-24,14,53,Other,PhD,93457.7,46065.6,1.1,True
+19253,Samantha Fuller,Engineering,Analyst,2014-08-21,1,39,Female,Master's,122771.38,8172.86,3.4,False
+34935,Brandon Ortiz,Finance,Analyst,2019-02-27,7,34,Male,Bachelor's,133050.58,18663.09,2.3,False
+93100,Carla Moore,Finance,Sales Executive,2014-01-05,6,25,Other,PhD,69983.57,35447.84,1.4,True
+98969,Michael Nguyen,Sales,Engineer,2012-04-26,9,35,Male,Master's,119908.36,27629.39,1.8,True
+39811,Maria Johnson,HR,Sales Executive,2018-11-08,6,43,Other,Master's,58616.46,37479.62,4.6,True
+99894,Joanne Sullivan,Marketing,Consultant,2021-01-21,14,53,Female,PhD,85256.25,21153.51,3.0,True
+40366,Denise Davis,Marketing,Manager,2018-07-30,7,47,Female,PhD,72229.05,10525.86,4.4,True
+60327,Nathan Gomez,HR,Manager,2010-07-08,14,46,Male,PhD,115266.85,31920.61,3.2,False
+37933,Jessica Hicks,Sales,Sales Executive,2013-02-06,6,58,Female,Master's,66027.06,25440.25,3.8,True
+52908,Matthew Taylor,Marketing,Manager,2012-05-09,12,50,Female,Master's,120819.07,19203.05,2.5,False
+73601,Phyllis Brooks,Sales,Manager,2017-08-22,6,44,Other,Bachelor's,101852.73,15891.72,4.8,True
+15928,Tommy Walker,HR,Manager,2018-04-10,13,38,Male,PhD,112169.52,19126.34,4.1,False
+68254,Jessica Johnson,HR,Consultant,2012-03-29,3,51,Other,PhD,98641.67,36520.73,1.9,False
+29142,Teresa Johnson,Sales,Sales Executive,2016-10-09,3,45,Other,Master's,78761.52,8696.99,2.2,True
+70306,Wendy Phillips,Marketing,Manager,2016-01-08,5,36,Male,PhD,92002.85,10085.64,2.9,False
+62220,Brandon Sullivan,Finance,Analyst,2015-12-01,13,58,Male,PhD,43836.26,47977.45,4.3,True
+84540,Yolanda Ferguson,Marketing,Engineer,2014-04-15,14,29,Male,PhD,126308.66,10436.65,1.2,True
+93515,Mary Cortez,Sales,Sales Executive,2014-07-24,1,22,Female,PhD,130263.58,11350.88,4.7,False
+34291,Elizabeth Melton,HR,Consultant,2011-09-07,3,44,Female,Master's,53259.57,20176.05,1.9,False
+93022,Paul Hale,HR,Consultant,2022-11-04,9,53,Male,PhD,70663.34,41789.44,3.7,True
+47155,Joseph Thomas,Sales,Manager,2019-03-12,4,55,Other,Bachelor's,111207.33,20511.39,5.0,True
+44267,Richard Mendez,Engineering,Manager,2011-05-01,14,53,Female,Master's,97953.68,43845.27,4.3,True
+71323,Michelle Cardenas,Sales,Sales Executive,2022-04-29,4,31,Female,Master's,113256.93,44127.96,4.8,False
+87661,Rachel Simmons,Finance,Manager,2017-01-12,4,32,Male,Bachelor's,130861.52,37102.49,3.5,True
+63372,Joshua Johnson,Sales,Analyst,2019-12-20,11,24,Other,Bachelor's,50546.33,10725.11,2.9,False
+89655,James Miller,Marketing,Consultant,2013-11-09,1,24,Female,PhD,67705.57,11270.13,2.6,False
+68850,Laura Mcintyre,HR,Engineer,2016-04-21,10,53,Other,Bachelor's,120741.89,32582.46,2.0,True
+10491,David Thomas,HR,Sales Executive,2012-03-23,9,56,Female,PhD,116867.18,36222.36,2.0,False
+29899,Lisa Hunter,HR,Manager,2012-04-08,7,38,Female,Master's,40348.83,27674.46,2.4,False
+69584,Daniel Ingram,Finance,Analyst,2018-06-16,11,39,Male,PhD,82567.95,21337.68,3.4,True
+13772,Denise Murray,Sales,Analyst,2010-03-19,1,28,Other,PhD,47941.87,40675.78,3.7,True
+92224,Michael Hernandez,HR,Analyst,2020-08-20,9,44,Male,Bachelor's,90058.36,28914.39,1.8,True

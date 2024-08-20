@@ -1,0 +1,1001 @@
+Student_ID,Name,Grade,GPA,Attendance_Percentage,Math_Score,Science_Score,English_Score,History_Score,Elective,Extra_Curricular,Graduation_Status
+933121,Craig Cox,F,3.12,71.37,64,56,7,82,Drama,Sports,Not Graduated
+245620,Kevin Green,D,3.61,70.5,25,57,46,11,Computer Science,Debate,Not Graduated
+812741,Chad Wright,A,3.69,74.19,3,48,57,58,Art,Art Club,Graduated
+735670,David Padilla,B,3.25,63.72,85,37,76,42,Computer Science,Sports,Not Graduated
+841667,Valerie Odonnell,B,2.06,99.3,81,12,24,32,Drama,Art Club,Graduated
+812350,Kristina Murphy,D,2.2,90.32,39,76,36,92,Drama,Music Club,Graduated
+392121,Amanda Vincent,C,3.45,85.31,12,10,77,57,Computer Science,Art Club,Not Graduated
+524317,Michael Bradford,B,1.33,73.79,11,16,66,41,Computer Science,Debate,Graduated
+886914,Thomas Hernandez,C,3.76,64.7,41,11,34,8,Music,Art Club,Not Graduated
+419313,Mrs. Monica Ball,B,2.62,90.5,46,99,15,52,Art,Debate,Not Graduated
+220682,Meghan Atkinson,A,3.62,91.89,7,14,3,46,Computer Science,Music Club,Not Graduated
+819385,Jeff Whitehead,C,2.29,72.6,48,66,71,76,Music,Sports,Not Graduated
+759377,Jason Payne,D,2.04,83.88,29,99,45,71,Music,Music Club,Graduated
+999781,Jeremiah Perry,B,0.31,70.57,37,93,37,72,Music,Music Club,Not Graduated
+656017,Ryan Ford,F,2.61,62.17,85,23,78,80,Computer Science,Music Club,Not Graduated
+363378,Tyler Evans,D,0.34,70.48,90,13,27,49,Music,Art Club,Not Graduated
+854840,David Warren,B,3.36,63.1,89,93,12,1,Drama,Debate,Not Graduated
+919038,Sandra Marks,B,0.36,77.66,36,8,44,73,Drama,Debate,Not Graduated
+287112,Kevin Smith,A,2.13,82.87,76,15,13,44,Drama,Music Club,Graduated
+147123,Cynthia Jackson,B,2.71,60.01,10,33,61,80,Art,Debate,Not Graduated
+184459,Steven Espinoza,C,1.66,97.21,29,27,26,30,Drama,Sports,Graduated
+441331,Deborah Blackburn,B,2.46,81.84,88,18,63,66,Music,Sports,Not Graduated
+184827,Heidi Bowman,F,1.91,66.93,80,65,36,74,Computer Science,Art Club,Not Graduated
+916436,Ashley Dorsey,F,0.91,79.23,51,37,4,99,Music,Music Club,Graduated
+317785,Roger Booth,D,0.93,69.56,45,99,69,16,Computer Science,Music Club,Not Graduated
+623251,Savannah Jordan,B,2.54,89.88,1,52,68,14,Drama,Sports,Graduated
+737451,Jeffery Rodriguez,F,0.67,93.42,23,85,97,44,Art,Debate,Graduated
+945867,Teresa Ramirez,C,0.62,68.85,92,80,54,77,Drama,Music Club,Not Graduated
+120620,Chad Butler,C,2.96,98.94,33,17,75,28,Drama,Art Club,Not Graduated
+607793,Barbara Blake,D,3.72,88.1,91,53,68,71,Music,Music Club,Graduated
+452939,Darin Bowen,A,0.15,86.31,95,29,25,77,Music,Music Club,Not Graduated
+704528,Aimee Harmon,D,0.94,68.82,45,91,94,50,Computer Science,Music Club,Graduated
+831746,Rachel Escobar,F,3.19,86.43,56,86,12,82,Drama,Art Club,Not Graduated
+321945,Herbert Martinez,C,1.92,79.57,49,79,20,89,Computer Science,Sports,Not Graduated
+701814,Taylor Villegas,F,3.54,72.82,59,92,97,73,Drama,Sports,Not Graduated
+470837,Rodney Franklin,F,3.74,70.71,58,4,5,15,Art,Art Club,Graduated
+672330,Michael Davis,A,3.73,71.83,80,36,58,38,Drama,Sports,Not Graduated
+575795,Ryan Prince,C,2.97,76.69,25,15,43,8,Computer Science,Music Club,Graduated
+370330,Rhonda Jones,A,0.31,96.52,38,36,31,52,Art,Debate,Not Graduated
+931380,Joshua Miller,A,2.01,72.63,99,72,83,86,Music,Music Club,Graduated
+696698,Nicole Kent,A,0.68,94.46,94,13,90,50,Music,Sports,Graduated
+605022,Jane Jimenez,D,3.36,93.24,87,35,48,33,Computer Science,Art Club,Graduated
+185659,Andre Lam,C,2.1,84.01,67,66,78,91,Computer Science,Debate,Graduated
+295474,Nicole Shaw,F,0.09,82.01,3,0,48,74,Music,Art Club,Graduated
+630192,Nicolas Phillips,B,3.29,89.91,38,18,81,33,Art,Music Club,Graduated
+218832,Harry Bowman,A,3.79,90.79,79,23,27,28,Music,Art Club,Not Graduated
+879573,Paul Cox,A,3.4,99.95,7,72,53,6,Art,Debate,Graduated
+168189,Carlos Hammond,D,0.58,80.75,24,77,37,69,Music,Debate,Not Graduated
+677383,Patricia Gentry,A,3.55,99.25,12,77,7,61,Computer Science,Debate,Graduated
+867791,Brittney Jones,D,3.09,81.1,22,1,97,57,Computer Science,Sports,Not Graduated
+318675,Allison Soto,A,0.49,75.91,29,61,9,77,Art,Art Club,Graduated
+594051,Jay Dalton,A,0.32,84.11,62,28,97,88,Art,Art Club,Graduated
+537077,Amy Moore,D,2.64,72.81,46,29,10,15,Computer Science,Art Club,Graduated
+639481,Jennifer Campos,B,1.74,99.69,55,93,55,66,Music,Music Club,Graduated
+957323,Allen Chavez,C,3.52,99.55,75,91,95,65,Computer Science,Sports,Graduated
+503114,Megan Howard,B,1.61,81.64,14,60,68,14,Drama,Music Club,Graduated
+570269,Mr. Jeffrey Underwood PhD,F,0.27,99.85,82,40,40,50,Drama,Art Club,Graduated
+468088,Ashley Reeves,B,1.61,85.04,84,29,94,34,Computer Science,Debate,Graduated
+374112,Todd Coleman,D,2.88,90.27,41,56,71,63,Art,Art Club,Not Graduated
+523401,Robert Parsons,C,1.48,95.11,96,21,8,14,Music,Music Club,Graduated
+659344,Emily Skinner,F,3.84,62.96,17,77,69,31,Art,Music Club,Not Graduated
+958628,Vincent Boone,D,3.55,73.17,9,36,24,79,Computer Science,Debate,Not Graduated
+865095,Matthew Roach,D,2.12,91.05,9,53,22,28,Music,Sports,Graduated
+121192,Kristina Becker,C,0.12,63.45,45,79,86,86,Drama,Debate,Graduated
+819797,Michael Mathis,B,0.14,72.61,4,43,58,52,Computer Science,Music Club,Not Graduated
+903232,Frank Weaver,B,3.83,95.87,65,10,71,18,Computer Science,Sports,Not Graduated
+424771,Amanda Hernandez,A,0.38,79.3,33,93,48,67,Drama,Debate,Graduated
+160282,April Hammond,F,1.28,76.47,59,77,42,88,Music,Debate,Graduated
+182701,Joshua Miller,A,1.47,78.21,63,86,35,10,Music,Sports,Graduated
+905940,Kristie Lang,A,2.37,81.51,61,77,98,65,Computer Science,Art Club,Not Graduated
+235192,Mary Barnes,D,3.07,94.07,50,61,0,46,Drama,Debate,Graduated
+899490,Michelle Owens MD,D,3.08,90.85,43,43,1,80,Computer Science,Music Club,Graduated
+508683,Dana Dawson,B,1.49,70.79,39,1,79,53,Art,Debate,Graduated
+654394,Michael Jimenez,F,3.13,72.81,96,44,65,10,Drama,Sports,Graduated
+673141,Brian Coleman,D,2.95,67.77,63,54,8,47,Music,Debate,Not Graduated
+623229,James Montoya,F,1.49,99.98,4,9,52,64,Drama,Art Club,Not Graduated
+534381,Jason Frye,B,1.57,96.17,86,48,29,31,Drama,Music Club,Not Graduated
+457934,Karen Burnett,D,2.42,94.35,94,57,43,82,Art,Debate,Not Graduated
+906336,Louis Hayes,D,1.71,91.08,76,87,62,1,Computer Science,Debate,Graduated
+510783,Michael Baker,B,3.39,81.39,89,65,89,94,Art,Sports,Graduated
+284435,Melissa Rangel,C,3.24,98.95,1,1,17,71,Music,Music Club,Not Graduated
+623005,Leslie Burnett,C,3.04,91.9,43,75,11,61,Computer Science,Art Club,Not Graduated
+444125,Christopher Cooper,C,0.46,75.13,31,79,53,81,Music,Art Club,Graduated
+946420,Rachel Mays,F,1.12,89.43,52,34,41,4,Art,Sports,Graduated
+234880,Regina Anderson,C,2.51,62.91,33,14,66,68,Drama,Sports,Graduated
+606664,Shawna Jenkins,C,1.09,62.65,17,53,54,11,Computer Science,Debate,Not Graduated
+814928,Theodore Stanley,F,1.96,71.07,79,97,76,10,Drama,Debate,Graduated
+373532,Ryan Mcfarland,C,2.18,65.5,4,79,73,77,Computer Science,Music Club,Graduated
+833083,Misty Reed,F,2.76,80.27,89,2,13,95,Drama,Art Club,Graduated
+707415,Julie Garcia,B,2.62,68.94,34,62,8,62,Computer Science,Music Club,Not Graduated
+880495,Rebecca Simpson,C,0.44,76.43,57,81,91,90,Music,Art Club,Not Graduated
+387095,Sara Wilson,A,0.44,67.21,9,36,3,36,Art,Art Club,Graduated
+525923,Courtney Gutierrez,B,3.73,97.96,22,60,93,94,Drama,Music Club,Not Graduated
+340045,Brittany Golden,A,0.16,98.89,90,30,98,55,Music,Debate,Not Graduated
+952810,Jeanne Villegas,C,1.04,67.89,74,39,34,69,Drama,Art Club,Not Graduated
+875371,Jessica Bell,A,0.88,89.72,2,8,82,21,Drama,Music Club,Not Graduated
+400359,Jeffrey Wright,C,0.9,63.62,82,29,27,40,Art,Sports,Not Graduated
+644075,Kimberly Hernandez,F,3.67,90.04,67,40,78,9,Music,Sports,Not Graduated
+315382,Jonathan Vega,C,0.02,71.5,47,41,77,59,Drama,Debate,Not Graduated
+790399,Anthony Miller,C,2.34,93.55,51,12,23,30,Computer Science,Music Club,Graduated
+819290,Carlos Wilson,C,2.02,93.08,63,8,70,38,Drama,Sports,Not Graduated
+618534,Michelle Kemp,A,2.0,91.28,2,83,56,10,Computer Science,Art Club,Graduated
+139750,Michael Hess,D,1.41,70.44,82,8,30,23,Computer Science,Debate,Graduated
+299603,Kathleen Chase,B,0.59,83.93,16,38,16,78,Drama,Music Club,Not Graduated
+555400,Stephanie Bailey,A,1.74,61.93,33,10,77,4,Art,Debate,Not Graduated
+317826,Raymond Martinez,C,3.86,83.74,63,4,47,94,Music,Music Club,Graduated
+558655,Andrew Guerrero,C,3.3,78.46,83,76,48,59,Music,Music Club,Graduated
+297126,Kathleen Barnes,C,1.78,81.85,36,14,78,19,Art,Sports,Graduated
+936611,Manuel Quinn,C,3.66,91.63,53,62,4,9,Computer Science,Sports,Graduated
+679102,Ronald Alexander,F,0.3,66.9,59,78,26,89,Music,Music Club,Not Graduated
+990829,Jason Gray,B,3.84,62.39,15,82,68,84,Computer Science,Sports,Graduated
+584974,Brian Dominguez,D,0.45,96.03,63,2,51,36,Computer Science,Music Club,Graduated
+298591,David Hicks,F,3.39,66.01,93,82,49,54,Art,Sports,Graduated
+484755,Jason Jackson,D,0.67,85.78,67,28,79,10,Music,Music Club,Not Graduated
+917345,Nicholas Thompson,D,0.21,91.04,54,25,87,31,Drama,Music Club,Graduated
+218696,Mark Bullock,B,1.74,71.87,91,38,47,87,Computer Science,Sports,Graduated
+988381,Frances Campbell,B,1.01,71.57,50,3,77,0,Art,Music Club,Graduated
+112758,Steven Zuniga,A,1.65,68.82,18,32,85,38,Art,Debate,Not Graduated
+698016,Robert Ward,C,1.71,80.07,73,56,81,58,Computer Science,Music Club,Not Graduated
+352802,Lindsay Garner,B,3.35,98.76,55,73,93,65,Drama,Music Club,Not Graduated
+265154,Holly Franco,A,2.29,66.8,72,80,53,18,Art,Debate,Not Graduated
+783136,Charles Nunez,D,2.68,86.46,22,89,16,78,Computer Science,Art Club,Graduated
+674038,Alicia Wheeler,D,1.22,70.02,7,58,17,80,Computer Science,Debate,Not Graduated
+902031,Krystal Freeman,D,3.26,83.63,4,1,5,71,Music,Art Club,Graduated
+679459,Patricia Cortez,A,0.85,87.08,68,76,33,4,Computer Science,Sports,Not Graduated
+719387,William Franklin,A,3.87,78.96,68,27,36,1,Drama,Music Club,Not Graduated
+874471,Jerome Gonzalez,D,2.4,95.58,93,70,27,93,Drama,Music Club,Not Graduated
+796855,Deborah Bush,B,0.03,88.11,49,10,7,0,Drama,Music Club,Not Graduated
+936183,Michelle George,B,1.67,81.19,20,17,69,45,Computer Science,Music Club,Graduated
+876804,Evelyn Swanson,D,3.08,76.81,89,8,50,70,Art,Art Club,Not Graduated
+805222,Hannah Morgan,D,1.75,71.93,8,63,3,75,Art,Debate,Graduated
+277391,Tracey Branch,A,0.11,81.66,69,16,69,64,Art,Sports,Graduated
+844119,Karen Payne,C,3.62,92.06,66,96,9,34,Art,Music Club,Graduated
+325013,Taylor Brown,F,1.23,89.13,70,97,34,21,Computer Science,Art Club,Graduated
+118678,Erika Clark,B,3.41,88.58,89,80,78,9,Drama,Sports,Not Graduated
+609715,Candace Cook,F,2.24,99.49,67,30,27,4,Computer Science,Music Club,Graduated
+541451,Ashley Schwartz,C,1.41,84.51,48,73,15,22,Music,Music Club,Not Graduated
+618295,Sara Savage,F,2.51,80.83,34,16,64,78,Computer Science,Debate,Not Graduated
+530718,Amy Miller,F,0.52,78.99,47,91,58,99,Drama,Sports,Graduated
+137811,Jason Huffman DDS,B,1.26,76.11,81,73,9,87,Music,Art Club,Graduated
+589454,Valerie Taylor,C,2.55,60.61,73,21,85,32,Art,Music Club,Not Graduated
+855000,Denise Kelley,A,0.54,68.87,19,3,57,12,Computer Science,Art Club,Graduated
+487488,Victoria Anderson,F,0.2,70.62,92,15,69,28,Art,Art Club,Not Graduated
+504779,Jacob Cervantes,B,0.98,91.93,82,52,80,80,Music,Music Club,Not Graduated
+945068,Malik Carey,A,3.6,87.92,46,75,87,70,Computer Science,Music Club,Not Graduated
+443885,Anthony Mills,D,0.57,65.79,81,79,24,60,Computer Science,Sports,Not Graduated
+180337,Richard Miller,A,1.75,66.67,94,75,56,72,Computer Science,Music Club,Not Graduated
+639214,David Smith,B,0.61,96.38,39,6,3,64,Art,Debate,Not Graduated
+267464,Jared Hernandez,C,3.91,89.96,80,68,61,6,Music,Art Club,Not Graduated
+701122,Monica Wallace,B,1.7,70.91,56,9,36,29,Music,Debate,Graduated
+237276,Kristin Boyd,D,0.4,90.17,55,98,40,69,Computer Science,Sports,Not Graduated
+121168,Donna King,D,0.19,82.65,27,33,89,60,Music,Debate,Graduated
+274882,Hailey Wilson,F,2.28,73.66,59,47,12,69,Computer Science,Music Club,Not Graduated
+978104,Shane Smith,D,2.06,71.18,77,44,27,55,Drama,Debate,Not Graduated
+960075,Tracy Alvarado,A,0.66,77.4,11,58,18,51,Drama,Art Club,Not Graduated
+501266,Jody Mcmahon,A,2.05,86.45,35,76,46,55,Drama,Art Club,Graduated
+225502,Sarah Jones,D,3.35,94.9,81,49,97,57,Music,Art Club,Not Graduated
+904653,Diane Wheeler,B,2.8,95.57,89,11,77,63,Art,Debate,Graduated
+398626,Stephanie Pace,F,0.61,76.85,30,77,29,60,Art,Art Club,Not Graduated
+827543,John Wolf,C,2.23,81.55,31,77,35,60,Music,Art Club,Graduated
+599205,Sheila Rivas,F,0.8,88.34,37,58,36,80,Music,Sports,Graduated
+934359,Natasha Hendricks PhD,A,2.4,79.72,68,76,16,65,Music,Art Club,Not Graduated
+827028,Brittany Marks,F,3.2,86.15,52,11,45,83,Drama,Art Club,Not Graduated
+330170,Joshua Atkinson,A,3.31,77.59,2,54,29,0,Computer Science,Music Club,Graduated
+494064,Barbara Reynolds,D,1.07,83.02,27,67,58,54,Drama,Sports,Not Graduated
+167639,Hannah Nicholson,D,1.79,60.29,48,38,79,21,Music,Debate,Graduated
+338035,James Becker,A,1.78,87.69,34,31,17,58,Art,Sports,Graduated
+867493,Natalie Young,A,0.1,78.17,88,90,8,40,Drama,Music Club,Graduated
+381039,Jeffery Hart,B,3.38,83.84,89,45,45,31,Drama,Debate,Graduated
+469269,Jerry Nguyen,B,3.04,75.54,96,76,83,65,Music,Debate,Graduated
+770458,Michael Guerra,C,1.12,66.71,21,63,86,6,Computer Science,Sports,Graduated
+889718,Melissa Stuart,B,3.84,86.56,88,18,9,56,Drama,Sports,Not Graduated
+934658,Sharon Alexander,D,2.63,68.26,49,53,17,37,Drama,Sports,Not Graduated
+274128,Michael Drake,C,2.59,90.22,14,8,66,6,Drama,Music Club,Not Graduated
+295895,Austin Pennington,F,1.47,84.25,26,14,64,44,Art,Art Club,Not Graduated
+361839,Michael Anderson,A,2.01,75.87,73,47,94,69,Drama,Art Club,Not Graduated
+468908,Natasha Barnes,A,3.0,86.17,64,73,15,55,Art,Debate,Not Graduated
+783853,Morgan Bowers,A,1.27,89.53,47,12,85,71,Drama,Debate,Not Graduated
+579389,Michaela Johnson,F,2.12,87.96,7,28,56,5,Computer Science,Music Club,Not Graduated
+975060,Tina Johnson,F,1.96,76.51,11,44,91,32,Music,Music Club,Graduated
+866326,Billy Liu,A,2.34,67.21,8,24,4,98,Music,Sports,Not Graduated
+330051,Hunter Burke,F,0.02,88.15,32,7,36,98,Drama,Sports,Graduated
+186734,Jonathan Peters,B,0.76,89.77,88,47,28,48,Computer Science,Sports,Graduated
+368211,Keith Barron,C,1.88,93.41,42,59,57,22,Computer Science,Music Club,Graduated
+552716,Tiffany Haney,F,3.45,82.09,98,6,73,88,Art,Debate,Graduated
+699636,Abigail Williams,F,3.95,83.57,73,35,87,16,Art,Art Club,Graduated
+768150,Amber Brock,B,2.94,60.02,84,95,19,8,Music,Debate,Graduated
+483151,Michelle Moore,C,3.23,60.51,9,64,37,7,Computer Science,Art Club,Graduated
+360696,Mark Cohen,C,3.42,78.64,57,3,45,62,Music,Art Club,Graduated
+491014,Kayla Carpenter,A,2.02,65.55,40,40,62,12,Computer Science,Sports,Not Graduated
+746133,Johnny Lynch,D,2.22,82.05,48,50,4,28,Music,Art Club,Not Graduated
+460830,Evan Thomas,B,3.86,62.97,88,7,27,44,Drama,Sports,Graduated
+551802,John Peterson,C,2.17,76.59,58,41,66,44,Drama,Debate,Not Graduated
+233465,Charles Warren,C,3.85,90.09,69,94,12,8,Art,Debate,Graduated
+528757,Steven Neal,D,3.64,69.8,25,51,9,26,Music,Sports,Not Graduated
+760049,Dr. Jacob Maxwell DDS,D,0.15,87.84,57,76,67,28,Art,Debate,Not Graduated
+102120,Gwendolyn Jones,B,3.03,72.47,77,3,64,86,Music,Art Club,Not Graduated
+884504,April Thompson,C,3.46,63.68,73,66,15,45,Computer Science,Art Club,Not Graduated
+417211,Aaron Diaz,C,0.12,74.96,30,13,90,69,Computer Science,Sports,Graduated
+940715,Deanna Curry,D,3.13,61.14,53,26,49,95,Drama,Sports,Graduated
+800281,David Hernandez,D,1.02,63.56,73,64,51,12,Computer Science,Art Club,Not Graduated
+276893,Robert Gomez,B,3.84,71.38,16,84,48,75,Drama,Sports,Not Graduated
+221118,Allen Ramirez,D,1.21,79.25,25,11,9,69,Music,Debate,Not Graduated
+604964,Lisa Guerrero,F,2.84,60.67,33,87,65,96,Art,Art Club,Not Graduated
+883175,Joshua Torres,C,1.55,78.48,22,14,98,35,Drama,Art Club,Graduated
+356016,Mike Hall,F,3.31,65.32,75,28,29,39,Computer Science,Art Club,Not Graduated
+935290,Karen Kelly,A,1.7,62.06,18,16,54,89,Art,Debate,Graduated
+906300,Katelyn Lewis,D,3.94,65.75,33,16,0,8,Drama,Music Club,Not Graduated
+411837,Tiffany Fox,B,2.68,82.79,15,1,2,41,Computer Science,Music Club,Not Graduated
+688668,William Lopez,F,0.65,93.69,76,42,17,54,Music,Music Club,Not Graduated
+253526,Julia Collins,F,2.8,98.33,5,55,74,53,Computer Science,Music Club,Not Graduated
+910868,Jose Kerr,C,2.66,98.38,65,91,19,40,Computer Science,Art Club,Not Graduated
+447230,Ann Gonzalez,F,3.76,91.06,72,62,15,72,Drama,Art Club,Graduated
+555340,Casey Thomas,F,2.34,82.53,85,58,86,35,Art,Sports,Graduated
+727145,David Ray,C,1.82,82.77,11,50,53,10,Drama,Music Club,Graduated
+146810,James Griffin,C,2.03,66.04,98,34,57,85,Art,Sports,Not Graduated
+835266,Michael Jones,A,1.18,80.87,27,58,27,77,Art,Debate,Graduated
+287036,Jennifer Ortega,F,2.72,60.02,9,46,53,57,Drama,Art Club,Not Graduated
+662258,Christopher Collins,F,0.56,81.84,79,5,19,16,Computer Science,Sports,Not Graduated
+106656,Tiffany Evans,D,3.44,77.22,97,49,26,88,Art,Debate,Graduated
+616272,Frank Kim,A,3.33,96.93,69,83,36,62,Drama,Art Club,Graduated
+291394,Savannah Fisher,F,2.35,83.91,63,30,31,8,Music,Debate,Not Graduated
+345466,Emily Phillips,B,2.91,94.56,36,70,86,7,Drama,Sports,Graduated
+791094,Dominique Shields,A,3.93,72.34,79,48,43,49,Drama,Art Club,Graduated
+343798,Samantha Baird,D,0.89,87.76,48,12,15,30,Drama,Debate,Graduated
+150590,Steven Barrera,A,3.56,60.42,89,0,50,49,Music,Debate,Not Graduated
+500388,Pamela Cook,B,3.71,64.75,24,9,54,82,Computer Science,Art Club,Graduated
+622392,Christina Rasmussen DDS,C,0.62,74.77,3,65,83,60,Drama,Debate,Graduated
+119274,Sharon Cochran,D,2.26,83.85,81,13,43,31,Music,Sports,Not Graduated
+398498,Gregory Clark,B,0.04,68.31,13,36,3,36,Computer Science,Art Club,Graduated
+137784,Erin Williams,C,1.98,90.52,83,92,77,33,Art,Music Club,Not Graduated
+912747,Peggy Dyer,C,1.59,89.93,19,93,10,70,Art,Music Club,Not Graduated
+408715,Anne Green,C,1.0,91.42,67,86,80,41,Drama,Debate,Not Graduated
+755003,Daniel Vargas,C,2.41,73.25,57,91,61,70,Computer Science,Art Club,Not Graduated
+711286,Joshua Quinn,D,1.08,62.72,66,27,88,40,Art,Sports,Not Graduated
+308078,Cheryl Fox,A,2.2,93.87,2,42,30,63,Computer Science,Art Club,Not Graduated
+319016,Kathryn Orozco,B,2.02,76.26,6,89,5,91,Music,Debate,Not Graduated
+341647,Jonathan Ochoa,F,3.63,67.29,70,15,89,72,Art,Debate,Graduated
+429007,Rhonda Cooke,B,3.24,88.3,82,48,77,43,Music,Art Club,Graduated
+660609,Alicia White,B,2.34,65.92,24,64,8,75,Drama,Sports,Not Graduated
+346780,Eduardo Nicholson,C,0.41,65.02,76,9,29,94,Drama,Music Club,Not Graduated
+970031,Robert Miller,A,2.67,75.52,21,38,27,19,Art,Debate,Graduated
+359764,Elizabeth Medina,A,2.9,67.39,11,18,5,44,Art,Music Club,Not Graduated
+246108,Tracey Mccormick,C,2.18,74.77,37,16,95,44,Drama,Debate,Graduated
+942040,Michael Wood,A,1.23,94.77,82,75,94,86,Computer Science,Sports,Graduated
+968046,Billy Mayer,D,3.44,86.18,39,95,17,97,Art,Art Club,Graduated
+525325,Stacey Jones,B,1.12,67.45,42,65,86,47,Music,Art Club,Not Graduated
+603633,Alexis Yang,B,2.88,69.64,42,18,5,65,Drama,Sports,Not Graduated
+610305,Daniel Lewis,F,0.72,92.85,60,12,27,35,Drama,Sports,Graduated
+689804,Aaron Anderson,D,1.01,61.75,92,54,36,69,Drama,Music Club,Graduated
+143618,Dustin Gomez,C,2.12,71.47,97,94,27,62,Computer Science,Debate,Graduated
+350129,April Hodges,A,0.87,75.84,50,17,0,95,Music,Art Club,Graduated
+975391,Ashley Snyder,B,3.0,79.64,47,64,51,79,Art,Sports,Graduated
+148035,Tamara Jenkins,F,3.29,76.82,92,10,49,73,Drama,Art Club,Graduated
+546364,Joyce Shaw,A,2.56,65.87,30,47,24,10,Art,Music Club,Graduated
+585957,Gerald Smith,C,2.5,98.57,5,89,12,84,Art,Art Club,Not Graduated
+534707,Jennifer Daniel,F,1.3,67.18,26,52,85,92,Drama,Debate,Graduated
+467471,Nicole Hill,C,0.65,75.49,53,72,45,45,Computer Science,Music Club,Graduated
+382822,Sara Green,D,1.4,76.19,26,55,16,33,Drama,Music Club,Graduated
+495723,Donald Brown,A,1.23,73.3,14,2,49,98,Art,Music Club,Not Graduated
+559441,Melinda Dixon,F,2.7,98.89,79,39,48,5,Music,Music Club,Not Graduated
+100244,Wanda Mejia,D,1.58,95.12,75,62,69,29,Music,Debate,Not Graduated
+524171,Alison Novak,B,1.0,70.64,35,82,47,81,Computer Science,Art Club,Graduated
+346516,Holly Lynch,D,0.56,62.69,59,23,44,66,Drama,Art Club,Graduated
+698126,Dr. Roberta Dudley,D,2.8,64.97,98,62,12,53,Art,Debate,Not Graduated
+814259,Karen Barnes,C,3.99,82.02,95,65,12,32,Computer Science,Debate,Not Graduated
+902474,Donald Barr,B,1.66,96.42,62,18,48,42,Art,Sports,Graduated
+501412,Steven Sanchez,A,3.39,98.03,50,12,53,0,Art,Sports,Not Graduated
+294411,Yvonne Horn,A,3.69,75.96,47,20,37,2,Computer Science,Sports,Graduated
+569827,Christina Melendez,F,1.73,86.2,85,39,58,70,Computer Science,Music Club,Graduated
+337970,Kathy Ramirez,C,3.43,61.41,89,36,20,0,Music,Debate,Not Graduated
+656418,Brittany Bell,D,1.81,87.58,60,25,72,6,Music,Sports,Not Graduated
+536256,James Welch,C,3.12,70.9,5,82,90,26,Computer Science,Art Club,Not Graduated
+118244,Diana Evans,F,2.01,91.21,65,40,78,62,Drama,Sports,Not Graduated
+152733,Douglas Brown,F,3.33,87.59,3,65,42,66,Music,Music Club,Not Graduated
+818508,Sabrina Hernandez,F,0.94,68.78,17,66,5,75,Music,Debate,Graduated
+830184,Caitlin Clements,F,3.71,84.18,89,95,40,94,Art,Music Club,Graduated
+894951,Sergio Reed,A,0.81,94.3,81,5,92,41,Drama,Art Club,Not Graduated
+586942,Tiffany Morris,A,0.64,95.36,34,81,92,15,Art,Debate,Not Graduated
+980638,Bethany Nelson,A,0.53,72.77,7,60,26,53,Computer Science,Art Club,Not Graduated
+771052,Julia Martinez,D,1.31,98.62,52,56,72,15,Music,Art Club,Graduated
+574387,Mark Holt,F,2.76,70.81,30,60,99,73,Music,Art Club,Not Graduated
+354357,Henry Jones,D,3.83,62.42,45,7,11,24,Art,Debate,Not Graduated
+448112,Miss Marcia Rodriguez,F,2.34,61.56,28,82,21,85,Drama,Debate,Not Graduated
+850237,Amber Pena,F,2.83,84.73,91,34,17,28,Art,Debate,Not Graduated
+106390,Christy Gutierrez,D,1.97,69.73,50,84,74,6,Drama,Music Club,Not Graduated
+615416,Jordan Jones,D,3.05,60.97,47,28,94,97,Drama,Art Club,Graduated
+950636,Jasmine Thomas,F,2.94,73.55,12,24,17,87,Art,Music Club,Not Graduated
+234093,James Mcintyre,C,1.56,99.95,55,3,32,90,Art,Music Club,Not Graduated
+627607,Gary Bullock,D,2.56,76.15,76,41,77,17,Computer Science,Debate,Graduated
+323733,Allen Diaz,D,3.92,98.39,71,26,25,87,Drama,Art Club,Not Graduated
+457951,Tracey Walker,A,0.65,69.11,68,51,37,67,Drama,Sports,Graduated
+716044,Timothy Lambert,D,0.72,63.0,37,73,34,58,Music,Music Club,Not Graduated
+442327,Alexis Allen,C,1.03,64.53,47,51,97,1,Art,Music Club,Not Graduated
+755023,Shannon Lewis,F,2.3,99.93,21,45,92,35,Computer Science,Sports,Not Graduated
+119972,Anthony Baker,D,0.96,73.55,16,43,27,2,Art,Art Club,Graduated
+552737,Faith Walker,D,0.74,74.35,72,34,82,41,Music,Art Club,Graduated
+154920,Brandy Rodriguez,A,1.89,80.36,19,49,71,10,Art,Music Club,Not Graduated
+935447,Nichole Graham,F,1.05,83.07,18,98,22,72,Art,Debate,Graduated
+170909,Karen Walters,F,0.99,61.34,76,89,1,87,Art,Sports,Graduated
+445390,Lynn Thomas,B,1.26,68.78,57,80,20,83,Music,Music Club,Graduated
+428587,Clifford Williams,D,1.64,68.92,18,48,12,87,Computer Science,Art Club,Not Graduated
+839510,Anthony Chavez,F,3.51,76.59,0,17,80,65,Drama,Music Club,Not Graduated
+623841,Malik Berger Jr.,C,3.21,85.66,36,72,48,26,Drama,Music Club,Not Graduated
+236049,Jeremy Jones,D,1.76,66.46,47,68,95,63,Drama,Sports,Not Graduated
+121460,Rebecca Lopez,F,0.07,62.94,10,12,49,90,Art,Music Club,Not Graduated
+321969,John Smith,B,2.14,66.62,78,74,4,47,Art,Sports,Not Graduated
+539284,Monique Malone,C,2.73,85.72,94,14,80,48,Music,Sports,Graduated
+195872,Todd Davis,D,3.18,77.66,14,72,54,15,Drama,Debate,Not Graduated
+368956,Wendy Norris,A,0.96,64.8,9,38,82,38,Art,Debate,Graduated
+194498,Michael Smith,B,0.34,85.23,35,67,41,49,Music,Art Club,Not Graduated
+509014,Brent Green,C,3.74,82.81,61,35,7,88,Drama,Sports,Not Graduated
+633047,James Benson,D,3.56,96.22,1,42,4,25,Music,Sports,Graduated
+104091,Hannah Ibarra,A,3.86,97.23,61,14,81,50,Computer Science,Debate,Not Graduated
+904026,Joseph Stewart,F,1.83,96.12,47,11,97,67,Art,Debate,Not Graduated
+239441,Dustin Barnes,A,0.6,67.21,5,16,32,4,Drama,Music Club,Graduated
+835767,Sara Adams,F,3.34,80.76,40,53,31,54,Drama,Sports,Graduated
+300486,Susan Trujillo,B,1.38,97.65,34,61,47,96,Art,Art Club,Not Graduated
+761014,Joshua Gillespie,A,1.93,75.41,22,58,27,13,Music,Music Club,Not Graduated
+314153,Mrs. Kendra Miller,A,3.21,86.53,69,24,7,86,Drama,Debate,Graduated
+870609,Teresa Sanders,F,0.91,68.54,85,68,92,68,Music,Music Club,Graduated
+416160,Zachary Warner,F,0.84,90.24,24,49,88,82,Drama,Music Club,Not Graduated
+519972,Sandra Hayes,B,2.96,69.86,80,22,18,8,Art,Music Club,Graduated
+787167,Jessica Daniels,F,3.72,70.24,87,50,17,74,Drama,Debate,Graduated
+395483,Jennifer Robinson,F,1.63,67.67,84,33,99,22,Art,Art Club,Graduated
+728646,Anna Jones,A,3.1,86.02,83,75,66,54,Computer Science,Art Club,Graduated
+526572,Elizabeth Burton,F,2.79,70.93,36,91,53,21,Computer Science,Debate,Not Graduated
+724039,Laurie Perry,C,1.02,74.71,90,29,93,60,Music,Art Club,Graduated
+260413,Ryan Ross,B,1.21,65.21,46,91,30,22,Drama,Art Club,Not Graduated
+449792,Karen Mejia,C,1.91,62.09,81,95,92,2,Computer Science,Sports,Graduated
+246858,Anthony Norris,F,2.45,97.75,22,23,65,15,Art,Music Club,Graduated
+609954,Darren Parker,F,0.42,84.89,45,15,91,42,Computer Science,Art Club,Not Graduated
+675789,Christy Juarez,B,0.01,93.61,79,1,12,78,Music,Art Club,Not Graduated
+610797,Lisa Cortez MD,F,3.66,79.44,2,73,20,65,Music,Sports,Graduated
+617498,Mr. Johnathan Martinez,C,0.75,63.61,12,30,71,90,Computer Science,Debate,Graduated
+324864,Nancy Hahn,F,0.83,79.21,68,43,97,18,Music,Debate,Graduated
+654526,Jonathan Phillips,F,3.16,73.56,18,93,95,85,Computer Science,Sports,Graduated
+503128,Daniel Smith,B,2.75,97.35,41,17,48,2,Music,Sports,Graduated
+820095,Jennifer Aguilar,B,1.83,87.14,77,79,35,43,Drama,Sports,Graduated
+566986,Barbara Davis,B,2.27,78.41,79,17,39,6,Art,Sports,Not Graduated
+977119,Jeff Lopez,C,1.0,61.4,79,8,57,38,Music,Sports,Not Graduated
+854229,Charles Anderson,D,3.14,94.06,64,6,38,9,Computer Science,Art Club,Not Graduated
+704243,David Cook,D,3.79,89.81,67,91,10,61,Art,Sports,Graduated
+644646,Gary Johns,F,1.96,88.07,48,50,76,39,Music,Music Club,Graduated
+756963,Teresa Ford,D,3.65,72.07,4,53,79,57,Music,Art Club,Not Graduated
+102119,Javier Nguyen,F,3.12,77.68,39,95,28,3,Drama,Sports,Graduated
+412294,Michael Sanchez,D,3.62,67.84,56,22,21,29,Computer Science,Debate,Not Graduated
+599404,Amanda Burnett,A,2.62,83.11,32,61,8,47,Drama,Sports,Graduated
+249602,Clifford Frazier,F,0.01,93.64,39,40,85,18,Music,Sports,Not Graduated
+899134,Sherri Rhodes,D,2.39,81.08,76,24,48,93,Music,Sports,Graduated
+761230,Christopher Gonzalez,B,3.25,82.45,12,86,49,35,Drama,Sports,Graduated
+872398,Maria Watson,A,1.92,98.22,52,19,48,68,Computer Science,Debate,Not Graduated
+528893,Michelle Marshall,C,3.07,72.46,44,84,80,84,Music,Art Club,Not Graduated
+562026,Matthew Wong,B,1.77,61.58,88,19,51,44,Computer Science,Art Club,Graduated
+339868,Wyatt Davis,C,0.36,63.55,73,60,93,43,Drama,Sports,Graduated
+350681,Deanna Fischer,F,3.45,95.74,83,13,6,23,Computer Science,Sports,Graduated
+832358,Edwin Miller,B,0.91,83.74,38,9,2,31,Computer Science,Music Club,Not Graduated
+543895,James Scott,F,0.05,70.12,32,67,49,25,Music,Debate,Not Graduated
+798979,Aaron Orr,F,0.74,74.61,89,72,79,97,Drama,Sports,Graduated
+348515,Erica Singh,F,0.23,73.08,35,88,88,70,Music,Sports,Graduated
+192465,Michelle Anderson,D,1.44,60.05,9,34,51,9,Computer Science,Sports,Not Graduated
+305210,Heather Stephens,A,1.98,81.29,65,30,41,68,Drama,Sports,Graduated
+235286,Nathaniel Haley,D,0.62,68.24,6,71,13,61,Music,Sports,Graduated
+544623,Jessica Oneill,B,2.22,78.06,31,50,87,46,Art,Debate,Graduated
+804150,Shane Costa,B,0.12,81.02,44,89,21,4,Computer Science,Art Club,Graduated
+588791,Elizabeth Butler,B,2.1,87.57,30,40,11,61,Computer Science,Sports,Graduated
+274568,Jennifer Jackson,F,1.81,99.3,45,11,22,38,Drama,Art Club,Not Graduated
+501124,Stephanie Hawkins,B,1.18,72.02,9,27,63,87,Drama,Music Club,Graduated
+651022,Karina Landry,F,3.99,68.73,64,17,44,51,Music,Sports,Graduated
+206857,Cindy Richardson,C,1.28,77.23,98,22,58,99,Computer Science,Sports,Graduated
+265557,Mr. David Moore MD,C,0.68,63.77,10,45,12,21,Computer Science,Debate,Not Graduated
+392905,Randy Lewis,D,0.84,60.5,85,42,17,55,Music,Music Club,Graduated
+841628,Shane Sweeney,D,2.3,73.55,91,9,90,8,Music,Debate,Not Graduated
+736111,Carol Wilson,C,2.09,92.16,91,53,27,33,Computer Science,Art Club,Graduated
+790950,Michael Cochran,A,3.35,82.87,92,59,79,27,Music,Music Club,Graduated
+918467,Lance Davis,F,2.83,61.94,25,30,68,62,Drama,Music Club,Not Graduated
+240081,Laura Aguilar,D,1.84,83.38,13,53,68,78,Music,Music Club,Graduated
+964199,Kaitlin Estes,A,0.0,63.18,74,61,17,82,Drama,Debate,Graduated
+917017,Austin Saunders,D,3.1,73.56,68,83,94,41,Music,Music Club,Not Graduated
+198682,Benjamin Chung,A,2.51,68.01,69,94,46,31,Computer Science,Music Club,Not Graduated
+707154,Stephen Ferguson,F,2.44,90.13,34,12,27,86,Art,Sports,Not Graduated
+588165,Zachary Newman,B,0.96,70.02,30,50,14,14,Drama,Music Club,Not Graduated
+329521,Kelly Phillips,A,3.26,64.74,93,95,27,36,Music,Sports,Graduated
+467028,Dr. Brian Bennett,F,0.0,76.53,65,63,60,6,Drama,Art Club,Not Graduated
+238561,John Sanchez,D,3.25,62.18,0,76,42,88,Drama,Sports,Not Graduated
+927064,Mrs. Sandy Leon MD,F,1.08,65.32,63,0,14,13,Music,Music Club,Not Graduated
+176774,Sarah Adams,B,3.07,65.79,34,39,81,5,Art,Art Club,Not Graduated
+985993,Morgan Brown,A,2.18,61.05,12,15,99,52,Computer Science,Art Club,Not Graduated
+548850,Jacqueline Edwards,A,0.45,71.36,55,30,56,92,Computer Science,Art Club,Graduated
+792429,Peter Parker,C,0.34,69.51,48,30,2,29,Drama,Debate,Not Graduated
+428615,Roger Cardenas,A,0.88,68.26,65,41,64,27,Art,Sports,Not Graduated
+760920,Richard Baker,B,2.3,88.93,39,52,56,55,Music,Music Club,Graduated
+887353,Daisy Townsend,D,0.7,68.44,8,41,72,37,Computer Science,Sports,Graduated
+702163,Samantha Cruz,B,3.62,98.15,72,80,39,20,Computer Science,Music Club,Graduated
+690035,Susan Decker,D,0.41,88.43,26,28,13,23,Art,Art Club,Graduated
+804236,Lisa Reid,B,1.65,63.55,1,87,28,9,Drama,Sports,Not Graduated
+953182,Molly Thompson,F,3.09,80.6,16,11,76,46,Music,Art Club,Not Graduated
+703062,Ryan Martinez,C,0.61,98.62,93,65,4,14,Drama,Art Club,Not Graduated
+982694,Douglas Thompson,D,1.62,77.46,74,10,52,88,Drama,Debate,Graduated
+430820,Marie Rivas,F,2.11,68.69,71,80,17,44,Drama,Debate,Not Graduated
+823275,Haley Coleman,C,2.06,71.64,34,70,33,22,Computer Science,Debate,Not Graduated
+664326,Cassidy Holloway,D,2.67,99.51,81,51,9,59,Computer Science,Debate,Not Graduated
+929081,Stacey Williams,A,1.31,96.13,39,82,98,45,Computer Science,Art Club,Not Graduated
+228230,Paul Nguyen,B,0.37,94.22,93,31,1,49,Music,Sports,Graduated
+342947,Michael Macdonald,F,0.62,90.94,33,57,12,54,Drama,Sports,Graduated
+181221,Nathan Nelson,D,2.12,60.18,8,77,66,51,Drama,Music Club,Graduated
+546654,Amanda Meadows,B,3.53,85.87,73,42,2,8,Music,Art Club,Graduated
+776475,April Thompson,D,3.8,78.92,98,41,23,98,Computer Science,Music Club,Not Graduated
+942263,Lori Watson,D,1.41,96.51,59,29,85,30,Drama,Debate,Graduated
+685849,James Rodriguez,D,1.44,95.22,39,25,11,83,Music,Debate,Graduated
+891192,Tara Patrick,F,2.36,83.98,44,27,89,60,Music,Debate,Graduated
+719604,Kimberly Jones,A,2.62,73.38,70,39,38,81,Art,Music Club,Not Graduated
+127100,Lauren Palmer,F,0.52,66.57,6,7,25,44,Computer Science,Music Club,Not Graduated
+675108,Robert Hall,F,2.15,71.11,76,53,30,33,Art,Debate,Graduated
+217338,Darryl Turner,A,3.23,99.49,88,32,45,7,Drama,Debate,Graduated
+180127,Meghan Smith,B,3.53,63.7,49,86,73,90,Art,Art Club,Not Graduated
+883774,Lauren Armstrong,B,1.88,83.87,33,36,51,88,Drama,Sports,Not Graduated
+712424,Gary Park,D,2.6,98.99,14,43,83,26,Music,Music Club,Graduated
+310960,Tonya Walker,D,1.47,94.29,88,66,68,23,Art,Music Club,Not Graduated
+652450,Henry Garcia,F,0.06,78.26,99,66,99,59,Art,Debate,Graduated
+488650,Michelle Velasquez,F,0.84,73.23,8,51,13,27,Computer Science,Debate,Graduated
+373202,Julie Kelly,D,1.24,78.43,33,27,14,9,Computer Science,Debate,Not Graduated
+728937,James Aguilar,F,1.01,99.32,87,12,11,45,Computer Science,Debate,Graduated
+388390,Michelle Rodriguez,B,0.85,97.53,33,99,40,80,Drama,Art Club,Graduated
+668625,Elizabeth Ramos,C,1.63,86.39,0,26,3,38,Music,Sports,Graduated
+134268,Aimee Rich,B,2.24,62.11,79,73,38,8,Drama,Music Club,Graduated
+408118,Erica Smith,B,2.97,90.51,28,52,4,18,Drama,Sports,Graduated
+694904,Phillip Wilson,B,1.85,78.64,3,53,90,93,Art,Art Club,Graduated
+371652,Kevin Orr,D,2.63,62.4,60,9,75,19,Music,Debate,Not Graduated
+336062,Debra Johnson,D,2.88,63.42,17,59,93,26,Drama,Sports,Graduated
+166555,Ryan Soto,D,3.82,64.55,96,59,17,6,Music,Art Club,Graduated
+723572,Vanessa Welch,D,0.79,88.21,17,19,81,34,Art,Debate,Graduated
+596454,Jason Richards,A,0.71,75.02,10,91,8,48,Computer Science,Art Club,Not Graduated
+539524,Rachel Mccarthy,B,2.44,76.24,92,4,35,19,Computer Science,Sports,Graduated
+387033,Michael Snyder,F,2.04,76.11,57,86,67,69,Music,Music Club,Graduated
+803024,Rebecca Sharp,A,2.53,87.4,69,99,80,83,Music,Debate,Not Graduated
+484518,Kara Garcia,C,3.37,71.25,99,82,40,64,Drama,Sports,Not Graduated
+174471,Kyle Miller,D,2.78,61.89,98,49,31,6,Art,Sports,Graduated
+368582,Shannon Walker,D,2.81,80.5,22,77,68,50,Art,Debate,Graduated
+803556,Margaret Alexander,B,0.9,66.32,4,87,84,83,Art,Sports,Not Graduated
+123281,Peter Garrett,F,0.74,82.64,1,46,12,32,Computer Science,Music Club,Graduated
+752376,Sarah Hester,A,2.22,80.19,23,5,23,96,Computer Science,Art Club,Not Graduated
+165790,Tiffany Macdonald,F,1.27,68.49,73,98,20,23,Music,Debate,Not Graduated
+954220,Melissa Andrews,A,1.91,82.4,7,23,33,39,Computer Science,Debate,Not Graduated
+123731,Jenna Gomez,C,3.2,61.87,84,87,97,99,Music,Art Club,Graduated
+492665,Donna Williams,B,1.26,96.63,63,69,60,29,Art,Music Club,Graduated
+846255,Joseph Chase,B,3.09,84.81,46,39,48,57,Music,Music Club,Graduated
+873593,Charles Kennedy,C,2.9,93.23,80,38,19,23,Music,Art Club,Graduated
+176277,Gabrielle Skinner,D,0.64,71.1,9,31,21,39,Music,Music Club,Not Graduated
+795444,Diana Andrews,F,2.13,91.57,61,6,65,49,Computer Science,Sports,Not Graduated
+665925,Mary Walker,F,0.67,68.45,22,26,73,54,Music,Sports,Not Graduated
+270646,Joseph Robbins,C,3.64,81.11,28,5,51,43,Drama,Art Club,Graduated
+124640,Elizabeth Miller,B,1.34,91.55,10,71,82,28,Art,Sports,Graduated
+178930,Troy Scott,F,2.2,84.59,40,77,91,89,Drama,Sports,Not Graduated
+361329,Amy Figueroa,D,1.7,62.83,71,44,67,66,Drama,Debate,Not Graduated
+751499,Susan Wheeler,B,1.5,82.2,89,90,71,78,Art,Art Club,Graduated
+522946,Richard Williams,F,3.55,63.84,85,10,82,10,Drama,Debate,Not Graduated
+770530,William Anderson,F,0.55,90.23,55,23,73,27,Computer Science,Music Club,Graduated
+856524,George Watson,D,0.67,91.18,15,33,31,4,Computer Science,Music Club,Graduated
+863128,Tyrone Douglas,D,3.78,70.78,35,69,39,72,Drama,Art Club,Graduated
+772245,Brent Brady,A,0.17,77.56,97,81,50,62,Drama,Debate,Graduated
+153295,Brooke Richards,B,0.19,90.16,98,61,0,78,Music,Debate,Not Graduated
+957449,Lance Jones,D,1.67,64.36,33,11,24,81,Music,Debate,Graduated
+537379,Hannah Mcgee,D,0.62,67.68,5,97,90,63,Art,Debate,Not Graduated
+300162,Melissa Paul,C,1.99,63.28,59,98,51,39,Art,Sports,Graduated
+641875,Michele Short,D,2.94,63.79,97,76,15,88,Music,Art Club,Not Graduated
+410807,Caleb Fisher,F,0.73,93.59,42,98,36,48,Drama,Debate,Graduated
+691187,Leslie Mccall,B,0.26,96.86,33,77,92,96,Drama,Debate,Not Graduated
+921695,Michael Sanchez,C,3.03,91.17,95,91,34,99,Art,Music Club,Not Graduated
+184047,Christopher Cisneros,C,1.2,60.98,59,23,34,10,Drama,Debate,Not Graduated
+413021,Michael Pierce,C,3.39,88.86,48,88,85,97,Art,Sports,Graduated
+134272,Wendy Wilcox,D,1.98,65.71,88,31,17,48,Drama,Sports,Not Graduated
+583038,Victoria Santana,F,3.25,74.45,45,74,88,6,Art,Music Club,Not Graduated
+967861,Anthony Wilkinson,F,2.09,66.28,36,43,76,9,Computer Science,Music Club,Graduated
+979824,Sarah Mcfarland,F,3.18,84.35,50,36,46,84,Music,Art Club,Graduated
+339170,Stacy Morton DVM,A,2.27,65.95,30,88,74,64,Drama,Music Club,Not Graduated
+594372,Tyler Singleton,D,2.58,72.59,33,97,62,46,Music,Debate,Graduated
+126042,Devin Blackwell,F,2.0,84.18,5,86,75,90,Computer Science,Music Club,Not Graduated
+688638,April Smith,F,2.64,86.08,79,66,95,82,Art,Debate,Not Graduated
+245412,Virginia Singh,B,3.56,81.72,2,74,17,5,Computer Science,Sports,Graduated
+679014,Nicholas Lewis,D,1.67,93.45,83,23,23,92,Computer Science,Art Club,Graduated
+543770,Barbara Perry,A,3.41,76.43,54,64,20,25,Computer Science,Art Club,Graduated
+936620,Kari Hurst,C,2.8,71.64,64,20,57,78,Drama,Sports,Not Graduated
+666099,Kyle Turner MD,D,0.24,95.88,9,23,73,58,Computer Science,Debate,Not Graduated
+410834,Katherine Thompson,F,2.49,83.21,3,72,84,17,Drama,Sports,Graduated
+547307,Kristina Burns,B,1.8,76.19,14,99,0,23,Music,Debate,Graduated
+654739,Tanya Huang,D,3.05,63.09,62,11,76,17,Computer Science,Art Club,Graduated
+137022,Jennifer Sanders,F,1.57,75.3,9,98,95,92,Computer Science,Music Club,Graduated
+553773,Steven Bates,A,2.78,61.44,19,64,36,99,Art,Music Club,Not Graduated
+670035,Brittany Holloway,F,3.25,72.52,79,66,5,93,Art,Art Club,Not Graduated
+548290,Dwayne Cortez,D,1.86,93.81,75,30,74,66,Art,Music Club,Graduated
+464969,Kelsey Henderson,F,1.36,71.48,87,58,68,23,Drama,Sports,Graduated
+626950,Kyle Hess,A,0.97,89.22,66,49,23,92,Art,Sports,Not Graduated
+108668,Jessica Gentry,D,0.3,77.85,17,21,31,23,Art,Debate,Not Graduated
+961650,Luke Baker,F,0.09,75.94,43,34,68,81,Drama,Debate,Not Graduated
+690416,Douglas Mathews,D,1.6,61.03,23,69,74,55,Drama,Sports,Graduated
+614206,Lee Stein,D,1.57,96.95,18,82,72,62,Music,Debate,Graduated
+251068,Cody Ellis,D,0.21,98.13,35,49,55,64,Computer Science,Sports,Graduated
+731570,Amy Oconnor,B,0.83,82.26,39,69,30,16,Music,Debate,Not Graduated
+350163,Anthony Becker,C,3.73,74.29,33,96,98,75,Art,Debate,Graduated
+638787,Charles Myers,F,0.19,90.18,64,78,34,87,Art,Debate,Graduated
+234940,Evelyn Nolan,F,1.18,68.37,37,54,96,35,Computer Science,Debate,Not Graduated
+633520,Emily Gibson,A,2.6,77.1,60,76,13,71,Art,Debate,Graduated
+970297,Mia Johnson,D,1.76,70.98,88,20,59,98,Art,Art Club,Graduated
+360422,Susan Whitaker,D,0.93,65.38,3,97,73,13,Drama,Debate,Not Graduated
+749971,Jacqueline Walker,F,1.84,96.23,13,67,14,68,Music,Music Club,Not Graduated
+831006,Julia Jones,D,0.61,71.95,68,5,25,96,Music,Music Club,Not Graduated
+709183,Sean Lamb,B,0.9,77.04,87,68,37,38,Art,Sports,Not Graduated
+137306,Robert Kemp,A,3.15,73.69,96,94,85,40,Music,Sports,Not Graduated
+675615,Jessica Roberts,D,0.84,89.79,20,16,15,79,Art,Debate,Not Graduated
+719326,Gina Gamble,F,0.82,61.68,40,75,18,3,Art,Art Club,Graduated
+871828,Jason Smith,D,2.85,65.91,5,42,69,42,Computer Science,Music Club,Graduated
+502547,Michael Scott,D,1.71,70.34,40,23,55,25,Drama,Art Club,Not Graduated
+492936,Adrian Parker,B,0.23,67.56,55,25,92,24,Drama,Debate,Not Graduated
+157965,Christine Mcconnell,F,1.85,60.65,86,2,31,86,Art,Art Club,Not Graduated
+388038,Robert Snow,B,1.7,90.85,51,54,6,40,Drama,Art Club,Graduated
+811646,Gregory Griffin,B,1.21,91.35,74,2,27,9,Drama,Sports,Graduated
+445286,Katie Daniel DDS,A,0.27,65.94,62,88,81,28,Music,Debate,Not Graduated
+155895,Mikayla West,D,2.32,92.59,56,16,41,28,Art,Debate,Not Graduated
+860150,Cathy Jenkins,A,1.34,92.17,5,65,72,84,Computer Science,Sports,Graduated
+501262,Nicolas Schmidt,A,2.66,61.31,93,24,49,88,Music,Sports,Graduated
+549412,Adrian Nguyen,C,0.97,77.82,76,9,55,86,Music,Music Club,Graduated
+355086,Kaitlin Frank,F,3.08,60.69,21,32,6,88,Music,Debate,Graduated
+241181,Jorge Li,D,2.31,84.25,4,26,34,40,Music,Art Club,Graduated
+271711,Ashley Mcbride,B,3.58,84.64,3,86,27,13,Art,Debate,Not Graduated
+220922,Richard Robinson,C,3.21,96.64,98,60,30,61,Drama,Art Club,Graduated
+725862,Eric Brooks,B,3.07,96.58,43,78,69,84,Music,Sports,Graduated
+210120,Jessica Armstrong,D,0.04,78.19,38,16,28,24,Art,Sports,Not Graduated
+943078,Jeremiah Conley,C,0.6,80.75,1,5,80,77,Art,Sports,Graduated
+915160,Elizabeth Jimenez,B,2.28,61.45,88,59,39,53,Drama,Art Club,Not Graduated
+302175,Philip Olson,D,2.56,94.43,45,26,36,44,Music,Sports,Not Graduated
+368798,Arthur Young,C,1.4,91.75,43,84,64,13,Drama,Art Club,Not Graduated
+580254,Desiree Perez,C,2.92,92.05,3,75,87,21,Computer Science,Art Club,Not Graduated
+532113,Miranda Humphrey,B,4.0,71.99,5,51,53,68,Computer Science,Debate,Graduated
+238551,Diana Vargas,C,1.68,63.7,41,30,12,30,Computer Science,Debate,Graduated
+551834,Christopher Ochoa,C,0.65,67.99,45,44,3,70,Art,Sports,Not Graduated
+952264,Carlos Lopez,A,2.19,60.63,14,96,43,19,Computer Science,Music Club,Not Graduated
+110362,Cody Webb,D,0.9,67.17,36,8,98,69,Computer Science,Art Club,Not Graduated
+658757,Steven Jensen,B,0.52,73.91,49,4,55,30,Drama,Music Club,Not Graduated
+238046,Michael Burns,D,1.52,83.87,18,60,48,84,Drama,Music Club,Graduated
+920242,Mary Allen,B,0.07,89.76,39,42,4,43,Art,Debate,Not Graduated
+775470,Daniel Arnold,D,0.49,95.79,13,51,14,21,Music,Debate,Not Graduated
+704450,Justin Rosales,F,3.09,71.97,20,84,36,89,Computer Science,Debate,Not Graduated
+739090,Kimberly Hernandez,D,0.65,64.15,37,96,40,12,Music,Art Club,Graduated
+713348,Angel Warren,B,3.46,68.24,36,68,76,91,Drama,Debate,Not Graduated
+277854,Maureen Jenkins,B,0.78,69.08,66,67,86,6,Art,Sports,Not Graduated
+803168,Eric Patel,B,0.47,85.93,5,15,60,47,Art,Sports,Not Graduated
+355405,Natalie Wolf,A,1.9,75.54,2,80,19,61,Drama,Art Club,Graduated
+596133,Lisa Wright,F,2.68,87.04,0,93,45,78,Art,Debate,Not Graduated
+257954,Shawn Smith,A,1.91,97.65,24,17,43,28,Art,Music Club,Not Graduated
+535998,Timothy Wong,B,0.64,67.49,77,68,10,27,Art,Debate,Not Graduated
+918927,Julie Kaufman,C,2.08,74.48,81,96,64,90,Music,Debate,Not Graduated
+499263,Erica Alexander,C,1.33,71.36,40,49,58,86,Art,Art Club,Not Graduated
+746517,Taylor Glover,A,1.87,69.93,64,66,5,55,Music,Debate,Not Graduated
+779949,Maria Maddox,A,1.09,62.3,83,16,38,39,Drama,Debate,Not Graduated
+831946,Erin Porter,C,3.94,97.37,18,11,10,86,Computer Science,Art Club,Graduated
+815639,Andrew Cunningham,C,0.26,96.3,54,38,11,27,Drama,Sports,Graduated
+637485,Kayla Johnson,D,0.09,77.22,46,72,23,69,Computer Science,Music Club,Not Graduated
+421103,Jennifer Davis,C,0.97,85.94,83,37,36,86,Drama,Sports,Graduated
+556500,Lisa Graham,B,3.1,71.23,18,88,11,65,Art,Sports,Graduated
+470767,Stacey Friedman,F,3.4,86.1,15,46,37,75,Music,Art Club,Graduated
+487665,Kevin Villarreal,F,2.56,92.37,40,42,73,20,Art,Sports,Graduated
+359123,Kimberly Acosta,F,1.54,64.78,19,33,48,11,Music,Music Club,Not Graduated
+285396,Wendy Jones,F,1.92,80.07,81,38,92,68,Computer Science,Art Club,Graduated
+609378,Randy Castaneda,D,0.45,62.61,53,31,86,49,Art,Sports,Not Graduated
+474038,Regina Hart,B,3.56,72.65,79,27,49,41,Music,Sports,Graduated
+393563,Antonio Williams,D,3.79,91.83,77,16,83,18,Art,Music Club,Not Graduated
+512185,Mark Williams,D,3.32,93.24,3,10,84,5,Drama,Sports,Not Graduated
+419180,Christine Ibarra,F,0.27,60.41,2,2,35,30,Computer Science,Music Club,Graduated
+732713,Gerald Clark,C,3.78,77.13,39,33,86,64,Art,Sports,Not Graduated
+976380,Christopher Mitchell,A,1.3,65.25,83,79,53,20,Music,Art Club,Graduated
+229015,Ariel Valdez,A,2.0,84.83,99,58,70,94,Drama,Debate,Not Graduated
+766292,Phillip Phillips,B,3.92,91.15,28,59,8,99,Computer Science,Debate,Not Graduated
+347425,Tricia Hurst,C,3.39,89.81,64,61,32,56,Art,Art Club,Graduated
+482406,Jonathan Johnson,C,3.19,71.28,34,32,53,73,Computer Science,Art Club,Not Graduated
+477384,Julie Wong,F,3.88,75.38,76,18,41,62,Music,Music Club,Not Graduated
+401675,Susan Dominguez,D,0.59,76.04,43,63,28,83,Art,Music Club,Graduated
+284413,Matthew Clarke,F,2.95,87.59,62,99,48,0,Computer Science,Sports,Not Graduated
+260019,Danny Thompson,F,3.1,77.39,72,38,86,87,Music,Debate,Graduated
+478898,Michael Nelson,C,3.87,90.5,15,3,56,25,Music,Music Club,Graduated
+684455,Hannah Perkins,D,1.63,87.34,84,99,65,82,Art,Art Club,Not Graduated
+170784,Nancy White,A,3.69,63.91,94,63,40,57,Music,Music Club,Not Graduated
+871304,Robyn Allen,C,3.48,69.35,10,82,92,59,Drama,Art Club,Not Graduated
+476736,Glenda Anthony,A,1.47,86.11,97,44,17,30,Art,Music Club,Not Graduated
+479133,Diana Haynes,F,3.63,68.33,39,28,43,91,Drama,Debate,Not Graduated
+897592,Emma Hayes,C,3.57,62.26,89,65,23,28,Music,Sports,Not Graduated
+969849,Jessica Graham,F,3.81,66.02,91,32,56,71,Drama,Music Club,Graduated
+373806,Mark Mendoza,F,1.68,68.02,84,40,10,94,Drama,Art Club,Graduated
+557370,James Russell,C,2.98,68.92,96,78,83,22,Music,Art Club,Graduated
+957167,Bridget Turner,C,1.21,92.69,37,24,69,34,Drama,Sports,Not Graduated
+371781,Samuel Pham,F,2.53,67.78,13,94,96,97,Drama,Sports,Not Graduated
+582587,Brenda Gonzalez,F,0.71,89.69,66,65,35,40,Drama,Debate,Not Graduated
+944440,Brandi Ellis,F,0.23,85.67,28,44,4,70,Computer Science,Music Club,Graduated
+550879,Patrick Martinez Jr.,C,1.35,86.89,43,34,27,78,Computer Science,Sports,Not Graduated
+523556,Jennifer Perez,C,3.96,67.67,99,32,77,76,Drama,Debate,Not Graduated
+810622,Christian Johnson,C,3.49,87.85,39,94,22,32,Drama,Music Club,Graduated
+783583,Benjamin Ramirez,A,1.64,62.48,18,32,87,34,Art,Music Club,Not Graduated
+571341,Jose Kelly,F,0.6,62.81,33,82,70,25,Drama,Music Club,Graduated
+310543,Steven Wheeler,C,1.33,78.01,33,17,56,34,Computer Science,Sports,Not Graduated
+141327,Kenneth Wade,C,3.82,78.45,88,23,79,4,Computer Science,Art Club,Graduated
+714448,Brian Stewart,B,3.17,66.71,47,47,95,40,Art,Art Club,Graduated
+360437,Kevin Jarvis,C,2.04,78.75,88,37,94,74,Art,Art Club,Graduated
+528289,Terry Harding,B,3.46,93.07,5,49,46,71,Computer Science,Sports,Graduated
+410643,Mrs. Ruth Johnson,B,3.49,66.06,10,28,33,65,Computer Science,Art Club,Not Graduated
+906154,Steven Brennan,D,1.27,61.1,39,37,22,22,Drama,Music Club,Not Graduated
+683508,Kyle Ortiz,F,1.47,91.04,22,69,95,66,Art,Music Club,Not Graduated
+749149,David Maddox III,A,0.24,81.89,27,58,23,60,Music,Debate,Not Graduated
+852220,Jonathan Mann,A,1.88,79.16,21,19,17,5,Computer Science,Debate,Graduated
+871952,Carol Gordon,B,3.47,76.94,87,86,18,28,Music,Debate,Graduated
+533341,Casey Benson,F,3.25,61.12,60,61,53,1,Drama,Music Club,Not Graduated
+717489,Tonya Maddox,F,3.09,75.31,75,85,12,65,Music,Music Club,Graduated
+834132,Katherine Knox,C,3.38,82.3,1,71,49,45,Art,Sports,Graduated
+183638,Katherine Gill,B,0.54,86.98,80,65,95,47,Computer Science,Music Club,Graduated
+363082,Christine Keller,A,1.81,92.34,70,24,44,47,Music,Art Club,Not Graduated
+837598,Timothy Griffin,C,3.63,98.2,67,24,7,12,Drama,Art Club,Graduated
+199290,Stacey Knight,D,3.19,81.53,34,20,98,94,Music,Art Club,Not Graduated
+751388,Casey Sandoval,C,1.38,68.17,55,87,17,62,Art,Music Club,Graduated
+399214,Christopher Holden,D,1.94,68.8,60,36,48,34,Music,Art Club,Graduated
+397280,Lori Hooper,F,1.46,74.72,31,6,77,13,Computer Science,Art Club,Graduated
+237842,Cassandra Flowers,F,2.95,62.75,77,75,65,78,Music,Debate,Graduated
+917679,Kimberly Hall,D,0.38,64.6,1,53,81,5,Computer Science,Art Club,Graduated
+303604,Lawrence Gutierrez,A,2.09,75.17,32,55,10,36,Art,Music Club,Not Graduated
+913633,Debra Montoya,B,3.89,93.03,95,87,4,87,Computer Science,Sports,Graduated
+343848,Nicholas Newman,F,1.9,89.41,18,33,23,61,Music,Art Club,Not Graduated
+671557,Alisha Johnson,B,0.75,72.14,83,77,87,48,Computer Science,Debate,Graduated
+780956,Marie Hamilton,F,2.51,92.38,82,79,77,25,Drama,Debate,Not Graduated
+674770,Timothy Cook,B,3.38,71.7,71,72,47,2,Drama,Music Club,Graduated
+206217,James Hoover,A,0.88,84.08,86,10,93,27,Art,Debate,Not Graduated
+601797,Brian Sloan,B,1.55,85.63,98,59,52,1,Drama,Art Club,Graduated
+981499,Kara Carroll,D,1.87,99.96,19,65,76,12,Computer Science,Music Club,Not Graduated
+513148,Christopher Schmidt,B,3.74,71.83,92,30,61,86,Computer Science,Sports,Not Graduated
+557185,Derek Schwartz,A,2.58,65.56,24,70,8,61,Art,Music Club,Not Graduated
+870599,Christopher Vincent,C,0.83,73.56,88,85,65,19,Art,Music Club,Graduated
+549668,Justin Perry,B,3.66,86.59,48,11,87,8,Drama,Debate,Not Graduated
+255906,Megan Johnson,A,3.79,67.3,33,0,9,73,Art,Debate,Not Graduated
+293199,Alan Jenkins,B,2.86,90.29,88,33,55,94,Art,Debate,Not Graduated
+998091,Amanda Harris,D,1.33,74.65,44,99,6,78,Computer Science,Debate,Not Graduated
+809603,Anthony Zavala,D,0.52,99.06,29,17,64,85,Music,Art Club,Not Graduated
+832908,Chad Castro,F,1.22,78.94,83,43,65,55,Art,Debate,Not Graduated
+480229,Jeffery Smith,B,1.72,81.37,46,27,75,80,Music,Sports,Graduated
+141002,Jeremy Kelly,A,0.84,91.2,27,94,39,16,Music,Art Club,Not Graduated
+479750,Barbara Walker,D,0.75,78.58,36,49,22,65,Computer Science,Debate,Graduated
+239116,Evelyn Crawford,D,3.0,60.77,74,70,42,18,Art,Music Club,Graduated
+552988,John Norris,A,3.93,91.26,28,11,95,68,Drama,Music Club,Graduated
+245460,Melanie Roach,A,0.74,76.58,99,72,98,4,Art,Debate,Not Graduated
+521856,Theresa Ellison,A,0.25,76.09,63,22,89,52,Music,Music Club,Graduated
+920247,Jamie Garza,C,2.25,84.51,38,85,62,50,Computer Science,Sports,Graduated
+128183,James Rice,B,1.37,62.52,26,52,85,72,Computer Science,Sports,Graduated
+636551,Danielle Hendrix,A,0.1,79.9,62,59,23,58,Art,Music Club,Not Graduated
+413302,Debra Hill,C,3.93,61.86,11,97,53,73,Computer Science,Sports,Not Graduated
+930519,David Edwards,F,3.07,92.38,40,96,36,84,Computer Science,Debate,Not Graduated
+317390,Michael Erickson,F,3.83,97.79,25,82,54,76,Art,Debate,Not Graduated
+918986,Gina Ruiz,F,3.26,70.52,15,27,41,29,Drama,Music Club,Not Graduated
+656751,Sara Johnson,D,2.23,96.74,95,15,81,19,Art,Music Club,Not Graduated
+370858,Lisa Owens,D,0.58,93.33,7,52,19,74,Art,Debate,Not Graduated
+536151,Tamara Jackson,B,2.38,98.55,54,36,31,5,Art,Debate,Graduated
+683599,Timothy Garner,A,2.8,79.25,69,24,67,86,Computer Science,Debate,Not Graduated
+714860,Cynthia Savage,C,0.77,81.52,75,36,26,94,Drama,Debate,Not Graduated
+809269,Paul Perez,F,0.67,69.0,31,90,50,25,Computer Science,Sports,Graduated
+703841,Eric Shelton,D,0.04,78.6,28,31,48,1,Music,Art Club,Graduated
+663160,Connie Gonzalez,F,2.7,89.77,11,57,60,97,Computer Science,Art Club,Not Graduated
+489499,Russell Newman,D,2.46,69.34,21,6,80,96,Drama,Music Club,Graduated
+961233,Stephanie Curry,C,3.1,89.51,40,99,15,42,Music,Music Club,Graduated
+115230,Lindsey Martin,C,0.76,79.77,63,30,23,26,Art,Sports,Graduated
+444599,Jessica Leach,C,3.09,99.13,54,7,44,51,Drama,Sports,Graduated
+171534,Daniel Wilson,A,2.14,85.56,15,8,25,48,Art,Art Club,Not Graduated
+591355,Jessica Carr,A,1.59,66.38,15,60,86,71,Art,Music Club,Graduated
+308611,Angela Black,D,1.28,71.65,42,59,95,36,Computer Science,Art Club,Graduated
+941878,Taylor Perez,D,3.72,89.85,54,95,23,62,Drama,Sports,Not Graduated
+163034,James Elliott,F,0.88,60.02,94,80,84,55,Computer Science,Art Club,Not Graduated
+690088,Michael Beltran,D,1.85,80.74,6,28,58,1,Music,Debate,Graduated
+888441,Michael Walker,D,3.31,81.26,65,15,11,52,Art,Debate,Not Graduated
+288330,Jake Johnson,C,2.5,89.35,7,60,84,9,Music,Debate,Not Graduated
+959757,Joseph Foster,B,0.83,61.06,68,63,98,83,Music,Sports,Not Graduated
+969001,Alyssa Kline,B,3.57,94.85,51,33,80,61,Computer Science,Music Club,Graduated
+680604,Matthew Stevenson,F,3.12,97.43,75,13,84,0,Art,Debate,Graduated
+813336,James West,F,3.1,86.67,66,85,91,55,Computer Science,Sports,Not Graduated
+327336,Amber Wheeler,D,2.19,78.94,53,5,96,96,Computer Science,Sports,Not Graduated
+963301,John Clark,C,1.95,62.43,87,76,95,16,Computer Science,Sports,Graduated
+200707,Michael Moore,B,1.39,93.29,99,10,73,46,Computer Science,Music Club,Graduated
+904968,Thomas Ashley,A,3.18,97.19,28,30,12,66,Computer Science,Music Club,Not Graduated
+911496,Julia Simmons,F,1.11,83.86,16,20,12,75,Music,Art Club,Not Graduated
+373755,Christine Thomas,B,2.24,93.83,81,87,76,60,Computer Science,Debate,Not Graduated
+880082,Sharon James,D,1.12,61.31,92,97,1,99,Computer Science,Sports,Not Graduated
+660740,Shirley Garcia,B,2.09,60.13,6,95,51,33,Music,Music Club,Not Graduated
+118896,Jennifer Burton,A,2.29,75.63,43,6,88,99,Drama,Art Club,Graduated
+529480,Lauren Flores,F,1.06,88.33,66,31,25,49,Music,Debate,Graduated
+497447,Olivia Harrington,D,1.75,68.61,0,76,74,45,Art,Art Club,Not Graduated
+285927,Jimmy Kane,B,1.2,62.37,10,59,35,56,Music,Art Club,Graduated
+763851,Dr. Kimberly Gray,D,0.49,64.78,76,11,16,98,Computer Science,Art Club,Graduated
+303064,Suzanne Coleman,F,3.88,94.28,1,55,48,68,Computer Science,Debate,Not Graduated
+333376,Steven Frederick,D,1.85,94.04,7,77,74,25,Computer Science,Music Club,Graduated
+310193,Tracy Cox,A,0.33,72.88,39,40,48,21,Art,Art Club,Not Graduated
+841522,Jeremy Callahan,B,1.64,74.11,68,55,72,72,Art,Art Club,Not Graduated
+909812,Megan Berry,D,3.26,84.09,77,15,76,94,Music,Sports,Not Graduated
+216258,Joshua Evans,A,3.19,79.94,26,98,92,76,Drama,Music Club,Graduated
+776774,Anthony Wright,D,0.97,99.49,4,52,88,9,Drama,Art Club,Not Graduated
+623973,Molly Salazar,A,0.59,69.57,48,20,2,54,Music,Sports,Not Graduated
+150367,Shelley Smith,D,3.74,73.99,23,51,88,59,Drama,Music Club,Graduated
+254073,Andrew Leonard,B,1.33,78.72,58,26,42,48,Art,Debate,Graduated
+908539,Teresa Bush,B,2.42,95.47,14,41,47,17,Computer Science,Debate,Not Graduated
+115423,Emily Harrington,B,3.99,81.11,99,73,60,14,Drama,Sports,Graduated
+408697,Tina Morris,B,3.02,73.1,65,27,26,60,Drama,Music Club,Graduated
+641243,Susan Martin,D,0.22,67.99,85,47,41,87,Drama,Sports,Graduated
+847403,Carol Powell,D,0.19,86.61,84,28,67,55,Music,Music Club,Graduated
+137649,John Morgan,F,3.61,66.55,11,65,59,14,Art,Sports,Not Graduated
+537716,Sarah Schwartz,C,1.95,88.27,18,17,11,13,Art,Sports,Graduated
+880458,Jason Nielsen,A,0.19,67.02,2,55,96,24,Drama,Sports,Not Graduated
+530054,Andres Carter,C,2.46,74.54,44,58,45,55,Drama,Art Club,Not Graduated
+201557,Jacob James,C,2.59,78.1,56,91,60,13,Drama,Sports,Graduated
+896183,Cindy Ramirez,F,3.99,92.87,55,81,26,64,Computer Science,Music Club,Not Graduated
+446044,Lucas Dawson,A,0.78,83.93,33,11,63,38,Drama,Sports,Graduated
+486395,Denise Bradshaw,C,1.61,87.1,53,86,82,1,Art,Sports,Not Graduated
+519067,Jaclyn Lewis,B,0.64,95.06,90,40,25,78,Music,Art Club,Graduated
+185630,Brian Turner,B,1.08,72.04,21,98,55,1,Computer Science,Art Club,Graduated
+293701,Ann Leonard,D,1.54,78.24,96,31,91,34,Music,Music Club,Graduated
+961456,Daniel Liu,C,3.38,83.43,0,92,97,30,Computer Science,Art Club,Graduated
+688501,Ashley Simpson,B,3.79,91.52,68,96,67,85,Drama,Debate,Graduated
+286257,Steve Reed,A,3.01,98.8,8,24,28,80,Art,Music Club,Not Graduated
+243402,Mark Shields,F,3.84,91.98,85,78,4,82,Music,Sports,Graduated
+272556,Mark French,C,3.03,98.47,98,34,13,90,Computer Science,Music Club,Not Graduated
+324740,Sydney Norton,D,0.49,67.22,58,6,84,46,Drama,Art Club,Not Graduated
+412581,Scott Harper,C,3.54,73.25,10,47,52,7,Computer Science,Music Club,Graduated
+244946,Douglas Sanchez,C,0.68,83.84,95,41,4,84,Drama,Sports,Not Graduated
+654991,Ruth Ward,F,0.77,79.4,93,2,50,2,Music,Music Club,Not Graduated
+259105,Isaiah Flowers,D,2.72,73.88,32,63,48,89,Computer Science,Art Club,Not Graduated
+774277,Paul Osborne,F,2.14,93.46,12,84,93,27,Art,Debate,Graduated
+245395,Janet Johnson,C,0.64,63.92,63,35,29,5,Computer Science,Music Club,Not Graduated
+603135,William James,A,1.69,95.64,96,98,1,23,Art,Art Club,Graduated
+507001,Danny Gonzalez,F,0.88,79.5,62,96,20,30,Computer Science,Sports,Not Graduated
+803446,Leslie Hall,A,2.48,67.5,2,77,11,42,Art,Art Club,Not Graduated
+745500,Jill Callahan,F,3.87,90.49,72,10,55,6,Computer Science,Debate,Graduated
+694744,Dawn Peck,F,0.61,93.48,80,27,24,67,Drama,Art Club,Not Graduated
+928548,Robert Holmes,D,3.27,83.15,74,44,81,93,Music,Music Club,Not Graduated
+365910,Elizabeth Mcconnell PhD,B,1.22,74.97,16,20,64,9,Music,Music Club,Not Graduated
+587333,Diana Hester,A,2.5,97.11,34,24,65,70,Drama,Music Club,Not Graduated
+492236,Jennifer Stone,C,1.82,74.55,35,72,88,77,Music,Debate,Graduated
+894754,Mark Smith,C,3.47,90.0,33,86,75,97,Computer Science,Art Club,Not Graduated
+471494,Ryan Thompson,D,2.67,60.75,53,84,81,39,Music,Sports,Graduated
+578212,William Warren,F,1.72,79.19,21,87,30,42,Drama,Sports,Not Graduated
+116963,Peter Montgomery,B,0.99,70.2,54,27,56,21,Music,Sports,Not Graduated
+652707,Tyler Rodriguez,D,1.47,67.76,73,33,14,60,Computer Science,Sports,Not Graduated
+483681,Michelle Meyer,B,1.37,84.44,20,28,34,82,Art,Sports,Not Graduated
+140704,Nicholas Benson,D,0.48,87.46,57,68,50,56,Computer Science,Sports,Not Graduated
+299728,David Wall,F,0.45,93.49,20,30,29,24,Computer Science,Sports,Not Graduated
+414574,Alison Silva,A,1.71,63.82,44,10,52,82,Drama,Music Club,Not Graduated
+829912,Mrs. Belinda Richards,F,0.46,93.01,16,48,18,58,Music,Debate,Not Graduated
+451663,Kathy Martinez,D,0.5,79.31,3,31,18,21,Computer Science,Debate,Not Graduated
+689517,Jessica Rodriguez MD,F,3.77,87.07,54,78,66,89,Computer Science,Debate,Not Graduated
+928257,Anthony Williams,C,1.56,88.06,89,42,29,49,Drama,Art Club,Graduated
+634757,Lisa Ramirez,C,3.35,90.74,88,26,70,7,Drama,Debate,Not Graduated
+230935,Donna Burke,A,1.79,87.81,61,61,22,19,Music,Sports,Not Graduated
+567256,Hannah Flores,D,1.14,78.56,58,27,67,66,Art,Sports,Graduated
+766161,Ashley Johnson,F,0.16,89.82,48,31,76,3,Music,Music Club,Not Graduated
+546201,Maurice Allen,D,1.1,61.24,90,32,42,48,Computer Science,Sports,Not Graduated
+763264,Monica Bates,F,1.95,96.64,90,67,29,49,Drama,Music Club,Graduated
+112672,Brian Durham,D,0.83,91.23,63,25,11,88,Art,Sports,Not Graduated
+607947,Christopher Hall,D,1.83,93.73,98,8,26,2,Drama,Art Club,Not Graduated
+164934,Megan Olsen,B,2.1,85.17,9,89,80,77,Drama,Art Club,Not Graduated
+166167,Suzanne Bradshaw,F,3.58,71.64,83,66,8,42,Art,Music Club,Graduated
+807424,Richard Sanchez,D,2.64,95.24,43,41,3,63,Art,Sports,Graduated
+456228,Susan Summers,B,3.57,68.04,92,97,88,49,Computer Science,Debate,Graduated
+150113,Brian Beck,F,1.02,66.86,95,34,25,69,Drama,Art Club,Not Graduated
+852883,Mrs. Ashley Stevens,D,3.69,73.9,0,51,22,79,Music,Music Club,Graduated
+737592,William Sullivan,C,2.79,61.25,46,3,21,25,Music,Sports,Graduated
+623872,James Medina,B,2.86,85.25,44,32,72,14,Music,Art Club,Not Graduated
+201935,Juan Kim,D,1.41,92.0,61,34,86,55,Computer Science,Music Club,Graduated
+399138,Donald Anderson,A,2.76,84.18,67,40,38,32,Computer Science,Sports,Not Graduated
+198637,Lindsey Herman,D,0.07,72.31,31,1,60,64,Art,Art Club,Not Graduated
+707287,Heather Foster,B,3.19,96.17,65,91,2,77,Computer Science,Music Club,Not Graduated
+842158,Brittany Wilson,B,0.61,60.13,79,91,20,32,Art,Debate,Graduated
+251734,Heather Rios,F,3.62,73.6,86,71,22,11,Music,Art Club,Not Graduated
+912162,Jasmine Li,D,2.84,61.27,12,0,8,69,Music,Debate,Graduated
+464871,Amanda Henry,A,2.88,88.88,41,45,62,19,Drama,Debate,Graduated
+597347,Christopher Dunn,C,1.36,86.61,97,31,47,3,Drama,Debate,Not Graduated
+184718,James Roberts,B,1.69,92.99,86,59,89,86,Music,Art Club,Graduated
+222106,Kevin Walker,F,1.69,83.37,0,58,85,41,Music,Debate,Graduated
+810990,Heidi Ramos,A,1.18,86.36,60,64,28,24,Drama,Sports,Graduated
+127578,Emily Kaiser,D,1.42,93.77,89,95,79,55,Drama,Music Club,Not Graduated
+414499,Linda Crosby,B,3.46,86.04,10,44,11,33,Computer Science,Art Club,Graduated
+103313,Linda Tate,D,1.33,71.39,54,52,23,67,Computer Science,Debate,Graduated
+294356,Donald Mays,F,2.56,94.65,0,22,73,19,Drama,Debate,Not Graduated
+274419,Javier Burke,C,3.55,84.11,56,7,96,47,Art,Debate,Not Graduated
+216140,Christopher Peterson,A,2.18,62.71,15,56,16,65,Music,Debate,Not Graduated
+174269,Ryan Vaughn,C,0.84,63.46,43,70,86,87,Drama,Art Club,Graduated
+623372,Bruce Castaneda,D,0.09,95.33,13,39,90,52,Music,Sports,Graduated
+616692,Angela Russo,F,3.6,68.37,67,18,53,13,Music,Debate,Not Graduated
+157405,Jennifer Baker,B,2.71,78.92,39,19,16,81,Music,Music Club,Graduated
+321097,Scott Mata,A,0.77,96.38,55,99,45,21,Drama,Debate,Graduated
+164366,Jonathan Richardson,B,0.21,72.73,56,16,46,84,Art,Art Club,Not Graduated
+918897,Brian Wilson,D,0.29,81.25,79,30,73,88,Music,Art Club,Graduated
+228394,Kristine Patton,A,0.25,77.3,21,47,15,74,Music,Music Club,Graduated
+757834,Clinton Combs,F,1.19,99.76,86,6,26,55,Art,Art Club,Graduated
+689179,Dakota Strickland,A,2.94,87.65,15,80,64,35,Drama,Sports,Graduated
+960672,Morgan Cox,D,3.84,76.6,26,32,47,84,Computer Science,Music Club,Not Graduated
+460542,William Cherry,F,0.78,93.38,9,65,95,12,Computer Science,Art Club,Graduated
+804955,Joseph Avila,D,1.09,86.82,1,57,83,45,Art,Sports,Graduated
+392689,Ryan Booth,B,3.89,83.1,20,82,62,65,Drama,Art Club,Not Graduated
+358233,Devon Rodriguez,C,2.85,99.66,19,51,51,98,Computer Science,Music Club,Graduated
+998926,Cheryl Decker,D,3.52,86.85,86,33,58,14,Music,Music Club,Not Graduated
+388665,Stephanie Smith,C,1.43,79.27,77,16,76,12,Music,Sports,Graduated
+516060,Angela Powell,B,3.68,90.79,51,27,71,2,Drama,Sports,Not Graduated
+333097,Sarah Soto,D,0.45,78.65,99,45,81,56,Drama,Sports,Not Graduated
+349512,Megan Schneider,A,0.81,63.06,10,50,20,64,Music,Art Club,Graduated
+425443,Yvette Johnson,C,1.32,71.43,81,26,75,60,Computer Science,Sports,Graduated
+684196,Linda Joyce,C,0.16,93.78,35,20,28,69,Art,Art Club,Not Graduated
+189949,Kelly Robinson,C,3.45,95.5,77,5,82,41,Music,Sports,Not Graduated
+679921,Lawrence Mccoy,A,2.32,92.74,84,9,61,52,Music,Music Club,Not Graduated
+132515,Peter Jones,B,2.74,77.93,94,40,9,28,Art,Music Club,Not Graduated
+662212,Catherine Wilson,C,0.64,80.8,41,40,25,50,Computer Science,Music Club,Not Graduated
+706898,James Kennedy,F,1.47,99.3,59,88,49,61,Drama,Art Club,Graduated
+736114,Logan Jones,D,3.59,75.97,5,57,57,79,Music,Debate,Not Graduated
+168432,Charlene Downs,F,3.81,66.64,41,69,68,32,Music,Debate,Graduated
+247578,Paula Hernandez,A,3.48,71.42,45,50,21,81,Art,Music Club,Not Graduated
+809368,Andrea Cooke,F,1.01,89.32,64,60,46,97,Music,Sports,Not Graduated
+573462,Ronald Li,B,2.6,73.22,10,13,23,20,Music,Debate,Not Graduated
+556835,Amy Dickerson,B,1.34,67.12,69,15,74,22,Music,Sports,Graduated
+959335,William Schwartz,B,3.12,82.76,7,37,47,97,Music,Debate,Not Graduated
+879994,Kevin Mercado,B,2.32,91.32,1,81,52,85,Computer Science,Art Club,Not Graduated
+369284,Lisa Ray,D,2.84,83.74,73,32,71,97,Drama,Sports,Not Graduated
+725266,Diane Bruce,F,2.88,79.87,35,20,54,54,Drama,Art Club,Not Graduated
+927853,Jerry Diaz,F,3.79,99.81,24,15,16,24,Drama,Sports,Not Graduated
+868543,Christine Wright,D,0.79,69.43,19,51,13,22,Art,Art Club,Graduated
+816583,Timothy Adams,D,2.88,63.09,99,20,30,47,Art,Debate,Not Graduated
+953368,Robert Mclean,B,2.73,87.86,34,84,62,90,Art,Debate,Not Graduated
+420582,Travis Pena,C,1.52,78.24,44,21,53,46,Computer Science,Debate,Not Graduated
+421838,Douglas Stewart,F,0.6,85.54,20,18,68,9,Computer Science,Music Club,Graduated
+366335,Cory Brewer,C,1.7,91.52,25,38,6,12,Computer Science,Sports,Not Graduated
+894861,Jasmine Thompson,D,1.61,86.93,15,96,53,88,Computer Science,Sports,Graduated
+492305,Melissa Campbell,F,1.11,87.82,53,21,98,8,Art,Debate,Graduated
+715598,Clinton Aguilar,B,2.38,68.97,72,93,81,17,Art,Sports,Not Graduated
+622639,Leslie Peterson,C,2.71,86.93,22,49,96,36,Drama,Art Club,Not Graduated
+368550,Cameron Ferguson,A,0.63,95.09,45,28,17,46,Drama,Art Club,Not Graduated
+350056,Sheila Scott,D,1.31,83.66,63,47,12,54,Drama,Debate,Graduated
+720664,Dawn Acosta,C,3.06,60.56,86,97,80,90,Computer Science,Music Club,Not Graduated
+692803,Hannah Jordan,C,3.57,73.39,5,47,47,92,Art,Debate,Not Graduated
+677272,James Gonzalez,B,0.89,69.53,70,93,58,26,Drama,Music Club,Graduated
+607330,Tim Williamson,A,2.33,69.83,71,57,65,75,Drama,Art Club,Graduated
+819833,Joshua Harvey,A,1.47,82.36,49,20,17,20,Computer Science,Debate,Graduated
+936697,Kristin Howard,A,2.22,98.67,46,96,60,21,Music,Sports,Not Graduated
+297517,Willie Thompson,F,0.78,80.81,45,98,33,24,Music,Art Club,Not Graduated
+325014,Kelly Mckee,B,1.46,65.1,74,52,2,14,Art,Sports,Not Graduated
+116786,Michael Bush,A,1.42,92.97,45,51,57,0,Drama,Art Club,Not Graduated
+132504,Shelby Dennis,D,1.5,92.45,34,65,72,70,Music,Sports,Not Graduated
+365101,Heather Swanson MD,B,1.9,83.93,28,31,88,71,Drama,Art Club,Not Graduated
+923808,Colleen Johnson,C,3.63,72.66,47,46,13,18,Music,Sports,Graduated
+963513,Julie Haas,B,3.65,64.24,70,70,6,66,Music,Music Club,Not Graduated
+391429,Samantha Barber,D,2.97,79.08,10,33,6,89,Music,Sports,Not Graduated
+567907,Matthew Boyer,C,1.95,66.43,95,11,86,85,Drama,Sports,Not Graduated
+286974,Jennifer Moore,C,3.89,74.92,39,4,7,39,Music,Music Club,Graduated
+504313,Edward Leonard,A,2.02,74.11,81,18,32,41,Art,Sports,Graduated
+250184,Ronald Stevenson,D,2.67,94.65,45,71,0,62,Drama,Debate,Not Graduated
+586171,Nicole Wagner,D,2.69,87.45,19,62,15,34,Computer Science,Music Club,Not Graduated
+315895,James Thornton,B,0.99,95.65,77,19,53,72,Drama,Debate,Not Graduated
+326244,Russell Walton,A,1.84,75.16,89,0,64,84,Drama,Sports,Not Graduated
+318237,Donald Hamilton,F,0.03,71.85,67,73,3,97,Art,Debate,Not Graduated
+392681,George Golden,F,0.76,82.93,57,84,71,77,Art,Music Club,Graduated
+880979,Samantha Harris,D,0.59,90.35,22,90,18,68,Art,Art Club,Graduated
+475244,Keith Perez,F,0.29,81.73,88,63,63,79,Computer Science,Music Club,Not Graduated
+634103,Glenda Glenn,D,0.27,97.25,92,28,37,73,Drama,Art Club,Graduated
+687751,Amy Miller,A,0.48,63.06,53,90,31,16,Computer Science,Sports,Graduated
+320541,Matthew Carter,A,1.94,61.72,37,1,96,29,Music,Music Club,Not Graduated
+779866,Joseph Wright,A,2.26,63.33,67,99,51,67,Music,Debate,Graduated
+512821,Jamie Howell,B,2.78,62.31,96,4,50,21,Computer Science,Debate,Graduated
+108267,Mr. Joseph Wilkerson,A,2.59,70.95,9,52,95,10,Music,Music Club,Graduated
+628704,David Buckley,A,0.48,97.37,86,38,58,2,Art,Art Club,Not Graduated
+586367,Michael Gilmore,B,2.56,62.83,23,37,92,35,Drama,Sports,Not Graduated
+410454,Matthew Brown,C,3.19,98.42,69,9,26,78,Computer Science,Music Club,Graduated
+983573,Barbara Carr,F,0.47,74.66,79,38,56,65,Art,Debate,Not Graduated
+655225,Natasha Rice,D,0.9,82.11,55,26,14,62,Computer Science,Art Club,Not Graduated
+398979,William Norman,B,2.54,65.93,12,92,1,11,Music,Art Club,Not Graduated
+257542,Benjamin Lewis,C,3.39,70.85,19,93,74,43,Art,Music Club,Not Graduated
+127460,Ruth Cox,A,1.02,60.05,7,31,90,50,Computer Science,Art Club,Not Graduated
+207356,Mr. Michael Kim,F,0.6,64.68,87,23,68,54,Computer Science,Art Club,Graduated
+569103,Daniel Arias,B,0.32,94.45,27,23,63,10,Music,Music Club,Not Graduated
+219134,James Ortiz,A,1.91,61.59,52,99,51,52,Art,Art Club,Graduated
+870300,Jamie King,F,1.07,63.82,39,33,94,45,Computer Science,Debate,Not Graduated
+501696,Matthew Morgan,C,3.81,62.31,79,28,85,16,Drama,Art Club,Not Graduated
+380937,Travis Bailey,B,3.06,65.25,70,56,96,66,Drama,Debate,Not Graduated
+246111,Matthew Lopez,A,0.61,74.95,59,89,85,49,Music,Music Club,Graduated
+686852,Donna Koch,D,0.27,76.96,27,32,35,78,Music,Debate,Not Graduated
+857044,Stephanie Floyd,C,1.54,72.76,26,16,2,78,Music,Debate,Not Graduated
+519237,Jennifer Green,A,3.19,63.93,0,71,14,38,Drama,Art Club,Graduated
+401716,Susan Valenzuela,B,0.67,74.9,51,47,45,51,Music,Debate,Not Graduated
+675934,David Smith,F,3.58,61.45,75,65,89,67,Computer Science,Debate,Not Graduated
+155165,Ronald Weaver,C,0.47,99.68,30,53,62,66,Drama,Sports,Not Graduated
+416833,Amy Nunez,D,3.17,62.99,57,6,73,73,Drama,Sports,Not Graduated
+263080,Colin Peterson,F,0.37,72.86,50,85,52,1,Drama,Sports,Not Graduated
+354881,Katherine Johnson,A,3.82,99.9,54,39,27,89,Drama,Sports,Not Graduated
+752368,James Ryan,F,3.73,64.01,13,87,78,15,Music,Debate,Graduated
+205635,Ryan Odom,F,1.67,64.15,63,83,79,62,Computer Science,Debate,Not Graduated
+154764,Andre Moore,B,3.7,61.3,70,28,77,10,Art,Sports,Not Graduated
+898578,Jessica Mahoney,B,0.05,97.52,89,10,2,57,Computer Science,Sports,Graduated
+362589,Amy Ritter,A,1.51,85.67,18,21,80,26,Computer Science,Debate,Graduated
+440173,Brittney Powers,F,2.13,88.77,88,80,32,91,Drama,Debate,Not Graduated
+820144,Kelly Young,C,0.56,60.1,0,1,24,94,Computer Science,Debate,Graduated
+881553,Mary Gregory,C,0.85,82.86,93,80,81,79,Computer Science,Art Club,Not Graduated
+947335,Sandra Ryan,F,0.02,79.99,72,75,11,20,Art,Sports,Not Graduated
+701787,Mark Scott,C,1.29,99.78,84,87,24,58,Music,Debate,Graduated
+140055,Charles Fisher,F,1.93,60.36,85,10,50,49,Music,Debate,Not Graduated
+733940,Ricky Lindsey,A,1.34,65.96,41,92,75,47,Computer Science,Art Club,Graduated
+296376,Julie King,B,3.69,95.0,29,59,54,31,Music,Debate,Not Graduated
+140574,Gloria Hunter,D,2.04,70.78,69,79,32,54,Drama,Music Club,Not Graduated
+480060,James Atkins,B,1.01,64.36,48,78,94,97,Music,Music Club,Graduated
+537314,David Jones,A,0.68,96.48,82,57,78,86,Drama,Music Club,Graduated
+780850,Jason Jacobs,F,1.13,71.45,22,39,64,35,Computer Science,Art Club,Not Graduated
+503792,Robert Kelley,F,2.7,80.24,62,2,15,92,Drama,Debate,Graduated
+255068,Elizabeth Sanchez,A,1.96,91.27,45,50,69,23,Drama,Debate,Graduated
+714018,Natalie Campbell,F,3.08,73.95,36,86,83,23,Music,Music Club,Not Graduated
+894758,Anthony Lawrence,C,2.61,78.17,97,6,58,14,Drama,Music Club,Not Graduated
+148059,Christopher Marshall,F,1.8,85.75,69,40,27,70,Computer Science,Art Club,Not Graduated
+562898,Zachary Mcdonald,D,3.97,95.72,92,88,8,57,Drama,Art Club,Graduated
+285190,Jacqueline Hernandez,A,0.62,67.65,92,89,95,59,Drama,Music Club,Graduated
+244637,Tina Spencer,C,1.44,63.02,61,35,45,34,Art,Sports,Not Graduated
+511545,David Saunders,D,0.59,75.45,66,59,42,54,Art,Sports,Graduated
+934921,Erin Johnson,D,3.43,80.8,40,22,12,1,Art,Debate,Graduated
+507801,Mark Ruiz,B,0.3,82.86,70,14,33,49,Art,Music Club,Graduated
+698248,Timothy Torres,F,0.73,93.07,51,74,66,72,Music,Debate,Graduated
+407902,Michael Meyer,A,1.31,87.21,14,44,50,52,Art,Debate,Not Graduated
+452406,Chelsea Ryan,B,0.55,98.52,81,22,53,93,Music,Debate,Graduated
+537332,Joseph Terry,C,2.96,83.45,78,81,77,52,Music,Art Club,Not Graduated
+765536,Micheal Reid,D,3.35,94.34,1,29,68,27,Computer Science,Music Club,Graduated
+783491,Dana Bowman,D,0.76,62.68,42,80,4,75,Art,Sports,Not Graduated
+390956,Michael Soto,A,0.51,63.93,24,86,51,78,Computer Science,Debate,Not Graduated
+848809,Emily Brady,A,2.96,80.65,64,48,5,30,Computer Science,Art Club,Not Graduated
+761404,Jonathan Myers,C,1.78,73.94,32,57,47,90,Music,Sports,Not Graduated
+541730,Michael Lyons,C,3.82,86.05,12,3,88,95,Art,Music Club,Not Graduated
+117873,Brooke Allen DDS,A,2.43,93.5,58,44,53,84,Drama,Sports,Graduated
+620392,Michelle Keith,F,1.59,66.68,12,36,40,76,Art,Music Club,Not Graduated
+594689,Lisa Carroll,F,3.06,72.05,54,11,31,93,Art,Art Club,Graduated
+775611,Joseph Decker,F,1.52,67.88,2,50,2,58,Art,Music Club,Not Graduated
+631608,Zachary Graham,F,3.99,88.12,75,7,42,2,Art,Debate,Not Graduated
+196627,Michael Powell,D,3.15,72.31,59,28,95,91,Music,Debate,Graduated
+273730,Philip Duran,C,3.73,63.93,87,27,95,54,Drama,Art Club,Graduated
+463580,Randy Whitaker,F,1.89,80.23,12,74,88,37,Computer Science,Music Club,Not Graduated
+682548,Brittney Mcpherson,D,1.64,67.52,8,96,2,40,Computer Science,Art Club,Not Graduated
+976923,Ronald Anderson,C,2.28,88.62,21,22,7,58,Computer Science,Debate,Not Graduated
+209390,Cameron Black,D,0.79,76.48,82,94,59,13,Music,Debate,Graduated
+848325,Christine Thompson,F,3.3,99.43,11,60,60,86,Computer Science,Debate,Graduated
+411448,Eric Walters,B,3.69,78.96,95,10,33,38,Computer Science,Art Club,Not Graduated
+829463,Dave Jackson,A,2.25,65.55,3,11,10,77,Music,Sports,Graduated
+704614,Jamie Weber,B,2.6,91.13,59,38,98,3,Computer Science,Debate,Graduated
+425881,Christine Perez,D,1.62,88.54,44,5,1,35,Music,Debate,Graduated
+439606,James Klein,B,1.98,70.34,67,8,7,15,Music,Debate,Graduated
+164833,Karen Obrien,C,2.65,77.94,42,91,26,77,Art,Art Club,Not Graduated
+537143,Christine Shaw,D,0.89,62.6,59,45,28,57,Art,Debate,Graduated
+930968,Angela Lowery,B,1.03,97.23,45,93,63,40,Computer Science,Debate,Graduated
+834392,Shane Boyle,F,0.85,86.22,83,65,3,67,Computer Science,Music Club,Graduated
+582313,Jacob Rogers,C,3.76,60.72,33,18,24,15,Music,Music Club,Graduated
+694914,John Christensen,C,0.65,81.64,38,81,18,43,Music,Sports,Not Graduated
+263163,Colleen Morgan,F,0.76,61.52,42,43,99,16,Drama,Art Club,Graduated
+351798,Alyssa King,F,2.14,98.02,34,48,25,77,Computer Science,Art Club,Not Graduated
+689314,Melissa Smith,C,3.7,69.94,58,85,18,68,Computer Science,Music Club,Graduated
+311590,Kelsey Fritz,F,3.29,75.27,9,26,91,0,Computer Science,Music Club,Graduated
+547598,Brandon Wilkerson,C,1.69,62.95,47,15,45,70,Computer Science,Sports,Not Graduated
+812307,Barbara Phillips,F,1.36,65.31,67,50,71,71,Computer Science,Debate,Not Graduated
+221130,Anthony Harper,A,3.28,69.66,15,80,73,17,Art,Music Club,Graduated
+440115,Gina Moon,A,1.28,85.59,86,39,9,6,Drama,Sports,Not Graduated
+602247,Shawn Lopez,C,2.82,60.41,79,84,39,37,Computer Science,Debate,Graduated
+783036,David Bates,F,3.51,98.49,20,11,48,0,Music,Music Club,Graduated
+325061,Natalie Griffith,F,1.77,60.56,98,48,28,77,Art,Art Club,Not Graduated
+977787,Roy Tucker,C,1.12,69.21,74,71,88,4,Computer Science,Art Club,Not Graduated
+472067,Calvin Martin,C,0.69,70.48,94,30,61,3,Computer Science,Music Club,Not Graduated
+811381,Michael Palmer,B,0.99,79.08,84,18,67,43,Music,Debate,Not Graduated
+836979,Lisa White,C,1.11,90.1,92,39,29,54,Music,Debate,Not Graduated
+783633,Kimberly Bennett,D,1.82,98.95,69,19,2,2,Computer Science,Sports,Not Graduated
+921151,Dustin Simpson,B,0.15,91.27,42,67,78,28,Computer Science,Music Club,Not Graduated
+902583,Jennifer Callahan,C,0.65,89.49,76,36,96,48,Music,Sports,Not Graduated
+976756,Kevin Evans,F,0.03,60.35,29,37,60,52,Music,Music Club,Graduated
+956604,Virginia Munoz,D,1.62,74.43,59,94,77,34,Computer Science,Music Club,Not Graduated
+816675,Lauren Calderon,D,2.95,66.87,58,62,2,41,Music,Sports,Graduated
+243755,Shelby Mejia,F,0.9,63.55,46,43,52,88,Music,Debate,Graduated
+979780,Adam Brown,D,2.11,67.72,19,63,25,73,Art,Music Club,Graduated
+497970,Tiffany Pena,B,3.11,90.15,34,18,27,76,Computer Science,Sports,Not Graduated
+175893,Nathan Underwood Jr.,B,2.78,89.45,95,27,37,33,Art,Debate,Not Graduated
+178548,Erica Perez,B,2.65,89.82,69,43,48,55,Drama,Art Club,Not Graduated
+806800,Charles Turner,A,2.1,74.96,13,23,76,41,Computer Science,Sports,Not Graduated
+192495,William Gonzalez,C,0.01,72.15,2,65,31,75,Drama,Art Club,Graduated
+532937,Lynn Smith,F,3.14,76.58,23,13,29,33,Computer Science,Music Club,Not Graduated
+696170,Johnny Stewart,B,0.7,73.28,65,98,52,83,Computer Science,Art Club,Graduated
+680712,Joseph Allen,F,1.7,85.52,3,3,55,33,Drama,Sports,Graduated
+316519,Yvette May,F,1.67,98.84,70,8,99,11,Art,Art Club,Not Graduated
+682183,Ronald Lutz,A,1.19,93.27,54,72,14,48,Art,Sports,Not Graduated
+611521,Nicholas Thompson,C,2.49,92.68,22,23,36,80,Drama,Sports,Graduated
+684553,Courtney Rodriguez,F,0.76,89.75,76,18,35,54,Computer Science,Sports,Graduated
+432788,Holly Henry,A,1.02,64.4,66,15,30,2,Art,Art Club,Graduated
+614005,Nathan Sandoval,C,0.43,86.15,1,40,82,80,Art,Sports,Not Graduated
+558189,Dr. Cody Richardson,D,3.11,99.6,56,45,28,84,Music,Art Club,Not Graduated
+218432,Scott Gordon,B,3.83,98.39,61,29,80,73,Art,Music Club,Graduated
+261807,Melinda Johnson,B,2.75,93.25,26,66,81,42,Art,Art Club,Not Graduated
+316808,Deborah King,A,1.18,66.0,42,67,48,3,Music,Sports,Graduated
+348257,Susan Smith,C,2.88,73.66,48,49,27,53,Music,Art Club,Not Graduated
+917538,Alexander Ferguson,A,0.99,77.26,11,49,68,74,Computer Science,Debate,Not Graduated
+450082,Catherine Miles,F,1.07,74.14,17,50,7,40,Computer Science,Sports,Graduated
+668412,Jennifer Dennis,F,2.76,73.52,99,85,82,10,Music,Debate,Graduated
+189720,Shelby Moreno,C,1.75,78.91,21,94,16,75,Computer Science,Art Club,Graduated
+200324,Carl Baker,D,2.51,75.77,47,25,91,80,Computer Science,Sports,Graduated
+433199,Melissa Smith,F,0.79,64.75,24,90,42,28,Music,Sports,Graduated
+698771,Amy Martinez,D,0.2,60.63,29,30,71,87,Art,Art Club,Graduated
+200963,Anthony Sharp,F,2.0,71.66,75,11,76,4,Music,Music Club,Graduated

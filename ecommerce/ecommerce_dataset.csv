@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Product_Category,Quantity,Price_per_Unit,Order_Date,Shipping_Cost,Payment_Method,City,Order_Status,Customer_Satisfaction_Score
+752557,Robert Duffy,Groceries,3,216.65,2023-03-02,5.36,PayPal,Chicago,Delivered,4.2
+636731,Erin Thompson,Groceries,7,109.16,2023-04-04,17.06,Cash,Los Angeles,Cancelled,3.7
+718260,Molly Henderson,Furniture,2,375.9,2022-09-10,17.45,Bank Transfer,Chicago,Pending,3.1
+237296,Kelly Orozco,Electronics,2,329.21,2021-09-19,8.22,PayPal,Phoenix,Delivered,2.3
+740571,Veronica Lawson,Books,6,307.22,2021-04-09,10.73,Bank Transfer,Los Angeles,Pending,3.6
+710170,Tami Erickson,Furniture,6,356.69,2022-05-03,12.78,PayPal,Chicago,Delivered,3.4
+961041,Heidi Gross,Electronics,4,296.12,2021-12-06,7.62,PayPal,Los Angeles,Pending,2.9
+848424,Robert Gill,Furniture,5,366.74,2022-06-12,14.49,Bank Transfer,Houston,Shipped,3.6
+565531,Christine Arellano,Groceries,9,388.3,2022-07-05,1.32,Credit Card,Chicago,Cancelled,4.5
+440059,Helen Dixon,Groceries,7,329.31,2023-04-11,16.89,PayPal,Los Angeles,Delivered,3.4
+458689,Mr. Tim Lee,Electronics,9,237.11,2023-01-09,3.83,Bank Transfer,Phoenix,Cancelled,2.6
+706751,Cameron Mullins,Electronics,2,477.89,2021-04-25,6.94,PayPal,Chicago,Shipped,4.5
+833702,Teresa Thompson,Books,1,399.89,2021-02-25,18.46,PayPal,Houston,Cancelled,3.2
+162694,Fernando Duncan,Groceries,9,29.21,2022-09-24,6.04,PayPal,Houston,Pending,4.3
+966585,Samantha Miller,Furniture,7,305.85,2021-10-21,5.82,Cash,New York,Delivered,3.3
+516240,Jennifer Bass,Groceries,2,356.06,2023-07-20,2.11,Debit Card,Chicago,Pending,2.3
+549496,Dawn Hernandez,Groceries,9,207.74,2023-07-07,10.62,Bank Transfer,Chicago,Cancelled,4.3
+992209,Angela Hicks,Clothing,4,259.95,2021-05-28,5.62,Cash,Los Angeles,Pending,3.6
+755342,George Preston,Books,3,417.62,2022-10-31,2.24,Cash,Los Angeles,Pending,3.3
+867172,James Luna,Electronics,6,99.45,2023-03-09,16.75,Cash,Phoenix,Delivered,2.5
+683712,Frank Cook Jr.,Electronics,8,123.38,2021-01-04,10.68,Credit Card,Los Angeles,Pending,1.0
+957283,Katie Keller,Furniture,5,53.41,2022-05-13,5.49,Cash,Phoenix,Shipped,4.2
+481948,Karen Keller,Electronics,1,114.26,2021-07-23,18.04,Debit Card,Los Angeles,Pending,1.7
+961895,Clifford Myers,Groceries,8,387.4,2022-09-06,14.94,Credit Card,Phoenix,Cancelled,1.3
+782491,Gabriel Booker,Furniture,7,467.75,2023-08-28,7.52,Bank Transfer,Phoenix,Delivered,4.4
+630496,Evelyn Flores,Clothing,1,110.12,2021-05-06,14.82,Credit Card,Los Angeles,Cancelled,4.0
+705668,Theresa Simpson,Furniture,2,270.06,2021-04-20,2.66,Debit Card,Phoenix,Delivered,3.9
+266104,Brittany Watson,Books,3,123.22,2021-03-01,16.95,PayPal,Los Angeles,Delivered,1.9
+995353,Christopher Velasquez,Groceries,6,286.12,2022-11-04,16.39,Cash,Los Angeles,Pending,1.4
+858122,Nicole Blair,Furniture,3,438.05,2021-06-14,9.68,Debit Card,Chicago,Shipped,1.8
+188235,Marc Wright,Groceries,8,252.26,2023-05-06,0.71,PayPal,Phoenix,Delivered,4.0
+399890,Adriana Smith,Electronics,8,431.76,2022-09-11,14.2,Bank Transfer,Los Angeles,Delivered,1.3
+115716,Mark Michael,Electronics,3,69.8,2021-03-12,8.76,PayPal,Houston,Shipped,2.9
+793752,Brandon Hall,Furniture,4,90.49,2021-03-20,9.76,PayPal,Phoenix,Cancelled,4.9
+727395,Adrian Calderon,Furniture,1,278.49,2023-09-25,2.79,Cash,Los Angeles,Pending,1.1
+668221,Joshua Mcknight,Clothing,5,419.45,2022-09-02,6.17,PayPal,Houston,Cancelled,2.2
+711320,Donald Fox,Groceries,7,267.44,2023-11-08,17.18,Credit Card,Houston,Delivered,3.8
+678118,David Combs,Books,7,142.29,2022-04-28,11.67,PayPal,New York,Pending,3.3
+102037,Jordan Clark,Clothing,1,48.04,2023-05-26,11.67,Bank Transfer,Houston,Cancelled,2.5
+326522,Anthony Liu,Furniture,1,76.93,2022-03-24,6.43,Credit Card,Phoenix,Pending,3.6
+547672,Heather Carney,Clothing,9,488.01,2021-06-28,4.25,Bank Transfer,Chicago,Delivered,1.2
+656343,Janice Frost,Books,2,418.66,2022-12-19,5.96,Debit Card,New York,Shipped,2.8
+205072,Andrew White,Groceries,5,97.79,2023-08-12,11.63,Debit Card,Phoenix,Shipped,1.2
+842120,Scott Sims,Electronics,4,177.11,2023-03-22,14.09,Cash,Chicago,Delivered,4.9
+757820,Stacey Myers,Electronics,3,185.54,2022-03-24,15.39,PayPal,Los Angeles,Delivered,2.3
+928388,Gina Lawrence,Furniture,3,160.52,2022-11-22,9.89,Debit Card,Phoenix,Delivered,1.4
+482187,Timothy Taylor,Electronics,7,188.39,2021-01-23,13.12,Bank Transfer,Houston,Cancelled,2.2
+476109,Crystal Thomas,Furniture,2,376.75,2023-03-23,8.09,Credit Card,Chicago,Delivered,3.2
+908625,Jason Taylor,Furniture,1,131.38,2023-07-05,6.96,Cash,Phoenix,Delivered,4.2
+425203,Kristen Ramirez,Books,3,227.44,2022-04-30,17.79,PayPal,New York,Cancelled,3.3
+310103,Heather Vargas,Furniture,7,214.47,2022-03-08,13.63,Bank Transfer,Phoenix,Pending,2.0
+489094,Timothy Acosta,Furniture,8,127.92,2021-06-07,0.06,Debit Card,New York,Shipped,1.2
+529652,Eric Stewart,Furniture,5,159.19,2023-05-01,17.87,Cash,Chicago,Cancelled,1.7
+345498,Terri Collins,Clothing,6,27.05,2021-04-07,15.81,Cash,Phoenix,Shipped,3.3
+545398,Dawn Diaz,Furniture,2,218.06,2022-04-04,1.32,Cash,Houston,Shipped,3.6
+801768,Leslie Garcia,Clothing,1,118.48,2023-11-29,3.68,Bank Transfer,Houston,Shipped,3.1
+931095,Whitney Rogers,Furniture,7,158.44,2023-02-26,10.17,PayPal,Phoenix,Cancelled,4.8
+513567,Ashley Huerta,Electronics,8,274.33,2023-07-29,10.89,PayPal,New York,Pending,1.4
+384878,Yolanda Patterson,Electronics,7,198.25,2021-07-16,5.5,Credit Card,Chicago,Shipped,2.0
+378699,Lisa Harris,Books,5,447.92,2021-03-21,3.01,Cash,Phoenix,Pending,3.5
+265829,Jason Woodward,Furniture,3,281.23,2023-12-26,18.43,Debit Card,Phoenix,Pending,1.6
+717551,Vanessa Ward,Clothing,3,221.5,2021-01-24,8.86,Cash,Phoenix,Pending,2.8
+219745,Jody Bridges,Electronics,5,8.39,2023-02-13,2.02,Bank Transfer,New York,Shipped,4.0
+950825,Alice Solomon,Books,6,83.88,2023-04-20,8.27,Bank Transfer,Houston,Shipped,1.2
+140143,Cindy Sanchez,Furniture,8,15.48,2022-02-13,3.02,Debit Card,Los Angeles,Shipped,2.9
+531506,Kimberly Ward,Electronics,1,442.76,2021-08-12,0.79,Cash,New York,Pending,1.1
+670575,Cynthia Russell,Books,6,19.09,2021-07-30,3.69,Cash,New York,Pending,2.5
+783859,Cynthia Lambert,Electronics,5,232.95,2021-09-23,13.9,Bank Transfer,Houston,Pending,1.8
+452669,Grant Ramos,Electronics,8,341.09,2023-10-26,15.0,PayPal,Los Angeles,Delivered,1.4
+576873,Christopher Diaz,Clothing,7,253.68,2023-05-15,7.55,Bank Transfer,Los Angeles,Shipped,3.1
+553985,Judy Schultz,Electronics,4,340.95,2023-10-03,5.15,Cash,Los Angeles,Shipped,1.8
+963420,Amanda Bates,Furniture,7,300.64,2023-02-07,4.61,Cash,Houston,Delivered,2.9
+716564,Taylor Fisher,Electronics,2,390.16,2022-01-20,2.49,Cash,Houston,Cancelled,3.3
+173947,Tamara Burns,Clothing,5,256.96,2022-11-12,0.13,Bank Transfer,Los Angeles,Delivered,4.5
+240197,Kelsey Miller,Electronics,7,243.19,2023-10-14,16.16,Credit Card,Houston,Shipped,1.6
+316677,Richard Osborne,Electronics,5,166.65,2022-04-27,9.64,PayPal,Chicago,Pending,2.1
+566126,Jennifer Roberts,Clothing,1,233.27,2021-10-21,19.62,Debit Card,Los Angeles,Shipped,2.9
+791743,Kelsey Wells MD,Books,2,65.7,2021-11-01,3.97,PayPal,Chicago,Shipped,2.6
+818054,Sandra Wilkinson,Books,9,123.79,2023-02-05,5.45,Bank Transfer,Houston,Shipped,2.6
+938690,Justin Miller,Furniture,8,141.78,2021-02-17,6.19,PayPal,Chicago,Delivered,1.5
+958879,Valerie Cole,Groceries,7,322.99,2023-06-16,8.41,Cash,New York,Delivered,3.6
+718049,Melissa Mullins,Furniture,2,293.8,2022-03-27,17.87,Bank Transfer,Houston,Shipped,1.4
+666913,Jacob Johnson,Furniture,8,342.02,2023-11-18,4.31,Bank Transfer,Houston,Shipped,4.8
+900087,Joshua Bullock,Furniture,6,260.37,2022-03-11,16.13,Cash,Los Angeles,Delivered,3.8
+464677,Mary Peck,Electronics,4,327.36,2021-04-20,11.31,PayPal,Chicago,Delivered,1.0
+301425,Kimberly Price,Books,8,12.59,2021-08-20,6.87,Credit Card,New York,Delivered,4.4
+654444,Elizabeth Wood,Electronics,3,329.39,2022-10-18,12.26,Debit Card,Chicago,Pending,4.6
+788973,Craig Floyd,Furniture,5,273.77,2022-03-14,3.96,Debit Card,New York,Delivered,1.3
+596733,Wayne Franklin,Clothing,8,149.52,2021-07-15,3.27,Cash,Houston,Pending,3.9
+535460,Jennifer Jones,Electronics,1,195.56,2021-06-20,4.09,Debit Card,Los Angeles,Shipped,2.1
+877433,Kevin Santiago,Furniture,4,463.93,2022-01-02,8.32,Cash,Houston,Cancelled,2.0
+745318,Nicole Baker,Furniture,4,408.59,2023-03-03,9.82,Credit Card,New York,Delivered,1.8
+668633,Kevin Perry,Clothing,9,173.73,2021-07-14,4.04,PayPal,Houston,Delivered,1.5
+905321,Mary Brooks,Furniture,8,442.38,2021-04-29,13.23,Credit Card,New York,Cancelled,2.6
+349775,Jennifer Mills,Electronics,5,309.23,2023-07-19,18.71,Cash,Phoenix,Cancelled,4.3
+204309,Timothy Perez,Books,8,433.96,2021-11-13,4.68,Credit Card,Houston,Delivered,2.7
+759663,Shannon Stone,Books,4,185.37,2023-07-17,13.43,PayPal,New York,Pending,1.7
+942181,Mrs. Sandra Miller,Clothing,3,67.26,2022-11-25,5.44,Cash,Los Angeles,Shipped,1.9
+691317,William Ramirez,Furniture,9,23.22,2023-04-17,18.69,Cash,Chicago,Delivered,2.3
+533610,Courtney Hutchinson,Furniture,8,177.25,2022-03-03,8.63,Cash,New York,Cancelled,4.3
+230553,Brian Nunez,Electronics,1,78.88,2023-09-30,14.03,Credit Card,Chicago,Cancelled,4.5
+907968,Tina Graves,Books,9,122.91,2023-11-18,16.18,Bank Transfer,Los Angeles,Shipped,4.5
+345553,Cassandra Gregory,Clothing,2,161.85,2021-12-08,7.98,PayPal,New York,Cancelled,1.3
+875592,Samantha Hanna,Electronics,2,116.3,2021-01-12,13.4,PayPal,Phoenix,Cancelled,2.1
+655890,Tyler Ford,Clothing,1,236.66,2022-06-17,6.05,Credit Card,Houston,Cancelled,2.7
+375748,Anthony Valencia,Books,8,339.54,2022-07-11,4.64,Bank Transfer,Phoenix,Cancelled,3.0
+965339,Matthew Fisher,Furniture,6,381.64,2021-05-30,18.7,Debit Card,Chicago,Cancelled,2.6
+590160,Joanna Holmes,Electronics,1,216.26,2023-08-02,16.57,Cash,New York,Shipped,4.4
+280992,John Jones,Clothing,4,39.34,2021-07-12,7.99,PayPal,Houston,Pending,2.8
+365402,Haley Nelson,Books,4,52.0,2023-10-11,4.1,Cash,New York,Cancelled,2.8
+272012,Katherine Martinez,Clothing,8,417.55,2021-05-25,6.15,PayPal,Chicago,Delivered,4.4
+203787,Crystal Bradford,Groceries,9,320.89,2022-03-18,1.81,Cash,Phoenix,Shipped,4.6
+919461,Daniel Oconnor,Books,9,42.81,2023-10-14,14.83,Cash,Los Angeles,Delivered,4.5
+621397,Brent Wallace MD,Electronics,1,447.09,2021-10-09,1.93,Bank Transfer,Los Angeles,Pending,1.4
+247375,Melanie Reese,Books,5,383.11,2021-10-22,16.21,Bank Transfer,Chicago,Pending,1.9
+385597,Jordan Velasquez,Clothing,2,138.74,2022-12-02,16.37,Bank Transfer,Phoenix,Shipped,1.6
+548884,Linda Welch,Electronics,5,338.56,2021-06-05,11.59,PayPal,Houston,Delivered,4.4
+460034,Nichole Oneill,Electronics,9,245.26,2022-05-01,2.81,Credit Card,New York,Shipped,4.0
+576320,Victoria White,Furniture,2,222.37,2021-03-05,19.59,PayPal,Chicago,Delivered,4.6
+457275,Joel Goodwin,Clothing,4,402.45,2022-12-31,7.41,Bank Transfer,Chicago,Cancelled,3.4
+957186,Amber Berry,Clothing,5,23.3,2022-04-23,19.2,Bank Transfer,Phoenix,Cancelled,2.0
+797760,Curtis Brennan,Groceries,8,107.67,2022-10-04,1.27,PayPal,New York,Pending,4.4
+298624,Valerie Hall,Furniture,9,373.5,2022-05-19,1.66,Credit Card,Chicago,Shipped,4.1
+311399,Jennifer Winters,Electronics,1,408.47,2022-09-10,17.89,Credit Card,Houston,Delivered,3.0
+402182,Mrs. Sydney Adams,Books,3,92.22,2022-12-20,8.43,Cash,Chicago,Cancelled,3.4
+451007,Samuel Grant,Furniture,2,399.58,2021-04-18,10.98,Debit Card,Houston,Delivered,2.7
+179736,Christopher Lee,Furniture,7,176.0,2023-03-08,11.84,Credit Card,New York,Delivered,3.3
+723780,Marcus Johnson,Books,9,296.31,2022-07-28,18.36,Debit Card,New York,Delivered,2.8
+343894,Pamela Clark,Groceries,8,240.99,2021-12-13,3.9,Bank Transfer,Los Angeles,Shipped,1.4
+129800,Gina Saunders,Groceries,8,241.0,2022-05-01,2.52,PayPal,Phoenix,Cancelled,3.2
+788197,Dawn Woods,Furniture,6,435.47,2022-11-16,17.42,Debit Card,New York,Shipped,1.3
+219291,David Lopez,Books,9,427.05,2023-08-22,17.53,PayPal,Los Angeles,Shipped,2.8
+493005,Gary Ruiz,Clothing,1,385.12,2023-09-02,10.71,Credit Card,Phoenix,Cancelled,3.5
+818413,Jason Brewer,Books,4,18.9,2023-05-23,16.45,PayPal,Los Angeles,Cancelled,4.0
+101482,Chad Hess,Groceries,6,140.8,2023-06-04,7.25,Debit Card,Chicago,Delivered,4.6
+438100,Jessica Richardson,Furniture,4,208.29,2022-11-13,6.99,Cash,New York,Delivered,1.7
+719934,Barbara Harvey,Furniture,6,454.09,2023-10-29,0.9,PayPal,Phoenix,Delivered,3.2
+446339,David Fuller,Books,6,150.33,2022-10-06,18.31,Debit Card,Houston,Shipped,2.9
+683957,Scott Brown,Clothing,7,117.89,2022-04-15,5.1,Cash,Houston,Delivered,3.4
+734324,Connie Porter,Books,5,84.18,2021-05-03,11.91,Bank Transfer,New York,Delivered,2.3
+316674,Robert Hunter,Furniture,7,215.2,2023-03-03,9.69,Debit Card,Houston,Pending,1.9
+270732,Michael Underwood,Clothing,7,210.75,2023-02-06,1.3,Cash,Houston,Pending,3.4
+201375,Michael Garza,Clothing,7,244.99,2023-10-07,18.38,PayPal,Houston,Cancelled,3.7
+974975,Bethany Holder,Clothing,6,430.03,2022-12-11,11.46,Credit Card,New York,Pending,2.4
+990375,Jacqueline Hernandez,Groceries,5,245.96,2023-12-19,15.13,PayPal,Chicago,Cancelled,2.7
+676319,Dale Allen,Electronics,8,9.46,2021-12-16,11.31,PayPal,Phoenix,Pending,4.9
+909137,Edward Moreno,Electronics,4,154.37,2021-07-29,17.27,PayPal,New York,Shipped,4.3
+775011,Judith Miller,Groceries,4,224.67,2023-02-11,18.03,Cash,Los Angeles,Pending,3.0
+724468,Ronald Gonzalez,Electronics,4,331.1,2022-05-14,5.94,Debit Card,New York,Delivered,3.1
+776237,Gregory Hebert,Groceries,3,369.46,2022-01-10,7.83,Cash,New York,Pending,1.3
+100990,Benjamin Smith,Books,5,227.08,2021-08-09,11.02,PayPal,Chicago,Pending,3.1
+299125,Dakota Erickson,Books,2,333.06,2021-10-25,12.75,Credit Card,New York,Cancelled,3.0
+981054,Erica Brown,Clothing,1,416.29,2021-09-22,18.4,Debit Card,New York,Shipped,4.5
+226685,Carrie Browning,Groceries,2,74.88,2023-03-24,12.74,Debit Card,Los Angeles,Delivered,1.5
+796710,Barbara Lamb,Books,3,62.89,2023-04-15,2.19,Cash,New York,Shipped,2.6
+295891,Alexander Braun,Clothing,6,410.29,2021-11-18,12.7,Cash,Phoenix,Cancelled,3.0
+513096,Daniel Small,Electronics,6,254.82,2022-07-18,20.0,Debit Card,Houston,Shipped,3.3
+885558,Darius Martinez DVM,Electronics,3,384.38,2023-05-18,5.85,PayPal,New York,Pending,4.0
+588698,Jordan Faulkner,Electronics,5,425.7,2023-02-06,18.54,Cash,Chicago,Shipped,3.5
+998798,Yolanda Fox,Groceries,6,206.34,2021-11-13,1.15,Cash,Houston,Pending,2.1
+786724,Tina Ware,Electronics,9,479.55,2023-09-21,18.1,PayPal,New York,Cancelled,1.3
+706778,Dr. Anthony Weeks,Furniture,4,175.54,2023-05-29,11.88,PayPal,Phoenix,Pending,3.3
+737693,Ann Morris,Electronics,6,499.92,2022-03-27,1.75,Debit Card,New York,Cancelled,2.2
+997559,Victoria Zimmerman,Groceries,4,362.53,2023-07-31,14.26,Bank Transfer,Houston,Cancelled,1.7
+640685,Jennifer Erickson,Clothing,3,36.93,2022-05-20,12.21,Bank Transfer,Los Angeles,Cancelled,2.2
+746581,Rachel Green,Furniture,8,419.42,2022-11-21,16.93,Bank Transfer,Chicago,Shipped,1.5
+323206,Jose King,Groceries,6,402.54,2023-07-31,19.2,Credit Card,Houston,Delivered,2.5
+755930,Megan Browning,Books,2,337.93,2022-08-31,3.17,Bank Transfer,Chicago,Pending,3.4
+458139,Hannah Rodriguez,Groceries,8,250.74,2021-12-26,2.87,Bank Transfer,Phoenix,Delivered,1.3
+850155,Cathy Fleming,Clothing,2,363.67,2023-05-15,16.04,Credit Card,Chicago,Shipped,3.4
+508780,Joseph Barber,Clothing,6,393.01,2023-10-04,11.02,Credit Card,Houston,Shipped,3.4
+257782,Elizabeth Allen,Groceries,3,250.78,2021-07-28,10.77,PayPal,Chicago,Pending,3.8
+465387,Kenneth Lawson,Clothing,4,441.45,2023-09-20,4.91,Bank Transfer,Houston,Pending,3.6
+560634,Samuel Cantrell,Groceries,6,95.79,2022-11-04,12.73,Credit Card,Houston,Shipped,3.6
+811101,Julia Marshall,Groceries,7,159.26,2022-10-17,7.93,Credit Card,Houston,Pending,1.8
+378590,Jennifer Soto,Groceries,7,141.72,2021-08-12,14.14,Debit Card,New York,Pending,3.0
+624451,Jeremy Sharp,Furniture,9,262.45,2021-05-10,7.4,Credit Card,Los Angeles,Cancelled,2.3
+669124,Timothy Russo,Books,8,174.04,2021-07-25,8.64,PayPal,Los Angeles,Cancelled,1.1
+441587,Andrea Castillo,Books,9,310.57,2023-02-18,0.91,Debit Card,Houston,Delivered,1.3
+484779,Tonya King,Books,7,441.09,2022-05-28,0.83,PayPal,Los Angeles,Cancelled,2.4
+946356,Traci Floyd,Electronics,5,192.47,2022-12-16,8.42,Bank Transfer,Los Angeles,Delivered,3.2
+387036,Amy Daniels,Electronics,5,149.29,2022-05-25,16.3,Cash,Houston,Pending,2.6
+407891,Dwayne Taylor,Books,6,387.45,2022-10-19,16.15,Bank Transfer,Los Angeles,Shipped,4.9
+175248,Maria Gordon,Clothing,6,329.47,2023-07-30,9.91,Debit Card,Phoenix,Cancelled,1.1
+346427,Dana Daniels,Electronics,6,246.99,2022-02-05,13.68,PayPal,Los Angeles,Delivered,1.1
+685451,Jose Elliott,Groceries,5,474.31,2022-07-23,12.6,Debit Card,Phoenix,Delivered,4.1
+964179,Mark Gross,Furniture,7,419.85,2022-05-06,9.88,Cash,Chicago,Delivered,2.7
+960756,Pamela Curtis,Books,2,270.13,2022-09-03,5.98,Bank Transfer,Houston,Pending,3.6
+734402,Jason Farmer,Groceries,5,414.49,2021-10-01,5.18,Bank Transfer,Los Angeles,Pending,1.7
+870133,Lisa Maddox,Books,5,404.83,2023-11-25,11.13,Credit Card,Chicago,Delivered,3.7
+561144,Daniel Wright,Furniture,8,96.45,2021-02-15,19.06,Credit Card,Houston,Delivered,3.8
+361463,Tina Barnett,Clothing,3,126.06,2021-02-12,15.2,PayPal,Los Angeles,Shipped,4.6
+726751,Danielle Hughes,Electronics,5,340.25,2021-01-10,3.93,Bank Transfer,New York,Pending,2.4
+687416,Christopher Mcclure,Groceries,2,455.6,2021-11-18,15.22,Bank Transfer,New York,Delivered,2.5
+287886,Stephen Stephens,Electronics,9,242.56,2021-07-28,0.84,Cash,Houston,Cancelled,1.4
+779728,Jason Scott,Books,1,210.28,2021-12-17,16.75,Cash,Houston,Cancelled,4.7
+701400,Christie Mclaughlin,Books,7,466.43,2023-02-16,5.42,Cash,Los Angeles,Cancelled,4.1
+868237,Terri Molina,Books,3,62.9,2023-05-27,7.06,Debit Card,New York,Delivered,1.1
+133015,James Villegas,Electronics,7,118.15,2021-11-21,5.52,Bank Transfer,Phoenix,Pending,3.7
+762510,Mrs. Tammy White,Groceries,7,239.17,2022-04-29,14.11,Credit Card,Chicago,Cancelled,1.6
+586371,Michael Miller,Electronics,6,104.94,2021-05-11,7.84,Bank Transfer,Phoenix,Shipped,4.3
+398257,Keith Martinez,Electronics,2,53.37,2023-10-12,8.84,Debit Card,Houston,Pending,4.2
+823248,Amy Fisher,Furniture,6,371.58,2021-07-20,8.38,Bank Transfer,New York,Delivered,2.8
+621071,Carrie Diaz,Electronics,9,291.64,2021-02-26,9.02,PayPal,Phoenix,Pending,3.3
+272877,Blake Richardson,Furniture,5,274.86,2023-12-08,5.83,Credit Card,Phoenix,Cancelled,2.0
+108771,Amanda Johnson,Furniture,7,10.42,2022-06-17,14.11,Cash,Houston,Delivered,3.8
+425344,Jane Thompson,Electronics,2,105.78,2021-12-30,7.48,Credit Card,Phoenix,Delivered,1.2
+782319,Kathleen Barnett,Furniture,6,284.73,2022-10-12,19.06,Credit Card,Phoenix,Shipped,3.4
+639931,Deborah King,Electronics,8,331.74,2023-06-12,19.91,Cash,Houston,Shipped,4.8
+856985,Lisa Carr,Electronics,1,388.23,2022-06-12,15.41,Bank Transfer,Chicago,Cancelled,2.3
+204382,Debbie Andrews,Groceries,2,469.44,2021-01-05,14.79,Cash,Houston,Cancelled,2.5
+245983,Linda Reed,Groceries,7,274.87,2022-08-13,5.51,PayPal,Los Angeles,Delivered,1.8
+536810,Brianna Ramirez,Books,2,335.45,2021-12-28,1.63,Cash,Phoenix,Pending,1.6
+373428,Kelly Mccoy,Clothing,2,258.06,2022-05-28,12.45,Cash,Chicago,Pending,4.8
+538864,Lawrence Finley,Furniture,1,367.21,2023-06-17,3.89,Credit Card,Phoenix,Pending,1.4
+166507,Susan Roberts,Books,4,340.87,2023-04-01,5.8,Debit Card,New York,Pending,2.2
+162114,Lauren Stephens,Groceries,5,69.05,2021-12-14,13.05,PayPal,Houston,Shipped,2.3
+654079,Taylor Alvarez,Clothing,9,410.82,2022-05-10,14.64,Bank Transfer,Los Angeles,Pending,2.2
+514443,William Russell,Books,3,149.33,2022-09-07,15.28,PayPal,Houston,Pending,4.2
+823571,Tracey Dean,Electronics,9,434.34,2021-09-19,19.82,PayPal,Phoenix,Cancelled,4.7
+156777,Amy Krause,Furniture,5,130.27,2021-12-06,6.22,PayPal,Los Angeles,Shipped,2.9
+660292,Angela Sherman,Clothing,2,113.1,2022-12-19,17.67,Bank Transfer,Houston,Pending,1.1
+460498,John Bennett,Groceries,3,399.85,2022-11-03,11.21,Bank Transfer,Los Angeles,Shipped,2.1
+524938,Alec Boyer,Clothing,2,265.73,2021-12-22,7.42,Bank Transfer,Houston,Pending,4.9
+679524,Rachel Noble,Furniture,4,443.46,2021-11-08,6.68,Bank Transfer,Phoenix,Pending,4.9
+314113,Mr. Adam Small,Books,3,226.2,2022-07-24,19.54,Debit Card,Houston,Pending,3.2
+271530,Benjamin West,Clothing,1,176.37,2022-10-23,0.74,Bank Transfer,Houston,Delivered,2.9
+863327,Glenn Adams,Furniture,4,68.19,2021-03-05,16.29,PayPal,Houston,Delivered,2.8
+117179,Mary Orr,Furniture,6,485.41,2021-01-12,5.63,PayPal,Houston,Pending,2.1
+811273,Elizabeth Zimmerman,Groceries,3,52.45,2021-03-31,8.87,Cash,New York,Shipped,3.4
+656927,Andrew Hughes,Books,5,51.34,2022-11-17,8.34,Debit Card,New York,Pending,4.8
+161221,Todd Nicholson,Groceries,4,14.46,2023-10-30,10.12,PayPal,Houston,Shipped,4.3
+187740,Tiffany Rose,Clothing,4,80.52,2023-02-15,5.02,Debit Card,New York,Pending,1.1
+168685,Jill Montes,Books,9,167.93,2021-12-16,6.68,Debit Card,Chicago,Cancelled,2.6
+966642,Holly Collier,Furniture,4,174.67,2021-12-23,12.14,PayPal,Chicago,Delivered,4.2
+716496,Andrea Gillespie,Groceries,1,70.47,2022-06-12,0.32,Cash,Houston,Delivered,4.1
+694864,Jose Bates,Clothing,5,486.73,2021-09-07,7.65,PayPal,Houston,Cancelled,4.1
+605372,Jeffrey Ramirez,Groceries,3,42.29,2021-12-28,13.86,Credit Card,Los Angeles,Cancelled,1.6
+885317,Ebony Rodriguez,Groceries,7,103.22,2022-11-17,1.04,Bank Transfer,Los Angeles,Pending,2.5
+598268,Grant Perkins,Clothing,5,99.98,2021-02-06,12.67,Bank Transfer,Phoenix,Delivered,3.5
+918000,Jennifer Garcia,Clothing,1,84.15,2023-06-23,2.2,PayPal,New York,Pending,3.8
+151263,Elizabeth Robinson,Books,9,418.73,2022-02-12,8.23,Bank Transfer,New York,Cancelled,1.4
+462762,Lauren Jones,Books,5,464.18,2022-04-25,13.96,Debit Card,New York,Delivered,3.8
+805138,Brandi Maddox,Furniture,2,158.64,2023-05-08,13.71,Cash,New York,Delivered,2.9
+544119,Alexandria Henderson,Clothing,7,84.84,2023-07-05,19.9,Credit Card,Los Angeles,Cancelled,2.8
+154465,Stephanie House,Clothing,4,154.66,2023-06-14,17.72,Cash,Chicago,Shipped,3.2
+913026,Yvette Rodriguez,Electronics,9,101.87,2021-03-27,0.71,Cash,New York,Pending,1.8
+167990,Anna Valdez,Furniture,7,25.82,2023-01-22,11.3,Bank Transfer,Los Angeles,Pending,3.2
+916324,Corey Fisher,Books,4,297.59,2022-12-21,4.95,Bank Transfer,Chicago,Delivered,3.0
+473393,Matthew Day,Groceries,7,50.76,2021-04-28,2.78,PayPal,New York,Shipped,2.1
+382130,Rachel Robertson,Furniture,8,416.34,2023-05-05,13.87,Bank Transfer,Phoenix,Shipped,2.8
+353362,Phillip Evans,Groceries,6,351.03,2021-11-18,10.74,Credit Card,Los Angeles,Delivered,2.7
+521895,Alicia Erickson,Groceries,3,107.85,2021-08-08,8.44,Debit Card,Phoenix,Cancelled,3.8
+505211,Brandon Jones,Clothing,7,235.44,2022-07-29,1.05,Bank Transfer,New York,Cancelled,4.5
+730360,Megan Haney,Clothing,1,149.0,2022-11-30,10.3,PayPal,New York,Delivered,2.5
+769764,Gary Simmons,Groceries,3,286.29,2023-08-23,2.18,PayPal,Los Angeles,Shipped,3.6
+317021,Mathew Richardson,Electronics,3,462.89,2021-12-06,5.7,Debit Card,Houston,Shipped,2.7
+988085,Jordan Fernandez,Books,4,297.1,2021-08-12,18.59,PayPal,Phoenix,Delivered,2.9
+116697,Thomas Kirby,Books,9,57.85,2023-03-17,1.43,Cash,New York,Pending,4.9
+105781,Katie Clark,Electronics,4,42.97,2023-07-25,2.91,Bank Transfer,Los Angeles,Shipped,2.9
+555923,Michael Anderson,Electronics,7,41.05,2022-03-11,16.92,PayPal,New York,Delivered,4.2
+448984,Dana Harris,Groceries,9,37.97,2023-03-13,5.82,Cash,Los Angeles,Pending,1.6
+214615,Cody Nelson,Books,3,232.02,2022-01-27,10.52,Debit Card,Houston,Pending,1.6
+202305,Daryl Villa,Furniture,4,271.52,2021-09-15,3.14,Debit Card,Phoenix,Cancelled,3.6
+426703,Marcus Smith,Furniture,2,47.34,2022-10-23,7.38,Cash,Los Angeles,Delivered,4.8
+866685,Lisa James,Clothing,9,253.57,2022-01-02,8.6,PayPal,Los Angeles,Pending,4.0
+189775,John Thompson,Clothing,7,328.43,2022-09-15,3.3,Debit Card,New York,Cancelled,4.0
+873760,Sabrina Rodriguez,Groceries,4,439.95,2022-02-28,9.64,PayPal,Houston,Cancelled,2.9
+444307,Derek Logan,Groceries,4,37.07,2023-02-04,1.57,Credit Card,Phoenix,Pending,2.3
+302780,Christopher Simon,Electronics,3,120.57,2022-07-27,15.29,Credit Card,Los Angeles,Delivered,1.6
+583802,Kaitlin King,Clothing,2,126.25,2022-12-01,12.23,Cash,New York,Cancelled,4.8
+199768,Thomas Morris,Electronics,1,193.83,2022-04-17,4.04,Bank Transfer,Houston,Pending,4.3
+583934,Susan Colon,Clothing,2,98.79,2022-08-03,10.76,PayPal,New York,Cancelled,2.1
+661129,Jennifer Lee,Groceries,8,8.54,2022-07-18,15.74,Credit Card,Houston,Shipped,2.5
+555182,Kristin Allen,Books,2,274.06,2023-08-25,1.73,Bank Transfer,Chicago,Cancelled,3.7
+177814,Sara Adams,Books,8,111.83,2021-12-02,3.93,Cash,Phoenix,Cancelled,3.3
+423116,Michelle Newman,Electronics,8,39.52,2021-05-22,14.34,Debit Card,Phoenix,Pending,2.3
+218448,Tina Owen,Clothing,7,29.56,2022-01-01,11.31,Debit Card,New York,Pending,1.4
+923121,Andrea Hansen,Clothing,9,147.05,2023-09-10,6.95,Cash,Chicago,Cancelled,1.2
+247997,Valerie Richardson,Groceries,8,82.63,2022-11-25,6.82,Credit Card,Houston,Delivered,2.9
+774256,John Ramirez,Electronics,4,234.21,2022-10-17,8.07,Credit Card,Chicago,Shipped,4.2
+703681,Joseph Carter,Groceries,8,122.49,2023-10-08,13.35,Bank Transfer,Houston,Cancelled,2.0
+149335,Dawn Bullock,Furniture,3,410.67,2023-01-28,1.61,Bank Transfer,New York,Delivered,1.4
+665011,Nathan Carr,Books,2,396.86,2022-02-09,17.33,Cash,Chicago,Cancelled,2.1
+975363,Eric Boyd,Books,9,65.56,2023-05-13,13.49,Cash,Houston,Pending,3.0
+945304,Andrew Steele,Furniture,3,318.88,2023-10-14,3.03,PayPal,Houston,Pending,4.0
+892149,Lisa Anderson,Electronics,5,194.05,2021-06-23,8.21,Credit Card,Los Angeles,Shipped,3.0
+278816,Matthew Smith,Clothing,2,124.56,2021-03-31,12.82,Cash,Chicago,Delivered,3.1
+165501,Meghan Mitchell,Books,9,117.96,2021-01-31,11.5,PayPal,Los Angeles,Delivered,4.5
+174816,Joshua Ford,Books,7,82.76,2021-12-06,4.0,Debit Card,Chicago,Delivered,2.6
+420918,Mallory Fletcher,Groceries,3,432.08,2022-04-25,16.9,Debit Card,Phoenix,Delivered,4.4
+986255,Robin Cross,Clothing,8,449.64,2021-10-01,11.66,Debit Card,Los Angeles,Delivered,2.4
+248877,Douglas Larson,Electronics,7,355.65,2021-02-28,15.36,PayPal,Phoenix,Delivered,1.8
+794079,Donna Moore,Electronics,4,42.82,2022-05-18,3.4,Bank Transfer,Phoenix,Pending,1.5
+364504,Kathryn Williams,Clothing,7,240.33,2021-03-03,17.1,Bank Transfer,Phoenix,Shipped,3.3
+804871,Felicia Duncan,Electronics,5,464.27,2023-04-19,6.19,Bank Transfer,Los Angeles,Shipped,1.9
+437275,Amanda Harris,Books,5,152.96,2022-10-08,16.91,Debit Card,Phoenix,Cancelled,1.3
+777792,Dylan Whitaker,Groceries,1,219.66,2021-11-21,14.89,Debit Card,Houston,Shipped,3.0
+812702,Bryan Jones,Electronics,3,282.54,2022-06-08,15.52,Bank Transfer,Houston,Pending,4.7
+546303,Sophia Williams,Groceries,7,469.74,2021-03-09,3.93,Credit Card,Phoenix,Pending,2.7
+846556,Whitney Garrison,Electronics,7,62.93,2021-03-10,13.9,Debit Card,New York,Delivered,3.6
+651741,Richard Johnson,Furniture,9,108.57,2022-01-13,13.81,Bank Transfer,New York,Cancelled,2.9
+523000,Angel Johnson,Groceries,1,201.9,2022-11-29,17.45,Credit Card,Houston,Delivered,3.9
+847941,Jeffrey May,Clothing,6,495.08,2023-01-21,19.83,Debit Card,New York,Cancelled,2.2
+234469,Penny Johnson,Electronics,6,273.25,2021-06-26,8.56,Debit Card,Phoenix,Delivered,1.1
+364224,Cynthia Smith,Electronics,7,295.84,2022-03-31,3.55,Credit Card,Chicago,Delivered,3.2
+187234,Marc Campbell,Books,3,322.97,2021-10-18,14.14,PayPal,New York,Pending,1.9
+975223,James James,Furniture,1,200.06,2023-10-12,10.19,Credit Card,Phoenix,Shipped,4.7
+663366,Caleb Hill,Clothing,3,382.7,2022-06-24,11.84,Debit Card,Chicago,Cancelled,3.7
+307762,Vicki Reeves,Electronics,8,284.65,2021-08-14,11.05,Debit Card,Houston,Cancelled,3.6
+727289,Jennifer Moore,Clothing,2,286.66,2021-03-09,16.49,PayPal,Phoenix,Shipped,1.8
+650463,Diana Brown,Furniture,1,299.8,2023-04-08,15.31,PayPal,Phoenix,Pending,1.5
+474320,Amanda Turner,Electronics,5,8.31,2022-03-14,1.23,PayPal,New York,Delivered,4.3
+318940,Matthew Hester,Electronics,5,477.17,2022-03-10,8.04,Credit Card,Chicago,Pending,1.8
+560733,Anthony Graves,Books,5,183.61,2022-11-26,13.02,Credit Card,Houston,Delivered,4.9
+850826,Elizabeth Huffman,Groceries,5,51.39,2021-06-03,4.5,Cash,Los Angeles,Pending,2.1
+457047,Jason Snow,Groceries,4,347.22,2023-12-18,13.59,Bank Transfer,Chicago,Cancelled,1.1
+356465,Renee Moreno,Groceries,9,236.14,2021-07-21,19.19,PayPal,New York,Delivered,4.0
+860095,Mark Harvey,Electronics,2,236.12,2023-09-24,8.8,Debit Card,Phoenix,Pending,1.8
+747514,Holly Jordan,Groceries,2,396.46,2022-06-22,16.08,Credit Card,Chicago,Shipped,3.3
+906147,David Wolf,Groceries,3,15.01,2021-01-07,5.72,Debit Card,New York,Cancelled,2.6
+713729,Mike Smith,Groceries,2,90.6,2022-07-07,8.57,Cash,New York,Shipped,2.3
+674806,Heather Guzman,Groceries,3,16.61,2023-03-20,9.37,Debit Card,New York,Pending,2.7
+875755,Jessica Johnson,Clothing,5,179.0,2022-07-30,3.05,Bank Transfer,Houston,Pending,1.3
+426079,Dennis Gregory,Groceries,1,434.51,2022-03-05,7.33,Bank Transfer,Los Angeles,Cancelled,3.1
+150193,Brian Boyle,Furniture,5,51.75,2021-03-25,11.2,Cash,Chicago,Cancelled,4.1
+686428,Bradley Riddle,Electronics,6,302.37,2021-08-20,0.67,Debit Card,Chicago,Shipped,2.9
+320073,Rebecca Martin,Electronics,7,156.53,2021-04-12,10.37,Credit Card,Phoenix,Pending,4.4
+560108,Wesley Johnson,Clothing,4,482.26,2021-04-17,17.67,Bank Transfer,New York,Shipped,4.5
+786406,Melanie Ramos,Books,7,54.18,2023-02-02,5.79,Debit Card,Chicago,Shipped,1.4
+194252,Alicia Suarez,Groceries,9,341.02,2023-09-09,2.74,Cash,New York,Cancelled,2.3
+453168,Larry Smith,Electronics,1,360.31,2022-05-25,3.74,PayPal,Chicago,Pending,2.6
+789477,Katherine Hansen,Groceries,3,399.18,2021-07-20,8.43,PayPal,Chicago,Shipped,3.9
+870531,Holly Lee,Electronics,1,41.7,2022-12-06,1.77,Bank Transfer,New York,Delivered,3.1
+802964,James Armstrong,Groceries,5,249.41,2021-12-22,15.85,Credit Card,New York,Pending,1.9
+203217,Eugene Barker,Groceries,4,120.88,2021-11-24,1.26,Debit Card,Los Angeles,Shipped,4.2
+106206,Linda Sutton,Groceries,3,114.75,2023-10-07,2.55,PayPal,Chicago,Cancelled,2.3
+871378,Brian Montgomery,Furniture,8,288.22,2022-02-01,9.88,Debit Card,Chicago,Pending,2.8
+161210,Christopher Saunders,Books,9,326.37,2021-04-10,13.12,PayPal,Chicago,Pending,4.9
+543403,Angela Cline,Books,5,282.05,2021-02-12,8.67,Credit Card,Houston,Pending,4.0
+188858,Tamara Walter,Electronics,6,197.44,2023-03-13,17.18,Debit Card,Chicago,Cancelled,3.3
+932240,Sarah Smith,Furniture,1,217.76,2021-09-19,5.4,Credit Card,Los Angeles,Cancelled,4.0
+150117,Austin Morgan,Electronics,4,459.23,2023-11-11,5.97,PayPal,Houston,Cancelled,3.5
+526325,Michelle Garner,Furniture,6,369.31,2022-12-30,9.8,Credit Card,Houston,Delivered,3.6
+113848,Jon Davis,Books,7,141.02,2021-02-12,7.36,PayPal,Phoenix,Delivered,3.5
+210405,Christopher Brown,Clothing,7,208.04,2022-09-27,10.02,Cash,Phoenix,Pending,2.5
+429703,Adam Martin,Electronics,2,435.57,2021-08-01,4.7,PayPal,New York,Delivered,3.3
+199594,Trevor Case,Furniture,7,258.1,2023-03-25,9.64,Cash,Los Angeles,Delivered,2.3
+876993,Brandon Grant,Clothing,9,147.85,2023-12-06,6.98,Cash,New York,Cancelled,4.7
+479674,Teresa Liu,Furniture,8,83.82,2021-11-11,12.2,Credit Card,Chicago,Shipped,2.7
+526472,Jeffrey Frank,Groceries,6,206.4,2022-03-03,4.52,Debit Card,Phoenix,Shipped,3.5
+774509,Shannon Oneill,Books,6,75.37,2023-09-24,0.72,Bank Transfer,Phoenix,Delivered,2.5
+957972,Nicole Smith,Clothing,1,116.52,2021-11-03,13.77,Cash,Houston,Cancelled,3.9
+935691,Kim Burns,Books,1,373.2,2023-08-04,2.7,Debit Card,Los Angeles,Shipped,1.2
+408231,Anthony Nicholson,Furniture,8,474.57,2022-04-27,11.08,PayPal,Phoenix,Pending,1.2
+124838,Terri Stewart,Clothing,8,367.86,2022-10-18,18.13,Cash,Los Angeles,Delivered,3.8
+832074,Ebony Wilson,Clothing,5,54.49,2021-03-20,19.68,Cash,Los Angeles,Shipped,3.1
+694566,Cory Morrow,Furniture,6,184.33,2023-07-22,3.11,Cash,Los Angeles,Delivered,2.5
+746947,Chris Valencia,Electronics,3,85.26,2023-02-01,13.22,Credit Card,Los Angeles,Pending,2.3
+623338,Tammy Alexander,Groceries,7,318.16,2023-06-04,5.35,Bank Transfer,Chicago,Delivered,3.7
+752049,Adrian Ramirez,Electronics,2,27.19,2021-10-20,3.62,Cash,Chicago,Delivered,2.8
+416958,Kathryn Williams,Furniture,4,110.75,2022-11-14,14.98,Bank Transfer,New York,Delivered,2.7
+703679,Natalie Knight,Books,3,148.41,2022-11-25,19.66,PayPal,Houston,Cancelled,4.5
+539941,Robert Serrano,Electronics,8,363.26,2021-07-29,0.28,Credit Card,Chicago,Shipped,4.1
+742435,Dalton Jefferson,Electronics,8,295.48,2023-11-09,15.38,PayPal,Phoenix,Delivered,3.4
+514674,Justin Terrell,Furniture,7,162.96,2022-08-23,17.0,Credit Card,Phoenix,Pending,2.0
+359219,Christopher Long,Electronics,4,86.93,2022-05-13,12.68,Credit Card,New York,Shipped,2.6
+443629,Julie Fox,Furniture,2,34.27,2021-05-18,17.81,Debit Card,Chicago,Pending,3.2
+837892,Kristy Stewart,Electronics,7,457.22,2021-06-28,15.85,Debit Card,Chicago,Pending,2.9
+821956,Timothy Lopez Jr.,Furniture,9,24.02,2022-08-05,14.38,Cash,Los Angeles,Cancelled,2.6
+748698,Doris Hudson,Furniture,1,198.16,2021-01-01,4.14,Credit Card,Phoenix,Shipped,2.7
+997802,William Williams,Books,3,150.29,2021-04-04,3.07,PayPal,Los Angeles,Shipped,1.2
+462900,Sarah Martin,Furniture,9,68.85,2022-03-19,5.5,Credit Card,Chicago,Shipped,4.8
+493770,Dennis Smith,Clothing,8,326.64,2023-06-26,4.1,PayPal,Los Angeles,Shipped,4.6
+801918,Natalie Williams,Clothing,4,392.87,2023-11-11,9.23,Cash,Houston,Delivered,4.4
+630397,Ryan Jackson,Groceries,9,406.03,2022-05-08,2.1,PayPal,New York,Pending,1.8
+288225,Deanna Simon,Groceries,1,225.03,2021-11-19,17.36,Bank Transfer,New York,Cancelled,1.6
+299826,Luis Hunter,Groceries,3,65.15,2022-06-05,10.87,Bank Transfer,Chicago,Shipped,3.0
+314103,Daniel Howell,Electronics,8,160.2,2023-11-18,17.9,Debit Card,Chicago,Shipped,2.9
+701789,Candace Holloway,Furniture,9,48.83,2021-10-17,16.69,PayPal,Los Angeles,Delivered,2.4
+583825,Denise Maddox,Groceries,3,84.52,2023-04-05,15.53,Bank Transfer,New York,Pending,2.8
+916520,Anthony Hicks,Furniture,9,41.38,2021-09-24,14.08,Bank Transfer,Chicago,Shipped,3.9
+790445,Heather Richardson,Electronics,6,204.89,2021-03-30,17.08,Bank Transfer,New York,Cancelled,1.2
+909768,Thomas Hayes,Books,3,180.69,2022-10-15,17.35,Cash,New York,Delivered,1.3
+308382,David Thomas,Electronics,9,308.41,2023-03-15,16.42,Cash,Los Angeles,Pending,4.4
+655076,Cynthia Curry,Clothing,7,35.13,2022-05-20,0.3,PayPal,New York,Shipped,2.4
+115290,Tyler Glover,Furniture,5,360.87,2021-10-29,6.02,Credit Card,Phoenix,Pending,1.0
+771673,Thomas Price,Groceries,9,172.01,2022-05-10,0.51,PayPal,New York,Shipped,1.7
+840800,Kayla Campbell,Groceries,8,185.18,2021-12-21,12.75,Debit Card,New York,Shipped,2.0
+154713,Jennifer Sims,Clothing,9,273.18,2021-07-12,9.4,Cash,Phoenix,Delivered,3.9
+854242,Diane Andersen,Clothing,3,177.79,2021-07-17,17.11,PayPal,Chicago,Cancelled,1.2
+455907,Bryce Quinn,Groceries,5,156.35,2023-11-30,6.9,Cash,Phoenix,Delivered,2.6
+226369,Daniel Hart,Groceries,3,483.77,2021-06-18,8.51,Bank Transfer,Los Angeles,Shipped,2.7
+341834,Mason Wilkerson,Groceries,5,368.71,2022-12-21,10.6,Bank Transfer,Chicago,Pending,4.5
+919436,Michael Green,Clothing,5,91.23,2023-03-07,10.39,PayPal,Phoenix,Pending,3.2
+667957,Gary Vazquez,Electronics,8,226.88,2022-04-27,11.02,Credit Card,Houston,Cancelled,1.0
+629471,Heather Stephens,Clothing,1,333.89,2023-11-09,1.81,Bank Transfer,Houston,Cancelled,3.2
+306857,Rita Miller,Clothing,6,381.01,2022-02-07,5.06,PayPal,Houston,Shipped,1.5
+791591,Leslie Ali,Furniture,8,151.59,2021-05-28,0.12,Bank Transfer,Chicago,Pending,2.8
+591444,Justin Small DVM,Furniture,7,392.32,2023-03-12,19.44,PayPal,New York,Shipped,1.6
+755501,Jesse Dyer,Electronics,3,401.08,2021-11-29,11.98,Credit Card,Houston,Cancelled,3.6
+450315,Terry Fischer,Clothing,2,207.66,2022-04-26,5.55,Cash,Chicago,Delivered,4.5
+325452,Alexis Weber,Books,9,182.76,2021-11-20,3.48,Debit Card,Chicago,Cancelled,1.1
+594022,Kathryn Perry,Groceries,9,96.66,2022-07-04,14.54,Cash,Houston,Cancelled,5.0
+461781,Stephanie Robinson,Clothing,4,495.59,2023-11-27,11.3,Cash,New York,Shipped,2.8
+318441,Karen Wolf,Clothing,7,410.66,2023-09-16,11.55,Credit Card,Houston,Shipped,2.5
+721285,Todd Harris,Furniture,7,433.78,2022-05-15,10.12,PayPal,Houston,Delivered,4.6
+796801,Kimberly Walls,Furniture,7,264.38,2021-05-02,5.23,Bank Transfer,Chicago,Shipped,4.7
+991126,Gina Grant,Clothing,4,129.28,2021-07-11,10.09,PayPal,Chicago,Delivered,3.3
+797555,Mark Trujillo,Furniture,5,145.21,2022-01-08,17.71,Credit Card,Chicago,Shipped,1.1
+187728,Eric Cisneros,Electronics,7,149.66,2022-02-06,16.75,Debit Card,Houston,Cancelled,2.2
+614355,Shannon Nelson,Clothing,4,44.66,2023-12-15,14.44,Debit Card,Houston,Pending,1.9
+274707,Douglas Christian,Groceries,6,221.91,2021-12-06,1.56,Credit Card,Houston,Pending,1.9
+400409,Kyle Brown MD,Clothing,1,188.47,2021-07-14,9.07,PayPal,Chicago,Delivered,2.3
+664320,Jonathan Craig,Furniture,8,336.68,2022-05-12,7.24,Credit Card,New York,Cancelled,2.1
+263814,Diana Dillon,Groceries,6,108.95,2023-07-22,14.45,Credit Card,Phoenix,Cancelled,1.2
+702383,Michael Myers,Books,6,384.85,2021-04-27,4.07,Bank Transfer,New York,Pending,4.3
+369642,Antonio Thomas,Furniture,8,286.92,2023-03-25,16.05,Debit Card,Phoenix,Pending,4.4
+867128,Joe Allen,Furniture,8,91.5,2023-06-26,18.46,Cash,New York,Pending,4.4
+706985,Katherine Ford,Books,8,216.95,2021-03-03,10.8,Credit Card,Phoenix,Delivered,4.1
+783552,Jeremy Collins,Groceries,5,283.32,2023-12-28,11.16,PayPal,Phoenix,Delivered,4.3
+154818,Andrea Anderson,Electronics,9,5.03,2022-11-26,4.6,Bank Transfer,Chicago,Delivered,3.4
+303691,Cody Roberts,Electronics,1,475.86,2022-01-21,19.65,Credit Card,Houston,Cancelled,2.5
+130502,Nathan Lambert,Books,8,166.86,2021-05-17,15.35,Bank Transfer,Houston,Delivered,2.5
+498993,Joseph Cox,Furniture,7,381.12,2023-03-07,1.39,Credit Card,New York,Cancelled,1.7
+649916,Jennifer Lee,Groceries,8,43.92,2021-06-06,4.57,Bank Transfer,Chicago,Cancelled,2.9
+235906,Brenda Butler,Furniture,1,182.62,2022-10-19,6.26,Bank Transfer,Houston,Cancelled,2.5
+507777,Mark Rangel,Clothing,4,235.03,2021-06-25,3.78,Debit Card,Chicago,Shipped,1.1
+993680,James Nunez,Groceries,4,92.85,2022-06-09,6.34,Credit Card,Houston,Pending,3.2
+491588,Lauren Williams,Groceries,3,226.36,2023-12-29,5.65,Cash,Phoenix,Delivered,4.4
+824469,Willie Fox,Groceries,2,395.49,2021-01-30,2.75,Credit Card,Los Angeles,Pending,1.2
+848744,Kristy Mckenzie,Books,4,425.52,2023-08-17,16.64,Cash,Chicago,Cancelled,2.8
+103240,Joseph Cook,Furniture,9,225.59,2022-09-03,3.6,Credit Card,Houston,Delivered,2.2
+256769,Sarah Stevens,Furniture,8,55.13,2022-10-08,1.14,Bank Transfer,New York,Pending,3.0
+162326,Jeffrey Williams,Furniture,2,250.29,2023-05-25,12.39,Credit Card,New York,Shipped,2.2
+138444,William Morgan,Furniture,1,322.44,2021-11-15,7.09,Cash,Los Angeles,Cancelled,3.3
+801647,Mark Robinson,Clothing,4,73.42,2021-09-09,15.18,Credit Card,New York,Shipped,4.0
+585228,Kayla Edwards,Clothing,8,51.28,2021-04-02,8.48,Debit Card,Phoenix,Cancelled,4.8
+494496,Jennifer Little,Groceries,6,425.82,2022-12-13,6.04,Bank Transfer,New York,Delivered,1.4
+697672,James Stewart DDS,Groceries,8,374.63,2023-08-04,19.67,PayPal,New York,Pending,4.2
+919072,April Dixon,Furniture,9,422.69,2021-03-13,14.33,Debit Card,Phoenix,Delivered,3.3
+212260,Xavier Vega,Electronics,8,417.68,2021-01-23,16.55,Bank Transfer,Los Angeles,Shipped,1.9
+414372,Karen Smith,Groceries,5,236.34,2022-06-03,15.59,Credit Card,Los Angeles,Pending,4.4
+551353,Shelby Russo,Groceries,8,483.13,2023-08-19,6.6,Credit Card,Los Angeles,Delivered,3.3
+397553,Anne Robles,Electronics,1,338.1,2022-11-19,11.43,PayPal,New York,Cancelled,2.7
+229901,Amanda Padilla,Groceries,3,295.05,2022-03-27,13.24,PayPal,Chicago,Delivered,3.1
+893316,Melinda Thomas,Books,4,282.31,2022-08-10,1.26,Credit Card,Los Angeles,Delivered,3.4
+463015,Charlotte Ryan,Clothing,4,479.24,2023-03-05,9.78,Debit Card,New York,Delivered,1.3
+331578,Karen Garcia,Electronics,4,48.07,2021-02-27,2.94,Debit Card,New York,Cancelled,4.1
+565154,Jennifer Hensley,Furniture,9,202.28,2023-11-30,14.91,PayPal,Houston,Shipped,3.4
+365907,Crystal Bradford,Clothing,4,125.14,2021-03-20,6.74,PayPal,New York,Delivered,2.6
+772688,Krista Randall,Furniture,8,483.19,2023-01-29,6.22,Bank Transfer,Los Angeles,Shipped,2.2
+117167,Leslie Quinn,Electronics,7,240.33,2021-02-21,17.98,Credit Card,Phoenix,Cancelled,2.2
+527788,Summer Brown,Furniture,5,312.93,2021-05-28,10.06,Credit Card,Chicago,Pending,3.2
+839350,Brian Ingram,Furniture,7,310.21,2022-11-19,2.16,Debit Card,Phoenix,Delivered,1.2
+799979,Miranda Morgan,Clothing,9,61.11,2022-08-03,6.34,Bank Transfer,New York,Pending,1.0
+920669,Sarah Wallace,Clothing,5,445.4,2021-11-19,10.58,Cash,New York,Cancelled,1.1
+887293,Ashley Miller,Furniture,1,242.03,2021-09-17,7.5,Bank Transfer,Los Angeles,Pending,3.4
+226272,William Williams,Groceries,9,340.59,2022-01-14,14.8,Debit Card,Los Angeles,Delivered,1.3
+726251,Shannon Lamb MD,Electronics,6,321.9,2022-08-15,0.45,Credit Card,New York,Shipped,3.1
+551830,Catherine Gilbert,Clothing,5,490.53,2022-06-05,13.31,PayPal,New York,Shipped,2.1
+496296,Christine Mcclure,Furniture,5,326.02,2021-12-03,15.86,Credit Card,Houston,Cancelled,2.4
+605038,Darryl Walker,Electronics,1,64.5,2021-11-26,13.91,Bank Transfer,Phoenix,Shipped,1.8
+472620,Craig Smith,Furniture,8,86.49,2022-05-04,10.67,Debit Card,Los Angeles,Cancelled,3.9
+300624,Betty Jones,Books,3,480.27,2023-07-06,14.97,Cash,New York,Shipped,3.6
+745069,Billy Morgan,Clothing,1,173.03,2023-09-06,3.54,Cash,Phoenix,Delivered,3.1
+200968,Richard Morgan,Books,4,465.21,2023-02-12,14.66,Debit Card,Los Angeles,Pending,3.4
+836258,Mark Decker,Furniture,1,350.51,2022-04-21,4.9,Cash,Phoenix,Pending,2.2
+964514,Edward Smith,Groceries,3,106.69,2023-08-17,5.45,Debit Card,Houston,Shipped,4.7
+318897,Joshua Alexander,Groceries,3,354.63,2021-02-28,15.23,PayPal,Houston,Cancelled,1.5
+198311,Terry Williams,Clothing,1,279.23,2023-02-24,4.69,Cash,Los Angeles,Delivered,3.2
+638373,Joshua Taylor PhD,Groceries,9,354.93,2021-07-18,13.2,Cash,Houston,Delivered,4.7
+229995,Alexandra Watson,Books,5,30.63,2022-05-14,19.28,Cash,New York,Pending,3.2
+790044,Gina Wood,Electronics,5,383.68,2023-09-25,6.89,PayPal,Los Angeles,Cancelled,1.2
+698135,Jennifer Davis,Books,4,375.32,2023-05-02,6.4,PayPal,Phoenix,Shipped,2.7
+675851,Debra Webster,Furniture,5,6.72,2022-09-07,2.31,Debit Card,Los Angeles,Cancelled,4.8
+218018,Steven Martinez,Clothing,6,166.42,2022-04-06,19.82,PayPal,Los Angeles,Delivered,1.9
+156988,Joseph Smith,Clothing,6,469.36,2022-09-02,15.85,PayPal,Phoenix,Delivered,4.8
+648357,Ashley Dodson,Clothing,9,395.75,2023-06-17,14.93,Credit Card,Los Angeles,Pending,3.3
+881750,Edwin Shaw,Groceries,4,106.06,2023-06-07,12.2,Debit Card,Houston,Pending,4.1
+254781,Heather Thomas,Groceries,7,316.23,2023-11-14,7.03,Debit Card,New York,Cancelled,1.6
+105191,Samantha Higgins,Groceries,1,281.43,2022-08-09,15.19,PayPal,Los Angeles,Cancelled,2.6
+494733,James Thornton,Clothing,7,213.88,2021-04-17,4.45,PayPal,New York,Cancelled,1.7
+419432,Beverly Clark,Furniture,3,139.21,2022-09-11,13.26,Credit Card,New York,Cancelled,1.3
+562557,Adam Mercer,Electronics,4,254.27,2023-03-03,17.61,Debit Card,New York,Delivered,4.6
+795218,Isabella Murillo,Furniture,4,253.5,2021-08-15,15.51,Credit Card,Chicago,Delivered,4.0
+710564,Steven Thompson,Electronics,1,106.12,2023-07-03,13.41,Cash,Los Angeles,Cancelled,3.2
+396522,Kent Jones,Electronics,7,167.19,2022-11-17,17.95,Debit Card,New York,Cancelled,4.5
+116681,Sarah Harris,Books,1,329.99,2022-03-23,7.22,Cash,Los Angeles,Pending,5.0
+993423,Monica Harris,Furniture,4,118.74,2022-06-20,18.75,Credit Card,Houston,Cancelled,2.7
+430083,Maria Holmes,Books,4,228.56,2022-03-30,15.1,Credit Card,Houston,Cancelled,3.6
+899397,Stephanie Lee,Groceries,3,425.82,2023-07-08,19.48,Credit Card,Los Angeles,Shipped,1.1
+817052,Hannah Ellis,Groceries,8,106.53,2021-12-27,17.69,Debit Card,Los Angeles,Pending,3.6
+917770,Elaine Hogan,Furniture,1,205.58,2022-10-16,7.66,Credit Card,Chicago,Shipped,4.0
+927338,Diane Powell,Books,6,132.73,2022-11-25,6.01,Bank Transfer,Houston,Shipped,4.2
+852635,Charles Castro,Furniture,3,206.59,2021-02-02,5.75,Bank Transfer,Phoenix,Pending,3.5
+277771,Tracy Howard,Groceries,1,259.0,2023-02-22,15.82,Credit Card,Phoenix,Cancelled,2.0
+906232,Christopher Brown,Clothing,6,11.56,2022-05-11,15.9,Credit Card,Chicago,Shipped,3.3
+634887,Rebecca Scott,Electronics,2,176.51,2022-10-17,18.39,PayPal,Los Angeles,Pending,3.6
+577512,Robert Eaton,Furniture,2,296.65,2021-02-15,15.62,Cash,New York,Delivered,2.3
+765727,Kimberly Perry,Electronics,3,169.46,2021-09-29,5.18,Credit Card,Houston,Cancelled,2.1
+276062,Ashley Rich,Electronics,2,203.95,2022-09-24,15.82,PayPal,Phoenix,Cancelled,4.1
+717804,Virginia Nichols,Furniture,7,86.6,2023-10-24,19.49,Credit Card,New York,Pending,2.6
+406550,Carolyn Goodman,Electronics,6,389.75,2023-01-17,15.03,Cash,Houston,Delivered,2.2
+694703,Richard Cummings PhD,Clothing,9,145.09,2021-02-24,16.26,Cash,Chicago,Pending,3.9
+392640,Jerome Mckenzie,Furniture,7,242.51,2023-05-30,12.4,PayPal,Chicago,Pending,3.6
+933095,Luis Garza,Clothing,9,302.7,2023-09-22,6.26,PayPal,Houston,Delivered,1.6
+340576,Samuel Espinoza,Groceries,4,120.52,2022-05-18,11.62,PayPal,New York,Pending,4.8
+481854,Sonya Arias,Groceries,7,24.14,2021-09-29,11.25,Bank Transfer,Phoenix,Shipped,4.4
+190098,Cheyenne Cox,Books,2,403.52,2022-12-19,1.83,Credit Card,Chicago,Cancelled,1.6
+531740,Danny Perez,Groceries,4,398.49,2023-10-03,2.75,PayPal,Chicago,Shipped,1.0
+779068,Brandon Turner,Groceries,3,328.68,2023-10-18,6.47,Debit Card,Phoenix,Pending,2.5
+665267,Melanie Jacobs,Clothing,5,376.37,2022-01-31,14.41,Debit Card,Phoenix,Pending,2.2
+329496,James Harrison,Books,9,38.47,2021-04-22,18.05,Credit Card,Phoenix,Pending,4.2
+880209,Michael Cohen,Groceries,7,362.12,2022-07-29,4.37,Credit Card,New York,Shipped,1.8
+276901,Maria Hendrix,Furniture,5,104.09,2022-04-22,19.64,Cash,Phoenix,Cancelled,4.7
+558446,Anthony Cooper,Clothing,6,365.78,2023-06-05,18.87,PayPal,Houston,Shipped,2.6
+845716,Jessica Morales,Clothing,9,20.83,2022-07-16,18.23,PayPal,New York,Cancelled,3.9
+889322,Sarah Nunez,Clothing,6,421.53,2021-11-20,12.42,Cash,Chicago,Pending,3.5
+552237,Mrs. Catherine Tucker,Books,4,244.07,2021-04-28,2.15,PayPal,Los Angeles,Pending,3.6
+625318,Eric Boyd,Books,7,56.24,2022-03-13,8.19,Cash,Houston,Pending,3.8
+836804,Randall Hester,Books,9,345.54,2022-11-04,11.09,Debit Card,Phoenix,Pending,3.1
+549729,Amy Chang,Electronics,8,64.69,2023-05-21,17.58,Debit Card,Chicago,Pending,3.7
+808933,Logan Nguyen,Clothing,1,231.09,2023-06-10,6.52,PayPal,Chicago,Shipped,3.2
+806549,Brian Simmons,Clothing,2,10.92,2023-01-23,5.38,Debit Card,New York,Delivered,2.1
+930747,April Camacho,Books,5,134.1,2022-09-05,14.61,PayPal,New York,Delivered,3.1
+659169,Rachel French,Electronics,5,43.21,2023-07-07,7.76,Credit Card,New York,Cancelled,3.3
+992626,Heather Moss,Electronics,8,279.14,2022-01-26,18.09,Bank Transfer,Phoenix,Shipped,1.4
+727562,Natasha Mosley,Furniture,1,199.9,2023-11-11,10.69,PayPal,New York,Delivered,1.7
+250588,Bruce Gutierrez,Electronics,1,371.11,2021-05-13,17.49,Credit Card,Houston,Shipped,3.6
+139304,James Carpenter,Furniture,9,285.42,2021-10-26,0.42,Credit Card,Chicago,Cancelled,2.7
+600222,Nicole Patrick,Books,6,292.08,2023-03-07,3.77,Cash,New York,Cancelled,1.6
+347449,Melanie Graham,Books,3,228.0,2021-02-19,14.52,Bank Transfer,Chicago,Shipped,1.8
+126019,Miguel Ross,Clothing,9,134.29,2022-06-19,4.95,PayPal,Phoenix,Cancelled,2.8
+999833,Christopher Terry,Clothing,1,213.63,2023-12-23,11.57,Bank Transfer,Los Angeles,Cancelled,4.7
+698453,Jason Smith,Furniture,5,434.16,2022-11-04,13.35,PayPal,New York,Shipped,1.9
+665318,Morgan Moyer,Clothing,2,495.16,2021-01-21,14.48,Debit Card,Chicago,Delivered,4.8
+602608,Adam Wilson DDS,Electronics,4,342.8,2023-11-09,5.14,Credit Card,New York,Pending,2.0
+466296,Cory Lawrence,Electronics,9,442.04,2022-09-04,17.23,Debit Card,New York,Delivered,4.6
+657931,Stephanie Walsh,Electronics,1,51.27,2021-06-02,7.55,Credit Card,Phoenix,Shipped,2.2
+682240,Melanie Chambers,Groceries,6,459.19,2023-05-09,5.26,Debit Card,Houston,Delivered,1.9
+516879,Christopher Scott,Electronics,5,248.1,2022-02-24,14.48,Debit Card,Chicago,Shipped,4.6
+583190,Kelly Martinez,Furniture,8,77.91,2023-03-25,17.29,Cash,New York,Pending,1.2
+854888,Jennifer Davila,Groceries,8,421.11,2022-07-14,5.47,Credit Card,New York,Pending,3.3
+718689,William Hunter,Books,6,398.98,2023-07-29,4.12,PayPal,Houston,Pending,2.4
+118687,Adam Jones,Groceries,6,136.93,2023-06-01,0.67,PayPal,Chicago,Delivered,3.1
+482350,James Taylor,Clothing,9,497.18,2022-08-11,18.2,Debit Card,Houston,Delivered,1.5
+680350,Gavin Patterson,Clothing,4,497.28,2023-02-09,3.75,Credit Card,New York,Pending,2.4
+975724,Judy Stafford,Furniture,3,14.66,2022-02-02,16.34,Cash,Chicago,Cancelled,4.1
+690243,Joseph Rodriguez,Furniture,5,445.61,2023-10-18,16.42,PayPal,Chicago,Pending,4.3
+266994,Cynthia Weeks,Electronics,9,321.87,2023-09-20,17.03,Cash,Chicago,Delivered,4.6
+104355,Kelly Sullivan,Groceries,8,146.3,2023-09-19,19.84,Credit Card,New York,Delivered,3.5
+680042,Heather Paul,Furniture,2,219.93,2021-08-06,0.52,Debit Card,Chicago,Pending,3.0
+640550,Theresa Smith,Groceries,4,157.92,2023-03-05,7.72,Bank Transfer,Phoenix,Pending,2.9
+596000,Brady Jackson,Groceries,4,198.51,2022-10-01,1.36,Debit Card,Phoenix,Shipped,2.9
+353244,Jack Phillips,Electronics,2,477.74,2021-07-01,8.8,Cash,Los Angeles,Shipped,2.9
+347508,Daniel Williams,Clothing,1,463.07,2023-04-26,15.31,Bank Transfer,Los Angeles,Pending,2.9
+825039,Donna Lee,Groceries,2,139.42,2022-04-13,19.58,Debit Card,New York,Delivered,4.1
+521775,Julie Olson,Groceries,9,275.9,2023-01-31,16.3,PayPal,Houston,Delivered,2.7
+866395,Alejandra Burns,Electronics,9,492.87,2021-04-14,2.24,Cash,Los Angeles,Cancelled,1.4
+221081,Tina Snyder,Clothing,8,276.14,2022-06-28,1.82,Credit Card,Chicago,Delivered,3.7
+806544,Bruce Davenport,Groceries,3,313.17,2023-07-18,9.15,Credit Card,Chicago,Delivered,4.5
+968164,David Caldwell,Electronics,1,331.61,2021-07-23,12.73,Credit Card,Los Angeles,Delivered,2.3
+763035,Christopher Hebert,Groceries,2,270.01,2022-01-01,9.19,Bank Transfer,New York,Cancelled,4.3
+917300,Jessica Golden,Electronics,2,346.45,2023-06-19,4.83,Cash,Chicago,Shipped,4.1
+191752,Justin Steele,Books,6,17.45,2023-08-21,14.32,Debit Card,New York,Delivered,2.3
+315468,Dr. Michael Campbell MD,Electronics,5,207.08,2021-06-26,10.64,Debit Card,New York,Delivered,4.8
+143113,Denise Santiago,Groceries,6,123.37,2022-02-28,10.3,Bank Transfer,Chicago,Delivered,4.8
+421871,Margaret Roberts,Clothing,2,36.2,2023-03-12,1.05,PayPal,Los Angeles,Delivered,1.4
+269137,Mark Dennis,Furniture,3,384.41,2021-02-16,8.27,PayPal,New York,Cancelled,2.8
+959420,Amy Juarez,Groceries,5,55.81,2022-02-01,13.72,Debit Card,Houston,Cancelled,3.1
+325337,Ellen Miller,Groceries,4,231.81,2021-02-07,1.55,PayPal,Chicago,Pending,1.1
+875495,Jesse Simpson,Electronics,2,218.13,2023-10-13,4.63,Cash,Phoenix,Shipped,1.4
+546510,Eric Lopez,Groceries,4,378.08,2023-03-22,14.99,Credit Card,New York,Cancelled,2.7
+180323,Julie Vega,Electronics,8,67.79,2023-03-10,14.09,Bank Transfer,Houston,Cancelled,1.0
+975110,Patricia Barron,Clothing,4,251.71,2021-08-14,7.35,Debit Card,Los Angeles,Pending,1.1
+934392,Wesley Wilson,Clothing,3,102.59,2023-05-30,10.76,Cash,Los Angeles,Pending,2.5
+759370,Mary Thomas,Groceries,9,478.43,2023-11-09,6.25,Bank Transfer,New York,Pending,4.5
+393996,Amy Donaldson,Books,8,474.07,2021-12-18,16.53,Credit Card,New York,Shipped,3.2
+385773,Manuel Leblanc,Clothing,4,317.63,2023-02-18,11.56,Credit Card,New York,Shipped,4.7
+856328,Laura Stephens,Furniture,5,20.82,2022-09-24,15.04,Bank Transfer,Phoenix,Cancelled,4.4
+249015,Brian Johnson,Clothing,7,393.27,2022-09-05,0.65,Cash,Houston,Delivered,4.5
+256477,Donna Curry,Clothing,2,153.12,2023-09-07,17.27,Bank Transfer,New York,Delivered,4.5
+834987,Robert Davidson,Books,3,448.94,2023-02-07,5.96,Cash,Phoenix,Pending,4.5
+401788,Richard Fields,Books,6,343.19,2023-01-16,16.22,Cash,Chicago,Cancelled,4.1
+703626,Sarah Davies,Furniture,3,19.68,2023-09-17,14.79,PayPal,Houston,Delivered,2.3
+668125,Ian Lester,Electronics,2,313.53,2022-12-10,4.86,Debit Card,Chicago,Shipped,2.1
+771337,Stacy Simpson,Groceries,2,55.85,2021-12-24,18.78,Debit Card,New York,Delivered,2.4
+978466,Anna Brown,Electronics,1,262.31,2021-09-22,12.07,Cash,New York,Cancelled,4.8
+382113,Aaron Ramirez,Groceries,2,274.55,2023-04-08,17.35,Debit Card,Chicago,Shipped,1.9
+389145,Dylan Newton,Books,7,124.01,2023-11-06,6.68,Bank Transfer,Houston,Cancelled,4.4
+816486,Denise Salazar,Furniture,7,422.83,2023-11-21,13.33,Bank Transfer,New York,Cancelled,4.7
+773247,Cheryl Henry,Electronics,9,112.34,2022-12-13,3.48,Credit Card,Chicago,Shipped,4.4
+787287,Tracy Cunningham,Electronics,3,208.27,2023-01-05,5.75,PayPal,Los Angeles,Cancelled,1.2
+710478,Jesus Morgan,Groceries,8,214.41,2021-04-09,17.04,Cash,Phoenix,Pending,3.4
+701370,Sarah Cruz,Electronics,8,283.45,2023-06-21,4.47,Bank Transfer,Chicago,Cancelled,1.4
+678701,Amanda Williams,Groceries,5,369.8,2023-04-28,3.19,Credit Card,Los Angeles,Shipped,3.8
+509538,Jennifer Crawford,Groceries,9,257.03,2021-06-17,2.63,Cash,Los Angeles,Pending,4.8
+798132,Brian Gonzalez,Groceries,3,112.16,2021-01-15,0.46,PayPal,Los Angeles,Cancelled,3.4
+805655,Barbara Martin,Electronics,7,73.7,2022-12-19,7.94,Credit Card,Houston,Pending,1.9
+296882,Jason Roth,Groceries,6,22.78,2021-10-05,4.2,Bank Transfer,Phoenix,Pending,2.2
+803598,Jacob Reyes,Clothing,9,237.52,2023-04-19,2.23,PayPal,Chicago,Cancelled,4.8
+209467,Jose Johnson,Books,6,395.5,2021-11-02,17.57,PayPal,Los Angeles,Cancelled,2.0
+579340,Amanda White,Groceries,4,43.24,2023-02-14,6.87,Debit Card,Houston,Shipped,2.8
+783972,Sabrina Holt,Groceries,4,338.05,2021-03-04,17.28,Bank Transfer,Houston,Delivered,4.7
+928081,Elizabeth Juarez,Clothing,9,297.77,2021-05-02,17.14,Credit Card,Houston,Pending,1.7
+717615,Mitchell Lopez,Electronics,3,396.05,2021-04-24,7.83,Cash,Los Angeles,Cancelled,3.2
+664990,Kayla Benson,Furniture,5,401.22,2023-08-13,19.55,Cash,Los Angeles,Pending,1.4
+892283,Tammy Andrews,Groceries,7,197.11,2022-07-28,10.9,PayPal,Phoenix,Pending,1.9
+925100,David Davies,Furniture,2,341.78,2022-07-13,13.65,Cash,Houston,Shipped,2.9
+151676,Monica Romero,Electronics,3,210.92,2022-05-11,4.8,PayPal,Chicago,Delivered,4.8
+690861,Dr. Sarah Simmons DDS,Books,2,283.3,2023-06-20,2.42,Bank Transfer,Los Angeles,Shipped,1.3
+263358,Mario Pittman,Groceries,7,50.34,2023-12-28,17.91,Debit Card,New York,Delivered,3.6
+962405,Joseph Marsh,Electronics,8,61.82,2022-12-30,2.42,Bank Transfer,New York,Shipped,3.5
+406541,Mackenzie Garcia,Groceries,5,213.92,2023-06-22,13.49,Bank Transfer,New York,Cancelled,2.9
+130768,Matthew Miller,Groceries,2,192.88,2021-07-11,10.74,Bank Transfer,Phoenix,Shipped,2.1
+653466,Rachel Baxter,Furniture,8,180.7,2021-05-25,11.96,Cash,Chicago,Shipped,1.5
+561774,Angela Bradley,Groceries,7,191.9,2022-07-25,0.42,PayPal,Houston,Pending,4.4
+400214,Stacy Mcbride,Clothing,1,196.41,2022-06-21,9.13,PayPal,Phoenix,Cancelled,1.8
+116005,Veronica Fuller,Electronics,7,209.46,2022-03-05,4.54,PayPal,New York,Cancelled,2.9
+352564,Barbara Burnett,Furniture,9,203.42,2021-08-10,3.84,Credit Card,Los Angeles,Pending,3.7
+952088,Nicole King,Clothing,7,373.4,2021-09-05,10.69,PayPal,New York,Delivered,2.7
+310604,Julie Thomas,Clothing,6,349.02,2021-08-28,7.8,Credit Card,New York,Cancelled,4.9
+907260,Diane Mcconnell,Books,3,457.95,2022-10-01,5.33,PayPal,Houston,Shipped,1.6
+660431,Sophia Castro,Books,2,396.77,2021-06-01,15.87,Credit Card,New York,Shipped,2.0
+244130,April Sharp,Books,8,312.23,2023-06-28,6.76,Bank Transfer,Houston,Cancelled,1.8
+157469,Paul Cobb,Books,6,35.37,2022-06-15,4.78,Bank Transfer,Houston,Shipped,3.2
+382123,Joseph Graves,Groceries,1,108.21,2022-07-25,9.44,Credit Card,Los Angeles,Cancelled,4.9
+468827,Daniel Hill,Furniture,3,130.7,2022-12-18,2.82,Bank Transfer,Houston,Shipped,1.9
+767132,Melanie Oliver,Furniture,4,302.61,2023-03-07,12.44,Cash,Chicago,Shipped,3.4
+524293,Frank Mcconnell,Groceries,9,290.8,2022-10-14,4.41,Credit Card,New York,Shipped,1.2
+343898,Jon Patel,Electronics,1,27.45,2023-08-13,19.4,Credit Card,Chicago,Delivered,4.0
+524973,Dominic Rubio,Clothing,3,391.81,2023-08-04,6.79,PayPal,Phoenix,Shipped,2.6
+496164,Michael Brown,Books,6,471.25,2022-04-11,19.66,Credit Card,New York,Delivered,3.2
+164203,Kristin Patel,Furniture,9,157.05,2022-02-12,4.49,Cash,Los Angeles,Cancelled,3.6
+950784,Stephanie Morris,Electronics,6,15.16,2023-09-11,3.87,Debit Card,Chicago,Cancelled,1.1
+872796,Joshua Martinez,Electronics,9,318.2,2022-01-28,15.11,Credit Card,New York,Pending,2.8
+267300,Paul Moreno,Books,5,461.81,2022-08-22,1.35,Debit Card,Phoenix,Shipped,2.5
+632570,Maria Newman,Electronics,6,280.38,2022-10-07,2.39,Cash,Los Angeles,Delivered,2.7
+394998,Benjamin Reynolds,Clothing,3,236.78,2021-11-27,17.46,PayPal,Phoenix,Pending,1.5
+196145,Leah Johns,Groceries,1,68.7,2022-08-13,11.74,Debit Card,Chicago,Shipped,3.1
+235046,Lori Robinson,Electronics,8,451.6,2021-09-08,1.48,PayPal,New York,Cancelled,1.9
+547627,Kyle Kennedy,Books,6,143.98,2023-05-02,14.98,Debit Card,Phoenix,Cancelled,4.0
+231367,Michael Phelps,Electronics,4,142.87,2021-11-20,12.47,Bank Transfer,Phoenix,Cancelled,2.8
+705253,Vanessa Johnson,Books,1,380.4,2022-08-04,18.12,Bank Transfer,New York,Shipped,4.5
+602568,Melissa Leonard,Furniture,5,414.1,2021-09-09,13.13,Debit Card,Chicago,Pending,3.8
+118006,Julia Soto,Furniture,6,352.13,2022-07-22,5.32,Bank Transfer,Phoenix,Cancelled,1.1
+337026,Christopher Koch,Books,6,353.0,2022-11-12,18.7,Debit Card,Los Angeles,Delivered,4.1
+280479,Elizabeth Hubbard,Clothing,2,191.56,2023-04-06,15.49,PayPal,Chicago,Pending,2.9
+851205,Michelle Johnson,Clothing,4,17.84,2023-10-29,15.29,Cash,Phoenix,Delivered,3.0
+958532,Maria Wilkins,Groceries,1,122.19,2022-12-28,10.64,Debit Card,Phoenix,Pending,2.4
+997998,Annette Potter,Groceries,6,237.24,2022-12-20,3.54,Debit Card,Houston,Delivered,4.3
+806068,Eric Romero,Books,7,223.31,2023-11-25,6.6,Debit Card,Phoenix,Cancelled,4.6
+690659,Andrea Taylor,Groceries,8,288.44,2023-06-29,11.94,PayPal,New York,Shipped,2.5
+381340,Patricia Taylor,Groceries,4,32.57,2022-12-28,7.64,Bank Transfer,New York,Shipped,4.3
+287452,Elizabeth Christian,Electronics,7,121.21,2021-05-29,8.35,Debit Card,Chicago,Cancelled,1.0
+903934,David Smith,Clothing,9,14.76,2023-01-08,16.7,PayPal,Chicago,Pending,1.4
+617241,Taylor Wallace,Furniture,4,343.06,2022-01-25,18.59,Debit Card,Houston,Cancelled,2.1
+745971,Christopher Moore,Groceries,3,288.61,2022-08-05,7.98,Cash,Phoenix,Cancelled,3.8
+301883,William Griffin,Furniture,4,379.27,2022-11-09,10.75,Debit Card,Houston,Delivered,2.8
+695438,Regina Potter,Books,9,36.14,2023-01-03,8.62,Debit Card,Phoenix,Pending,4.0
+403939,Susan Brown,Furniture,2,496.54,2022-10-17,17.21,Credit Card,Houston,Shipped,3.7
+772281,William Zimmerman,Electronics,6,177.61,2021-03-20,18.2,Cash,Chicago,Delivered,3.6
+740925,Christopher Evans,Furniture,2,237.34,2023-10-10,13.84,Debit Card,Chicago,Delivered,1.7
+912081,Matthew Jones,Clothing,9,99.55,2021-03-31,7.04,Credit Card,Phoenix,Shipped,4.5
+829847,Jordan Miller,Electronics,3,73.23,2022-05-05,11.48,Bank Transfer,Houston,Cancelled,4.9
+215381,David Garcia,Books,7,343.19,2022-02-06,15.13,Bank Transfer,Chicago,Shipped,2.0
+879211,Ashley Pacheco,Electronics,6,272.36,2022-11-16,16.75,Cash,Chicago,Delivered,4.7
+403791,Garrett Garcia,Books,7,334.16,2021-06-17,10.41,PayPal,Los Angeles,Cancelled,4.7
+561495,Linda Acevedo,Electronics,3,299.08,2022-08-16,14.57,Credit Card,Houston,Cancelled,2.0
+418115,Patricia Martinez,Books,9,199.37,2022-10-09,10.79,Debit Card,New York,Delivered,1.9
+702207,Gerald Young,Furniture,1,193.94,2022-11-01,19.13,Credit Card,Houston,Cancelled,1.7
+890537,Kimberly Holland,Furniture,9,227.11,2022-09-10,6.41,Bank Transfer,Los Angeles,Cancelled,1.8
+709631,Gregory Lee,Electronics,6,246.4,2023-10-25,9.93,Cash,Chicago,Pending,2.0
+174230,Lauren Klein,Books,9,68.05,2022-09-27,8.61,Credit Card,New York,Delivered,3.8
+241284,Matthew Cole,Books,3,77.78,2023-09-03,0.57,PayPal,Los Angeles,Shipped,4.5
+589516,Nicole Andersen,Groceries,6,266.04,2023-07-30,17.02,Debit Card,New York,Shipped,3.8
+510762,Angelica Reed,Groceries,6,285.43,2022-10-24,11.95,Credit Card,Houston,Shipped,2.0
+853292,Michael Long,Electronics,8,486.49,2022-08-21,9.72,PayPal,Houston,Cancelled,1.5
+578276,Benjamin Beltran,Furniture,1,207.67,2021-05-26,1.85,Cash,Chicago,Pending,1.7
+870442,Andrew Sanchez,Clothing,3,208.51,2022-08-15,14.14,Debit Card,Los Angeles,Delivered,3.9
+976679,Alexis Martin,Books,1,324.67,2021-02-17,19.48,Cash,Chicago,Pending,1.5
+988871,Gerald Mason,Groceries,4,60.79,2023-01-04,19.34,Debit Card,Los Angeles,Delivered,2.3
+690436,Gabriella Baker,Electronics,5,499.64,2022-08-31,18.1,Cash,Chicago,Cancelled,1.0
+564269,Angela Gibson,Furniture,8,8.05,2021-01-22,17.46,PayPal,New York,Cancelled,3.5
+189489,Nicholas Torres,Books,6,178.79,2021-01-09,14.68,PayPal,New York,Shipped,3.7
+133562,Jeffery Campbell,Furniture,4,15.86,2023-03-03,18.5,Cash,New York,Delivered,1.6
+735245,Zachary Vaughn,Electronics,8,58.56,2022-11-08,15.88,Credit Card,Houston,Pending,1.6
+785804,Mark Delgado,Furniture,6,333.57,2023-07-26,3.7,PayPal,Houston,Pending,3.5
+842892,Rebecca Higgins,Books,1,428.22,2022-10-09,5.89,Bank Transfer,Los Angeles,Cancelled,4.6
+607979,Eric Garcia,Clothing,3,20.32,2021-09-10,17.48,Bank Transfer,Houston,Cancelled,1.8
+690422,Zachary Ewing,Groceries,1,150.05,2023-07-28,10.46,Bank Transfer,New York,Cancelled,4.8
+280246,Jason Vargas,Clothing,4,312.33,2022-10-13,2.5,Cash,Los Angeles,Cancelled,2.9
+896887,Lisa Barnes,Clothing,5,66.09,2023-12-23,19.56,PayPal,Phoenix,Pending,3.7
+579074,Taylor Bennett,Electronics,3,450.92,2023-10-07,7.54,Cash,Los Angeles,Delivered,2.4
+850223,Raymond White,Groceries,7,368.13,2023-10-17,7.48,PayPal,Los Angeles,Delivered,4.2
+260311,Martin Braun,Groceries,7,386.29,2021-01-02,3.75,Debit Card,Los Angeles,Pending,4.2
+829446,Deborah Rivera,Electronics,8,29.03,2022-05-31,17.69,PayPal,Houston,Cancelled,2.1
+990190,Tony Goodwin,Groceries,9,102.55,2023-01-04,0.78,Bank Transfer,Los Angeles,Cancelled,1.5
+951829,Barbara Orozco,Clothing,4,19.78,2021-01-09,18.32,Debit Card,New York,Shipped,1.9
+212418,Terri Hall,Groceries,3,227.05,2023-09-11,13.64,Credit Card,Chicago,Delivered,2.5
+346072,Jason Coleman,Books,9,160.21,2022-05-16,8.62,PayPal,Houston,Pending,1.5
+462610,Lauren Watkins,Furniture,9,184.53,2023-10-09,8.48,Debit Card,New York,Shipped,1.0
+643097,Todd Williams,Books,3,443.51,2021-09-26,14.04,Cash,Chicago,Delivered,4.9
+102835,Jordan Welch,Books,3,98.58,2022-03-08,19.34,PayPal,Chicago,Delivered,2.0
+570816,Brittany Gordon,Furniture,3,54.09,2023-03-17,0.04,Bank Transfer,Houston,Shipped,1.9
+484008,Ricky Chambers,Electronics,6,239.86,2023-03-27,8.78,Cash,Phoenix,Shipped,4.8
+728714,Renee Gonzalez,Electronics,9,323.17,2022-03-21,8.18,Cash,Houston,Shipped,1.9
+925148,Caitlin Sawyer,Electronics,3,446.63,2021-04-24,15.9,Bank Transfer,New York,Delivered,3.9
+389980,Courtney Brooks,Groceries,5,341.2,2021-11-02,10.28,Bank Transfer,New York,Cancelled,4.9
+528926,Darius Gibson,Clothing,6,123.4,2021-09-06,9.98,PayPal,Phoenix,Delivered,2.3
+291880,Sean Mendez,Groceries,9,66.59,2022-01-28,18.12,Credit Card,Chicago,Shipped,4.3
+152031,Martha Martin,Furniture,9,397.11,2021-01-10,12.77,Bank Transfer,Phoenix,Delivered,2.9
+763632,David Garcia,Furniture,3,207.36,2023-09-03,4.08,Credit Card,Los Angeles,Delivered,1.2
+592320,Timothy Douglas,Electronics,4,454.32,2023-09-04,14.13,Cash,Phoenix,Pending,1.1
+815649,Eduardo Day,Clothing,5,163.66,2023-05-13,4.68,Bank Transfer,Houston,Shipped,4.5
+773213,Laura Greene,Books,1,16.79,2021-03-22,1.57,PayPal,Houston,Delivered,4.5
+141128,Sharon Horn,Furniture,7,291.87,2023-08-09,6.67,Cash,Houston,Delivered,3.5
+313426,Kristen Garcia,Clothing,5,280.33,2021-11-17,18.49,Credit Card,Los Angeles,Pending,2.0
+356027,Christopher Wilson,Clothing,2,114.24,2022-01-25,10.46,PayPal,Phoenix,Delivered,4.2
+390780,Jared Stone,Electronics,9,178.2,2023-11-23,1.6,Bank Transfer,Phoenix,Cancelled,3.3
+949298,Jennifer Pittman,Electronics,3,197.22,2021-04-09,11.48,Credit Card,Chicago,Shipped,4.7
+571778,Maria Hall,Electronics,3,469.47,2021-08-29,10.94,Credit Card,Houston,Pending,2.1
+804253,Nicholas Powers,Furniture,6,146.88,2023-04-21,7.13,Credit Card,Phoenix,Shipped,2.0
+859187,Melissa Barrera,Clothing,5,147.15,2021-01-10,7.93,Debit Card,Houston,Shipped,1.8
+602547,Marc Perez,Books,5,475.22,2023-03-08,14.77,Bank Transfer,New York,Cancelled,3.4
+806048,Margaret Little,Electronics,8,287.13,2023-01-01,6.21,Cash,Los Angeles,Pending,4.9
+391784,Amy Goodwin,Groceries,6,326.36,2022-06-18,18.02,Debit Card,Los Angeles,Pending,4.3
+232405,Daniel Molina,Furniture,6,109.59,2022-08-23,18.34,PayPal,New York,Pending,2.9
+959124,Barbara Smith,Groceries,7,488.1,2022-12-19,17.85,Debit Card,Los Angeles,Shipped,1.9
+923366,Christopher Mendoza,Groceries,7,264.87,2021-09-10,19.44,Bank Transfer,Los Angeles,Delivered,4.1
+560769,Karen Ward,Clothing,4,35.89,2021-08-24,10.3,Cash,Chicago,Delivered,2.6
+239391,Keith Moreno,Clothing,5,53.06,2021-09-19,7.38,PayPal,New York,Cancelled,3.2
+646773,Timothy Rivera,Clothing,3,376.31,2021-10-14,0.87,Credit Card,Chicago,Delivered,4.6
+557418,Katherine Sanchez,Furniture,7,303.55,2023-02-18,18.31,PayPal,New York,Cancelled,2.8
+972072,Andrea Davis,Furniture,7,166.44,2023-12-23,19.81,Debit Card,New York,Cancelled,2.2
+859650,Kelly Rogers,Books,5,160.58,2021-06-01,14.6,Debit Card,Chicago,Cancelled,3.8
+388693,Maurice Ramsey,Clothing,2,126.13,2023-09-17,3.48,Bank Transfer,Los Angeles,Cancelled,4.4
+655381,William Murray,Clothing,8,237.48,2021-06-07,5.66,Cash,Chicago,Delivered,2.4
+721292,Patricia Diaz,Books,6,207.34,2023-07-15,16.56,Credit Card,New York,Cancelled,3.0
+191258,Dana Holt,Clothing,6,5.44,2023-10-27,10.91,PayPal,Phoenix,Cancelled,3.5
+938387,David Garrison,Furniture,9,465.04,2022-09-14,5.96,Credit Card,Phoenix,Pending,1.8
+141905,Leslie Martinez,Groceries,3,86.95,2023-06-05,6.91,Debit Card,New York,Delivered,4.4
+981383,Brian Fernandez,Furniture,6,403.07,2022-11-27,15.6,Debit Card,Houston,Delivered,4.2
+649860,Timothy Jones,Clothing,1,55.69,2023-06-23,8.44,Cash,New York,Cancelled,1.2
+444544,Jessica Webb,Books,7,208.56,2023-05-13,19.26,Credit Card,Los Angeles,Pending,2.1
+158672,Christy Wilson,Furniture,4,457.29,2021-01-02,2.16,Credit Card,Chicago,Delivered,3.3
+575292,Andrew Cooper,Clothing,5,473.51,2023-03-05,10.41,Credit Card,Los Angeles,Cancelled,2.9
+689810,Calvin Hill,Electronics,3,381.73,2021-12-26,2.13,Bank Transfer,Los Angeles,Cancelled,4.4
+732151,Phillip Nash,Groceries,7,172.82,2023-10-29,15.35,PayPal,New York,Shipped,4.8
+531184,James White,Clothing,8,403.68,2023-07-28,2.9,Debit Card,New York,Delivered,1.8
+832391,Jessica Jones,Furniture,2,462.88,2023-12-16,9.41,PayPal,New York,Shipped,3.6
+863934,Preston Sexton,Books,7,165.23,2022-06-16,7.65,Cash,Houston,Pending,4.0
+881949,Laurie Williams,Books,5,238.63,2022-02-12,5.09,Bank Transfer,Phoenix,Delivered,3.0
+612946,Karen Martinez,Furniture,4,72.91,2022-09-15,1.94,PayPal,Houston,Shipped,4.2
+649532,Crystal Galvan,Groceries,9,218.11,2021-10-17,6.14,Debit Card,Los Angeles,Cancelled,4.3
+746514,Christopher Haynes,Electronics,4,340.45,2023-02-17,15.42,Cash,Chicago,Delivered,3.7
+777258,Melissa Yoder,Clothing,7,473.72,2023-01-08,15.75,Credit Card,Los Angeles,Cancelled,1.5
+215493,David Lopez,Furniture,9,196.74,2022-05-23,18.46,PayPal,Phoenix,Cancelled,2.0
+714725,Jonathan Rogers,Furniture,9,442.78,2023-03-23,3.05,Bank Transfer,Chicago,Pending,2.1
+961355,Mark Johnson,Electronics,1,85.98,2021-01-27,15.85,Cash,Phoenix,Delivered,4.9
+774600,Jack Green,Furniture,9,382.16,2021-12-11,13.16,Bank Transfer,Houston,Delivered,3.2
+971484,James Sanders,Books,2,475.49,2023-02-13,11.24,Bank Transfer,Los Angeles,Cancelled,2.3
+696806,Dana Jefferson,Groceries,2,268.98,2023-04-27,9.78,Cash,Chicago,Shipped,4.0
+322052,Barbara Vasquez,Clothing,6,181.48,2023-02-07,5.44,Credit Card,Phoenix,Shipped,3.4
+897840,Danielle Price,Furniture,9,481.08,2023-04-19,7.82,PayPal,New York,Delivered,3.5
+510738,Robert Gamble,Electronics,5,361.87,2023-10-14,3.11,Bank Transfer,New York,Cancelled,3.8
+979448,James Lopez,Clothing,6,116.4,2021-05-13,7.19,Bank Transfer,Houston,Cancelled,2.8
+811603,Oscar Miles,Furniture,6,404.46,2021-06-17,8.98,Cash,Phoenix,Pending,1.5
+885773,Daniel Roberts,Electronics,6,158.76,2022-09-27,7.3,Debit Card,Houston,Delivered,2.7
+389774,Rachel Snyder,Furniture,8,414.52,2022-05-15,6.78,Debit Card,Chicago,Cancelled,3.7
+913579,Jamie Jackson,Books,2,33.44,2022-03-15,9.85,Bank Transfer,Los Angeles,Shipped,1.1
+373709,James Mclaughlin,Electronics,2,64.92,2022-02-20,10.65,PayPal,Houston,Cancelled,2.8
+552434,Michele Martinez,Groceries,9,305.37,2022-06-17,9.07,Credit Card,Phoenix,Shipped,2.0
+563524,Susan Lucas,Clothing,5,440.94,2021-10-06,18.39,Credit Card,Phoenix,Pending,3.3
+299045,Ernest Taylor,Electronics,9,443.88,2023-06-28,13.86,Bank Transfer,New York,Shipped,1.9
+533236,Denise Lewis,Books,4,284.94,2022-09-29,16.73,Debit Card,New York,Cancelled,1.7
+284576,Thomas Wall,Clothing,7,194.76,2023-02-19,13.88,Bank Transfer,Chicago,Pending,1.4
+942412,Robert Tate,Groceries,3,84.17,2022-05-31,1.24,Debit Card,New York,Cancelled,2.5
+394350,Melinda Lee,Electronics,4,326.42,2021-03-25,5.34,Credit Card,Houston,Delivered,4.5
+574618,Keith Warren,Clothing,5,107.08,2023-03-13,17.93,Debit Card,Chicago,Shipped,1.2
+878049,Benjamin Weaver,Clothing,1,109.36,2022-12-18,18.73,PayPal,New York,Delivered,1.4
+115151,Donald Flowers,Books,2,270.36,2023-12-15,6.93,Cash,Phoenix,Cancelled,2.3
+165006,Mary Allen,Clothing,8,183.78,2022-08-28,6.86,Credit Card,Los Angeles,Delivered,4.6
+181622,Keith Reid,Furniture,7,391.04,2021-03-19,5.45,Credit Card,Los Angeles,Shipped,1.8
+521945,Katherine Wilson,Furniture,6,312.31,2021-10-09,16.76,Credit Card,Los Angeles,Cancelled,2.7
+851859,Mary Foster,Furniture,9,80.85,2022-03-18,0.22,Debit Card,Houston,Shipped,1.7
+933294,Debra Nelson,Clothing,8,314.71,2023-02-08,3.79,Debit Card,Chicago,Cancelled,3.7
+954471,Carolyn Lee,Books,4,449.46,2023-10-11,15.16,Credit Card,Los Angeles,Cancelled,4.0
+141140,Larry Brown,Clothing,6,152.53,2021-06-16,10.07,PayPal,Los Angeles,Cancelled,4.5
+387826,Jennifer Hughes,Clothing,7,428.34,2023-08-23,17.64,Cash,New York,Cancelled,4.3
+570517,Anita Carpenter,Electronics,7,349.21,2021-10-01,13.06,Credit Card,Phoenix,Pending,3.5
+116905,Kim Holland,Clothing,6,145.39,2021-06-12,16.81,Debit Card,Phoenix,Cancelled,3.7
+721675,Ashley Mack,Clothing,2,278.95,2022-11-01,16.92,Bank Transfer,Los Angeles,Shipped,3.2
+238336,Keith Rodriguez,Clothing,8,477.75,2022-10-18,17.47,Bank Transfer,Houston,Delivered,4.7
+879839,Devon Carpenter,Furniture,2,303.36,2023-04-26,19.41,Bank Transfer,New York,Shipped,2.9
+937289,Jennifer Gonzalez,Clothing,2,308.77,2021-01-08,10.42,Bank Transfer,Los Angeles,Cancelled,3.4
+229656,Anthony Fields,Electronics,7,391.14,2023-12-20,9.55,Bank Transfer,Los Angeles,Shipped,2.8
+546199,Wayne Smith,Clothing,7,421.75,2021-01-05,2.34,Debit Card,Phoenix,Cancelled,1.1
+640855,Joseph Phillips,Furniture,8,414.27,2022-01-08,14.15,PayPal,Phoenix,Shipped,5.0
+608466,Colin Gomez DDS,Furniture,8,325.95,2021-06-25,2.28,PayPal,Houston,Cancelled,3.5
+685062,Kimberly Mcbride,Books,9,132.35,2021-06-08,1.43,Bank Transfer,Chicago,Cancelled,4.5
+849581,Kenneth Whitney,Clothing,8,455.77,2021-03-12,13.79,Credit Card,Los Angeles,Delivered,3.9
+278066,Jeffery Dixon,Furniture,1,227.17,2022-07-19,3.36,Cash,Los Angeles,Cancelled,1.3
+307469,Jeff Harris,Electronics,6,56.49,2023-11-20,6.86,PayPal,Houston,Cancelled,1.8
+470806,Paul Wall,Books,8,334.71,2021-07-03,15.02,Credit Card,New York,Shipped,2.4
+813165,Renee Rasmussen,Furniture,4,333.04,2023-02-26,14.67,Bank Transfer,Phoenix,Shipped,4.3
+101702,Cassidy Ryan,Electronics,5,112.41,2021-12-03,17.61,Debit Card,Los Angeles,Delivered,2.7
+514463,Sarah Armstrong DDS,Clothing,9,438.92,2023-01-14,18.6,Debit Card,Los Angeles,Shipped,4.3
+307833,Robert Flores,Groceries,1,63.48,2023-04-21,3.86,Debit Card,Los Angeles,Delivered,3.7
+275555,Susan Powell,Furniture,4,296.89,2023-04-16,7.01,PayPal,Chicago,Pending,4.5
+388122,Robert Mason,Electronics,4,213.19,2023-08-22,13.8,PayPal,Los Angeles,Shipped,2.1
+410798,Joel Mcdowell,Books,1,352.76,2021-02-23,13.13,Bank Transfer,Houston,Delivered,4.8
+597013,Lance Griffin,Groceries,3,185.01,2023-07-04,7.26,Bank Transfer,Phoenix,Delivered,2.4
+625537,Colleen Owens,Groceries,4,166.97,2021-10-14,14.38,Cash,New York,Pending,4.5
+389660,Heather Davis,Electronics,2,359.11,2021-08-04,19.13,PayPal,Los Angeles,Cancelled,2.9
+511834,Samantha Erickson,Books,8,313.61,2022-09-18,19.23,Credit Card,Chicago,Pending,1.3
+990323,Andre Dunn,Electronics,9,22.87,2023-08-08,6.33,Debit Card,New York,Delivered,3.7
+733069,Anthony Taylor,Electronics,5,417.97,2023-07-22,14.62,PayPal,Houston,Cancelled,1.0
+847060,Jessica Wood,Furniture,1,21.78,2022-02-15,18.31,Credit Card,Houston,Delivered,1.6
+393326,Ashley Jackson,Clothing,6,469.61,2022-12-09,14.06,Bank Transfer,Houston,Delivered,1.4
+350450,Amanda Martin,Groceries,5,424.52,2022-12-05,7.2,PayPal,Chicago,Cancelled,2.7
+956094,Kristina Gonzales,Electronics,5,123.47,2023-03-06,17.94,Debit Card,Houston,Shipped,1.7
+521799,Daniel Dean,Furniture,6,327.06,2023-05-21,0.01,PayPal,New York,Shipped,1.0
+754545,Timothy Mills,Clothing,7,25.35,2023-07-18,6.95,Cash,Phoenix,Cancelled,1.6
+632561,Brandon Brown,Clothing,8,191.26,2022-11-28,8.07,Debit Card,Chicago,Shipped,2.2
+216703,Mr. Mike Davis,Books,7,245.14,2021-03-31,12.12,Credit Card,New York,Pending,2.2
+278890,Joel Lang,Clothing,8,157.26,2023-01-19,6.38,Cash,Chicago,Delivered,3.3
+854369,Charlotte Harris,Furniture,8,382.01,2021-06-01,12.34,Credit Card,Los Angeles,Cancelled,3.5
+619633,Jeffrey Rogers,Electronics,6,119.68,2023-11-28,3.56,Credit Card,Houston,Cancelled,1.1
+162654,Kayla Powell,Electronics,9,371.06,2021-03-02,16.71,PayPal,Chicago,Shipped,2.3
+469685,Deborah Kelly,Clothing,1,102.29,2022-04-10,10.55,PayPal,Phoenix,Delivered,1.3
+573985,Eric Mccullough,Books,6,302.02,2021-05-22,6.47,Cash,Los Angeles,Pending,3.7
+309827,Michael Hill,Clothing,1,38.51,2023-02-08,13.22,Credit Card,Los Angeles,Cancelled,2.5
+667061,Ricky Fuller,Electronics,7,437.73,2022-11-07,13.64,Debit Card,Phoenix,Delivered,1.1
+718062,Daniel Mcintyre,Electronics,6,91.45,2023-07-21,7.11,Bank Transfer,Phoenix,Pending,4.7
+655120,James Williams,Furniture,5,472.9,2021-05-14,12.91,PayPal,Chicago,Shipped,3.9
+779160,Daniel Marks,Electronics,8,327.11,2023-09-02,1.64,Credit Card,Los Angeles,Shipped,4.2
+539768,Vanessa Strong,Electronics,1,83.5,2022-06-27,15.6,Debit Card,Houston,Delivered,2.1
+315726,Leslie Hester,Electronics,7,265.37,2023-12-21,6.82,Bank Transfer,New York,Delivered,4.2
+168631,Daniel Weaver MD,Clothing,9,407.37,2022-09-18,16.39,Credit Card,Phoenix,Cancelled,1.7
+399432,Samuel Chavez,Books,8,17.26,2021-10-12,2.89,Debit Card,Los Angeles,Shipped,3.6
+455265,Ariana Mayo,Clothing,3,194.57,2023-04-29,7.94,PayPal,Chicago,Shipped,3.7
+248269,Jonathon Jacobson,Groceries,7,300.59,2023-03-09,15.84,Debit Card,New York,Shipped,1.3
+620378,Victoria Lopez,Furniture,1,301.87,2023-06-07,14.61,Bank Transfer,Phoenix,Shipped,2.8
+382938,Abigail Adams,Electronics,4,255.61,2023-07-12,8.8,Debit Card,Chicago,Delivered,4.1
+606405,Jesus Patrick,Groceries,9,125.26,2023-12-22,1.23,Debit Card,Los Angeles,Pending,1.6
+474037,Gregory Fox,Furniture,8,106.85,2021-06-21,2.9,PayPal,Los Angeles,Cancelled,2.5
+834930,Anthony Rodriguez,Electronics,1,8.7,2023-10-31,1.19,Cash,Houston,Shipped,3.9
+549828,Alicia Tanner,Clothing,2,484.14,2021-10-31,7.14,Cash,Chicago,Shipped,3.6
+116496,Henry Cunningham,Furniture,2,469.8,2023-05-13,6.94,Credit Card,Houston,Delivered,2.0
+280811,Richard Day,Furniture,3,416.09,2021-08-05,19.27,PayPal,Houston,Pending,3.5
+883689,Brandon Ramos,Electronics,9,168.52,2022-01-31,15.12,Cash,Los Angeles,Delivered,1.6
+864487,Jeffery Arnold,Clothing,3,8.69,2022-08-21,11.6,Bank Transfer,Houston,Cancelled,2.3
+944936,Joseph Jenkins,Furniture,5,143.31,2022-08-05,2.56,Credit Card,Los Angeles,Pending,4.0
+473526,Lori Thompson,Electronics,6,133.58,2022-08-17,11.39,PayPal,Chicago,Delivered,2.6
+686214,Katie Wheeler,Electronics,2,288.92,2023-07-28,2.19,Debit Card,Phoenix,Shipped,3.8
+470657,Anthony Gardner,Furniture,7,371.39,2022-12-30,18.26,Cash,New York,Pending,3.0
+414315,Cassandra Winters,Electronics,8,250.58,2023-03-08,9.53,Credit Card,Los Angeles,Cancelled,3.5
+270335,Denise Butler,Groceries,3,313.83,2021-03-15,12.85,Credit Card,Houston,Pending,3.3
+871042,Tiffany Martinez,Clothing,6,72.79,2023-10-31,12.83,Debit Card,New York,Shipped,4.0
+995555,Margaret Hale,Clothing,4,156.22,2022-08-22,7.74,Bank Transfer,Chicago,Delivered,3.3
+506850,Gerald Brooks,Groceries,7,103.03,2023-07-28,12.95,Credit Card,Los Angeles,Cancelled,4.9
+361896,William Ayala,Furniture,1,16.92,2021-08-13,18.21,Cash,Chicago,Cancelled,3.0
+116869,Chad Hall,Furniture,2,445.86,2022-03-31,19.97,Cash,Houston,Pending,2.3
+603220,Kelly Price,Furniture,1,51.88,2023-03-19,11.15,PayPal,Los Angeles,Cancelled,3.9
+774112,Hannah Rodriguez,Groceries,9,454.1,2022-02-08,14.92,Bank Transfer,Phoenix,Pending,2.1
+287207,Elizabeth Henry,Electronics,3,395.77,2021-02-28,4.2,PayPal,New York,Cancelled,4.2
+168187,Dennis Wilkerson,Clothing,7,493.08,2021-01-02,2.08,Credit Card,New York,Pending,1.7
+902144,Sara Walsh,Groceries,7,178.22,2023-03-11,3.61,Debit Card,Phoenix,Pending,2.4
+718241,Stephanie Foley,Furniture,5,270.53,2023-10-16,10.66,Cash,Houston,Pending,3.8
+270204,Joseph Eaton,Electronics,4,366.48,2021-11-16,13.9,Bank Transfer,Los Angeles,Shipped,4.4
+719894,Todd Hansen,Groceries,2,86.54,2022-01-09,8.72,Bank Transfer,Los Angeles,Cancelled,1.9
+454970,Richard Spencer,Furniture,3,214.25,2022-02-26,14.38,PayPal,Los Angeles,Shipped,4.6
+764729,Michelle Jones,Furniture,5,112.36,2022-12-23,1.38,Credit Card,Houston,Shipped,3.8
+302714,Tracy Clark,Groceries,7,342.05,2023-02-01,14.08,Cash,Chicago,Delivered,3.4
+279827,George Freeman,Groceries,5,343.24,2022-06-06,7.64,Bank Transfer,New York,Delivered,3.6
+328631,Robert Mann,Books,2,381.33,2023-07-17,19.53,PayPal,Los Angeles,Delivered,2.6
+366407,Christopher Diaz,Clothing,6,198.9,2021-12-09,15.06,Cash,New York,Pending,2.5
+418408,Lisa Walsh,Clothing,4,392.52,2021-11-04,17.97,Bank Transfer,Los Angeles,Cancelled,2.7
+261190,Thomas Harris,Furniture,2,447.92,2022-10-30,12.04,Bank Transfer,Los Angeles,Pending,2.6
+445755,Amanda Peters,Clothing,7,341.02,2022-04-30,5.99,Credit Card,Los Angeles,Shipped,2.6
+986956,Pamela Nielsen,Books,8,181.86,2021-01-11,10.86,Debit Card,Phoenix,Shipped,2.4
+705430,Corey Rodriguez,Groceries,5,258.37,2022-11-04,5.28,Credit Card,Houston,Shipped,1.8
+237405,David Hernandez,Groceries,2,212.77,2023-08-04,7.9,Bank Transfer,Chicago,Shipped,1.8
+681967,Blake Moreno,Furniture,8,292.82,2023-09-12,17.21,Cash,Houston,Pending,1.7
+531288,Robert Peterson,Clothing,4,217.49,2022-07-08,9.35,Cash,Phoenix,Cancelled,4.9
+583241,Leslie Murray,Clothing,3,392.96,2023-10-01,6.53,Cash,Chicago,Shipped,2.7
+610797,Heather Smith,Electronics,2,62.75,2021-10-21,14.3,Debit Card,Phoenix,Shipped,4.9
+413105,Shelby Christensen,Books,2,285.45,2022-05-21,13.6,PayPal,Phoenix,Shipped,3.3
+200298,Nicole Blackwell,Clothing,9,241.6,2022-01-18,8.53,Debit Card,Houston,Delivered,1.8
+322504,Elaine Cook,Furniture,6,497.78,2021-12-17,13.51,Bank Transfer,Phoenix,Pending,2.6
+909309,Michael Lewis,Groceries,6,28.98,2023-10-31,6.72,Bank Transfer,Los Angeles,Pending,4.7
+698091,Cynthia Clark,Furniture,5,19.53,2022-11-20,1.63,Cash,Houston,Pending,1.8
+191284,Mary Palmer,Groceries,9,115.59,2022-09-09,1.94,Debit Card,Houston,Pending,4.4
+415673,Ashley Ramos MD,Clothing,6,315.72,2023-12-09,8.52,Debit Card,Los Angeles,Delivered,1.5
+609470,Sarah Whitaker,Electronics,8,273.98,2022-02-08,13.55,Cash,Los Angeles,Pending,1.9
+783079,Kenneth Taylor,Clothing,6,81.89,2023-06-04,12.44,Cash,Chicago,Shipped,4.5
+693661,Rebecca Smith,Groceries,8,442.98,2022-12-12,13.36,Debit Card,New York,Pending,4.4
+771079,Norma Jones,Clothing,1,460.2,2023-07-06,5.42,Bank Transfer,New York,Pending,3.0
+627888,Christopher Mahoney,Electronics,3,481.5,2023-08-07,10.95,Cash,Los Angeles,Pending,1.5
+276593,David Diaz,Furniture,2,198.28,2021-05-16,6.2,Debit Card,Phoenix,Delivered,4.5
+485289,Christy Thomas,Furniture,5,457.25,2022-05-11,12.29,Credit Card,New York,Delivered,4.6
+736756,Charles Thompson,Groceries,3,217.55,2021-04-30,18.74,Bank Transfer,Houston,Pending,4.8
+306781,Christopher Smith,Groceries,9,209.11,2021-12-26,2.18,Cash,Houston,Delivered,4.9
+773494,Melinda Jones,Electronics,1,443.89,2022-04-27,7.81,PayPal,New York,Pending,1.8
+495441,Donald Johnston,Furniture,2,274.95,2021-07-31,3.03,Credit Card,Houston,Delivered,1.8
+299551,Melissa Castro,Books,3,153.22,2021-01-08,19.96,Cash,Houston,Shipped,2.2
+105965,Sabrina Jefferson,Electronics,4,356.78,2022-02-23,17.27,Debit Card,Houston,Shipped,3.9
+604369,Michael Brewer,Furniture,2,347.87,2022-03-18,15.4,Debit Card,Houston,Delivered,1.4
+975466,Brittany Davis,Books,3,102.85,2021-06-20,7.7,Debit Card,Phoenix,Cancelled,4.9
+502701,Diane Snow,Electronics,1,54.69,2023-11-23,12.56,Bank Transfer,Chicago,Pending,3.9
+654678,Candace Parker,Groceries,5,262.67,2023-06-27,4.23,Credit Card,Los Angeles,Shipped,3.5
+621094,David Alexander,Groceries,1,384.68,2022-06-18,9.96,Bank Transfer,Los Angeles,Delivered,3.0
+414088,Benjamin Brown,Groceries,5,14.8,2021-05-17,15.0,Credit Card,Los Angeles,Delivered,1.7
+104719,Brian Fletcher,Books,7,204.99,2023-09-21,0.86,Cash,New York,Cancelled,4.5
+870699,Monica Clark DDS,Clothing,2,413.69,2022-07-18,3.78,Cash,Los Angeles,Cancelled,3.7
+112194,Judy Cole,Groceries,5,35.02,2022-08-14,13.15,Bank Transfer,Los Angeles,Pending,4.3
+829560,Mary Rodriguez,Groceries,2,144.09,2023-02-27,1.88,Bank Transfer,Los Angeles,Cancelled,4.1
+696034,Michael Garcia,Clothing,4,275.13,2023-05-20,4.05,PayPal,Houston,Shipped,3.0
+576316,Robert Nelson,Furniture,3,326.59,2022-01-23,2.75,PayPal,Chicago,Cancelled,2.9
+391206,Katherine White,Electronics,5,428.02,2023-06-07,10.17,Cash,Houston,Delivered,3.5
+161668,Julie Gordon,Clothing,7,13.97,2022-12-26,15.7,Debit Card,Chicago,Pending,4.0
+120071,Tammy Smith,Furniture,5,210.48,2023-01-24,6.26,PayPal,Phoenix,Delivered,1.4
+509830,James Preston,Clothing,8,405.97,2021-04-02,5.38,PayPal,Houston,Shipped,1.5
+498284,Jeff Tyler,Furniture,8,296.12,2023-01-10,8.69,Bank Transfer,Los Angeles,Cancelled,4.6
+164918,Renee Bennett,Furniture,2,99.95,2021-07-02,4.27,Cash,New York,Shipped,3.8
+379561,Jack Day,Books,4,471.88,2023-04-27,7.7,Credit Card,New York,Shipped,4.5
+516742,Joshua Price,Clothing,1,138.45,2021-03-30,7.38,Cash,Los Angeles,Shipped,1.0
+893787,Lucas Walker,Furniture,2,110.5,2022-02-05,7.01,Cash,Los Angeles,Cancelled,1.7
+229554,Kristi Cobb,Groceries,2,60.85,2022-06-10,7.18,Bank Transfer,Houston,Cancelled,4.6
+649955,Barbara Jones,Groceries,1,215.9,2023-03-25,16.51,Debit Card,Los Angeles,Cancelled,2.5
+139792,Patricia Wallace,Clothing,6,40.99,2023-08-28,1.69,Credit Card,Houston,Cancelled,1.4
+501843,Steven Brown,Furniture,7,118.01,2023-01-31,10.54,Bank Transfer,Los Angeles,Pending,4.7
+139369,Leah Stephens,Books,9,144.84,2021-01-05,5.91,Cash,Houston,Cancelled,3.6
+545653,James Mercer,Groceries,5,20.7,2022-05-20,3.6,Debit Card,Los Angeles,Shipped,2.8
+779656,David Gray,Furniture,4,232.65,2022-03-24,19.39,Debit Card,New York,Shipped,2.4
+562153,April Gomez,Furniture,9,419.87,2022-06-05,11.98,Debit Card,New York,Delivered,1.3
+375954,Christopher Sanders,Furniture,7,419.04,2022-02-16,5.58,Debit Card,Los Angeles,Shipped,4.9
+799356,Mr. Steven Snyder,Clothing,7,220.32,2022-01-27,8.07,Debit Card,Los Angeles,Delivered,3.8
+841384,Russell Dixon,Books,4,203.03,2021-12-28,10.05,Bank Transfer,Los Angeles,Pending,4.2
+414892,Sabrina Nichols,Furniture,2,402.85,2023-02-14,0.25,PayPal,Phoenix,Pending,3.8
+955730,Julie Myers,Furniture,5,308.28,2022-05-02,9.9,PayPal,Chicago,Pending,3.2
+897800,Mrs. Tina Barnes MD,Furniture,1,499.61,2022-02-11,18.45,Debit Card,Los Angeles,Shipped,2.8
+654946,Antonio Lee,Books,1,15.97,2023-08-02,0.68,Cash,New York,Pending,4.3
+219857,Erica Schultz,Furniture,4,440.71,2023-05-01,10.22,Cash,Phoenix,Shipped,4.3
+554566,John Johnson,Books,8,469.81,2023-09-29,8.41,Cash,Los Angeles,Cancelled,2.5
+944338,Thomas Ramos,Groceries,8,112.15,2021-08-29,19.75,Bank Transfer,Chicago,Cancelled,1.3
+126650,Mark Smith,Groceries,4,264.41,2023-05-29,7.56,Debit Card,Houston,Pending,1.4
+921400,Mark Moore,Groceries,1,57.47,2022-10-21,12.9,Bank Transfer,New York,Cancelled,3.4
+190497,John Martin,Books,5,185.95,2022-12-30,1.48,PayPal,Chicago,Shipped,2.6
+644780,Jessica Russell,Groceries,9,19.06,2021-12-31,15.86,Bank Transfer,Chicago,Cancelled,1.4
+632975,Vincent Miller,Books,9,158.43,2021-10-03,9.38,PayPal,Chicago,Delivered,3.0
+207249,Lori Gibson,Electronics,7,114.07,2023-10-01,17.43,Debit Card,Houston,Shipped,4.6
+200347,Carolyn Hunter,Groceries,5,229.17,2022-07-16,12.25,Cash,Phoenix,Shipped,1.5
+779147,Kristine Lopez,Groceries,1,42.89,2021-03-22,17.5,PayPal,Chicago,Cancelled,3.9
+671770,James White,Furniture,5,380.9,2021-03-15,19.41,Debit Card,Los Angeles,Pending,4.5
+489687,Alyssa Harvey,Furniture,9,35.48,2023-12-25,13.33,Cash,Chicago,Pending,1.9
+507311,Anna Larson,Groceries,8,471.46,2022-06-15,16.37,Bank Transfer,Phoenix,Cancelled,3.3
+775677,Ricky Martin,Groceries,1,252.69,2021-11-26,13.69,Debit Card,New York,Pending,4.1
+962168,Danielle Rodriguez,Clothing,4,397.99,2021-04-09,7.32,Cash,Los Angeles,Shipped,1.6
+928921,Courtney Williams,Electronics,7,277.35,2022-09-10,16.83,Cash,Phoenix,Shipped,1.0
+807459,Kevin Bryant,Books,5,238.07,2021-02-08,1.09,Bank Transfer,Chicago,Shipped,2.0
+424228,Kevin Foster,Groceries,1,310.9,2021-12-26,13.08,Bank Transfer,Los Angeles,Pending,2.0
+529051,Angelica Kim,Electronics,5,72.74,2023-11-15,18.51,Credit Card,Chicago,Pending,3.1
+846064,Alicia Shaw,Books,3,179.84,2021-03-09,3.52,Bank Transfer,Los Angeles,Shipped,2.9
+112371,Michael Lambert,Furniture,5,264.13,2022-05-21,5.29,Debit Card,Chicago,Pending,4.7
+309490,Cindy Stone,Groceries,6,393.18,2022-08-02,14.28,Bank Transfer,New York,Delivered,2.0
+450002,Brandon Miranda,Electronics,2,420.79,2021-03-02,12.67,Cash,Houston,Pending,3.5
+747191,Tiffany Edwards,Clothing,4,203.33,2023-12-16,8.88,Bank Transfer,Los Angeles,Shipped,5.0
+547273,Anna Hill,Clothing,4,261.24,2021-01-04,6.29,PayPal,Los Angeles,Cancelled,4.3
+918482,Jessica Reynolds,Clothing,9,125.76,2023-09-08,12.95,Credit Card,Los Angeles,Shipped,2.0
+360225,Rebecca Myers,Electronics,2,398.16,2022-07-11,1.89,Debit Card,Houston,Shipped,3.3
+474800,Wendy Hansen,Books,1,420.26,2022-10-27,19.52,Cash,Chicago,Shipped,1.5
+977576,Sandra Ramsey,Groceries,1,98.96,2021-12-05,0.54,Credit Card,Phoenix,Shipped,1.0
+369316,Patricia Campbell,Groceries,1,484.14,2023-12-27,14.78,Debit Card,Los Angeles,Delivered,4.1
+583970,Tina Butler,Clothing,9,250.4,2021-03-30,0.32,PayPal,New York,Pending,1.6
+955914,Cole King,Electronics,3,372.39,2023-09-07,18.63,Debit Card,Los Angeles,Shipped,1.3
+350710,Lauren Clark,Clothing,1,284.02,2022-04-12,6.68,Bank Transfer,Houston,Pending,3.4
+715453,Brandon Greene,Groceries,4,434.13,2022-04-05,5.44,Debit Card,Los Angeles,Shipped,1.7
+642452,Mr. Robert Porter MD,Books,3,232.76,2021-09-27,2.93,Cash,Los Angeles,Pending,4.7
+343108,Kevin May,Books,9,385.03,2022-03-08,6.85,PayPal,Phoenix,Pending,3.0
+568679,John Crawford,Furniture,7,148.87,2023-02-24,1.12,Cash,Chicago,Pending,2.4
+779334,Neil Jenkins,Books,7,415.0,2023-01-10,13.89,PayPal,Phoenix,Shipped,3.5
+986912,Andrew Clark,Electronics,8,413.16,2023-02-02,8.77,Credit Card,Phoenix,Delivered,2.5
+620060,William Jacobs,Groceries,3,185.51,2023-09-01,5.9,Bank Transfer,Chicago,Delivered,1.5
+123648,Matthew King,Furniture,3,387.75,2021-09-13,1.09,Bank Transfer,Houston,Pending,1.3
+655589,Dr. Eric Hernandez,Books,8,347.44,2021-05-16,6.61,Cash,Los Angeles,Delivered,3.2
+765121,Kathleen Smith,Clothing,5,356.2,2023-09-25,3.32,Cash,Chicago,Delivered,1.8
+266166,Nichole Saunders,Groceries,4,40.77,2023-05-21,14.54,Debit Card,Phoenix,Cancelled,1.4
+392791,Leslie Taylor,Electronics,2,101.15,2022-10-23,11.56,Credit Card,Houston,Pending,1.8
+949553,Joseph Ortega,Electronics,1,343.57,2021-11-03,5.17,Credit Card,Houston,Shipped,4.7
+926415,Charles Le,Electronics,3,137.6,2021-04-16,0.55,Bank Transfer,Chicago,Shipped,4.8
+469184,David Clark,Groceries,5,90.32,2022-03-11,7.09,Credit Card,New York,Delivered,3.9
+529638,Daniel Gonzalez,Electronics,6,339.68,2021-02-02,3.77,Cash,Phoenix,Shipped,3.1
+268499,Sheri Donovan,Clothing,4,66.16,2023-03-18,5.68,Credit Card,Phoenix,Shipped,1.1
+384799,Jason Ford,Electronics,3,168.42,2022-11-19,8.0,Bank Transfer,Chicago,Cancelled,2.7
+421616,Kristen Morales,Electronics,8,240.4,2021-06-24,15.61,Cash,Chicago,Shipped,2.9
+761210,Glenn Marquez,Furniture,5,292.95,2022-11-03,13.08,Credit Card,Chicago,Delivered,2.6
+530683,Erik Davis,Books,9,392.07,2023-02-21,6.13,Bank Transfer,Houston,Delivered,2.0
